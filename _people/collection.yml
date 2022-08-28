@@ -1,4 +1,5 @@
 collections:
   people:
     output: true
-    order: []
+    order:
+      - Patron & School Advisory Committee.md
