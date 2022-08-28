@@ -3,7 +3,7 @@ title: The Brooksian Crest
 permalink: /about-us/the-brooksian-crest/permalink
 description: ""
 ---
-
+![](/images/northbrookslogo%20Small.jpeg)
 
 Just as WATER
 -------------
