@@ -2,4 +2,5 @@ collections:
   people:
     output: true
     order:
+      - Key External Partners.md
       - Patron & School Advisory Committee.md
