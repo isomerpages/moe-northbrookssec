@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - Tour @ Northbrooks.md
-      - School Facilities.md
-      - Brooksian Cheer.md
-      - Brooksian Anthem.md
-      - Brooksian Code of Conduct.md
-      - The Brooksian Crest.md
-      - Vision, Mission & Values.md
-      - Strategic Thrusts & Outcomes.md
-      - Principal's Message.md
       - About us.md
+      - Principal's Message.md
+      - Strategic Thrusts & Outcomes.md
+      - Vision, Mission & Values.md
+      - The Brooksian Crest.md
+      - Brooksian Code of Conduct.md
+      - Brooksian Anthem.md
+      - Brooksian Cheer.md
+      - School Facilities.md
+      - Tour @ Northbrooks.md
