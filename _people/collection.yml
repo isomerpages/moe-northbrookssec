@@ -2,9 +2,9 @@ collections:
   people:
     output: true
     order:
-      - PSG/Essential Parenting.md
-      - PSG/Parent Support Group (PSG).md
       - PSG/.keep
+      - PSG/Parent Support Group (PSG).md
+      - PSG/Essential Parenting.md
       - Staff List 2022.md
       - Key External Partners.md
       - Patron & School Advisory Committee.md
