@@ -2,6 +2,7 @@ collections:
   people:
     output: true
     order:
+      - Staff List 2022.md
       - Parent Support Group (PSG).md
       - Key External Partners.md
       - Patron & School Advisory Committee.md
