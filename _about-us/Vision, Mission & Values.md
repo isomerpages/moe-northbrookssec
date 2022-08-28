@@ -3,6 +3,9 @@ title: Vision, Mission & Values
 permalink: /about-us/vision-mission-and-values/permalink
 description: ""
 ---
+Vision, Mission & Values
+========================
+
 The Brooksian Vision
 --------------------
 
