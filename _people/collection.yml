@@ -2,6 +2,7 @@ collections:
   people:
     output: true
     order:
+      - PSG/Essential Parenting.md
       - PSG/Parent Support Group (PSG).md
       - PSG/.keep
       - Staff List 2022.md
