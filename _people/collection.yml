@@ -2,7 +2,6 @@ collections:
   people:
     output: true
     order:
-      - Faces of Northbrooks.md
       - Patron & School Advisory Committee.md
       - Key External Partners.md
       - PSG/.keep
