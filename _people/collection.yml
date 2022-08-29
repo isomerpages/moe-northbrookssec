@@ -2,7 +2,6 @@ collections:
   people:
     output: true
     order:
-      - Alumni.md
       - Patron & School Advisory Committee.md
       - Key External Partners.md
       - PSG/.keep
@@ -15,3 +14,4 @@ collections:
       - Our stories/Faces of Northbrooks.md
       - Our stories/Good Stories.md
       - Parents.md
+      - Alumni.md
