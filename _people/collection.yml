@@ -2,8 +2,8 @@ collections:
   people:
     output: true
     order:
-      - Hi/Our Stories.md
-      - Hi/.keep
+      - Our stories/Our Stories.md
+      - Our stories/.keep
       - Patron & School Advisory Committee.md
       - Key External Partners.md
       - PSG/.keep
