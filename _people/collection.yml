@@ -2,7 +2,6 @@ collections:
   people:
     output: true
     order:
-      - Our Stories.md
       - Patron & School Advisory Committee.md
       - Key External Partners.md
       - PSG/.keep
@@ -11,3 +10,4 @@ collections:
       - Staff List 2022.md
       - Staff CSR.md
       - Staff Masterpiece.md
+      - Our Stories.md
