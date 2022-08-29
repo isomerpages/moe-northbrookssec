@@ -2,7 +2,6 @@ collections:
   people:
     output: true
     order:
-      - Staff Masterpiece.md
       - Patron & School Advisory Committee.md
       - Key External Partners.md
       - PSG/.keep
@@ -10,3 +9,4 @@ collections:
       - PSG/Essential Parenting.md
       - Staff List 2022.md
       - Staff CSR.md
+      - Staff Masterpiece.md
