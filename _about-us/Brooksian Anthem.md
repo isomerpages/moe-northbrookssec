@@ -1,6 +1,6 @@
 ---
 title: Brooksian Anthem
-permalink: /about-us/brooksian-anthem/permalink
+permalink: /about-us/brooksian-anthem/permalink/
 description: ""
 ---
 Brooksian Anthem
@@ -34,3 +34,6 @@ Stand tall
 Discover who we are and more  
 Making champions of us all  
 Making champions of us all!
+
+###### Music composed by Miss Chan Young Young  
+Lyrics by Miss Wendy Tan Swee Tee
