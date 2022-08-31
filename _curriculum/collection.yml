@@ -2,9 +2,9 @@ collections:
   curriculum:
     output: true
     order:
-      - Craft & Technology Department/Nutrition & Food Science Unit.md
       - Craft & Technology Department/.keep
       - Craft & Technology Department/Craft & Technology Department.md
       - Craft & Technology Department/Department Teachers.md
       - Craft & Technology Department/Design & Technology Unit.md
+      - Craft & Technology Department/Nutrition & Food Science Unit.md
       - English Language Department.md
