@@ -2,6 +2,7 @@ collections:
   people:
     output: true
     order:
+      - Parents/Parents.md
       - Parents/.keep
       - Patron & School Advisory Committee.md
       - Key External Partners.md
