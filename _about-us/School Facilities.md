@@ -54,3 +54,129 @@ Officially opened on 20 October 2017, the Arts Space introduces an additional, p
   
 
 Aimed at providing a proper and common space for students to showcase artistic works, the Arts Space becomes a stepping stone for our students who are exploring their potential at performing before venturing to perform for a wider audience. The small and intimate setting is also an informal gathering space for students to interact and express their creative talents and interests after curriculum time.
+
+
+
+<figure>
+
+![](/images/artsspace1.jpeg)
+
+<figcaption> <strong> Students from the Guzheng Ensemble graced the opening of the Arts Space with soothing and mesmerising music. </strong> </figcaption>
+
+</figure>
+
+
+
+<figure>
+
+![](/images/artsspace2.jpeg)
+
+<figcaption> <strong>For Jesse Chaleff Baldevarona from 3 Teamwork, the Arts Space certainly gives him an opportunity to perform for small student audience. </strong> </figcaption>
+
+</figure>
+Situated next to the Music Room, the Arts Space is utilised by students undergoing the General Music Programme (GMP). The Space transforms into a hive of student activities during Music lessons as students rehearse their presentations and simulate real stage performances. 
+
+The Arts Space also supports the showcase of visual art works. During the Post-Examination Activity (PEA) week recently, the Space was one of the venues to host the annual Brooksian Art Exhibition entitled **_SOARTS_**. 
+
+  
+
+The Arts Space certainly sees itself as one of the arenas in developing and grooming potentials in the arts.
+
+### Attic
+
+
+<figure>
+
+![](/images/attic.jpg)
+
+<figcaption> <strong> An open-air classroom for art</strong> </figcaption>
+
+</figure>
+
+### Brooks
+
+
+<figure>
+
+![](/images/brooks.jpg)
+
+<figcaption> <strong> Our very own Park within the school</strong> </figcaption>
+
+</figure>
+
+### Rockwall
+
+<figure>
+
+![](/images/rockwall.jpg)
+
+<figcaption> <strong> 4-storey high rock wall used by students during PE lessons and for Enrichment </strong> </figcaption>
+
+</figure>
+
+### Running Track
+
+
+
+<figure>
+
+![](/images/track.png)
+
+<figcaption> <strong> 2 lane track around the field that provides students with synthetic running surface </strong> </figcaption>
+
+</figure>
+
+### Futsal Court
+
+
+<figure>
+
+![](/images/court.png)
+
+<figcaption> <strong> Free-to-play Futsal court </strong> </figcaption>
+
+</figure>
+
+
+
+### Vertical Green Wall
+The school's foyer is adorn with lush greenery with a beautiful **Vertical Green Wall**. This green wall is comprised of 8 different species of **sun-loving plants** with a built-in **automatic irrigation system** to water the plants timely.
+
+![](/images/verticalgreenwall.jpeg)
+
+The school's foyer is adorn with lush greenery with a beautiful **Vertical Green Wall**. This green wall is comprised of 8 different species of **sun-loving plants** with a built-in **automatic irrigation system** to water the plants timely.
+
+
+
+The following information is provided by Nparks and summaries the environmental, economic, social and aesthetic benefits of a Vertical Greenery.
+
+**Environmental**
+
+*   Vertical greenery can alleviate heat islands by shading heat-absorbing surfaces.
+*   It improves air quality by absorbing airborne particles.
+*   It also enhances biodiversity in the city by providing additional natural habitats.
+
+  
+
+**Economic**
+
+*   Vertical greenery optimises space that would otherwise have remained unused.  
+    It also serves as insulation, cooling the building and leading to savings on air conditioning cost.
+
+  
+
+**Social**
+
+*   Vertical greenery promotes a sense of ownership and fosters community interaction.
+
+  
+
+**Aesthetic**
+
+*   Vertical greenery enhances the aesthetic appeal of a building and helps to soften the artificial urban landscape and provide visual relief from the concretised environment.
+
+
+
+
+
+
