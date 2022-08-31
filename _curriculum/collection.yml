@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Humanities Department/.keep
-      - Humanities Department.md
       - English Language Department/.keep
       - English Language Department/English Language Department.md
       - English Language Department/Department Teachers.md
