@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - English Language Department/Department Teachers.md
       - English Language Department/English Language Department.md
       - English Language Department/.keep
       - Craft & Technology Department/.keep
