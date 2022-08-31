@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Humanities Department/Experiential Learning.md
       - Humanities Department/Humanities Department.md
       - Humanities Department/.keep
       - English Language Department/.keep
