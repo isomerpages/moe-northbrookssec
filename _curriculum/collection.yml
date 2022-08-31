@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Craft & Technology Department/Useful Links.md
       - Craft & Technology Department/.keep
       - Craft & Technology Department/Craft & Technology Department.md
       - Craft & Technology Department/Department Teachers.md
