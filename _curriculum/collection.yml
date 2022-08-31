@@ -2,14 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Humanities Department/Experiential Learning.md
-      - Humanities Department/Humanities Department.md
-      - Humanities Department/.keep
-      - English Language Department/.keep
-      - English Language Department/English Language Department.md
-      - English Language Department/Department Teachers.md
-      - English Language Department/English Literature Department.md
-      - English Language Department/EL & Lit Enrichment Programmes.md
       - Craft & Technology Department/.keep
       - Craft & Technology Department/Craft & Technology Department.md
       - Craft & Technology Department/Department Teachers.md
@@ -17,3 +9,11 @@ collections:
       - Craft & Technology Department/Nutrition & Food Science Unit.md
       - Craft & Technology Department/Visual Arts Unit.md
       - Craft & Technology Department/Music Unit.md
+      - Humanities Department/.keep
+      - Humanities Department/Experiential Learning.md
+      - Humanities Department/Humanities Department.md
+      - English Language Department/.keep
+      - English Language Department/English Language Department.md
+      - English Language Department/Department Teachers.md
+      - English Language Department/English Literature Department.md
+      - English Language Department/EL & Lit Enrichment Programmes.md
