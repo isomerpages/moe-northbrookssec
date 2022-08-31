@@ -20,9 +20,10 @@ In their post-GI reflection, students reflected that the experience has taught t
 
 
 
+
 <figure>
 
-![](/images/experimentallearning1.jpg)
+![](/images/ExperiementalLearning1.png)
 
 <figcaption> <strong> Approaching residents to complete their survey form</strong> </figcaption>
 
@@ -34,9 +35,13 @@ In their post-GI reflection, students reflected that the experience has taught t
 
 ![](/images/experimentallearning2.jpg)
 
-<figcaption> <strong> Interviewing residents at Tiong Bahru Market</strong> </figcaption>
+<figcaption> <strong> Interviewing residents at Tiong Bahru Market </strong> </figcaption>
 
 </figure>
+
+
+
+
 
 ### Sec 1 and 2 NT Learning Journey to Battlebox
 ----------------------------------------
@@ -48,4 +53,3 @@ The Secondary 1 and 2 (Normal Technical) students visited the Battle Box at Fort
 The underground bunker setting provided an authentic learning experience for students as they journeyed through the corridors of a key installation during Singapore's darkest period in history. During the tour, students were captivated by the interesting stories and also came up close and personal with historical artefacts.  
   
 The experience was both immersive and enriching as it allowed students to develop a greater appreciation for Singapore's historical background.
-
