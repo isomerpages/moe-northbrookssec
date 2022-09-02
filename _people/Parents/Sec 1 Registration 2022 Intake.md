@@ -178,5 +178,71 @@ Please ensure that you obtain the School Approval letter before collecting your 
 
 [MOE FAS Pamphlet 2022](/files/MOE%20FAS%202022%20Pamphlets.pdf)
 
+##### Step 6: Applications for Higher Mother Tongue, Foreign / 3rd Languages and exemption in Mother Tongue Language
+
+**_(Applicable to some students)_**
+
+[Click here for more information ]()
+
+**_Higher Mother Tongue_**
+
+MOE HMTL Option Letters will be given to eligible Sec 1 students based on MOE’s eligibility criteria to offer HMTL on the first day of school when school reopens.
+
+Parents are advised to purchase MT/ HMTL textbooks on the first week of school only after receiving the eligibility letter to be offered HMTL.
+
+For students who are offering Higher Chinese Language (HCL), they will study this subject during school curriculum time.
+
+For students who are offering HCL, students are to indicate accept or reject the offer and inform their Higher Mother Tongue or Mother Tongue teacher in the first HMT or MT lesson in 2022.
+
+**_Offering Third Languages At Secondary School_**
+
+*   Parents will be informed by the school via Parents Gateway (PG) by 24 December 2021 for both successful and unsuccessful applications.
+*   Students will have to register online with the respective centres: MOE Language Centre (MOELC) or Malay/Chinese Special Programme (MSP/CSP) Zonal Centres by week 1 Term 1, 2022.
+*   For registration at MOELC, students are to confirm the acceptance of the offer and complete the online registration at: [https://www.moelc.moe.edu.sg](https://www.moelc.moe.edu.sg/)
+*   Please note that the duration of registration for MOELC will be from 23 December 2021 to 7 January 2022.
+*   For Malay / Chinese Special Programme, please check with the MSP/CSP Zonal Centres for the registration deadline.
+
+##### Step 7: Medical Appeal Exercises and Transfer Cases
+
+
+**_(Applicable to some students)_**
+
+**Transferring-out Cases: Medical Appeal Exercises**  
+
+(i) Parents to file the appeal in person at the posted school [General Office ](https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/People/Parents/Sec%201%20Registration%20(2022%20Intake)/On-site%202022.jpg) by **23 December 2021, 8.00-12.00pm**.   
+(ii) Parents who wish to submit the MAE application via email should first contact the school at tel: 67524311 by **23 December 2021, 10.00am** for further advice.  
+(iii) Release of Medical Appeal Exercise Results is tentatively on 31 December 2021.  
+(iv) All appeals must be accompanied by relevant supporting documents, such as medical reports, letters from doctors.  
+(v) The staff at your child’s posted secondary school will help you to file your appeal. The appeal results will be released in early January.  
+(vi) If you intend to appeal for a transfer, your child must still report to their posted school on the first day of school in January. Refer to the posted school’s website for information on reporting details.
+
+
+**Transferring-in Cases:**
+
+For parents/guardians who would like to transfer your child to Northbrooks Secondary School, please click [here](https://form.gov.sg/#!/error/404) to complete the form.
+The deadline for the submission of appeals is on **28 December 2021, 12.00pm**. Late submission will not be allowed.
+
+  
+**What happens after I apply?**
+
+All applicants will be put on the waiting list. The school’s decision will be made after the vacancies are ascertained following the release of the Secondary 1 posting results and deadline for online appeal application is over. 
+
+Pending the outcome of appeal, all applicants are required to report to the school that they are posted to by the Ministry of Education on Secondary 1 Registration Day.
+
+**When will I know the outcome of my application?**
+
+Successful applicants will be informed after 31 December. The decision of the school’s Admissions Committee is final and the school will not enter into discussion with the applicants regarding its decision
+
+
+**Transferring-out Cases due to non-medical reasons:**  
+If you are seeking a transfer due to other reasons, you may check the preferred school’s website for more information. Your child’s PSLE score should meet the school’s cut-off point for that year. Transfers will be subject to available vacancies and meeting the school’s admission criteria.
+
+##### Step 8: Art & Music Elective Programmes (AEP/MEP) Matters
+
+
+![](/images/AEP_MEP.jpeg)
+
+Click [here](/files/AEP_MEP.pdf) for more information
+
 
 
