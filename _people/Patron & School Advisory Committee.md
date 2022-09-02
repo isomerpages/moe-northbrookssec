@@ -1,15 +1,17 @@
 ---
 title: Patron & School Advisory Committee
-permalink: /people/patron-and-school-advisory-committee/permalink
+permalink: /people/patron-and-school-advisory-committee/permalink/
 description: ""
 ---
-Patron
-------
+Patron & School Advisory Committee
+==================================
+### Patron
+
 
 
 <figure>
 
-![](/images/Chandroo.jpeg)
+![](/images/chandro.png)
 
 <figcaption> <strong> Dr. T. Chandroo </strong> </figcaption>
 
@@ -89,4 +91,3 @@ Patron
 <figcaption> <strong> Mr Mohamad Saddiq Bin Mohamad Sa’id </strong> </figcaption>
 
 </figure>
-
