@@ -62,13 +62,13 @@ When asked if she has any words of advice for Brooksians, she says: “My dear s
 
 ### Melvin Ang (ALUMNUS 2004)
 
-<figure>
+
 
 ![](/images/Melvin.png)
+**By Ngeow Wei Qi, Nuh B Muhamad, Niki Sonia Noushin Saleh & Seth Neo (Sec 4G, 2019)**
 
-<figcaption> <strong> By Ngeow Wei Qi, Nuh B Muhamad, Niki Sonia Noushin Saleh & Seth Neo (Sec 4G, 2019) </strong> </figcaption>
 
-</figure>
+
 
 At one of the lowest points in his life, businessman and former Brooksian Melvin Ang found himself at home, staring at his room’s ceiling, not knowing what to do with his life. It was 2006 and the then 18-year-old had just dropped out of Ngee Ann Polytechnic (NP).  
   
