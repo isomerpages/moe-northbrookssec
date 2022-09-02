@@ -109,6 +109,12 @@ Some sec 1 NA and NT students will be eligible to take more demanding subjects t
 
 **Booklists:**
 
+[Sec 1 EXP booklist](/files/Sec%201%20EXP.pdf)
+
+[Sec 1 NA booklist ](/files/Sec%201%20NA.pdf)
+
+[Sec 1 NT booklist ](/files/Sec%201%20NT.pdf)
+
 **Bookshop contact number:** 67540201
 
 ###### In-school sale of uniform
@@ -149,4 +155,24 @@ Some sec 1 NA and NT students will be eligible to take more demanding subjects t
 </table>
 Sec 1 students are allowed to wear their primary school uniform if their new uniforms are not ready during this transition period.
 
-##### Step 4: Health Promotion Board (HPB) Digital Letter 
+##### Step 4: Health Promotion Board (HPB) Digital Letter
+The [digital letter ](/files/digital%20letter.pdf) contains information of upcoming HPB’s health, immunisation and dental screening services. Parents/guardians will access the [Child Consent Portal ](https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal) via the letter to provide consent and update their child/ward’s medical information accordingly.
+
+##### Step 5:  MOE Financial Assistance Scheme (FAS)
+*(Optional)*
+
+Parents/Guardians applying for MOE Financial Assistance Scheme (FAS) must come down to school in person on 23 December 2021, 8.00am-12.00pm with all the original & required supporting documents.  
+
+Please refer to the [MOE FAS Application Form](/files/MOE%20FAS%202022%20Application%20Forms.pdf)
+
+Two types of FAS application:
+
+*   **Already Approved MOE FAS for 2021 with Approval Letter from Primary School** \- Please exchange your letter at
+
+
+
+
+
+
+
+
