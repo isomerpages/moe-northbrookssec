@@ -15,7 +15,7 @@ To explore the Northbrooks Digital Green Wall, please go to [here.](https://nbrs
 
 <figure>
 
-![](/images/facilities1.jpg)
+![](/images/opus.png)
 
 <figcaption> <strong> Showcase of students’ stained glass artwork </strong> </figcaption>
 
@@ -174,9 +174,3 @@ The following information is provided by Nparks and summaries the environmental,
 **Aesthetic**
 
 *   Vertical greenery enhances the aesthetic appeal of a building and helps to soften the artificial urban landscape and provide visual relief from the concretised environment.
-
-
-
-
-
-
