@@ -2,9 +2,9 @@ collections:
   people:
     output: true
     order:
-      - Students/Full Home Based Learning.md
-      - Students/Students.md
       - Students/.keep
+      - Students/Students.md
+      - Students/Full Home Based Learning.md
       - Patron & School Advisory Committee.md
       - Key External Partners.md
       - PSG/.keep
