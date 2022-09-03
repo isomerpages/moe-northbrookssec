@@ -2,9 +2,9 @@ collections:
   curriculum:
     output: true
     order:
-      - IT,CPA & EBS Department/Department Teachers.md
-      - IT,CPA & EBS Department/IT,CPA & EBS Department.md
       - IT,CPA & EBS Department/.keep
+      - IT,CPA & EBS Department/IT,CPA & EBS Department.md
+      - IT,CPA & EBS Department/Department Teachers.md
       - Craft & Technology Department/.keep
       - Craft & Technology Department/Craft & Technology Department.md
       - Craft & Technology Department/Department Teachers.md
