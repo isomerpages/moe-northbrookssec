@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Mother Tongue Department.md
       - Craft & Technology Department/.keep
       - Craft & Technology Department/Craft & Technology Department.md
       - Craft & Technology Department/Department Teachers.md
@@ -28,3 +27,4 @@ collections:
       - Mathematics Department/Mathematics Department.md
       - Mathematics Department/Department Teachers.md
       - Mathematics Department/Department Pedagogy.md
+      - Mother Tongue Department.md
