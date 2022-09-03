@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Science Department/Science Department.md
       - Science Department/.keep
       - Craft & Technology Department/.keep
       - Craft & Technology Department/Craft & Technology Department.md
