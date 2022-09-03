@@ -2,9 +2,9 @@ collections:
   curriculum:
     output: true
     order:
-      - Science Department/Department Teachers.md
-      - Science Department/Science Department.md
       - Science Department/.keep
+      - Science Department/Science Department.md
+      - Science Department/Department Teachers.md
       - Craft & Technology Department/.keep
       - Craft & Technology Department/Craft & Technology Department.md
       - Craft & Technology Department/Department Teachers.md
