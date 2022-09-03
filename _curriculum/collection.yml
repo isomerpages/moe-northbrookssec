@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Science Department/Useful Links.md
       - Science Department/.keep
       - Science Department/Science Department.md
       - Science Department/Department Teachers.md
