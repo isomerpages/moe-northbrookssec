@@ -30,6 +30,5 @@ Our Alumni is active in the following areas: 
 
   
 
-Do visit our Official Brooksian Alumni Facebook page “[Soaring Yet Rooted](https://www.facebook.com/groups/soaringyetrooted/about/)” and Instagram page “[northbrooks\_soaringyetrooted](https://www.instagram.com/northbrooks_soaringyetrooted/?hl=en)” to keep yourself updated on the events for Alumni.
-</div></div>
-
+Do visit our Official Brooksian Alumni Facebook page "[Soaring Yet Rooted](https://www.facebook.com/groups/soaringyetrooted/about/)" and Instagram page "[northbrooks_soaringyetrooted](https://www.instagram.com/northbrooks_soaringyetrooted/?hl=en)" to keep yourself updated on the events for Alumni.
+	</div>
