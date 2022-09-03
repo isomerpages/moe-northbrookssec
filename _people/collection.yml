@@ -2,6 +2,7 @@ collections:
   people:
     output: true
     order:
+      - Students/School Timetable.md
       - Students/.keep
       - Students/Students.md
       - Students/Full Home Based Learning.md
