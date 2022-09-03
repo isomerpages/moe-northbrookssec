@@ -2,11 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - IT,CPA & EBS Department/.keep
-      - IT,CPA & EBS Department/IT,CPA & EBS Department.md
-      - IT,CPA & EBS Department/Department Teachers.md
-      - IT,CPA & EBS Department/Elements of Business Skills.md
-      - IT,CPA & EBS Department/Computer Applications.md
       - Craft & Technology Department/.keep
       - Craft & Technology Department/Craft & Technology Department.md
       - Craft & Technology Department/Department Teachers.md
@@ -23,3 +18,8 @@ collections:
       - Humanities Department/Department Teachers.md
       - Humanities Department/Experiential Learning.md
       - Humanities Department/External Competitions.md
+      - IT,CPA & EBS Department/.keep
+      - IT,CPA & EBS Department/IT,CPA & EBS Department.md
+      - IT,CPA & EBS Department/Department Teachers.md
+      - IT,CPA & EBS Department/Elements of Business Skills.md
+      - IT,CPA & EBS Department/Computer Applications.md
