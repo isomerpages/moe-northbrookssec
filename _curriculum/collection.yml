@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Mathematics Department.md
       - Craft & Technology Department/.keep
       - Craft & Technology Department/Craft & Technology Department.md
       - Craft & Technology Department/Department Teachers.md
@@ -24,3 +23,4 @@ collections:
       - IT,CPA & EBS Department/Department Teachers.md
       - IT,CPA & EBS Department/Elements of Business Skills.md
       - IT,CPA & EBS Department/Computer Applications.md
+      - Mathematics Department.md
