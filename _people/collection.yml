@@ -2,6 +2,7 @@ collections:
   people:
     output: true
     order:
+      - Students/.keep
       - Patron & School Advisory Committee.md
       - Key External Partners.md
       - PSG/.keep
