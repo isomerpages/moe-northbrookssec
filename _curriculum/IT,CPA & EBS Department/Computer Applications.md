@@ -68,3 +68,49 @@ Specifically, the aims of the syllabus are to enable students to:
 
 ###### Click [here](/files/computerapplications.pdf) for more information on the syllabus
 ###### Click [here](https://sites.google.com/a/moe.edu.sg/cpa7018/home) to access the e-book
+
+Useful Links
+============
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-auud{background-color:#FDF69E;color:#505050;text-align:left;vertical-align:top}
+.tg .tg-1z39{background-color:#FCE573;color:#505050;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-un07{background-color:#104366;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-hoi2{background-color:#FCE573;color:#505050;text-align:left;vertical-align:top}
+.tg .tg-9jjg{background-color:#FDF69E;color:#505050;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-un07"><span style="color:#FFF">Useful Links</span></th>
+    <th class="tg-un07"><span style="color:#FFF">Description</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1z39">Computer Applications (Lower Secondary)<br><br><a href="https://sites.google.com/a/moe.edu.sg/cpa7018/" target="_blank" rel="noopener noreferrer">https://sites.google.com/a/moe.edu.sg/cpa7018/</a></td>
+    <td class="tg-hoi2"><span style="color:#000">CPA Revision: Online Textbook</span></td>
+  </tr>
+  <tr>
+    <td class="tg-9jjg">Scratch<br><br><a href="https://scratch.mit.edu/" target="_blank" rel="noopener noreferrer">http://scratch.mit.edu/</a></td>
+    <td class="tg-auud"><span style="color:#000">Program your own interactive stories, games, and animations — and share your creations with others in the online community.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1z39">Microsoft Word<br><br><a href="https://www.microsoft.com/en-sg/microsoft-365/word?legRedir=true&CorrelationId=1953ddf8-245f-49b8-a608-3d7d7c9ad57c" target="_blank" rel="noopener noreferrer">http://www.office.microsoft.com/en-sg/word/</a><br><br>Mail Merge<br><br><a href="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Departments/IT-CPA%20n%20EBS/Computer%20Applications/Useful%20Links/Guide%20to%20Mail%20Merge.pdf" target="_blank" rel="noopener noreferrer">Guide to Mail Merge.pdf</a><br></td>
+    <td class="tg-hoi2"><span style="color:#000">Document Processing Application</span></td>
+  </tr>
+  <tr>
+    <td class="tg-9jjg">Microsoft Excel: Spreadsheet<br><br><a href="https://www.microsoft.com/en-sg/microsoft-365/excel?legRedir=true&CorrelationId=66cc3192-c078-4584-9cdc-faf6a3a6f1ae" target="_blank" rel="noopener noreferrer">http://office.microsoft.com/en-sg/excel/</a><br><br><a href="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Departments/IT-CPA%20n%20EBS/Computer%20Applications/Useful%20Links/Spreadsheet%20Functions.pdf" target="_blank" rel="noopener noreferrer">Spreadsheets Functions.pdf</a><br></td>
+    <td class="tg-auud"><span style="color:#000">Spreadsheet Application</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1z39">Inkscape<br><br><a href="https://inkscape.org/" target="_blank" rel="noopener noreferrer">http://www.inkscape.org/en/</a><br><br><a href="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Departments/IT-CPA%20n%20EBS/Computer%20Applications/Useful%20Links/Inkscape_Envelope%20Tool.pdf" target="_blank" rel="noopener noreferrer">Inkscape_Envelope Tool.pdf</a><br><br><a href="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Departments/IT-CPA%20n%20EBS/Computer%20Applications/Useful%20Links/Inkscape_Intersect%20tool.pdf" target="_blank" rel="noopener noreferrer">Inkscape_Intersect tool.pdf</a><br></td>
+    <td class="tg-hoi2"><span style="color:#000">Vector Graphics Editor Application</span></td>
+  </tr>
+</tbody>
+</table>
+
