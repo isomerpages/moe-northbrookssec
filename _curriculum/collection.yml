@@ -2,10 +2,10 @@ collections:
   curriculum:
     output: true
     order:
-      - Mathematics Department/Department Pedagogy.md
-      - Mathematics Department/Department Teachers.md
-      - Mathematics Department/Mathematics Department.md
       - Mathematics Department/.keep
+      - Mathematics Department/Mathematics Department.md
+      - Mathematics Department/Department Teachers.md
+      - Mathematics Department/Department Pedagogy.md
       - Craft & Technology Department/.keep
       - Craft & Technology Department/Craft & Technology Department.md
       - Craft & Technology Department/Department Teachers.md
