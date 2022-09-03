@@ -2,9 +2,9 @@ collections:
   curriculum:
     output: true
     order:
-      - Mother Tongue Department/Department Teachers.md
-      - Mother Tongue Department/Mother Tongue Department.md
       - Mother Tongue Department/.keep
+      - Mother Tongue Department/Mother Tongue Department.md
+      - Mother Tongue Department/Department Teachers.md
       - Craft & Technology Department/.keep
       - Craft & Technology Department/Craft & Technology Department.md
       - Craft & Technology Department/Department Teachers.md
