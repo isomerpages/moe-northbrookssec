@@ -8,6 +8,7 @@ Full Home-Based Learning
 ========================
 
 ### Students Learning Space
+----------------------------
 
 <figure>
 
@@ -23,7 +24,7 @@ Click [here](/files/sls.pdf) for instructions on how to activate the student's a
 [](https://learning.moe.edu.sg/)
 
 ### Login Issues?
--------------
+----------------------------
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -58,3 +59,57 @@ Click [here](/files/sls.pdf) for instructions on how to activate the student's a
 </tbody>
 </table>
 
+You may also refer to the [login troubleshooting tips](https://static.learning.moe.edu.sg/sls-user-guide/vle/logintroubleshooting/index.html).
+
+### **Need Further Assistance?**
+----------------------------
+
+Do send your SLS queries to SLS HelpDesk
+
+(65) 6702 6513
+
+helpdesk@sls.ufinity.com
+
+  
+
+Operating Hours
+
+Mondays ― Fridays:
+
+4:00 pm ― 9:00 pm (School Days)
+
+9:00 am ― 9:00 pm (School Holidays)
+
+  
+
+Saturdays:
+
+9:00 am ― 3:00 pm
+
+\*Closed on Sundays & Public Holidays
+
+  
+
+Note: If you are a student, the helpdesk will need to verify your identity using the security questions that you have set up when your account was first activated.
+
+### Frequently Asked Questions
+--------------------------
+
+**Q1 : I used the “Password Reset Link Method” but I cannot find my password reset email. What can I do?**  
+If you cannot see the email in your inbox, it may be in the spam or junk email folder. Note: The URL in the email will expire within 10 minutes. If the URL has expired, go to the login page and select "Forgot Password" to try again.    
+  
+**Q2 : What are the Operating System and Browser Requirements for SLS?**  
+The following are the recommended operating systems:  
+
+*   Windows laptop/desktop with Microsoft Windows 7 SP1 and later   
+    
+*   Apple laptop/desktop with Mac OS X 10.9 and later   
+    
+*   iPad with iOS 8 and later   
+    
+*   Android tablet with Android 5 and later SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11, Google Chrome 51, FireFox 51 or Safari 7.1).     
+    
+
+  
+**Q3 : Can SLS run on mobile phones?**  
+You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.
