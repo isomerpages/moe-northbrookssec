@@ -2,11 +2,11 @@ collections:
   curriculum:
     output: true
     order:
-      - Physical Education Department/Programmes.md
       - Physical Education Department/.keep
       - Physical Education Department/Physical Education Department.md
       - Physical Education Department/Department Teachers.md
       - Physical Education Department/Holistic PE Development.md
+      - Physical Education Department/Programmes.md
       - Craft & Technology Department/.keep
       - Craft & Technology Department/Craft & Technology Department.md
       - Craft & Technology Department/Department Teachers.md
