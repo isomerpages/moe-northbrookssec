@@ -2,8 +2,6 @@ collections:
   people:
     output: true
     order:
-      - Alumni/Alumni.md
-      - Alumni/.keep
       - Patron & School Advisory Committee.md
       - Key External Partners.md
       - PSG/.keep
@@ -25,4 +23,6 @@ collections:
       - Parents/Three Things About SkillsFuture.md
       - Parents/COVID19 Vaccination.md
       - Parents/Sec 3 Subject combination information.md
+      - Alumni/.keep
+      - Alumni/Alumni.md
       - Students.md
