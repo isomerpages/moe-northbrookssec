@@ -4,7 +4,7 @@ permalink: /co-curriculum/CCA/Sports-and-Games/permalink/
 description: ""
 third_nav_title: CCA
 ---
-Sports & Games
+Sports &amp; Games
 ==============
 
 #### Core Business  
@@ -15,9 +15,9 @@ Sports & Games
 *   Conceptualise and develop new initiatives to support the CCA policies and framework
 *   Provide a platform for schools to benchmark their achievement through competitions
 *   Develop sports prototypes and resources
-*   Provide specialist advise and consultancy in sports to schools
+*   Provide specialist&nbsp;advise&nbsp;and consultancy in sports to schools
 *   Design and develop sports training packages and professional course for teachers
-*   Oversee and facilitate the organisation of the Singapore Schools/Primary Schools Sports Council (SSSC & SPSSC) Inter-School Sports Competitions.
+*   Oversee and facilitate the organisation of the Singapore Schools/Primary Schools Sports Council (SSSC &amp; SPSSC) Inter-School Sports Competitions.
 
 ### Badminton
 ![](/images/badminton.png)
@@ -52,12 +52,12 @@ Fridays, 2.30pm - 5.30pm
 
 ##### Training Day / Time
 Boys:  
-Wednesdays - 3.30pm-6.30pm &  
-Fridays - 2.00pm-5.00pm
+Wednesdays -&nbsp;3.30pm-6.30pm &amp;  
+Fridays -&nbsp;2.00pm-5.00pm
 
 Girls:  
-Mondays - 3.15pm-6.15pm &  
-Fridays - 1.00pm-4.00pm
+Mondays -&nbsp;3.15pm-6.15pm &amp;  
+Fridays -&nbsp;1.00pm-4.00pm
 
 ##### Objectives:
 
@@ -70,18 +70,18 @@ Fridays - 1.00pm-4.00pm
 
   
 
-*   Participated in North Zone Basketball Championships 
-*   Participated in 2nd Tier North Zone Basketball League 
-*   Participated in T-Net 3-on-3 Street Basketball 
-*   Friendly matches with other schools 
-*   Basketball Day Camp 
+*   Participated in North Zone Basketball Championships&nbsp;
+*   Participated in 2nd Tier North Zone Basketball League&nbsp;
+*   Participated in T-Net 3-on-3 Street Basketball&nbsp;
+*   Friendly matches with other schools&nbsp;
+*   Basketball Day Camp&nbsp;
 *   Community involvement opportunities
 
 ##### Achievements:
 
   
 
-###### 2017 
+###### 2017&nbsp;
 
 *   2ndTier North Zone ‘B’ Division Basketball League
 
@@ -91,18 +91,18 @@ Fridays - 1.00pm-4.00pm
 
 *   2ndTier North Zone ‘B’ Division Basketball League
 
-*   2nd Runner-up (Boys Division 3)
-*   3rd Runner-up (Girls Division A)
+*   2nd&nbsp;Runner-up (Boys Division 3)
+*   3rd&nbsp;Runner-up (Girls Division A)
 
 *   2ndTier North Zone ‘B’ Division Basketball League  
     
 
-*   3rd Runner-up (Girls Division 1)
+*   3rd&nbsp;Runner-up (Girls Division 1)
 
 *   North Zone ‘C’ Division Basketball Championships  
     
 
-*   2nd Round (C Division Boys)
+*   2nd&nbsp;Round (C Division Boys)
 
 ##### Links:
 [http://redsports.sg](https://www.redsports.sg/)
@@ -112,8 +112,8 @@ Fridays - 1.00pm-4.00pm
 ### Bowling
 ##### Teacher-in-Charge
 1.  Mr Paul Tham (Advisor)
-2.  Mr Ramthan Bin Ab Wahid (Teacher-in-charge)
-3.  Ms ALau Shu Wei (2 Teacher-in-charge)
+2.  Mr Ramthan Bin Ab Wahid&nbsp;(Teacher-in-charge)
+3.  Ms ALau Shu Wei (2&nbsp;Teacher-in-charge)
 
 ##### Training Day / Time
 
@@ -125,9 +125,9 @@ Fridays, 3.00pm - 5.00pm
 ![](/images/floorball.jpeg)
 
 ##### Teachers-in-Charge
-1. Mr Paul Tham (Advisor)  
-2\. Ms Nur Fadillah (Teacher-in-charge)  
-3\. Mr Eng Sze Shean (2 Teacher-in-charge)  
+1.&nbsp;Mr&nbsp;Paul Tham&nbsp;(Advisor)  
+2\. Ms Nur Fadillah&nbsp;(Teacher-in-charge)  
+3\. Mr Eng Sze Shean&nbsp;(2&nbsp;Teacher-in-charge)  
 4\. Ms Carolyn Quek  
 5\. Ms Siti Nadiah
 
@@ -136,17 +136,17 @@ Fridays, 3.00pm - 5.00pm
 Mondays, 3.30pm - 6.30pm  
 Fridays, 2.30pm - 5.30pm
 
-Floorball was first introduced to the courts of Singapore in 1994, and as the floorball scene continued to grow and gain traction amongst Singaporeans, it has become a niche sport in a number of schools today. 
+Floorball was first introduced to the courts of Singapore in 1994, and as the floorball scene continued to grow and gain traction amongst Singaporeans, it has become a niche sport in a number of schools today.&nbsp;
 
 The Northbrooks’ floorball team consists of a group of boys who are passionate about the sport. Conducted twice a week, training sessions are fast-paced and intense as the game requires players to play for a period of 15 minutes.
 
-Under the mentorship of Northbrooks’ very own alumni, Syazni, Captain of the Singapore team during the SEA Games 2015, Northbrooks’ floorball team emerged as the first runner-up in the ‘C’ Division tournament in 2016 . The team hopes to continue to honour the school name in the years to come. 
+Under the mentorship of Northbrooks’ very own alumni, Syazni, Captain of the Singapore team during the SEA Games 2015, Northbrooks’ floorball team emerged as the first runner-up in the ‘C’ Division tournament in 2016 . The team hopes to continue to honour the school name in the years to come.&nbsp;
 
-Through the biweekly training and debrief sessions, the floorball CCA aims to cultivate the Champion Learning Mindset in our boys as they are given opportunities to learn and demonstrate the values of discipline, teamwork, fortitude, and sportsmanship. Potential leaders are also given opportunities to develop their leadership skills. 
+Through the biweekly training and debrief sessions, the floorball CCA aims to cultivate the Champion Learning Mindset in our boys as they are given opportunities to learn and demonstrate the values of discipline, teamwork, fortitude, and sportsmanship. Potential leaders are also given opportunities to develop their leadership skills.&nbsp;
 
-Also known as Team HOPLITES, a reference to the armored soldiers of Ancient Greece to symbolise the resilience of the team, the team has been given the opportunity in past years to participate in the ActiveSG Singapore Floorball League Men’s Division to better their skills and techniques where students get to play against players at the tertiary education level, or even adults. 
+Also known as Team HOPLITES, a reference to the armored soldiers of Ancient Greece to symbolise the resilience of the team, the team has been given the opportunity in past years to participate in the ActiveSG Singapore Floorball League Men’s Division to better their skills and techniques where students get to play against players at the tertiary education level, or even adults.&nbsp;
 
-Other key programmes that the team undergoes to hone their techniques and skills include: Mental Skills Programme, friendly matches against other school teams, and the End-of-Year training camp.
+Other key programmes that the team undergoes to hone their techniques and skills&nbsp;include:&nbsp;Mental Skills Programme, friendly matches against other school teams, and the End-of-Year training camp.
 
 ##### Objectives:
 
@@ -199,7 +199,7 @@ Key programmes that the Northbrooks Floorball Team are as follows:
 
 ###### 2012
 
-*   Top 4 placing in the National Schools Floorball Championship
+*   Top&nbsp;4 placing in the National Schools Floorball Championship
     
 
 ###### 2011
@@ -209,12 +209,12 @@ Key programmes that the Northbrooks Floorball Team are as follows:
 
 ###### 2010
 
-*   4th placing in the Tampines West CDC U19 Floorball Tournament (Girls)
+*   4th placing in the&nbsp;Tampines West CDC U19 Floorball Tournament&nbsp;(Girls)
     
-*   2th placing in the Tampines West CDC U19 Floorball Tournament (Boys)
+*   2th placing in the&nbsp;Tampines West CDC U19 Floorball Tournament&nbsp;(Boys)
     
 
-###### 2007 
+###### 2007&nbsp;
 
 *   4th placing in the National Interschool Floorball Championship
     
@@ -225,7 +225,7 @@ Key programmes that the Northbrooks Floorball Team are as follows:
 
 Congratulations to the 'B' Boys floorball team for receiving Northzone Colour Awards for the first time in 2007. On top of that, 3 of our Brooksian floorball players received individual Northzone Colour Awards for their outstanding contributions:  
 
-*   Syazni Ramlee        
+*   Syazni Ramlee&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
 *   Amir Mustaffa
     
@@ -243,3 +243,39 @@ Congratulations also to these boys who have been successfully selected for the S
 
 2nd placing in the Singapore Raft River Race Floorball Open on 19 – 20th May 2007-6-29  
 Participated in the 1st National Interschool Floorball Championship 2007
+
+### Outdoor Adventure Club
+
+![](/images/ODAC%201.jpeg)
+
+##### Teacher-in-Charge
+
+1.  Mr Alex Ang Kok Wee (Advisor)
+2.  Ms Isabel Ho&nbsp;(Teacher-in-charge)
+3.  Ms Audrey Chong Jia Wen&nbsp;(2 Teacher-in-charge)
+4.  Ms Sharifah
+
+##### Training Day / Time
+
+Mondays, 3.30pm - 6.30pm  
+Fridays, 2.30pm - 5.30pm
+
+##### Programmes and activities
+
+![](/images/ODAC2.png)
+
+**
+
+<div>
+
+<div style="float: left">
+
+<img src="[https://loremflickr.com/320/240](https://loremflickr.com/320/240)">
+
+</div><div>
+
+Text content goes here
+
+</div></div>
+
+**
