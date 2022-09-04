@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Sports & Games/.keep
+      - CCA/Clubs & Societies.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/Sports & Games.md
