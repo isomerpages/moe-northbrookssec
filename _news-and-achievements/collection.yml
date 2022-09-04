@@ -1,0 +1,4 @@
+collections:
+  news-and-achievements:
+    output: true
+    order: []
