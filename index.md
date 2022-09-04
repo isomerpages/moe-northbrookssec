@@ -13,12 +13,6 @@ sections:
           description: Important highlight A is important
           url: https://google.com
         - title: "School announcements "
-          description: Important highlight B is equally important
-          url: https://gmail.com
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+          description: ""
+          url: /announcements/permalink/
 ---
