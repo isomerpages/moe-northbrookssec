@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - CCA/Uniformed Groups.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/Sports & Games.md
