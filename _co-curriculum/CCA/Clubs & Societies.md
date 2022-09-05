@@ -748,3 +748,96 @@ Activities in Infocomm Clubs are aligned with MOE’s Co-Curricular Activities (
 
 </div></div>
 
+### AVA Club
+##### Teacher-in-Charge
+
+1\. Mr Paul Tham (Advisor)   
+2\. Mr Kesavan (Teacher-in-charge)  
+3. Mr Mh Finosh K B I Philips (2 Teacher-in-charge)  
+4. Mr Alex Tok (3 Teacher-in-charge)  
+5\. Mr Shahrin Mansor
+
+##### Training Day / Time
+
+Mondays, 3.30pm - 5.30pm
+
+(Shift Duties for Events)
+
+### Environmental Art Club
+![](/images/artclub.png)
+
+##### Teacher-in-Charge
+
+1. Mr Paul Tham (Advisor)  
+2. Ms Siti Liana Bt Hashim (Teacher-in-charge)  
+3. Mrs Celine Goh (2 Teacher-in-charge)  
+4. Ms Nuruljannah Binte Juma'at
+
+##### Training Day / Time
+
+Mondays, 3.30pm - 5.30pm
+
+Not an ordinary art club. In the Environmental Art Club, you choose your projects through learning and applying. You become environmental ambassadors.
+
+##### Objectives:
+
+*   Learn and apply art skills on recycle art crafts
+*   Understand and spread awareness of environmental messages
+*   Become independent ambassadors of the environment who can impact the community
+
+
+
+<figure>
+
+![](/images/artclub1.png)
+
+<figcaption> <strong> In 2020, Environmental Art Club students engaged in the Recycled Art Masterclass on ‘Making Flower Wall Art using Toilet Paper Rolls’. These are some of the artistic products done by the students. </strong> </figcaption>
+
+</figure>
+
+</strong> </figcaption>
+
+</figure>
+
+
+
+<figure>
+
+![](/images/artclub2.jpeg)
+
+<figcaption> <strong> In 2019, Environmental Art Club students set up a recycle art booth during the Embracing Parenthood event held in conjunction with Orchid Vista RC. Students posing the recycled art photo frame that they made for the SCDF staff. </strong> </figcaption>
+
+</figure>
+
+
+
+<figure>
+
+![](/images/artclub3.jpeg)
+
+<figcaption> <strong> In 2019, Environmental Art Club students went through an enrichment workshop on making recycled Tetra Pak wallets. </strong> </figcaption>
+
+</figure>
+
+
+
+<figure>
+
+![](/images/artclub4.jpeg)
+
+<figcaption> <strong> 2018 Go Green Fund Award prize presentation. Mr Chan receiving the $3000 cheque on behalf of the Environmental Art Club and Northbrooks. </strong> </figcaption>
+
+</figure>
+
+
+
+<figure>
+
+![](/images/artclub5.png)
+
+<figcaption> <strong> Environmental Art Club students attending the NParks Biodiversity Research & Workshop for Environmental Education in 2018. </strong> </figcaption>
+
+</figure>
+
+
+
