@@ -2,10 +2,10 @@ collections:
   co-curriculum:
     output: true
     order:
-      - CCE/CCE.md
-      - CCE/.keep
       - CCA/.keep
       - CCA/CCA.md
       - CCA/Sports & Games.md
       - CCA/Clubs & Societies.md
       - CCA/Uniformed Groups.md
+      - CCE/.keep
+      - CCE/CCE.md
