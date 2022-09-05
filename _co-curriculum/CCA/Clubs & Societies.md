@@ -839,5 +839,26 @@ Not an ordinary art club. In the Environmental Art Club, you choose your project
 
 </figure>
 
+##### Key Programmes / CCA Programme Structure:
 
+*    Recycled Art Masterclasses
+*   Project-based programmes (differs from year to year)
+*   Learning Journey (differs from year to year)
+*   National Competition (differs from year to year)
 
+##### CCA / Level Leaders:
+
+###### 2018 
+
+President – Lim Zhi Xian  
+Vice-president – Ngow Wei Qi  
+
+###### 2019 
+
+President – Yee Mon Oo  
+Vice-president – Nyu Kang Yi  
+
+###### 2020
+
+President – Gwendolyn Neo Su Ping  
+Vice-president - Eesha
