@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - CCE/CCE.md
       - CCE/.keep
       - CCA/.keep
       - CCA/CCA.md
