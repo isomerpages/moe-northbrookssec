@@ -862,3 +862,78 @@ Vice-president – Nyu Kang Yi
 
 President – Gwendolyn Neo Su Ping  
 Vice-president - Eesha
+
+##### Achievements:
+
+###### **2020**
+
+To be announced.
+
+###### **2019**
+
+Go Green Fund Award - Merit
+
+###### **2018**
+
+Go Green Fund Award - Gold
+
+###### **2017**
+
+National Youth Business Challenge – Silver
+
+##### CCA Experiences by Students
+
+
+
+<div>
+
+<div style="float: left">
+
+![](/images/ART3.png)
+
+</div><div>
+
+**Student Name:** Jazmine Claire Balancio Macapagal
+
+**Student Class (Class / Year):** 3F, 2020
+
+	
+**Student role in CCA:** Member
+
+</div></div>
+
+**Student’s Experience**
+
+When I joined EAC back in 2018, I didn’t really like the idea of doing art with recyclable materials initially. I felt like it was limiting what I could do as an EAC member. However, I grew to like the medium eventually and I like to challenge my creativity with these resources.
+
+To me, EAC is a place where you can cultivate your talent in art and build your foundation in creativity. It is also a nice and thoughtful to contribute back to the community during our outreach sessions.
+
+I grew better in my art and as a person in this CCA. I will like to thank my CCA teachers for giving me the opportunity to try this new medium art and a chance at making good memories.
+
+
+
+<div>
+
+<div style="float: left">
+
+![](/images/ART2.png)
+
+</div><div>
+
+**Student Name:** Eesha
+
+**Student Class (Class / Year):** 3I, 2020
+
+**Student role in CCA:** Vice-president
+
+</div></div>
+
+**Student’s Experience**
+
+Since the start of secondary 1, this CCA has been a fun and creative space for me to express myself. It has been a positive experience for me as well as in making great friends in this process.
+
+EAC has given me the opportunity to improve my leadership skills and allowed me to fine tune my stained glass cutting/ sharpening skills.
+
+To me, EAC is full of talented people from many walks of life!
+
+
