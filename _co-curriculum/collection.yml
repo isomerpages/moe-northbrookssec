@@ -2,8 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Student Leadership Programme/Student Leadership Programme.md
-      - Student Leadership Programme/.keep
       - CCA/.keep
       - CCA/CCA.md
       - CCA/Sports & Games.md
@@ -11,3 +9,5 @@ collections:
       - CCA/Uniformed Groups.md
       - CCE/.keep
       - CCE/CCE.md
+      - Student Leadership Programme/.keep
+      - Student Leadership Programme/Student Leadership Programme.md
