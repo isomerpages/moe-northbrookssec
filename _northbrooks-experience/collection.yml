@@ -2,5 +2,5 @@ collections:
   northbrooks-experience:
     output: true
     order:
-      - Annual Speech & Prize Giving Day 2021.md
       - DSA @ Northbrooks.md
+      - Annual Speech & Prize Giving Day 2021.md
