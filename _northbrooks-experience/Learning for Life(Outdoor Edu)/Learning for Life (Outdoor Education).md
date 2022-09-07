@@ -41,11 +41,44 @@ Mr Timothy Chong, Mr Alex Ang, Ms Siti Nadiah, Mr Sanjay Radakrishna
 
 **Not in picture:**
 
-HOD PE/CCA: Mr Taufiq Bin Sanusi
+* HOD PE/CCA: Mr Taufiq Bin Sanusi
 
-SH CCA: Mr Paul Tham
+
+* SH CCA: Mr Paul Tham
 
 </div></div>
 
 
+
+
+# --
+<div>
+
+<div style="float: right">
+
+![](/images/Outdoor2.png)
+
+</div><div>
+
+
+**Mr Alex Ang**
+
+*   Qualifications:
+-SMF Wall Supervisor, Climbing Level Two
+	
+-SCF Kayaking Two Star Award
+	
+-University of Alberta Wilderness Certification
+	
+-MOE – OBS Outdoor Adventure Facilities Instructor
+
+*    Interests:
+
+-Adventure Racing (SAFRA, Ace Adventure and overseas races)
+	
+-Kayaking expeditions in Canada and New Zealand
+	
+-Natural Rock - Climbing in Krabi, Australia and New Zealand
+
+</div></div>
 
