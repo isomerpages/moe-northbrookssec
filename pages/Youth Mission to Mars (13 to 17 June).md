@@ -30,51 +30,55 @@ Singapore students worked with other international students in teams of 5 on a 
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-5fl8{background-color:#fdf69e;text-align:center;vertical-align:top}
-.tg .tg-aexj{background-color:#fdf69e;color:#505050;text-align:center;vertical-align:top}
+.tg .tg-os4z{background-color:#FFF;color:#505050;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-aexj"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Image%201%20edit.jpg.2.jpg" alt="Students discussion.jpg" width="280" height="210"><br>Students discussing their project with their teammates from United States and France.</th>
-    <th class="tg-aexj"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Image%204%20edit.jpg.2.jpg" alt="Sharing by Engineer.jpg" width="280" height="210"><br>Students listening to a sharing by a very experienced Engineer, Mr Jeff, who has worked on many space missions.</th>
+    <th class="tg-os4z"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Image%201%20edit.jpg.2.jpg" alt="Students discussion.jpg"><br>Students discussing their project with their teammates from United States and France.</th>
+    <th class="tg-os4z"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Image%204%20edit.jpg.2.jpg" alt="Sharing by Engineer.jpg"><br>Students listening to a sharing by a very experienced Engineer, Mr Jeff, who has worked on many space missions.</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-aexj"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Image%203%20edit.jpg.2.jpg" alt="Students discussion.jpg" width="280" height="210"><br>Students discussing their project with their teammates from United States and France. </td>
-    <td class="tg-aexj"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Image%205%20edit.jpg.2.jpg" alt="Visit to Space Mockup Facility Centre.jpg" width="280" height="210"><br>Visit to Space Mockup Facility Centre at NASA.</td>
+    <td class="tg-os4z"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Image%203%20edit.jpg.2.jpg" alt="Students discussion.jpg"><br>Students discussing their project with their teammates from United States and France. </td>
+    <td class="tg-os4z"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Image%205%20edit.jpg.2.jpg" alt="Visit to Space Mockup Facility Centre.jpg"><br>Visit to Space Mockup Facility Centre at NASA.</td>
   </tr>
   <tr>
-    <td class="tg-aexj"> <img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Image%204%20edit.jpg.2.jpg" alt="Project briefing.jpg" width="280" height="210"><br>Project briefing for all students taking part in the summit.</td>
-    <td class="tg-aexj"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Image%206%20edit.jpg.2.jpg" alt="Outside Houston Space Centre.jpg" width="280" height="210"><br>Outside Houston Space Centre.</td>
+    <td class="tg-os4z"> <img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Image%204%20edit.jpg.2.jpg" alt="Project briefing.jpg"><br>Project briefing for all students taking part in the summit.</td>
+    <td class="tg-os4z"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Image%206%20edit.jpg.2.jpg" alt="Outside Houston Space Centre.jpg"><br>Outside Houston Space Centre.</td>
   </tr>
   <tr>
-    <td class="tg-aexj"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Day2_2.jpg.2.jpg" alt="Students learning Line Dancing.jpg" width="280" height="210"><br>Students learning Line Dancing.</td>
-    <td class="tg-aexj"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Day%202_3.jpg.2.jpg" alt="Pei Ying learning to throw football.jpg " width="280" height="210"><br>Pei Ying learning to throw football. </td>
+    <td class="tg-os4z"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Day2_2.jpg.2.jpg" alt="Students learning Line Dancing.jpg"><br>Students learning Line Dancing.</td>
+    <td class="tg-os4z"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Day%202_3.jpg.2.jpg" alt="Pei Ying learning to throw football.jpg "><br>Pei Ying learning to throw football. </td>
   </tr>
   <tr>
-    <td class="tg-aexj"></td>
-    <td class="tg-5fl8"></td>
+    <td class="tg-os4z"></td>
+    <td class="tg-baqh"></td>
   </tr>
   <tr>
-    <td class="tg-aexj"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Day%202_5.jpg.2.jpg" alt="Visiting a farm.jpg" width="280" height="210"><br>Visiting a farm. </td>
-    <td class="tg-aexj"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Day%202_4.jpg.2.jpg" alt="Visiting a farm.jpg" width="280" height="210"><br>Visiting a farm.</td>
+    <td class="tg-os4z"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Day%202_5.jpg.2.jpg" alt="Visiting a farm.jpg"><br>Visiting a farm. </td>
+    <td class="tg-os4z"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Day%202_4.jpg.2.jpg" alt="Visiting a farm.jpg"><br>Visiting a farm.</td>
   </tr>
   <tr>
-    <td class="tg-aexj"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Day%203_1%20edit.jpg.2.jpg" alt="Students working in teams.jpg" width="280" height="210"><br>Students working in teams going through hands-on STEM activities.</td>
-    <td class="tg-aexj"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Day3_2%20edit.jpg.2.jpg" alt="Students working in teams.jpg" width="280" height="210"><br>Students working in teams going through hands-on STEM activities.</td>
+    <td class="tg-os4z"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Day%203_1%20edit.jpg.2.jpg" alt="Students working in teams.jpg"><br>Students working in teams going through hands-on STEM activities.</td>
+    <td class="tg-os4z"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Day3_2%20edit.jpg.2.jpg" alt="Students working in teams.jpg"><br>Students working in teams going through hands-on STEM activities.</td>
   </tr>
   <tr>
-    <td class="tg-aexj"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Day3_3%20edit.jpg.2.jpg" alt="Students working in teams.jpg" width="280" height="210"><br>Students working in teams going through hands-on STEM activities.</td>
-    <td class="tg-aexj"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Day3_4%20edit.jpg.2.jpg" alt="Students working in teams.jpg" width="280" height="210"><br>Students working in teams going through hands-on STEM activities.</td>
+    <td class="tg-os4z"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Day3_3%20edit.jpg.2.jpg" alt="Students working in teams.jpg"><br>Students working in teams going through hands-on STEM activities.</td>
+    <td class="tg-os4z"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Day3_4%20edit.jpg.2.jpg" alt="Students working in teams.jpg"><br>Students working in teams going through hands-on STEM activities.</td>
   </tr>
   <tr>
-    <td class="tg-aexj"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Day3_8%20edit.jpg.2.jpg" alt="Photoshoot.jpg" width="280" height="210"><br>Photoshoot</td>
-    <td class="tg-aexj"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Day3_5%20edit2.jpg.2.jpg" alt="Students working in teams.jpg" width="265" height="255"><br>Students working in teams going through hands-on STEM activities.</td>
+    <td class="tg-os4z"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Day3_8%20edit.jpg.2.jpg" alt="Photoshoot.jpg"><br>Photoshoot</td>
+    <td class="tg-os4z"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Day3_5%20edit2.jpg.2.jpg" alt="Students working in teams.jpg" width="265" height="255">#.jpg<br>Students working in teams going through hands-on STEM activities.</td>
   </tr>
   <tr>
-    <td class="tg-aexj" colspan="2"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Day3_7%20edit.jpg.2.jpg" alt="Students with their award tokens.jpg" width="280" height="210"><br>Students with their award tokens - 3rd in the commercials category</td>
+    <td class="tg-os4z"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Day3_7%20edit.jpg.2.jpg" alt="Students with their award tokens.jpg"><br>Students with their award tokens - 3rd in the commercials category</td>
+    <td class="tg-os4z"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Day3_6%20edit.jpg.2.jpg" alt="Students with certificate of participation.jpg"><br>Students with certificate of participation</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" colspan="2"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Day3_9%20edit.jpg.2.jpg" alt="Pei Ying doing a presentation.jpg" width="390" height="220"><br>Pei Ying doing a presentation for her group.</td>
   </tr>
 </tbody>
 </table>
