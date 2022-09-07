@@ -21,7 +21,7 @@ The programme adopts an applied learning approach. It provides an avenue for han
 
 *  [Applied Learning Programme STEM (Science, Technology, Engineering and Mathematics) lessons for lower secondary students](/northbrooks-experience/Applied-Learning-Aerospace/Applied-Learning-Programme-STEM/permalink/)
 *   [Learning journeys for all levels](/northbrooks-experience/Applied-Learning-Aerospace/Learning-journeys-for-all-levels/permalink/)
-*   [Aerospace enrichment programmes](/Aerospace-Enrichment-programmes/permalink/)
+*   [Aerospace Enrichment programmes](/northbrooks-experience/Applied-Learning-Aerospace/Aerospace-Enrichment-programmes/permalink/)
 * [Education career guidance programme on Aerospace](/Education-career-guidance-programme-on-Aerospace/permalink/)
 
 ### Tier 2: Passion & Excellence in Aerospace
