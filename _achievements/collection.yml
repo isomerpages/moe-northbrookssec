@@ -2,4 +2,5 @@ collections:
   achievements:
     output: true
     order:
+      - School Achievements/.keep
       - School Achievements.md
