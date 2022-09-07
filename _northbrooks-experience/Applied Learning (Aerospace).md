@@ -18,7 +18,7 @@ The programme adopts an applied learning approach. It provides an avenue for han
 
 ### Tier 1: Broad-based programme for all students
 
-*  
+*  [Applied Learning Programme STEM (Science, Technology, Engineering and Mathematics) lessons for lower secondary students](/Applied-Learning-Programme-STEM/permalink/)
 *   
 *   
-*   
+*
