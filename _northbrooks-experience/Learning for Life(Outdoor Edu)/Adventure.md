@@ -49,3 +49,25 @@ Northbrooks believes that every student will build strong bonds, develop resili
 
 </figure>
 
+**Sports Carnival**  
+
+**\- Inter- Class Rock-Climbing Competition**
+
+![](/images/Adventure4.png)
+
+**Sport Education Program**
+
+**\- Orienteering Program**
+
+![](/images/Adventure5.png)
+
+**Sport Education Program**
+
+**\- Kayaking Orientation Program**
+
+![](/images/Adventure6.png)
+
+**PA Paddlefest Programme**  
+
+**\- Dragon boat activity**
+![](/images/Adventure7.png)
