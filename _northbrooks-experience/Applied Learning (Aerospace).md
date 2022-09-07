@@ -20,5 +20,5 @@ The programme adopts an applied learning approach. It provides an avenue for han
 
 *  [Applied Learning Programme STEM (Science, Technology, Engineering and Mathematics) lessons for lower secondary students](/Applied-Learning-Programme-STEM/permalink/)
 *   [Learning journey for all levels](/Learning-journeys-for-all-levels/permalink/)
-*   
+*   [Aerospace enrichment programmes](/Aerospace-Enrichment-programmes/permalink/)
 *
