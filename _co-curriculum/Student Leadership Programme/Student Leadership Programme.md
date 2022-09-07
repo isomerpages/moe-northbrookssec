@@ -121,3 +121,43 @@ Greenleaf, R.K. (1997) The Servant as Leader.
 Kouzes, J & Posner, B (2012) Five Exemplary Practices of Student Leadership.
 
 Dweck, C (2006) Mindset The new psychology of success.
+
+#### Professional Development for Teachers
+
+The Student Leadership team takes teacher training seriously and actively role model continuous learning for our Student Leaders. The teachers have undergone training workshops in experiential learning facilitation and visual facilitation so as to cascade these skills to the Student Leaders. 
+
+  
+
+The teachers are also kept abreast with the youth development scene in Singapore through its learning journey to MOX, a collaborative entrepreneurship company. During the visit, teachers caught a glimpse of synergistic possibilities and how leadership is operationalised in local start-up firms.
+
+
+
+<figure>
+
+![](/images/slp1.jpeg)
+
+<figcaption> <strong>Experiential Learning Workshop </strong> </figcaption>
+
+</figure>
+
+
+
+<figure>
+
+![](/images/slp2.jpeg)
+
+<figcaption> <strong> Visit to MOX studio </strong> </figcaption>
+
+</figure>
+
+
+
+<figure>
+
+![](/images/slp3.jpeg)
+
+<figcaption> <strong> Visual Facilitation Workshop </strong> </figcaption>
+
+</figure>
+
+
