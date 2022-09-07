@@ -26,7 +26,47 @@ Developed and run without the help of a vendor, the competition was held at Comp
 
 The following results are the results of the competition:
 
-<table border="0" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(80, 80, 80); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">AWARDS</strong></p></td><td style="margin: 0px; outline: 0px; padding: 7px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">NAME</strong></p></td><td style="margin: 0px; outline: 0px; padding: 7px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">CLASS</strong></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;">Champions &nbsp;</p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;">&nbsp;</p></td><td style="margin: 0px; outline: 0px; padding: 7px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;">MUHAMMAD EFFIE MIRZAWYN B E</p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;">SOH GUO YI, GASPAR</p></td><td style="margin: 0px; outline: 0px; padding: 7px;">2G</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;">I<sup style="margin: 0px; outline: 0px; padding: 0px;">st</sup>&nbsp;Runner-up</td><td style="margin: 0px; outline: 0px; padding: 7px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;">TAY ZHAO CHI LICIA</p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;">WONG YONG FU</p></td><td style="margin: 0px; outline: 0px; padding: 7px;">2F</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;">2<sup style="margin: 0px; outline: 0px; padding: 0px;">nd</sup>&nbsp;Runner-up &nbsp;</td><td style="margin: 0px; outline: 0px; padding: 7px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;">MIRA FRANCINE BERNAL<br style="margin: 0px; outline: 0px; padding: 0px;">TAN CHING</p></td><td style="margin: 0px; outline: 0px; padding: 7px;">2G</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;">Best Spot Landing</td><td style="margin: 0px; outline: 0px; padding: 7px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;">SU CHI HUEN, LENNON</p></td><td style="margin: 0px; outline: 0px; padding: 7px;">2T</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-50jh{color:#505050;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-y44u{color:#505050;text-align:left;vertical-align:top}
+.tg .tg-te7m{color:#505050;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-50jh">AWARDS</th>
+    <th class="tg-50jh">NAME</th>
+    <th class="tg-50jh">CLASS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-y44u">Champions  <br> </td>
+    <td class="tg-y44u">MUHAMMAD EFFIE MIRZAWYN B E<br>SOH GUO YI, GASPAR</td>
+    <td class="tg-te7m">2G</td>
+  </tr>
+  <tr>
+    <td class="tg-te7m">Ist Runner-up</td>
+    <td class="tg-y44u">TAY ZHAO CHI LICIA<br>WONG YONG FU</td>
+    <td class="tg-te7m">2F</td>
+  </tr>
+  <tr>
+    <td class="tg-te7m">2nd Runner-up  </td>
+    <td class="tg-y44u">MIRA FRANCINE BERNAL<br>TAN CHING</td>
+    <td class="tg-te7m">2G</td>
+  </tr>
+  <tr>
+    <td class="tg-te7m">Best Spot Landing</td>
+    <td class="tg-y44u">SU CHI HUEN, LENNON</td>
+    <td class="tg-te7m">2T</td>
+  </tr>
+</tbody>
+</table>
 
 **Module Content**
 
