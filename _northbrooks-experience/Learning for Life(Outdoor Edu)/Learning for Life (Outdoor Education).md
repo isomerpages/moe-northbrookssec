@@ -28,7 +28,6 @@ A **Concerned Citizen** who is able to connect and care for the community an
 --------------------------
 
 
-
 <div>
 
 <div style="float: left">
@@ -40,11 +39,13 @@ A **Concerned Citizen** who is able to connect and care for the community an
 **From Left to Right:**
 Mr Timothy Chong, Mr Alex Ang, Ms Siti Nadiah, Mr Sanjay Radakrishna
 
-**Not in picture:** 
-	
+**Not in picture:**
+
 HOD PE/CCA: Mr Taufiq Bin Sanusi
 
 SH CCA: Mr Paul Tham
 
 </div></div>
+
+
 
