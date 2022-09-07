@@ -4,7 +4,6 @@ permalink: /northbrooks-experience/Applied-Learning-Aerospace/permalink/
 description: ""
 third_nav_title: Applied Learning (Aerospace)
 ---
-
 Applied Learning (Aerospace)
 ============================
 
@@ -20,7 +19,7 @@ The programme adopts an applied learning approach. It provides an avenue for han
 
 ### Tier 1: Broad-based programme for all students
 
-*  [Applied Learning Programme STEM (Science, Technology, Engineering and Mathematics) lessons for lower secondary students](/Applied-Learning-Programme-STEM/permalink/)
+*  [Applied Learning Programme STEM (Science, Technology, Engineering and Mathematics) lessons for lower secondary students](/northbrooks-experience/Applied-Learning-Aerospace/Applied-Learning-Programme-STEM/permalink/)
 *   [Learning journey for all levels](/Learning-journeys-for-all-levels/permalink/)
 *   [Aerospace enrichment programmes](/Aerospace-Enrichment-programmes/permalink/)
 * [Education career guidance programme on Aerospace](/Education-career-guidance-programme-on-Aerospace/permalink/)
