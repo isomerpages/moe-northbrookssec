@@ -22,6 +22,7 @@ Throughout the course of this 360 e-Tour, not only will you be able to have a 36
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jp_EzSo92_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 **Before you start, please take note of the following:**
 
 *   If you are using your mobile phone, you may want to view the tour in landscape mode for best viewing experiences.
@@ -33,5 +34,3 @@ Throughout the course of this 360 e-Tour, not only will you be able to have a 36
 Click [here](https://kuula.co/share/collection/7YFMS?fs=1&vr=1&zoom=1&sd=1&initload=0&autorotate=-0.16&thumbs=-1&margin=7&alpha=0.60&info=0&logo=1&logosize=69) to begin the e-Tour.
 
 ![](/images/Water%20Learning%20Tour%20QR.png)
-
-
