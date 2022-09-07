@@ -25,7 +25,7 @@ The programme adopts an applied learning approach. It provides an avenue for han
 * [Education career guidance programme on Aerospace](/northbrooks-experience/Applied-Learning-Aerospace/ECG-on-Aerospace/permalink/)
 
 ### Tier 2: Passion & Excellence in Aerospace
-* [Advanced Elective Modules (AEM)](/Advanced-Elective-Modules-AEM/permalink/)
+* [Advanced Elective Modules (AEM)](/northbrooks-experience/Applied-Learning-Aerospace/Advanced-Elective-Modules-AEM/permalink/)
 *  [Elective Modules (EM)](/Elective-Modules-EM/permalink/)
 * [Inter-class competitions](/Inter-class-competitions/permalink/)
 *
