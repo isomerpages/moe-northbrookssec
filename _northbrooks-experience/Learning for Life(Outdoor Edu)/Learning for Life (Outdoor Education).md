@@ -18,7 +18,7 @@ An **Active Contributor** who seeks to develop a champion learning mind set 
 
 A **Concerned Citizen** who is able to connect and care for the community and environment. He has strong civic consciousness and takes an active role to lead and improve the environment and the lives of others around him.  
 
-### Newspaper article in 2016
+**Newspaper article in 2016**
 
   
 
@@ -26,3 +26,25 @@ A **Concerned Citizen** who is able to connect and care for the community an
 
 ### The Outdoor Education Team
 --------------------------
+
+
+
+<div>
+
+<div style="float: left">
+
+![](/images/Outdoor.png)
+
+</div><div>
+
+**From Left to Right:**
+Mr Timothy Chong, Mr Alex Ang, Ms Siti Nadiah, Mr Sanjay Radakrishna
+
+**Not in picture:** 
+	
+HOD PE/CCA: Mr Taufiq Bin Sanusi
+
+SH CCA: Mr Paul Tham
+
+</div></div>
+
