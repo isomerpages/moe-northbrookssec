@@ -17,3 +17,8 @@ With close partnerships with the Civil Aviation Authority of Singapore (CAAS), R
 The programme adopts an applied learning approach. It provides an avenue for hands-on, practical learning that offers a contrast to academic learning in school. 
 
 ### Tier 1: Broad-based programme for all students
+
+*  
+*   
+*   
+*   
