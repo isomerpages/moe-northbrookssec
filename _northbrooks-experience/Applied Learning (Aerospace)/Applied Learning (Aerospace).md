@@ -29,5 +29,5 @@ The programme adopts an applied learning approach. It provides an avenue for han
 *  [Elective Modules (EM)](/northbrooks-experience/Applied-Learning-Aerospace/Elective-Modules-EM/permalink/)
 * [Inter-class competitions](/northbrooks-experience/Applied-Learning-Aerospace/Inter-class-competitions/permalink/)
 *
-* [Community Outreach Programmes](/Community-Outreach-Programmes/permalink/)
+* [Community Outreach Programmes](/northbrooks-experience/Applied-Learning-Aerospace/Community-Outreach-Programmes/permalink/)
 * [Youth Mission to Mars](/Youth-Mission-to-Mars-13-17-June/permalink/)
