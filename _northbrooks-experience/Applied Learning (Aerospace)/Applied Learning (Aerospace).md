@@ -26,7 +26,7 @@ The programme adopts an applied learning approach. It provides an avenue for han
 
 ### Tier 2: Passion & Excellence in Aerospace
 * [Advanced Elective Modules (AEM)](/northbrooks-experience/Applied-Learning-Aerospace/Advanced-Elective-Modules-AEM/permalink/)
-*  [Elective Modules (EM)](/Elective-Modules-EM/permalink/)
+*  [Elective Modules (EM)](/northbrooks-experience/Applied-Learning-Aerospace/Elective-Modules-EM/permalink/)
 * [Inter-class competitions](/Inter-class-competitions/permalink/)
 *
 * [Community Outreach Programmes](/Community-Outreach-Programmes/permalink/)
