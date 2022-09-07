@@ -45,3 +45,32 @@ Northbrooks in the News 2014-2015
 </tbody>
 </table>
 
+## 2014
+----
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nxuf{background-color:#FDF69E;color:#505050;text-align:center;vertical-align:top}
+.tg .tg-un07{background-color:#104366;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-47yt{background-color:#FDF69E;color:#20248D;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-un07"><span style="color:#FFF">Date</span></th>
+    <th class="tg-un07"><span style="color:#FFF">Name of Newspaper &amp; Heading</span></th>
+    <th class="tg-un07"><span style="color:#FFF">Written By</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-47yt"><span style="color:#20248D">17  January 2014</span></td>
+    <td class="tg-nxuf"><span style="font-weight:bold;text-decoration:underline;color:#000">NE Forte</span><br><span style="color:#000">Co-creating the Future through Stained Glass Art </span><br> Click <a href="https://northbrookssec.moe.edu.sg/qql/slot/u162/Achievements/NB%20in%20the%20News/2014-2015%20NB%20in%20the%20News/NE%20Forte%2013%20Jan%202014.pdf" target="_blank" rel="noopener noreferrer">here</a> to read the whole issue</td>
+    <td class="tg-nxuf"><span style="color:#000">Mdm Gan Lei Fong, HOD Craft &amp; Technology</span></td>
+  </tr>
+</tbody>
+</table>
