@@ -2,7 +2,6 @@ collections:
   northbrooks-experience:
     output: true
     order:
-      - eTour @ Lower Seletar Reservoir.md
       - DSA @ Northbrooks.md
       - Annual Speech & Prize Giving Day 2021.md
       - Applied Learning (Aerospace)/.keep
@@ -18,3 +17,4 @@ collections:
       - Applied Learning (Aerospace)/Community Outreach Programmes.md
       - Applied Learning (Aerospace)/Co Curricular Activities.md
       - Applied Learning (Aerospace)/Overseas Exchange Programme.md
+      - eTour @ Lower Seletar Reservoir.md
