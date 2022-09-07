@@ -22,7 +22,7 @@ A **Concerned Citizen** who is able to connect and care for the community an
 
   
 
-##### Click [here](https://northbrookssec-moe-edu-sg-admin.cwp.sg/achievements/school-achievements/northbrooks-in-the-news-2020-2021) to view the article
+##### Click [here](/achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/permalink/) to view the article
 
 ### The Outdoor Education Team
 --------------------------
