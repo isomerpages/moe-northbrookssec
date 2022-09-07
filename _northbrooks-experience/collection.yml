@@ -2,7 +2,6 @@ collections:
   northbrooks-experience:
     output: true
     order:
-      - Learning for Life(Outdoor Edu)/.keep
       - DSA @ Northbrooks.md
       - Annual Speech & Prize Giving Day 2021.md
       - Applied Learning (Aerospace)/.keep
@@ -19,3 +18,4 @@ collections:
       - Applied Learning (Aerospace)/Co Curricular Activities.md
       - Applied Learning (Aerospace)/Overseas Exchange Programme.md
       - eTour @ Lower Seletar Reservoir.md
+      - Learning for Life(Outdoor Edu)/.keep
