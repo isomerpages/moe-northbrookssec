@@ -24,4 +24,9 @@ The programme adopts an applied learning approach. It provides an avenue for han
 * [Education career guidance programme on Aerospace](/Education-career-guidance-programme-on-Aerospace/permalink/)
 
 ### Tier 2: Passion & Excellence in Aerospace
-
+*
+*
+*
+*
+*
+*
