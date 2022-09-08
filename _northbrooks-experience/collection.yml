@@ -2,7 +2,6 @@ collections:
   northbrooks-experience:
     output: true
     order:
-      - Stained Glass Art.md
       - DSA @ Northbrooks.md
       - Annual Speech & Prize Giving Day 2021.md
       - Applied Learning (Aerospace)/.keep
@@ -30,3 +29,4 @@ collections:
       - Learning for Life(Outdoor Edu)/Gallery.md
       - Aesthetics.md
       - Mindfulness@Northbrooks.md
+      - Stained Glass Art.md
