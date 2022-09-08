@@ -39,3 +39,13 @@ The Award Co-ordinator for Northbrooks Secondary School NYAA Silver programme is
 #### Programme
 
 The following diagram illustrates the programme the school has in place for all students in the Secondary 3 level embarking on the NYAA Silver programme: -
+
+![](/images/NYAA%202020.jpeg)
+
+Below are the descriptions of the activities for each section planned for our students:
+
+_Service Learning (Touching Lives, Making a Difference)_ 
+
+Values in Action – Secondary 3 Service Learning 
+
+The Service Learning programme for Secondary 3 students provides students with the opportunity to work with a beneficiary of their choice. While teachers act as facilitators, the programme is essentially student-centred with the planning, implementation and evaluation all done by the students. This programme which spans over 3 terms (January to September) allows Brooksians to develop their social and cross-cultural skills when they work with various beneficiary organisations (the young, senior citizens, the underprivileged or the environment). The planning and organisation of the Service Learning activities also helps to hone the leadership skills among the Secondary 3 students and also inculcates in them a sense of responsibility. A series of reflective activities has also been built into this programme to help build their critical thinking skills as well as develop their SEL competencies.
