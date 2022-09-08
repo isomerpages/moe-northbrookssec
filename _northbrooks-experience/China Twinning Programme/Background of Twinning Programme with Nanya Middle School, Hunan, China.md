@@ -59,4 +59,35 @@ The vice-principal, teachers and students had a fruitful and meaningful stay in 
 
 **3)**
 
-**Northbrook s in China news!** **Click** **to view the articles**
+**Northbrook s in China news!** **Click** [here](/achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/permalink/) **to view the articles**
+
+#### Twinning Programme 2009
+
+  
+Visit by pupils and teachers from our Twinning School from Nanya Middle School, Hunan, China (1 to 8 August)
+
+Brookians had the opportunity to mingle with students from our twinning school from China. A group of 25 students and teachers from China come to Singapore to spend time in our school. Friendships were formed, and students from both schools opened their eyes to the increasingly globalized nature of the world, seeing similarities and differences in the way pupils and teachers from different countries learned and taught. Pupils benefited from developing a deeper appreciation for what they experienced. I would also like to thank some of the parents from our school who have graciously hosted our guests in their own homes.
+
+#### Twinning Programme 2008
+
+**NanyaMiddle School to NorthbrooksSecondary School (2 – 10 August 2008)** 
+
+With the signing of a memorandum of understanding in 2007, Northbrooks Secondary School and Nanya Middle School (Changsha, China) are involved in a 3 years Twinning Programme. The main objectives of the programme included the exchange of teaching and learning resources and teaching strategies, and to provide our students and teachers with a rich educational experience as we exposed our pupils to different cultures and environments and nurtured their social and cultural skills. 
+
+In 2007, our school and Nanya High School visited each other for the first time and benefited both students and teachers with a better understanding of the regional and global environment, and also brought back with them good memories and learning points. 
+
+On 2 – 10 August 2008, a group of 30 students, together with 1 Vice-principal and 2 teachers fromNanyaHigh School, came to NorthbrooksSecondary School for the second time. 
+
+During this visit, their students learned side-by-side with our students through the classrooms immersion programme. They also experienced different cultures activities such as learning to sing Malay song and learning Indian dance moves. They also interacted with and made friends with our students through participation in our CCA activities and 2 days of home-stay experience. Their teacher observed our Arts and English lessons and also conducted a Chinese painting lesson for our students. The highlight of the programme was their involvement in our National Day Celebrations. 
+
+NanyaHigh School’s staff and pupils also had the opportunity to immerse in the Singapore history and cultures through visits to the Kampong Glam, Little India and Chinatown. 
+
+This twinning programme has given both Brooksians and NanyaHigh School’s students and teachers experiences that will be forever etched in our memory.
+
+**Northbrooks Secondary School to NanyaMiddle School (9 – 15 November 2008)** 
+
+On November 2008, twenty students, two heads of department and the vice principal from NorthbrooksSecondary School visited NanyaMiddle School in Changsha, Hunan, China. The short flight from Changi International airport proved to be a learning experience for some of our students, as this was the first time that they had been on an aeroplane. 
+
+NanyaMiddle School spared no effort in giving Northbrooks a very warm welcome at the airport, and the following days’ programme showcased their graciousness and happiness at hosting the Singaporeans. The pupils from Singapore were impressed by the sheer size of the campus and experienced a wide variety of activities, which included a cultural concert, singing lessons, art and an excursion to an island in the middle of an inland lake. The exposure to different ways of doing things opened the eyes of the students from Northbrooks and helped them to become more aware of their place in the world as Singaporeans. 
+
+The students were touched by the concern shown by their hosts, so much so that when the time came for farewells, many a tear rolled down their cheeks. Being young, friendships had sprung up quickly between students from the two different schools in the short space of a few days. Being older, the teachers knew that the relationship between the two educational institutions would continue to deepen and grow.
