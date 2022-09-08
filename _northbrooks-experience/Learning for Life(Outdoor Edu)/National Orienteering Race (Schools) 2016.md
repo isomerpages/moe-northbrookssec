@@ -26,4 +26,9 @@ The Red Cross Youth cadets from Northbrooks assisted by providing first aid cove
 The Red Cross Youth cadets from Northbrooks participated actively in the race and gave their best to find the checkpoints in the shortest time possible!
 
 ### Happy faces!
+![](/images/NOR5.png)
+The was an inflated maze which served as a post-race activity for the participants to try and they enjoyed it greatly!
 
+### Prize Presentation
+![](/images/NOR6.png)
+The student leaders were emcees for the prize presentation ceremony and our Principal, Mrs Chong gave out the prizes as the Guest of Honour.
