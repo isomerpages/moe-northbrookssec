@@ -2,6 +2,7 @@ collections:
   northbrooks-experience:
     output: true
     order:
+      - NYAA Silver Programme.md
       - DSA @ Northbrooks.md
       - Annual Speech & Prize Giving Day 2021.md
       - Applied Learning (Aerospace)/.keep
