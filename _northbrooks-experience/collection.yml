@@ -2,7 +2,6 @@ collections:
   northbrooks-experience:
     output: true
     order:
-      - Aesthetics.md
       - DSA @ Northbrooks.md
       - Annual Speech & Prize Giving Day 2021.md
       - Applied Learning (Aerospace)/.keep
@@ -28,3 +27,4 @@ collections:
       - Learning for Life(Outdoor Edu)/National Orienteering Race (Schools)
         2016.md
       - Learning for Life(Outdoor Edu)/Gallery.md
+      - Aesthetics.md
