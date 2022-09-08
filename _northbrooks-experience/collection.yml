@@ -2,7 +2,6 @@ collections:
   northbrooks-experience:
     output: true
     order:
-      - NYAA Silver Programme.md
       - DSA @ Northbrooks.md
       - Annual Speech & Prize Giving Day 2021.md
       - Applied Learning (Aerospace)/.keep
@@ -38,3 +37,4 @@ collections:
         Middle School, Hunan, China.md
       - China Twinning Programme/China Twinning Programme 2016.md
       - China Twinning Programme/China Twinning Programme 2015.md
+      - NYAA Silver Programme.md
