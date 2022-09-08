@@ -2,7 +2,6 @@ collections:
   northbrooks-experience:
     output: true
     order:
-      - Northbrooks 20th Anniversary.md
       - DSA @ Northbrooks.md
       - Annual Speech & Prize Giving Day 2021.md
       - Applied Learning (Aerospace)/.keep
@@ -31,3 +30,4 @@ collections:
       - Aesthetics.md
       - Mindfulness@Northbrooks.md
       - Stained Glass Art.md
+      - Northbrooks 20th Anniversary.md
