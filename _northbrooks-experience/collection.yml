@@ -2,10 +2,10 @@ collections:
   northbrooks-experience:
     output: true
     order:
+      - China Twinning Programme/.keep
+      - China Twinning Programme/China Twinning Programme.md
       - China Twinning Programme/Background of Twinning Programme with Nanya
         Middle School, Hunan, China.md
-      - China Twinning Programme/China Twinning Programme.md
-      - China Twinning Programme/.keep
       - DSA @ Northbrooks.md
       - Annual Speech & Prize Giving Day 2021.md
       - Applied Learning (Aerospace)/.keep
