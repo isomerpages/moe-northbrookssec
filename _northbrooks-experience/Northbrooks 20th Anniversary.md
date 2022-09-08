@@ -57,3 +57,5 @@ We request that you return your unsold coupons for the Carnival. Here is how:
   </tr>
 </tbody>
 </table>
+
+While we may not have a Carnival to celebrate the occasion, fret not! We still believe that some form of celebration to commemorate our school’s 20th Anniversary is important to show our resilience during this time. Also, it helps us to continue to create memories together in school.
