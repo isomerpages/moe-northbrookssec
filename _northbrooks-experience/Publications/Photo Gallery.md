@@ -134,3 +134,36 @@ third_nav_title: Publications
   </tr>
 </tbody>
 </table>
+	
+	
+	
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm" colspan="2">Racial Harmony Day <br>22 July 2020</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/7e84b3d45_28831.jpg" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/f96726721_28832.jpg" width="400" height="300"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/b74025c0b_28833.jpg" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/a8d194230_28834.jpg" width="400" height="300"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/1fcad8be1_28835.jpg" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/129e33cd4_28836.JPG" width="400" height="300"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/96f76d98f_28837.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/8ef43987f_28838.JPG" width="400" height="300"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/d66fd2522_28839.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/0745bf01c_28840.jpg" width="400" height="300"></td>
+  </tr>
+</tbody>
+</table>
