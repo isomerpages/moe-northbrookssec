@@ -2,31 +2,32 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Northbrooks Secondary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 585 Yishun Ring Road
+      - Singapore 768692
+      - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        time: 7.00am - 6.00pm
+        description: The General Office will be closed at 5.00 pm during the school holidays
+    maps_link: https://www.streetdirectory.com/sg/northbrooks/585-yishun-ring-road-768692/6282_126758.html
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6752 4311
+      - email: northbrooks@moe.edu.sg
+      - other: "Fax:        +65 6756 6110"
+    title: General Office
+  - content:
+      - phone: ""
+      - email: ""
+      - other: https://www.facebook.com/officialnorthbrooks
+    title: Facebook
+  - content:
+      - phone: ""
+      - email: ""
+      - other: http://instagram.com/officialnorthbrooks
+    title: Instagram
 ---
