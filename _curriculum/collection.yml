@@ -2,11 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Science Department/.keep
-      - Science Department/Science Department.md
-      - Science Department/Department Teachers.md
-      - Science Department/Vertical Green Wall.md
-      - Science Department/Useful Links.md
       - Craft & Technology Department/.keep
       - Craft & Technology Department/Craft & Technology Department.md
       - Craft & Technology Department/Department Teachers.md
@@ -42,3 +37,8 @@ collections:
       - Physical Education Department/Department Teachers.md
       - Physical Education Department/Holistic PE Development.md
       - Physical Education Department/Programmes.md
+      - Science Department/.keep
+      - Science Department/Science Department.md
+      - Science Department/Department Teachers.md
+      - Science Department/Vertical Green Wall.md
+      - Science Department/Useful Links.md
