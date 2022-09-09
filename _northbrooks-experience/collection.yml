@@ -2,7 +2,6 @@ collections:
   northbrooks-experience:
     output: true
     order:
-      - Publications/Video Gallery.md
       - Publications/.keep
       - Publications/Publications.md
       - Publications/Northbrooks 20th Anniversary.md
@@ -10,6 +9,7 @@ collections:
       - Publications/Yearbooks.md
       - Publications/Quest@Northbrooks.md
       - Publications/Photo Gallery.md
+      - Publications/Video Gallery.md
       - DSA @ Northbrooks.md
       - Annual Speech & Prize Giving Day 2021.md
       - Applied Learning (Aerospace)/.keep
