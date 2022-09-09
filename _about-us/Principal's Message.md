@@ -1,17 +1,19 @@
 ---
 title: Principal's Message
-permalink: /about-us/principal/permalink
+permalink: /about-us/principal/permalink/
 description: ""
 ---
 Principal's Message
 ===================
 
+**
 
 <div>
 
-<div style="float: left">
+<div style="float: right">
 
-![](/images/principal.jpeg)
+![](/images/123.png)
+
 </div><div>
 
 A warm welcome to Northbrooks Secondary School!
@@ -20,7 +22,9 @@ A warm welcome to Northbrooks Secondary School!
 
 I feel honoured and privileged to be the Principal of Northbrooks, carrying forward the good work done by my predecessors.
 
-  
+</div></div>
+
+
 
 Since it’s humble beginnings in 2000, Northbrooks Secondary has steadily grown to become a choice school. Guided by our vision – Every Brooksian a Champion, Impacting the Community – we are united in our desire to do our very best for our students, preparing them to be effective life-long learners. We foster in every Brooksian the Champion Learning Mindset, a mindset with a strong desire to learn and improve and bounce back in the face of adversities. We want to instil in our students this growth mindset, developing grit and resilience that are essential for success in life. In turn, our Brooksians will develop the capacity to serve by leading and lead in serving our school, our community and our nation.
 
@@ -43,5 +47,3 @@ We remain steadfast in our beliefs and our conviction in making a positive impac
 Soaring Yet Rooted
 
 David Lau
-</div></div>
-
