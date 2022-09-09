@@ -30,4 +30,9 @@ contacts:
       - email: ""
       - other: http://instagram.com/officialnorthbrooks
     title: Instagram
+  - content:
+      - phone: ""
+      - email: ""
+      - other: ""
+    title: Frequently Asked Questions
 ---
