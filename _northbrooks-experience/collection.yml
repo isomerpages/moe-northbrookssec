@@ -2,6 +2,7 @@ collections:
   northbrooks-experience:
     output: true
     order:
+      - Publications/Video Gallery.md
       - Publications/.keep
       - Publications/Publications.md
       - Publications/Northbrooks 20th Anniversary.md
