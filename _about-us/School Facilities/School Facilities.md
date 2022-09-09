@@ -66,3 +66,15 @@ School Facilities
 
 </figure>
 
+### [Vertical Green Wall](/curriculum/Science-Department/Vertical-Green-Wall/permalink/)
+
+
+
+<figure>
+
+![](/images/1234567.png)
+
+<figcaption> <strong> 8 species of vertical green wall </strong> </figcaption>
+
+</figure>
+
