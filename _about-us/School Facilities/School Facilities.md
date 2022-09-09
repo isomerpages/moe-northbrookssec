@@ -78,3 +78,15 @@ School Facilities
 
 </figure>
 
+### [EBS Room](/curriculum/ITCPA-and-EBS-Department/Elements-of-Business-Skills-EBS-Room/permalink/)
+
+
+
+<figure>
+
+![](/images/123456789.png)
+
+<figcaption> <strong> Learning station to showcase the service industries </strong> </figcaption>
+
+</figure>
+
