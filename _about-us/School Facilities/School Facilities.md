@@ -54,4 +54,15 @@ School Facilities
 
 </figure>
 
+### [Arts Space](/about-us/School-Facilities/Arts-Space/permalink/)
+
+
+
+<figure>
+
+![](/images/123456.png)
+
+<figcaption> <strong> Common space for students to showcase artistic works </strong> </figcaption>
+
+</figure>
 
