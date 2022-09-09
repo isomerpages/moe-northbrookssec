@@ -6,7 +6,7 @@ description: ""
 Principal's Message
 ===================
 
-**
+
 
 <div>
 
