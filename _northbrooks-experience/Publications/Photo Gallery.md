@@ -174,3 +174,40 @@ third_nav_title: Publications
   </tr>
 </tbody>
 </table>
+	
+	
+
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm" colspan="2">NDP &amp; Anniversary <br>7 Aug 2020</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/6424b2392_28815.jpg" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/2a7317aac_28816.JPG" width="400" height="300"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/6ffc5d752_28817.jpg" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/83671622c_28818.jpg" width="400" height="300"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/09c23004d_28819.jpg" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/abcd287c6_28820.jpg" width="400" height="300"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/86edfab44_28821.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/4aa4504ab_28822.jpg" width="400" height="300"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/750e133c9_28823.jpg" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/45fc305bf_28824.JPG" width="400" height="300"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/a63ec4154_28825.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
