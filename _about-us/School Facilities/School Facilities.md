@@ -40,3 +40,6 @@ School Facilities
 </tbody>
 </table>
 
+
+### More facilities include:
+
