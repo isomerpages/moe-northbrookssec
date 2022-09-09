@@ -2,14 +2,6 @@ collections:
   northbrooks-experience:
     output: true
     order:
-      - Publications/.keep
-      - Publications/Publications.md
-      - Publications/Northbrooks 20th Anniversary.md
-      - Publications/Newsletters.md
-      - Publications/Yearbooks.md
-      - Publications/Quest@Northbrooks.md
-      - Publications/Photo Gallery.md
-      - Publications/Video Gallery.md
       - DSA @ Northbrooks.md
       - Annual Speech & Prize Giving Day 2021.md
       - Applied Learning (Aerospace)/.keep
@@ -46,3 +38,11 @@ collections:
       - China Twinning Programme/China Twinning Programme 2016.md
       - China Twinning Programme/China Twinning Programme 2015.md
       - NYAA Silver Programme.md
+      - Publications/.keep
+      - Publications/Publications.md
+      - Publications/Northbrooks 20th Anniversary.md
+      - Publications/Newsletters.md
+      - Publications/Yearbooks.md
+      - Publications/Quest@Northbrooks.md
+      - Publications/Photo Gallery.md
+      - Publications/Video Gallery.md
