@@ -41,5 +41,17 @@ School Facilities
 </table>
 
 
-### More facilities include:
+## More facilities include:
+
+### [Champion's Lodge](/about-us/School-Facilities/Champions-Lodge/permalink/)
+
+
+<figure>
+
+![](/images/12345.png)
+
+<figcaption> <strong> Space for all Brooksians to unwind during after-school hours </strong> </figcaption>
+
+</figure>
+
 
