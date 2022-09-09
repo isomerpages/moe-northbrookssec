@@ -1,11 +1,13 @@
 ---
 title: The Brooksian Crest
-permalink: /about-us/the-brooksian-crest/permalink
+permalink: /about-us/the-brooksian-crest/permalink/
 description: ""
 ---
 The Brooksian Crest
 ===================
-![](/images/northbrookslogo%20Small.jpeg)
+
+![](/images/northbrookslogo.gif)
+
 
 Just as WATER
 -------------
