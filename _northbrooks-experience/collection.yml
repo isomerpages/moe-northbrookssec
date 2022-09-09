@@ -2,9 +2,9 @@ collections:
   northbrooks-experience:
     output: true
     order:
-      - Publications/Northbrooks 20th Anniversary.md
-      - Publications/Publications.md
       - Publications/.keep
+      - Publications/Publications.md
+      - Publications/Northbrooks 20th Anniversary.md
       - DSA @ Northbrooks.md
       - Annual Speech & Prize Giving Day 2021.md
       - Applied Learning (Aerospace)/.keep
