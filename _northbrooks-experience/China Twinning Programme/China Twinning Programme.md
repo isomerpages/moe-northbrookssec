@@ -95,3 +95,54 @@ China Twinning Programme
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm" colspan="2">2017 Twinning Programme - Day 3 <br>(4/11/17)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/904d66f02_16311.jpg" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/c72101d9a_16312.jpg" width="400" height="300"></td>
+  </tr>
+</tbody>
+</table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm" colspan="2">2017 Twinning Programme - Day 4 <br>(5/11/17)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/0aa3d4cd9_16313.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/7fc3525a3_16320.JPG" width="400" height="300"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/e10b3b9d6_16321.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
