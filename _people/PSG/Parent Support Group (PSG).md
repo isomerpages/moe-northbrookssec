@@ -1,10 +1,9 @@
 ---
 title: Parent Support Group (PSG)
-permalink: /people/parent-support-group/permalink
+permalink: /people/parent-support-group/permalink/
 description: ""
 third_nav_title: PSG
 ---
-
 Parent Support Group (PSG)
 ==========================
 
@@ -79,14 +78,13 @@ Dad's for Life (DFL) is a national fathers movement that seeks to inspire, mobil
 
 **Fishing at ORTO in March**
 ![](/images/Fishing.jpeg)
-![](/images/fishing2.jpeg)
-![](/images/fishing3.jpeg)
+![](/images/AAA.png)
 
 **Archery in May 2019**
 ![](/images/Archery1.jpeg) ![](/images/Archery2.jpeg)
 
 **The PSG managed a booth yearly where students wrote messages to expressed their gratitude to their parents prior to Mothers' Day and Fathers' Day.**
-![](/images/Mothers%20Fathers%20Day1.jpeg) ![](/images/Mothers%20Fathers%20Day2.jpeg)
+![](/images/AAA1.png)
 
 
 **Edusave Character Award and Brooksian Core Value Award**
