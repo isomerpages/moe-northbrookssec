@@ -11,8 +11,7 @@ Patron & School Advisory Committee
 
 <figure>
 
-![](/images/chandro.png)
-
+![](/images/Chandroo.jpeg)
 <figcaption> <strong> Dr. T. Chandroo </strong> </figcaption>
 
 </figure>
