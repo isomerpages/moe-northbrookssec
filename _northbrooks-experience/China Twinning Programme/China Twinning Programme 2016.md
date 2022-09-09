@@ -82,3 +82,19 @@ China Twinning Programme 2016
 </tbody>
 </table>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-amwm"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc14/27930a56a_13273.jpeg" alt="Image" width="400" height="300"><br><span style="font-style:normal">Day 6: Singing ‘Friends’ together at the Welcome party</span><br></td>
+    <td class="tg-amwm"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc14/de333666d_13274.jpeg" alt="Image" width="400" height="300"><br><span style="font-style:normal">Day 6: Group photo at the Welcome party</span><br></td>
+  </tr>
+</thead>
+</table>
