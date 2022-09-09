@@ -96,3 +96,41 @@ third_nav_title: Publications
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  
+	
+	
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm" colspan="2">Recyclatron 15 Jan 2020</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/f3f14e19f_28826.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/d916b44a9_28827.JPG" width="400" height="300"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/670d42650_28828.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/bb07fe19a_28829.JPG" width="400" height="300"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc29/40cb15e2e_28830.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
