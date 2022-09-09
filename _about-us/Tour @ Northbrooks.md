@@ -1,6 +1,6 @@
 ---
 title: Tour @ Northbrooks
-permalink: /about-us/tour-at-northbrooks/permalink
+permalink: /about-us/tour-at-northbrooks/permalink/
 description: ""
 ---
 Tour @ Northbrooks
@@ -12,6 +12,8 @@ Welcome to eTour@Northbrooks
 **During the course of this 360 eTour, not only will you be able to have a 360 view of the school environment, you will also be able to hear our student leaders sharing their school experiences as well as introducing some of the school facilities.**
 
 ![](/images/MOTD%20Banner.jpeg)
+
+### [Click here to begin the eTour](https://www.thinglink.com/mediacard/1369892137004433411)
 
 **Before you start, please take note the following:**
 
