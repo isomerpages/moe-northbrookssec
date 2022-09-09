@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Facilities/.keep
       - About us.md
       - Principal's Message.md
       - Strategic Thrusts & Outcomes.md
