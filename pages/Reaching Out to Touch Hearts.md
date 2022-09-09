@@ -7,6 +7,7 @@ Reaching Out to Touch Hearts
 ============================
 
 “At the old folks’ home, it was sad to see the elderly folks without their families and we realised that they were not as privileged as us. Therefore, we were happy to put a smile on their faces.” – Putri Nur ‘Aqiilah and Razvin Kaur Rachel (4 Discipline of 2018)
+
 ![](/images/Reach.png)
 
 “We assisted in the preparation of food for soup which is donated to the needy at Willing Hearts Organisation.  Although preparing food was certainly no easy task, we were glad that we had the opportunity to help the needy.” – Camden Nah and Hadri Haqimi (4 Fortitude of 2018)    
