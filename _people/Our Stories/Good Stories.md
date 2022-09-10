@@ -20,3 +20,5 @@ Good Stories
 [(6) A positive Brooksian Experience Story by Liang Xinyin (Alumna, 2017)](/A-Positive-Brooksian-Experience-Story-by-Liang-Xinyin-Alumna-2017/permalink/)
 
 [(7) A positive Brooksian Experience Story by Chelsia Wong (Alumna, 2014)](/A-Positive-Brooksian-Experience-Story-by-Chelsia-Wong-Alumna-2014/permalink/)
+
+![](/images/GoodStories.png)
