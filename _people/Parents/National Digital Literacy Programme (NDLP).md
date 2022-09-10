@@ -62,6 +62,8 @@ Click below to access more information on the personal learning device (PLD)
 [Privacy and Data Security](/files/Privacy%20and%20Data%20Security.pdf)
 
 
+*   Student iCON Forget Password: [https://](https://northbrookssec-moe-edu-sg-admin.cwp.sg/people/students/goog_1360109335)[go.gov.sg/northbrooksresetpassword](http://go.gov.sg/northbrooksresetpassword)
+
 
 
 
