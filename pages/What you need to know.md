@@ -95,7 +95,7 @@ You may click on the link below to access the 1 to 1 device page where you can f
 
 </div></div>
 
-[1 to 1 Personal Learning Device](https://northbrookssec-moe-edu-sg-admin.cwp.sg/people/parents/national-digital-literacy-programme-ndlp)
+[1 to 1 Personal Learning Device](/people/Parents/National-Digital-Literacy-Programme-NDLP/permalink/)
 
 ##### 4.  Blended Learning (BL)
 ![](/images/Blended%20Learning.png)
@@ -110,6 +110,7 @@ Through blended learning, we hope to nurture self-directed and independent learn
 ##### 5\. Parents Support Group (PSG)
 The school values its partnership with all Parents/Guardians. This is key in supporting your child. We would like to invite you to join the Parents Support Group (PSG). If you are keen, please complete the [PSG Enrolment Form ](https://form.gov.sg/#!/6195f5fda342eb0012556896). Thank You.
 ![](/images/PSG1.jpeg)
+
 Please email Ms Veron at [**veron\_dreamz@hotmail.com**](mailto:veron_dreamz@hotmail.com) if you have any enquiry about PSG.
 
 ##### 6\. Primary to Secondary School Transition
