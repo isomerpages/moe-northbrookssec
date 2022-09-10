@@ -12,6 +12,11 @@ National Digital Literacy Programme (NDLP)
 
 Click below to access more information Briefing for Sec 1 Parents/Guardian 2022
 
+*   [PDLP Briefing for Sec 1 Parents/Guardian 2022](/files/PDLP_%20Briefing%20for%20Sec%201%20Parents%202022%20_school%20website.pdf)
+*   [Parent Handbook I on Learning with a PLD](/files/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)
+*   [Parent Handbook II on Learning with a PLD](/files/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)
+*   [Northbrooks Letter to Parents for PDLP Procurement](/files/Northbrooks%20Letter%20to%20Parents%20for%20PDLP%20Procurement_7%20Feb%20_P.pdf)
+
 #### Digital Learning @ Northbrooks
 
 #### Activation of Device Management Application (DMA) Parent Portal
