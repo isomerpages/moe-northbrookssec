@@ -15,3 +15,6 @@ Sec 1 Registration 2022 Intake
 
 [Section 1: Welcome Message by Mr David Lau (Principal of Northbrooks Secondary)](/Welcome-Message-by-Mr-David-Lau/permalink/)
 
+[Section 2: Administrative Matters - What you need to do](/administrative-matters/permalink/) ***(Important)***
+
+
