@@ -20,3 +20,20 @@ Sec 1 Registration 2022 Intake
 [Section 3: Information - What you need to know](/What-you-need-to-know/permalink/)
 
 [Section 4: Others](/others/permalink/)
+
+**Please ensure that you go through all 4 sections. Thank You.**
+
+
+
+<div>
+
+<div style="float: right">
+
+![](/images/QR4.png)
+
+</div><div>
+
+Feedback on Sec 1 Registration
+
+</div></div>
+
