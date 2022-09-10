@@ -24,6 +24,7 @@ Complete the e-Registration by completing the 2 online forms using the link belo
 **These online forms need to be completed by the end of the Sec 1 Registration Day on 23 December 2021.**
 
 1. [Registration](https://go.gov.sg/nbrss-reg2022)
+![](/images/QR2.png)
 
 
 
