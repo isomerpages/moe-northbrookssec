@@ -18,3 +18,5 @@ Good Stories
 [(5) Multi-Disciplinary Water Learning Programme](/Multi-disciplinary-Water-Learning-Programme/permalink/)
 
 [(6) A positive Brooksian Experience Story by Liang Xinyin (Alumna, 2017)](/A-Positive-Brooksian-Experience-Story-by-Liang-Xinyin-Alumna-2017/permalink/)
+
+[(7) A positive Brooksian Experience Story by Chelsia Wong (Alumna, 2014)](/A-Positive-Brooksian-Experience-Story-by-Chelsia-Wong-Alumna-2014/permalink/)
