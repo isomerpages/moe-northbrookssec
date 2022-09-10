@@ -36,4 +36,3 @@ Here is a handy [infographic]() to sum it all up.
 Stay updated at [http://www.skillsfuture.sg/](http://www.skillsfuture.sg/)  
 Like us on Facebook: [http://www.facebook.com/skillsfuturesg](http://www.facebook.com/skillsfuturesg)  
 Follow us at Twitter: [http://www.twitter.com/skillsfuturesg](http://www.twitter.com/skillsfuturesg)
-
