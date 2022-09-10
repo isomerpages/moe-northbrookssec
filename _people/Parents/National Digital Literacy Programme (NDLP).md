@@ -26,8 +26,43 @@ As communicated earlier, your child’s/ward’s Personal Learning Device (PLD) 
 
 You will receive an activation e-mail via the e-mail address that you have provided to the school. If the activation e-mail is not found in your Inbox, please check the ‘Junk Folder’ or ‘Spam Folder’ for the e-mail notification.
 
+Please refer to the DMA Parent Guide (under Resources) for details on how to set up your account and use to the Parent Portal.
+
+Should you encounter technical issues with the DMA or wish to share with us any feedback on the DMA, please contact the DMA Administrator, Ms Salihah Binte Jalil at northbrooks_ict@moe.edu.sg.
+
+
+
+<div>
+
+<div style="float: right">
+
+![](/images/QR3.png)
+
+</div><div>
+
+Should you wish to reconsider the After-school DMA Option, please refer to the information on DMA Settings  
+below (under Resources) & fill-up the form [here](https://go.gov.sg/northbrooksafterschdmaoption) to change the After-school DMA Option.
+
+</div></div>
+
+
 #### Resources
 Click below to access more information on the personal learning device (PLD)
+
+*  doc in google drive
+*    file exceed 5mb
+*   doc in google drive
+*   video not uploaded via Youtube
+*    **Information on Device Management Application (DMA) Settings**
+
+[Functions of the DMA During School Hours](/files/Functions%20of%20the%20DMA%20During%20School%20Hours.pdf)
+
+[Options for DMA Settings After School Hours](/files/Options%20for%20DMA%20Settings%20After%20School%20Hours.pdf)
+
+[Privacy and Data Security](/files/Privacy%20and%20Data%20Security.pdf)
+
+
+
 
 #### In-house Support: ICT Service Desk
 Located at the back of the Library  
