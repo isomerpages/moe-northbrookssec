@@ -18,3 +18,5 @@ Sec 1 Registration 2022 Intake
 [Section 2: Administrative Matters - What you need to do](/administrative-matters/permalink/) ***(Important)***
 
 [Section 3: Information - What you need to know](/What-you-need-to-know/permalink/)
+
+[Section 4: Others](/others/permalink/)
