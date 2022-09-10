@@ -29,7 +29,7 @@ ___Watch this___ [*video*](https://www.youtube.com/watch?v=CkIBjH8z3GU) ___to fi
 Everyone in different stages of life can benefit from it – students, working adults in early careers to mid and late careers, employers, and training providers. There is something for everyone:
 
 ![](/images/info.png)
-Here is a handy [infographic]() to sum it all up.
+Here is a handy [infographic](/files/Skills.pdf) to sum it all up.
 
 #### 3.    How can I find out more about SkillsFuture?
 
