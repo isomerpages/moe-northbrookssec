@@ -3,8 +3,8 @@ title: Welcome Message by Mr David Lau (Principal of Northbrooks Secondary)
 permalink: /Welcome-Message-by-Mr-David-Lau/permalink/
 description: ""
 ---
-#### Section 1:  Welcome Message by Mr David Lau
-------------------------------------------------------
+# Section 1:  Welcome Message by Mr David Lau
+
 Dear Parents and Sec One students (2022 intake),    
 
 Thank you for choosing Northbrooks Secondary, and a very warm welcome to our Northbrooks Family.
