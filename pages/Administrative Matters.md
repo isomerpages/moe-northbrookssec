@@ -3,7 +3,7 @@ title: Administrative Matters
 permalink: /administrative-matters/permalink/
 description: ""
 ---
- Section 2: Administrative Matters - What you need to do
+Section 2: Administrative Matters - What you need to do
 ------------------------------------------------------
 
 The steps below are for Parents/Guardians who will be doing **e-Registration** for your child for this year **Sec 1 registration (2022 intake)**. Please ensure that you go through **all the steps** below.  **Step 1 would need to be completed on the Sec 1 Registration Day**.  
@@ -22,6 +22,27 @@ Parents/Guardians and students are **strongly encouraged to complete the regis
 Complete the e-Registration by completing the 2 online forms using the link below.    
 
 **These online forms need to be completed by the end of the Sec 1 Registration Day on 23 December 2021.**
+
+1. [Registration](https://go.gov.sg/nbrss-reg2022)
+
+
+
+2. [Getting To Know You](https://form.gov.sg/61b5bdbf4ba975001252d0c7) Survey (to be completed only by students)
+
+
+
+<div>
+
+<div style="float: left">
+
+![](/images/QR.png)
+
+</div><div>
+
+It is a RIASEC self-assessment tool that allows us to better understand your child's personality, strengths, and work values and the information from the survey will provide us with more opportunities to better guide and support them in exploring their career aspirations. Our Education and Career Guidance (ECG) programmes can also be better tailored and planned by taking into consideration the students’ preferences and enable them to explore their passions and pursue their areas of interest where possible. RIASEC represents six broad areas (Realistic, Investigative, Artistic, Social, Enterprise, and Conventional) into which all careers can be classified.
+
+</div></div>
+
 
 
 ##### Step 2: Subject Based Banding
