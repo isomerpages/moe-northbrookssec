@@ -20,3 +20,5 @@ The CCA will also plan termly sports and games activities throughout the year to
 ## [YOUTH FLYING CLUB](/Youth-Flying-Club/permalink/)
 
 ## [INFOCOMM CLUB](/Infocomm-Club/permalink/)
+
+## [AVA CLUB](/AVA-club/permalink/)
