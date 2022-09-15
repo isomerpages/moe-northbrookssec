@@ -50,3 +50,41 @@ Northbrooks in the News 2016-2017
   </tr>
 </tbody>
 </table>
+
+## 2016
+----
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-auud{background-color:#FDF69E;color:#505050;text-align:left;vertical-align:top}
+.tg .tg-rgfc{background-color:#FCE573;color:#505050;text-align:center;vertical-align:top}
+.tg .tg-1vm2{background-color:#FCE573;color:#20248D;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-un07{background-color:#104366;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-hoi2{background-color:#FCE573;color:#505050;text-align:left;vertical-align:top}
+.tg .tg-9n0n{background-color:#FDF69E;color:#20248D;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-un07">Date</th>
+    <th class="tg-un07">Name of Newspaper &amp; Heading</th>
+    <th class="tg-un07">Written By</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1vm2">On 26 July 2016</td>
+    <td class="tg-rgfc"><span style="font-weight:bold;text-decoration:underline">Youth show off talent in new SYF segment </span><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/Achievements/NB%20in%20the%20News/2016-2017%20NB%20in%20the%20News/ST_Andi&Dewi.jpg" alt="Youth show off talent in new SYF segment.jpg" width="690" height="506"><br>Click <a href="http://www.straitstimes.com/singapore/youth-show-off-talent-in-new-syf-segment" target="_blank" rel="noopener noreferrer"><span style="color:#20248D">here</span></a> to read the report</td>
+    <td class="tg-hoi2"><span style="color:#000">Clement Yong, Straits Times, 11/7, pB8</span></td>
+  </tr>
+  <tr>
+    <td class="tg-9n0n">On 15 February 2016</td>
+    <td class="tg-auud"><span style="font-weight:bold;text-decoration:underline">Outdoor education at two schools benefit students</span><br><br><span style="color:#000">The report noted that Ag Min (Schools) said in parliament last month that MOE would strive to provide a holistic environment for students during every stage of their education process for their overall developments. This would include providing students with time, space and opportunities to discover and develop their talents and to develop their passions for lifelong learning.</span><br><br><span style="color:#000">Report featured two schools which had incorporated outdoor sports and teaching as part of their Learning for Life Programme.</span><br><br><span style="color:#000"> - Northbrooks Secondary School organised camping and other outdoor activities for its students every year. It had started serious planning in 2013 on how to utilise its existing school facilities to provide its students with more comprehensive outdoor education programme. More than 2,000 students had since experienced outdoor education, which had included rock climbing, abseiling and orienteering. Teacher in-charge-of outdoor education Hong Guowei (Ang Kok Wee) said that the school’s outdoor education aims were “A.C.E.” (Adventure, Character and Environment), hence its outdoor education would not only train students to be tough-minded but also to exercise care for the environment.</span><br><span style="color:#000"> - Greendale Primary School started its Learning for Life Programme in 2015, which had benefited 1,500 primary one to six students to date. The school would design a different programme for students of different levels.  Teacher-in-charge Wang Guosheng said that outdoor education could develop students' resilience, perseverance and confidence while our younger generation needed to learn to care for the environment and enjoy the outdoors for a healthier mind and body.</span><br><br>Click <a href="https://northbrookssec.moe.edu.sg/qql/slot/u162/Achievements/NB%20in%20the%20News/2016-2017%20NB%20in%20the%20News/021016lhzb%20Outdoor%20education%20at%20two%20schools%20benefit%20students%20p13.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#20248D">here</span></a> to read the report</td>
+    <td class="tg-auud"><span style="color:#000">Tang Hwa Kwee, ZB, 10/2, p13</span><br> <br> </td>
+  </tr>
+</tbody>
+</table>
