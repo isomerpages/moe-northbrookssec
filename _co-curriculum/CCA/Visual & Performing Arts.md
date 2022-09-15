@@ -19,3 +19,5 @@ Performing Arts CCAs provide opportunities for students to develop a lifelong pa
 
 
 ## [CONCERT BAND](/Concert-Band/permalink/)
+
+## [DRAMA CLUB](/Drama-Club/permalink/)
