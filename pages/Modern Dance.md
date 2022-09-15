@@ -89,3 +89,31 @@ Northbrooks Dance Explosion (DE) was formed in 2010. They are trained in modern,
 
 *   Super24 Competition - The Ultimate Team Dance Challenge 2014 - 9th Placing
 *   Participated in Chingay Parade Singapore 2014 in PAYM Contingent
+
+![](/images/Dance7.png)
+
+##### 2013
+
+*   **SYF Arts Presentation:** Northbrooks Modern Dance received the **Certificate of Accomplishment** in the Dance (International Dance) (Secondary School Level) Category  
+    
+*   Participated in Chingay Parade Singapore 2013 in Zumba Contingent
+
+![](/images/Dance8.png)
+
+##### 2012
+
+*   Participated in Chingay Parade Singapore 2012 in PAYM Contingent
+
+![](/images/Dance9.png)
+
+##### 2011
+
+*   SYF 2011 Central Judging - Dance (International Dance)(Secondary Schools) (Bronze)
+
+![](/images/Dance10.png)
+
+### Links:
+
+*   [http://www.singaporeyouthfestival.sg/](http://www.singaporeyouthfestival.sg/)
+*   [http://www.chingay.org.sg/](http://www.chingay.org.sg/)
+*   Email us @ [nbssdanceexplosion@groups.facebook.com](mailto:nbssdanceexplosion@groups.facebook.com)
