@@ -26,3 +26,8 @@ The N6 Cluster Humanities Challenge was held at Presbyterian High School. Northb
 This year’s Humanities Challenge was based on the United Nations’ theme for 2016: ‘Year of Pulses’. The Humanities Challenge addressed various national and international issues on food resources from past to present. In this challenge, the different teams underwent two rounds of competition. In the first round, students had to answer a total of 25 multiple-choice questions. And in the second round, they had to answer 10 short-answer questions. Student supporters also participated in a round of online questions during the tea break. 
 
 This was an opportunity to arouse the interest in the Humanities and also encourage exploration in the various concepts related to Food Resources.
+
+### Click on the link below for Past Competitions
+--- 
+
+[Past Competitions](/Past-Competitions/permalink/)
