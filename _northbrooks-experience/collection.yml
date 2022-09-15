@@ -2,7 +2,6 @@ collections:
   northbrooks-experience:
     output: true
     order:
-      - Video Gallery/.keep
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
       - Aesthetics/Centrestage 2022.md
@@ -48,5 +47,6 @@ collections:
       - Publications/Yearbooks.md
       - Publications/Quest@Northbrooks.md
       - Publications/Video Gallery.md
-      - Photo Gallery/Photo Gallery.md
       - Photo Gallery/.keep
+      - Photo Gallery/Photo Gallery.md
+      - Video Gallery/.keep
