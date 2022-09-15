@@ -301,3 +301,26 @@ Singapore National Games (Adventure Race @ Sentosa)
     - Champions for Relay Category  
     - 1st position for C Division Girls  
     - 2nd position for B Division Girls
+
+
+
+<figure>
+
+![](/images/ODAC1.png)
+
+<figcaption> <strong> 1st position - C Division Girls </strong> </figcaption>
+
+</figure>
+
+
+
+<figure>
+
+![](/images/ODAC3.png)
+
+<figcaption> <strong> 2nd position - B Division Girls </strong> </figcaption>
+
+</figure>
+
+
+
