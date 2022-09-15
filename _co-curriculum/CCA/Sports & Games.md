@@ -20,3 +20,5 @@ Sports &amp; Games
 *   Oversee and facilitate the organisation of the Singapore Schools/Primary Schools Sports Council (SSSC &amp; SPSSC) Inter-School Sports Competitions.
 
 ## [BADMINTON](/Badminton/permalink/)
+
+## [BASKETBALL](/Basketball/permalink/)
