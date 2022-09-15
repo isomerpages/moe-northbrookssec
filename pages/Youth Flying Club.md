@@ -644,3 +644,5 @@ The team members are:
 
 ##### Other Links
 [Singapore Youth Flying Club](https://www.syfc.sg/)
+
+## [BOEING SIM RIDES 2015](/Boeing-Sim-Rides-2015/permalink/)
