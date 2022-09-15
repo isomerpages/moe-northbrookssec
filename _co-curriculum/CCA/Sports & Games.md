@@ -22,3 +22,5 @@ Sports &amp; Games
 ## [BADMINTON](/Badminton/permalink/)
 
 ## [BASKETBALL](/Basketball/permalink/)
+
+## [BOWLING](/Bowling/permalink/)
