@@ -92,7 +92,7 @@ Cadets will also participate in inter-unit competitions and the Air competition 
 
 *   More information on NCC:
     - [https://www.facebook.com/sgncc.hq](https://www.facebook.com/sgncc.hq)
-    -  [https://www.instagram.com/sg\_ncc/](https://www.instagram.com/sg_ncc/)
+    - [https://www.instagram.com/sg\_ncc/](https://www.instagram.com/sg_ncc/)
 
 
 ![](/images/For%20Website%201.png)
