@@ -9,7 +9,6 @@ National Digital Literacy Programme (NDLP)
 
 ### National Digital Literacy Programme (NDLP)
 ------------------------------------------
-
-[Click here for more information.](https://northbrookssec.moe.edu.sg/people/parents/national-digital-literacy-programme-ndlp)
+[Click here for more information.](/people/Parents/National-Digital-Literacy-Programme-NDLP/permalink/)
 
 ![](/images/PDLP%20Picture.png)
