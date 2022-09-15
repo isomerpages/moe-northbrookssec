@@ -19,4 +19,10 @@ Tests & Examinations
 
 [Sec 2 NA.pdf](/files/Sec%202%20NA%20tt.pdf)
 
+[Sec 2 NT.pdf](/files/Sec%202%20NT%20tt.pdf)
 
+[Sec 3 Exp.pdf](/files/Sec%203%20Exp%20tt.pdf)
+
+[Sec 3 NA.pdf](/files/Sec%203%20NA%20tt.pdf)
+
+[Sec 3 NT.pdf](/files/Sec%203%20NT%20tt.pdf)
