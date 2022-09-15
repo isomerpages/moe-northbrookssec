@@ -23,3 +23,5 @@ Performing Arts CCAs provide opportunities for students to develop a lifelong pa
 ## [DRAMA CLUB](/Drama-Club/permalink/)
 
 ## [GUITAR ENSEMBLE](/Guitar-Ensemble/permalink/)
+
+## [GUZHENG ENSEMBLE](/Guzheng-Ensemble/permalink/)
