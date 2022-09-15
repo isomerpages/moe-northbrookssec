@@ -55,4 +55,3 @@ The underground bunker setting provided an authentic learning experience for stu
 The experience was both immersive and enriching as it allowed students to develop a greater appreciation for Singapore's historical background.
 
 ### [SEC 2 GEOGRAPHICAL INQUIRY IN TIONG BAHRU](/Sec-2-Geographical-Inquiry-in-Tiong-Bahru/permalink/)
-
