@@ -18,3 +18,5 @@ Clubs and Societies encompass a diverse range of interests which covers knowledg
 The CCA will also plan termly sports and games activities throughout the year to promote team bonding through sports.
 
 ## [YOUTH FLYING CLUB](/Youth-Flying-Club/permalink/)
+
+## [INFOCOMM CLUB](/Infocomm-Club/permalink/)
