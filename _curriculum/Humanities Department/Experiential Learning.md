@@ -66,3 +66,4 @@ The experience was both immersive and enriching as it allowed students to develo
 
 ### [HUMANITIES TRAIL](/Humanities-Trail/permalink/)
 
+### [HUMANITIES QUIZ](/Humanities-Quiz/permalink/)
