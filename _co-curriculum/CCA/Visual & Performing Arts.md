@@ -16,3 +16,6 @@ Performing Arts CCAs provide opportunities for students to develop a lifelong pa
 2.  Creating – Students participate in activities to apply the art form skills, techniques and processes
 3.  Presenting – Students will gain the opportunity to put to practice and showcase their skills in the art form.
 4.  Responding – Students will learn to think critically and show confidence in their ability to reflect and express opinion on arts expression and performances.
+
+
+## [CONCERT BAND](/Concert-Band/permalink/)
