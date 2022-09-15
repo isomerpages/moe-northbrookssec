@@ -9,6 +9,28 @@ Programmes
 
 _Programmes by the PE Department_
 
+
+
+<figure>
+
+![](/images/Sports.gif)
+
+<figcaption> <strong> Sports Carnival / Health Fiesta </strong> </figcaption>
+
+</figure>
+
+
+
+<figure>
+
+![](/images/CrossCountry.gif)
+
+<figcaption> <strong> Cross Country </strong> </figcaption>
+
+</figure>
+
+
+
 ### Sports Carnival / Health Fiesta
 -------------------------------
 
