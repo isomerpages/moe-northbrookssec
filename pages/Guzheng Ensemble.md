@@ -68,14 +68,14 @@ To develop every member to be a disciplined Guzheng member and to create a unite
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-baqh"><img height="300" width="400" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/CCA%20Exchange.JPG"><br><span style="font-weight:400;font-style:normal">CCA Exchange with other schools</span><br></th>
-    <th class="tg-baqh"><img height="300" width="400" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/IMG_ECCA%20Exchange%20%20Nanyang%20Girls%20High%20School%2002.JPG"><br><span style="font-weight:400;font-style:normal">CCA Exchange @ Nanyang Girls’ High School</span><br></th>
+    <th class="tg-baqh"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/CCA%20Exchange.JPG" alt="Image" width="400" height="300"><br><span style="font-weight:400;font-style:normal">CCA Exchange with other schools</span><br></th>
+    <th class="tg-baqh"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/IMG_ECCA%20Exchange%20%20Nanyang%20Girls%20High%20School%2002.JPG" alt="Image" width="400" height="300"><br><span style="font-weight:400;font-style:normal">CCA Exchange @ Nanyang Girls’ High School</span><br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-baqh"><img height="300" width="400" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/CCA%20Farewell.JPG"><br><span style="font-weight:400;font-style:normal">CCA Farewell</span><br></td>
-    <td class="tg-baqh"><img height="300" width="400" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/CCA%20Camp%2001.jpg"><br><span style="font-weight:400;font-style:normal">CCA Bonding Activity</span><br></td>
+    <td class="tg-baqh"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/CCA%20Farewell.JPG" alt="Image" width="400" height="300"><br><span style="font-weight:400;font-style:normal">CCA Farewell</span><br></td>
+    <td class="tg-baqh"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/CCA%20Camp%2001.jpg" alt="Image" width="400" height="300"><br><span style="font-weight:400;font-style:normal">CCA Bonding Activity</span><br></td>
   </tr>
 </tbody>
 </table>
@@ -166,6 +166,8 @@ To develop every member to be a disciplined Guzheng member and to create a unite
 #### Links:  
 
 Performance at Nee Soon East National Day Dinner 2013
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/KJaIWssPq3A" height="315" width="560"></iframe>
+*   [http://www.youtube.com/watch?v=KJaIWssPq3A](http://www.youtube.com/watch?v=KJaIWssPq3A)
+*   [http://www.youtube.com/watch?v=yN9uOcvrpLY&amp;feature=c4-overview&amp;list=UUPIif3RESisGhv9plYsJOfA](http://www.youtube.com/watch?v=yN9uOcvrpLY&amp;feature=c4-overview&amp;list=UUPIif3RESisGhv9plYsJOfA)
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/yN9uOcvrpLY" height="315" width="560"></iframe>
+Performance for 2021 CNY Virtual Celebration
+*   [https://www.youtube.com/watch?v=oGgMnar6oDg](https://www.youtube.com/watch?v=oGgMnar6oDg)
