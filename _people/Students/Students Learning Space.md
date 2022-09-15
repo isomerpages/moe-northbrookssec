@@ -17,7 +17,7 @@ third_nav_title: Students
 An online platform that allows students to access curriculum-aligned resources.
 
 Click [here](/files/sls.pdf) for instructions on how to activate the student's account  
-[](https://learning.moe.edu.sg/)
+
 
 ### Login Issues?
 ----------------------------
