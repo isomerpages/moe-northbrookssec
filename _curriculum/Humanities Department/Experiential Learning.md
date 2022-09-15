@@ -53,3 +53,6 @@ The Secondary 1 and 2 (Normal Technical) students visited the Battle Box at Fort
 The underground bunker setting provided an authentic learning experience for students as they journeyed through the corridors of a key installation during Singapore's darkest period in history. During the tour, students were captivated by the interesting stories and also came up close and personal with historical artefacts.  
   
 The experience was both immersive and enriching as it allowed students to develop a greater appreciation for Singapore's historical background.
+
+### [SEC 2 GEOGRAPHICAL INQUIRY IN TIONG BAHRU](/Sec-2-Geographical-Inquiry-in-Tiong-Bahru/permalink/)
+
