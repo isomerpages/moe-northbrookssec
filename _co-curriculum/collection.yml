@@ -2,12 +2,12 @@ collections:
   co-curriculum:
     output: true
     order:
-      - CCA/Visual & Performing Arts.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/Sports & Games.md
       - CCA/Clubs & Societies.md
       - CCA/Uniformed Groups.md
+      - CCA/Visual & Performing Arts.md
       - CCE/.keep
       - CCE/CCE.md
       - CCE/Cyber Wellness (CW).md
