@@ -3,7 +3,7 @@ title: Basketball
 permalink: /Basketball/permalink/
 description: ""
 ---
-### Basketball
+# Basketball
 ![](/images/basketball1.png)
 
 ##### Teachers-in-Charge
@@ -69,5 +69,3 @@ Fridays -&nbsp;1.00pm-4.00pm
 
 ##### Links:
 [http://redsports.sg](https://www.redsports.sg/)
-
-
