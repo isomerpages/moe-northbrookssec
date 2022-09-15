@@ -35,17 +35,3 @@ A group of 5 teachers and 35 members from the UGs embarked on a cultural immersi
 
 During the March holidays, 18-20 March 2013, a group of 78 members from the six UGs embarked on a service learning project in Batam. The trip raised students’ awareness of the realities and needs of the global community and provided opportunities for students to live out the school values by carrying out meaningful projects. In collaboration with a non-governmental organization, students were involved in the planning and organising of an outreach programme for two orphanages in Batam, Indonesia. The programme included mural and outdoor painting, assembling shoe racks and cabinets, cleaning and moving of construction materials, repairing building edges, cleaning and rearranging thebook shelves, organizing games for the orphans and installing a pulley clothes hanger. Apart from providing authentic platform for leadership development, the trip offered an excellent opportunity for students to acquire valuable life skills such as project management, teamwork, and relationship management.
 
-Boys' Brigade
-=============
-
-![](/images/2021_BB_Cover.jpeg)
-
-##### Teachers-in-Charge
-
-1\. Mr Paul Tham (Advisor)  
-2\. Mr Huang Kee Hong (Teacher-in-charge)3\. Ms Chelsea Mun Jie Yi, Carine (2 Teacher-in-charge)
-
-##### Training Day / Time
-
-Mondays, 3.30pm - 6.30pm  
-Alternate Saturdays, 9.00am - 12.00pm
