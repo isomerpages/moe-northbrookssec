@@ -22,3 +22,5 @@ The CCA will also plan termly sports and games activities throughout the year to
 ## [INFOCOMM CLUB](/Infocomm-Club/permalink/)
 
 ## [AVA CLUB](/AVA-club/permalink/)
+
+## [ENVIRONMENTAL ART CLUB](/Environmental-Art-Club/permalink/)
