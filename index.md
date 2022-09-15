@@ -21,4 +21,10 @@ sections:
       url: /people/students/permalink/
       image: /images/Students.png
       alt: Image alt text
+  - infopic:
+      title: PARENTS
+      description: Useful Links for Parents
+      button: For Parents
+      url: /people/Parents/Useful-Links-for-Parents/permalink/
+      alt: Image alt text
 ---
