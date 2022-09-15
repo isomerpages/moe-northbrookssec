@@ -2,8 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Staff Achievements/Staff Achievements.md
-      - Staff Achievements/.keep
       - School Achievements/.keep
       - School Achievements/School Achievements.md
       - School Achievements/Northbrooks in the News 2020 to 2021.md
@@ -15,3 +13,5 @@ collections:
       - Academic Achievements/Our Academic Achievements 2018.md
       - CCA Achievements/.keep
       - CCA Achievements/CCA Achievements.md
+      - Staff Achievements/.keep
+      - Staff Achievements/Staff Achievements.md
