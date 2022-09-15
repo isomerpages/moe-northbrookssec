@@ -18,7 +18,7 @@ sections:
   - infopic:
       title: STUDENTS
       button: For Students
-      url: /people/students
+      url: /people/students/
       image: /images/Students.png
       alt: Image alt text
 ---
