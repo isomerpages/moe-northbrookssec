@@ -25,3 +25,5 @@ Performing Arts CCAs provide opportunities for students to develop a lifelong pa
 ## [GUITAR ENSEMBLE](/Guitar-Ensemble/permalink/)
 
 ## [GUZHENG ENSEMBLE](/Guzheng-Ensemble/permalink/)
+
+## [MODERN DANCE](/Modern-Dance/permalink/)
