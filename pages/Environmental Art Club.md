@@ -175,3 +175,5 @@ Since the start of secondary 1, this CCA has been a fun and creative space for m
 EAC has given me the opportunity to improve my leadership skills and allowed me to fine tune my stained glass cutting/ sharpening skills.
 
 To me, EAC is full of talented people from many walks of life!
+
+## [GREEN LIVING AT NEE SOON EAST 2014](/Green-Living-at-Nee-Soon-East-2014/permalink/)
