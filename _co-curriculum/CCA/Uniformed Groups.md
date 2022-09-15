@@ -39,3 +39,5 @@ During the March holidays, 18-20 March 2013, a group of 78 members from the six 
 ## [BOYS' BRIGADE](/Boys-Brigade/permalink/)
 
 ## [NATIONAL CADET CORPS (AIR)](/National-Cadet-Corps-Air/permalink/)
+
+## [NATIONAL POLICE CADET CORPS](/National-Police-Cadet-Corps/permalink/)
