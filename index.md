@@ -15,4 +15,10 @@ sections:
         - title: "School announcements "
           description: ""
           url: /announcements/permalink/
+  - infopic:
+      title: STUDENTS
+      button: For Students
+      url: /people/students
+      image: /images/Students.png
+      alt: Image alt text
 ---
