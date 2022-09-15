@@ -57,3 +57,5 @@ The experience was both immersive and enriching as it allowed students to develo
 ### [SEC 2 GEOGRAPHICAL INQUIRY IN TIONG BAHRU](/Sec-2-Geographical-Inquiry-in-Tiong-Bahru/permalink/)
 
 ### [SEC 1 GEOGRAPHICAL INQUIRY AT LOWER SELETAR RESERVOIR](/Sec-1-Geographical-Inquiry-at-Lower-Seletar-Reservoir/permalink/)
+
+### [SEC 4 GEOGRAPHICAL INQUIRY IN CHINATOWN](/Sec-4-Geographical-Inquiry-in-Chinatown/permalink/)
