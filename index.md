@@ -13,10 +13,10 @@ sections:
           description: ""
           url: /achievements/permalink/
         - title: News
-          description: ""
-          url: /announcements/permalink/
-        - title: Acheivements
-          description: ""
+          description: Northbrooks in the News
+          url: /achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/permalink/
+        - title: Achievements
+          description: Northbrooks Achievements
           url: /achievements/permalink/
   - infopic:
       title: STUDENTS
