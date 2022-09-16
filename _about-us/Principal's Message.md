@@ -8,23 +8,13 @@ Principal's Message
 
 
 
-
-
-<div>
-
-<div style="float: right">
-
-![](/images/123.png)
-
-</div><div>
-
 A warm welcome to Northbrooks Secondary School!
 
   
 
 I feel honoured and privileged to be the Principal of Northbrooks, carrying forward the good work done by my predecessors.
 
-</div></div>
+![](/images/123.png)
 
 
 
