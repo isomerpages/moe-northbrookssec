@@ -2,6 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Privacy Statement.md
       - Teachers.md
       - Frequently Asked Questions.md
+      - Privacy Statement.md
