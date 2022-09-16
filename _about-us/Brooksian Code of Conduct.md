@@ -1,6 +1,6 @@
 ---
 title: Brooksian Code of Conduct
-permalink: /about-us/brooksian-code-of-conduct/permalink
+permalink: /about-us/brooksian-code-of-conduct/permalink/
 description: ""
 ---
 Brooksian Code of Conduct
@@ -21,8 +21,6 @@ Flag Raising Ceremony
 * * *
 
   
-
----
 
 The Brooksian Uniform
 ---------------------
