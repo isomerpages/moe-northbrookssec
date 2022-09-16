@@ -12,4 +12,4 @@ description: ""
 * [Sec 3 Subject combination information](/people/Parents/Sec-3-Subject-combination-information/permalink/)
 
 * [Activation of Device Management Application (DMA) Parent Portal](/people/Parents/National-Digital-Literacy-Programme-NDLP/permalink/)
-* 
+* [Click here to view the EOY Examination Timetable](/people/Students/Tests-and-Examinations/permalink/)
