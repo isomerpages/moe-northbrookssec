@@ -101,3 +101,8 @@ Useful Links for Parents
   </tr>
 </tbody>
 </table>
+
+Useful Links for Parents
+========================
+### Useful Links (Internal) 
+* [Application Form for Leave of Absence](https://form.gov.sg/#!/60cc38174363940011bb95a3): For parents who wish to apply leave of absence for their child.
