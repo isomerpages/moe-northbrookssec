@@ -10,7 +10,7 @@ Northbrooks will be embarking in 6 new areas starting from 2021. This will affec
 
 ##### 1.  Sec One First Day and Orientation
 ![](/images/Sec%201%20Orientation%20.jpeg)
-Click [here]() for more information
+[Click here for more information](/files/Sec%201%20Orientation_2022%2024%20Dec.pdf)
 
 ###### First Day at Northbrooks Secondary School
 <style type="text/css">
