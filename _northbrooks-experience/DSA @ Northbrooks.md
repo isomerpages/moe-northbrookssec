@@ -20,7 +20,7 @@ The Direct School Admission (DSA) is an opportunity for Primary 6 students to di
 
 2. [Outdoor Adventure](/Outdoor-Adventure-Club/permalink/)
 
-3. [Leadership](https://northbrookssec-moe-edu-sg-admin.cwp.sg/co-curriculum/student-leadership-programme)
+3. [Leadership](/co-curriculum/Student-Leadership-Programme/Student-Leadership-Programme/permalink/)
 
 4. [Floorball (Boys)](https://northbrookssec-moe-edu-sg-admin.cwp.sg/co-curriculum/cca/sports-n-games/floorball)
 
