@@ -12,7 +12,19 @@ _(Compulsory for all Sec 1 students including students who have the intention to
 
 Parents/Guardians and students are **strongly encouraged to complete the registration online**.
 
+If you choose to come to school for registration on **23 December 2021**, please click [here](https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/People/Parents/Sec%201%20Registration%20(2022%20Intake)/On-site%202022.jpg) & note the following:
 
+*   Duration of on-site registration: 8.00 am – 12.00 pm
+*   Both parents & students must be fully vaccinated. Students who are 12 and below are exempted from this measure.
+*   They are subjected to Safe Management Measures (SMM).
+*   No parking is allowed in school as the carpark is for season parking only.   
+    Parent with vehicle is allowed to enter the school for drop-off or pick-up passenger only.  
+    Nearest public carparks are available at MSCP (Multi-Storey Car Park) of Blk 441 Yishun Ave 11, Blk 674 Yishun Ave 4 and Blk 456A Yishun Street 41.
+*   For any enquiry, please approach the staff at General Office.  
+      
+    
+
+Students would be able to know the class allocation via [Parents Gateway App](https://northbrookssec-moe-edu-sg-admin.cwp.sg/people/parents/sec-1-registration-2021-intake/section-4-others) by 31 December 2021, 5 pm.
 
 
 ##### Step 1: E-Registration
