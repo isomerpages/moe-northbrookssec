@@ -18,7 +18,7 @@ The Direct School Admission (DSA) is an opportunity for Primary 6 students to di
 **Northbrooks Secondary School** offers DSA in the following areas in 2022:
 1. [Aerospace](/Youth-Flying-Club/permalink/)
 
-3. [Outdoor Adventure](https://northbrookssec-moe-edu-sg-admin.cwp.sg/co-curriculum/cca/sports-n-games/outdoor-adventure-club)
+2. [Outdoor Adventure](/Outdoor-Adventure-Club/permalink/)
 
 3. [Leadership](https://northbrookssec-moe-edu-sg-admin.cwp.sg/co-curriculum/student-leadership-programme)
 
