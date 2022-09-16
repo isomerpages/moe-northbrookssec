@@ -24,7 +24,7 @@ The Direct School Admission (DSA) is an opportunity for Primary 6 students to di
 
 4. [Floorball (Boys)](/Floorball/permalink/)
 
-5. [Guzheng Ensemble](https://northbrookssec-moe-edu-sg-admin.cwp.sg/co-curriculum/cca/visual-n-performing-arts/guzheng-ensemble)
+5. [Guzheng Ensemble](/Guzheng-Ensemble/permalink/)
 
 6. [Modern Dance](https://northbrookssec-moe-edu-sg-admin.cwp.sg/co-curriculum/cca/visual-n-performing-arts/modern-dance)
 
