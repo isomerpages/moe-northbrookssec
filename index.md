@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: "School announcements "
           description: ""
-          url: /achievements/permalink/
+          url: /announcements/permalink/
         - title: News
           description: Northbrooks in the News
           url: /achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/permalink/
