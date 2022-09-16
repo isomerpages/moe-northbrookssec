@@ -139,14 +139,14 @@ Applicants will be notified of the outcome of the application via a letter by Mo
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-l2bf">Dates</th>
-    <th class="tg-l2bf">Process</th>
+    <th class="tg-4ufn">Dates</th>
+    <th class="tg-4ufn">Process</th>
   </tr>
 </thead>
 <tbody>
