@@ -17,6 +17,7 @@ Click below to access more information Briefing for Sec 1 Parents/Guardian 2022
 *   [Parent Handbook II on Learning with a PLD](/files/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)
 *   [Northbrooks Letter to Parents for PDLP Procurement](/files/Northbrooks%20Letter%20to%20Parents%20for%20PDLP%20Procurement_7%20Feb%20_P.pdf)
 
+
 #### Digital Learning @ Northbrooks
 
 #### Activation of Device Management Application (DMA) Parent Portal
@@ -49,10 +50,10 @@ below (under Resources) & fill-up the form [here](https://go.gov.sg/northbro
 #### Resources
 Click below to access more information on the personal learning device (PLD)
 
-*  doc in google drive
-*    file exceed 5mb
-*   doc in google drive
-*   video not uploaded via Youtube
+*  [Parent Handbook (I) on 1-to-1 Learning](https://drive.google.com/file/d/1PBDppnB2jLrxFrgxU0GYDF8-lwl0CIpU/view)
+*    
+*   
+*  
 *    **Information on Device Management Application (DMA) Settings**
 
 [Functions of the DMA During School Hours](/files/Functions%20of%20the%20DMA%20During%20School%20Hours.pdf)
@@ -61,6 +62,11 @@ Click below to access more information on the personal learning device (PLD)
 
 [Privacy and Data Security](/files/Privacy%20and%20Data%20Security.pdf)
 
+[DMA Parent Guide v2.0 - Default (iPadOS)](/files/iPadOS.pdf)
+
+[DMA Parent Guide v2.0 - Option A (iPadOS)](/files/ipad.pdf)
+
+[DMA Parent Guide v2.0 - Option B (iPadOS)](/files/ipad2.pdf)
 
 *   Student iCON Forget Password: [https://](https://northbrookssec-moe-edu-sg-admin.cwp.sg/people/students/goog_1360109335)[go.gov.sg/northbrooksresetpassword](http://go.gov.sg/northbrooksresetpassword)
 
