@@ -16,8 +16,8 @@ sections:
           description: ""
           url: /announcements/permalink/
         - title: Acheivements
-          description: "Northbrooks in the News "
-          url: /achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/permalink/
+          description: ""
+          url: /achievements/permalink/
   - infopic:
       title: STUDENTS
       button: For Students
