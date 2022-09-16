@@ -8,23 +8,20 @@ Overseas Exchange Programme
 ===========================
 
 
-<figure>
+
 
 ![](/images/Overseas_Perth.jpeg)
 
-<figcaption> <strong> Twinning programme with Morley Senoir High School, Perth, Australia. </strong> </figcaption>
-
-</figure>
+Twinning programme with Morley Senoir High School, Perth, Australia. 
 
 
 
-<figure>
+
 
 ![](/images/OEP.png)
 
-<figcaption> <strong> Twinning programme with Tomeikan Junior & Senoir High School, Fukuoka, Japan. </strong> </figcaption>
+Twinning programme with Tomeikan Junior & Senoir High School, Fukuoka, Japan.
 
-</figure>
 
 ## Youth Mission to Mars (13-17 June)
 
