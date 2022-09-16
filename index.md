@@ -10,8 +10,8 @@ sections:
       background: /images/Background.gif
       key_highlights:
         - title: "News & Achievements "
-          description: Important highlight A is important
-          url: https://google.com
+          description: ""
+          url: /achievements/permalink/
         - title: "School announcements "
           description: ""
           url: /announcements/permalink/
