@@ -25,13 +25,11 @@ Fridays, 2.30pm - 5.30pm
 
 
 
-<div>
 
-<div style="float: right">
 
 ![](/images/ODAC.png)
 
-</div><div>
+
 
 1.  Kayaking&nbsp;&nbsp;1-star certificate
 2.  Rock climbing Level 1 certificate
@@ -43,7 +41,7 @@ Fridays, 2.30pm - 5.30pm
 8.  Termly hikes
 9.  Malaysia Hiking Trip
 
-</div></div>
+
 
 **Competitions**  
 National Orienteering Race  
@@ -63,23 +61,19 @@ Singapore National Games (Adventure Race @ Sentosa)
 
 
 
-<figure>
+
 
 ![](/images/ODAC1.png)
 
-<figcaption> <strong> 1st position - C Division Girls </strong> </figcaption>
-
-</figure>
+ 1st position - C Division Girls
 
 
-
-<figure>
 
 ![](/images/ODAC3.png)
 
-<figcaption> <strong> 2nd position - B Division Girls </strong> </figcaption>
+ 2nd position - B Division Girls 
 
-</figure>
+
 
 - Asian Orienteering Championships
 
