@@ -201,7 +201,7 @@ Please ensure that you obtain the School Approval letter before collecting your 
 
 **_(Applicable to some students)_**
 
-[Click here for more information ]()
+[Click here for more information ](/files/MTL%20SOP_FAQ.pdf)
 
 **_Higher Mother Tongue_**
 
