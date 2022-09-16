@@ -9,12 +9,15 @@ sections:
   - hero:
       background: /images/Background.gif
       key_highlights:
-        - title: "News & Achievements "
-          description: ""
-          url: /achievements/permalink/
         - title: "School announcements "
           description: ""
+          url: /achievements/permalink/
+        - title: News
+          description: ""
           url: /announcements/permalink/
+        - title: Acheivements
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: STUDENTS
       button: For Students
