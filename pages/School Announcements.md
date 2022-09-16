@@ -13,3 +13,4 @@ description: ""
 
 * [Activation of Device Management Application (DMA) Parent Portal](/people/Parents/National-Digital-Literacy-Programme-NDLP/permalink/)
 * [Click here to view the EOY Examination Timetable](/people/Students/Tests-and-Examinations/permalink/)
+* [Please click the link for Nomination for Edusave Character Award (ECHA) and Brooksian Core Value (BCV) Award ](/co-curriculum/CCE/Edusave-Character-Award-ECHA-and-Brooksian-Core-Values-BCV-Award/permalink/)
