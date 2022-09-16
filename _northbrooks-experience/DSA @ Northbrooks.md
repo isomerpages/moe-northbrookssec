@@ -30,7 +30,7 @@ The Direct School Admission (DSA) is an opportunity for Primary 6 students to di
 
 7. [Concert Band ](/Concert-Band/permalink/)
 
-8. [Badminton](https://northbrookssec-moe-edu-sg-admin.cwp.sg/co-curriculum/cca/sports-n-games/badminton)
+8. [Badminton](/Badminton/permalink/)
 
 About Northbrooks
 
