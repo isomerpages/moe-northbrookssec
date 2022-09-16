@@ -10,7 +10,7 @@ School Timetable
 ### 2022 Semester 1 Timetable (w.e.f 21 Feb 2022)
 ---------------------------------------------
 
-[Click](https://northbrookssec-moe-edu-sg-admin.cwp.sg/#) here to view the timetable
+Click here to view the timetable
 
 (Updated on 16 February 2022)
 
