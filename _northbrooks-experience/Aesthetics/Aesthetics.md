@@ -4,7 +4,6 @@ permalink: /northbrooks-experience/Aesthetics/permalink/
 description: ""
 third_nav_title: Aesthetics
 ---
-
 Aesthetics
 ==========
 
@@ -32,13 +31,11 @@ Based on Northbrooks Strategy Map for 2019 to 2023, the Aesthetics domain adopts
 
 
 
-<figure>
 
+###### 3E Approach to Aesthetics (Exposure, Engagement and Empowerment)
 ![](/images/Aesthetic%202022.png)
 
-<figcaption> <strong> 3E Approach to Aesthetics (Exposure, Engagement and Empowerment) </strong> </figcaption>
 
-</figure>
 
 The **3E Approach** is one of the school’s strategic objectives to “cultivate an appreciation for the Arts” under the Strategic Thrust 2 of Quality Programme for ChAMPS Development. It supports the eventual Student Outcome of “an expressive individual who displays an appreciation for the Arts”.  
 
