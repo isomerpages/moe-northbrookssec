@@ -16,33 +16,19 @@ The Student Council consists of students leaders who have gone through a rigorou
 The Student Council Executive Committee charts the direction of the events of the year under the guidance of the Council teachers. Their primary roles are to lift the school spirit and to be a voice for the student population.
 
 
-<figure>
-
+###### Student Leaders Investiture
 ![](/images/StudentCouncil1.jpeg)
 
-<figcaption> <strong> Student Leaders Investiture </strong> </figcaption>
-
-</figure>
 
 
 
-<figure>
-
+###### Teachers’ Day Concert
 ![](/images/StudentCouncil2.jpeg)
 
-<figcaption> <strong> Teachers’ Day Concert </strong> </figcaption>
 
-</figure>
-
-
-
-<figure>
-
+###### Student Leaders’ Conference
 ![](/images/StudentCouncil3.jpeg)
 
-<figcaption> <strong> Student Leaders’ Conference</strong> </figcaption>
-
-</figure>
 
 #### Signature Programmes
 <style type="text/css">
@@ -86,6 +72,3 @@ The Student Council Executive Committee charts the direction of the events of th
   </tr>
 </tbody>
 </table>
-
-
-
