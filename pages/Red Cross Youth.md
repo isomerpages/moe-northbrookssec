@@ -19,13 +19,8 @@ Wednesday, 3.45pm - 6.15pm
 
 
 
-<div>
-
-<div style="float: right">
-
 ![](/images/YOUTH.png)
 
-</div><div>
 	
 ### Objectives:
 	
@@ -36,33 +31,20 @@ Red Cross Youth (Singapore) seeks to:
 *   Develop a sense of social responsibility.
 *   Strengthen the band of international friendship existing between Red Cross Youth members throughout the world.
 
-</div></div>
+
 
 ![](/images/youth2.jpg)
-
 In Northbrooks Red Cross Youth, we seek to develop our cadets holistically. Through the activities organized for cadets, both at the school unit level as well as the national level, cadets will be exposed to numerous opportunities where they can learn both the hard and the soft skills. The hard skills include how to perform standard first aid, evacuation, foot drill, along with outdoor activity skills such as setting up campfires and tent pitching.&nbsp;We also participate in various competitions, organized at the national level, so that our cadets can gain more exposure and hone their skills at an inter-school level such as the Current Affairs Competition and First Aid Competition.
 
 
-
-<figure>
-
 ![](/images/youth.png)
-
-<figcaption> <strong> National First Aid Competition 2014- Champion (North District) </strong> </figcaption>
-
-</figure>
+National First Aid Competition 2014- Champion (North District) 
 
 Not to forget, our cadets are a valuable asset as they tirelessly performed first aid duties during school events such as the Cross Country, Sports Day, and Speech Day. Amidst these commitments, yearly visits are made to an elderly home so that cadets can do their part for the community and learn valuable life experiences from their senior friends at the Home.
 
 
-
-<figure>
-
 ![](/images/youth3.png)
-
-<figcaption> <strong> Visit to Khoo Teck Phuat Hospital as part of our Community Involvement Programme </strong> </figcaption>
-
-</figure>
+Visit to Khoo Teck Phuat Hospital as part of our Community Involvement Programme
 
 Through these activities, we hope that our cadets will develop a passion for learning, strong moral values and a keen sense of duty and community.
 
@@ -162,7 +144,7 @@ Through these activities, we hope that our cadets will develop a passion for lea
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-6lcs" colspan="2">Excellence Unit Award(EUA)</th>
+    <th colspan="2" class="tg-6lcs">Excellence Unit Award(EUA)</th>
   </tr>
 </thead>
 <tbody>
