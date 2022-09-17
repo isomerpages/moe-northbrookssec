@@ -8,14 +8,10 @@ Parent Support Group (PSG)
 ==========================
 
 
-<figure>
 
 ![](/images/PSG%202019.jpeg)
 
-<figcaption> <strong> From L to R : Mdm Martha Ng, Mdm Stella Ng, Mdm Vivien Tay, Mr Desmond Soh, Mdm Yasmin, Mdm Wati, Mrs Kerine Goe </strong> </figcaption>
-
-</figure>
-
+From L to R : Mdm Martha Ng, Mdm Stella Ng, Mdm Vivien Tay, Mr Desmond Soh, Mdm Yasmin, Mdm Wati, Mrs Kerine Goe 
 
 
 <div>
@@ -28,7 +24,7 @@ Parent Support Group (PSG)
 
 Dear Parents,   
 
-#### “To share the responsibility and work in partnership with our school to develop our children’s potential.”
+##### “To share the responsibility and work in partnership with our school to develop our children’s potential.”
 
   
 
