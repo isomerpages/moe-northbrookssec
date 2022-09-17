@@ -9,41 +9,15 @@ Northbrooks Interact Green Club members participated in the yearly Nee Soon East
 
 
 
-<figure>
 
 ![](/images/Green1.jpg)
-
-<figcaption> <strong> A resident having fun trying out one of the game booths created by Interactors using recycled materials. </strong> </figcaption>
-
-</figure>
-
-
-
-<figure>
+A resident having fun trying out one of the game booths created by Interactors using recycled materials. 
 
 ![](/images/Green2.jpg)
-
-<figcaption> <strong> Rotarian of Pandan Valley participating in the community wall mural painting with an Interactor. </strong> </figcaption>
-
-</figure>
-
-
-
-
-<figure>
+Rotarian of Pandan Valley participating in the community wall mural painting with an Interactor. 
 
 ![](/images/Green3.jpg)
-
-<figcaption> <strong> MP Mr Patrick Tay browsing Project Kaleidoscope, an Interact Green Club project sponsored by the Rotary Club of Pandan Valley. </strong> </figcaption>
-
-</figure>
-
-
-
-<figure>
+MP Mr Patrick Tay browsing Project Kaleidoscope, an Interact Green Club project sponsored by the Rotary Club of Pandan Valley. 
 
 ![](/images/Green4.jpg)
-
-<figcaption> <strong> The opening ceremony of the community wall mural by MP Mr Patrick Tay Teck Guan, BBM. , Nee Soon East GRC.</strong> </figcaption>
-
-</figure>
+The opening ceremony of the community wall mural by MP Mr Patrick Tay Teck Guan, BBM. , Nee Soon East GRC.
