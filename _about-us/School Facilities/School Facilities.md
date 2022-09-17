@@ -46,47 +46,38 @@ School Facilities
 ### [Champion's Lodge](/about-us/School-Facilities/Champions-Lodge/permalink/)
 
 
-<figure>
 
 ![](/images/12345.png)
 
-<figcaption> <strong> Space for all Brooksians to unwind during after-school hours </strong> </figcaption>
+ Space for all Brooksians to unwind during after-school hours 
 
-</figure>
 
 ### [Arts Space](/about-us/School-Facilities/Arts-Space/permalink/)
 
 
 
-<figure>
-
 ![](/images/123456.png)
 
-<figcaption> <strong> Common space for students to showcase artistic works </strong> </figcaption>
+Common space for students to showcase artistic works 
 
-</figure>
+
 
 ### [Vertical Green Wall](/curriculum/Science-Department/Vertical-Green-Wall/permalink/)
 
 
 
-<figure>
-
 ![](/images/1234567.png)
 
-<figcaption> <strong> 8 species of vertical green wall </strong> </figcaption>
+8 species of vertical green wall 
 
-</figure>
+
 
 ### [EBS Room](/curriculum/ITCPA-and-EBS-Department/Elements-of-Business-Skills-EBS-Room/permalink/)
 
 
 
-<figure>
+
 
 ![](/images/123456789.png)
 
-<figcaption> <strong> Learning station to showcase the service industries </strong> </figcaption>
-
-</figure>
-
+Learning station to showcase the service industries 
