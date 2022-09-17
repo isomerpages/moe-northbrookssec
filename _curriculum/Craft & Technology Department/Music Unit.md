@@ -48,33 +48,17 @@ Music soothes the soul and makes a child whole! In our General Music Programme (
 </table>
 
 
-
-<figure>
-
 ![](/images/Music1.jpg)
 
-<figcaption> <strong> Students learning how to play the ukulele on the iPad. </strong> </figcaption>
-
-</figure>
-
-
-<figure>
+Students learning how to play the ukulele on the iPad. 
 
 ![](/images/Music2.jpg)
 
-<figcaption> <strong> Besides learning as a class, students also get an opportunity to do peer teaching when learning how to play the guitar.</strong> </figcaption>
+Besides learning as a class, students also get an opportunity to do peer teaching when learning how to play the guitar. 
 
-</figure>
-
-
-
-<figure>
 
 ![](/images/Music3.jpg)
-
-<figcaption> <strong> Students practising in their respective iBand to put up class performance. </strong> </figcaption>
-
-</figure>
+Students practising in their respective iBand to put up class performance. 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -114,13 +98,7 @@ Music soothes the soul and makes a child whole! In our General Music Programme (
 
 
 
-<figure>
 
 ![](/images/Music4.jpeg)
 
-<figcaption> <strong> Students from Sec. 2 NT performing an item for Brooksian Talent Showcase. </strong> </figcaption>
-
-</figure>
-
-
-
+Students from Sec. 2 NT performing an item for Brooksian Talent Showcase. 
