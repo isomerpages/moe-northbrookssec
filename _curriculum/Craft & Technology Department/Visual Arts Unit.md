@@ -11,13 +11,7 @@ The Visual Arts Unit in Northbrooks Secondary School aims to enable every Brooks
 
 
 
-<div>
-
-<div style="float: left">
-
 ![](/images/visualarts.gif)
-
-</div><div>
 
 #### **Visually Literate**
 
@@ -33,7 +27,7 @@ Brooksians will be able to:
 *   See the value and recognise the relevance of art in their lives.
 *   Articulate their interpretation of artworks.
 
-</div></div>
+
 
 **Annual Art & Design Exhibition**
 ----------------------------------
