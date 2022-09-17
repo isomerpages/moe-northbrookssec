@@ -118,3 +118,17 @@ Useful Links for Parents
 * [Sexuality Education](/co-curriculum/CCE/Sexuality-Education-Programme/permalink/)
    -    Information on Sexuality Education Programme in Northbrooks Secondary School
    -    Opt-out form
+
+* [CCA Information & Teachers-in-charge](/co-curriculum/CCA/CCA/permalink/)
+   - CCA Schedule, Venues and Teacher-in-charge
+
+### Useful Links (External)
+* 2 New Shows on Making Informed Choices: Two new programmes about the choices young people make, and how the adults in their lives can guide them in their journey through life.
+   - [En Route, Onward](https://www.youtube.com/watch?v=D_dUaw_Bk4E): En Route, Onward is a 4-episode Chinese Language documentary series that tells the real-life stories of four remarkable individuals and their journey to success, defined in their own terms.
+   - [Heart To Heart Talk Episode 1: Dare To Dream](https://www.youtube.com/watch?v=oErCODtoqWI): Heart to Heart Talk (HTHT) features students having a frank chat about the future with their parents, mentors, and industry professionals.
+
+* [School Finder](https://www.moe.gov.sg/schoolfinder/)
+
+   - Explore a list of schools based on school type, distance and location, and what programmes they offer.
+
+* 
