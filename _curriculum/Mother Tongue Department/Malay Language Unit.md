@@ -19,14 +19,9 @@ Diharapkan dengan cara ini, kami dapat menghasilkan para pelajar yang mempunyai 
 ---------------------------------
 
 
-
-<div>
-
-<div style="float: right">
-
 ![](/images/malaylanguageunit.png)
 
-</div><div>
+
 
 Sempena Program Dwi Minggu Bahasa Ibunda, Unit Bahasa Melayu telah mengadakan pelbagai aktiviti yang meluaskan pengetahuan murid tentang adat, budaya dan Bahasa Melayu. Antara aktivit-aktiviti yang dijalankan di Sekolah Menengah Northbrooks adalah Reel Penyiaran Program Kewartawanan (Melayu), yang dijalankan oleh Encik Sujimy Mohamad, Ketua Pegawai Eksekutif Screenbox Pte Ltd. Aktiviti ini diadakan khas buat pelajar menengah 2 Ekspres.  
   
@@ -34,6 +29,4 @@ Sempena Program Dwi Minggu Bahasa Ibunda, Unit Bahasa Melayu telah mengadakan pe
 Para pelajar didedahkan kepada kepengacaraan dan kewartawanan, serta keperluan untuk menyesuaikan diri dengan disiplin apabila bekerja di bawah tekanan dan mematuhi tarikh akhir yang ketat. Program ini berakhir dengan lawatan ke studio Screenbox Pte Ltd. Para pelajar diberi peluang untuk mengedit video mentah dan menghasilkan sebuah video yang berlangsung selama 1 minit.
 
 Video ini disiarkan di seluruh sekolah. Para pelajar amat teruja dengan aktiviti ini kerana ini adalah pertama kali pelajar didedahkan kepada penghasilan video secara autentik.
-
-</div></div>
 
