@@ -21,33 +21,18 @@ Northbrooks believes that every student will build strong bonds, develop resili
 
 
 
-<figure>
 
+###### Rock-Climbing 
 ![](/images/Adventure1.png)
 
-<figcaption> <strong> Rock-Climbing </strong> </figcaption>
 
-</figure>
-
-
-
-<figure>
-
+###### Abseiling 
 ![](/images/Adventure2.png)
 
-<figcaption> <strong> Abseiling </strong> </figcaption>
-
-</figure>
-
-
-
-<figure>
-
+###### Orienteering
 ![](/images/Adventure3.png)
 
-<figcaption> <strong> Orienteering </strong> </figcaption>
 
-</figure>
 
 **Sports Carnival**  
 
