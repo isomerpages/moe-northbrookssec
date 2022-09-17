@@ -20,7 +20,7 @@ Alumni
 
 Northbrooks Secondary School Alumni aims to foster closer ties between the school and our former students. We hope to form a network through this site so that even when you are abroad, you will still be connected and be informed of the events in our school.  
    
-	</div>
+</div>
 Our Alumni is active in the following areas: 
 
 *   Typing/ Using data management
