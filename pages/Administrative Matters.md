@@ -44,13 +44,10 @@ Complete the e-Registration by completing the 2 online forms using the link belo
 
 
 
-<div>
-
-<div style="float: left">
 
 ![](/images/QR.png)
 
-</div><div>
+
 
 It is a RIASEC self-assessment tool that allows us to better understand your child's personality, strengths, and work values and the information from the survey will provide us with more opportunities to better guide and support them in exploring their career aspirations. Our Education and Career Guidance (ECG) programmes can also be better tailored and planned by taking into consideration the students’ preferences and enable them to explore their passions and pursue their areas of interest where possible. RIASEC represents six broad areas (Realistic, Investigative, Artistic, Social, Enterprise, and Conventional) into which all careers can be classified.
 
