@@ -83,7 +83,7 @@ There is a need to tier student leaders into different categories so as to track
   </tr>
 </tbody>
 </table>
-</table>
+
 
 #### **Signature Programmes:**
 <style type="text/css">
@@ -132,32 +132,18 @@ The teachers are also kept abreast with the youth development scene in Singapore
 
 
 
-<figure>
 
+###### Experiential Learning Workshop
 ![](/images/slp1.jpeg)
 
-<figcaption> <strong>Experiential Learning Workshop </strong> </figcaption>
-
-</figure>
 
 
 
-<figure>
 
+###### Visit to MOX studio
 ![](/images/slp2.jpeg)
 
-<figcaption> <strong> Visit to MOX studio </strong> </figcaption>
-
-</figure>
 
 
-
-<figure>
-
+###### Visual Facilitation Workshop
 ![](/images/slp3.jpeg)
-
-<figcaption> <strong> Visual Facilitation Workshop </strong> </figcaption>
-
-</figure>
-
-
