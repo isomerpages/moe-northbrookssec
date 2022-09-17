@@ -111,7 +111,8 @@ Through blended learning, we hope to nurture self-directed and independent learn
 The school values its partnership with all Parents/Guardians. This is key in supporting your child. We would like to invite you to join the Parents Support Group (PSG). If you are keen, please complete the [PSG Enrolment Form ](https://form.gov.sg/#!/6195f5fda342eb0012556896). Thank You.
 ![](/images/PSG1.jpeg)
  _Click here for more information_
-------------------------------------------------
+
+
 Please email Ms Veron at [**veron\_dreamz@hotmail.com**](mailto:veron_dreamz@hotmail.com) if you have any enquiry about PSG.
 
 ##### 6\. Primary to Secondary School Transition
