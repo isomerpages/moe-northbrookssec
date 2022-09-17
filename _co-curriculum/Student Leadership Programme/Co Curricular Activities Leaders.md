@@ -17,42 +17,21 @@ The CCA leaders’ teachers work synergistically with the CCA teachers to harnes
 
 
 
-<figure>
-
+######  Facilitation Workshop
 ![](/images/CCA1.jpeg)
 
-<figcaption> <strong> Facilitation Workshop </strong> </figcaption>
 
-</figure>
-
-
-
-<figure>
-
+###### Temasek Leadership Challenge
 ![](/images/CCA2.jpeg)
 
-<figcaption> <strong> Temasek Leadership Challenge </strong> </figcaption>
-
-</figure>
 
 
-<figure>
-
+###### School Tour
 ![](/images/CCA3.jpeg)
-
-<figcaption> <strong>School Tour</strong> </figcaption>
-
-</figure>
-
-
-
-<figure>
-
+ 
+###### ActiveSG Youth Sports Leaders Camp
 ![](/images/CCA4.jpeg)
 
-<figcaption> <strong> ActiveSG Youth Sports Leaders Camp </strong> </figcaption>
-
-</figure>
 
 #### Signature Programmes
 
@@ -95,6 +74,3 @@ The CCA leaders’ teachers work synergistically with the CCA teachers to harnes
   </tr>
 </tbody>
 </table>
-
-
-
