@@ -33,40 +33,38 @@ Should you encounter technical issues with the DMA or wish to share with us any 
 
 
 
-<div>
 
-<div style="float: right">
 
 ![](/images/QR3.png)
 
-</div><div>
+
 
 Should you wish to reconsider the After-school DMA Option, please refer to the information on DMA Settings  
 below (under Resources) & fill-up the form [here](https://go.gov.sg/northbrooksafterschdmaoption) to change the After-school DMA Option.
 
-</div></div>
+
 
 
 #### Resources
 Click below to access more information on the personal learning device (PLD)
 
 *  [Parent Handbook (I) on 1-to-1 Learning](https://drive.google.com/file/d/1PBDppnB2jLrxFrgxU0GYDF8-lwl0CIpU/view)
-*    
-*   
-*  
+*    [Parent Handbook (II) on Learning with a PLD](https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Parents/NDLP/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)
+*   [Harnessing Technology for Teaching & Learning](https://drive.google.com/file/d/1qvo5DkQ5z8yFpS93_V3ShzddJABi_-zJ/view)
+*  [Students' Voices (1 to 1 device)](https://drive.google.com/file/d/1Cy7QVtRmDMA-p36-eu9E3Q2_IC0sIOJ0/view)
 *    **Information on Device Management Application (DMA) Settings**
 
-[Functions of the DMA During School Hours](/files/Functions%20of%20the%20DMA%20During%20School%20Hours.pdf)
+     - [Functions of the DMA During School Hours](/files/Functions%20of%20the%20DMA%20During%20School%20Hours.pdf)
 
-[Options for DMA Settings After School Hours](/files/Options%20for%20DMA%20Settings%20After%20School%20Hours.pdf)
+     - [Options for DMA Settings After School Hours](/files/Options%20for%20DMA%20Settings%20After%20School%20Hours.pdf)
 
-[Privacy and Data Security](/files/Privacy%20and%20Data%20Security.pdf)
+     - [Privacy and Data Security](/files/Privacy%20and%20Data%20Security.pdf)
 
-[DMA Parent Guide v2.0 - Default (iPadOS)](/files/iPadOS.pdf)
+     - [DMA Parent Guide v2.0 - Default (iPadOS)](/files/iPadOS.pdf)
 
-[DMA Parent Guide v2.0 - Option A (iPadOS)](/files/ipad.pdf)
+     - [DMA Parent Guide v2.0 - Option A (iPadOS)](/files/ipad.pdf)
 
-[DMA Parent Guide v2.0 - Option B (iPadOS)](/files/ipad2.pdf)
+      - [DMA Parent Guide v2.0 - Option B (iPadOS)](/files/ipad2.pdf)
 
 *   Student iCON Forget Password: [https://](https://northbrookssec-moe-edu-sg-admin.cwp.sg/people/students/goog_1360109335)[go.gov.sg/northbrooksresetpassword](http://go.gov.sg/northbrooksresetpassword)
 
