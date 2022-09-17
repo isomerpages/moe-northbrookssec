@@ -25,14 +25,8 @@ Sec 1 Registration 2022 Intake
 
 
 
-<div>
-
-<div style="float: right">
+Feedback on Sec 1 Registration
 
 ![](/images/QR4.png)
 
-</div><div>
 
-Feedback on Sec 1 Registration
-
-</div></div>
