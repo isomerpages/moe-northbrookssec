@@ -232,7 +232,7 @@ For students who are offering HCL, students are to indicate accept or reject the
 (iv) All appeals must be accompanied by relevant supporting documents, such as medical reports, letters from doctors.  
 (v) The staff at your child’s posted secondary school will help you to file your appeal. The appeal results will be released in early January.  
 (vi) If you intend to appeal for a transfer, your child must still report to their posted school on the first day of school in January. Refer to the posted school’s website for information on reporting details.
--------------------------------------
+
 
 
 **Transferring-in Cases:**
