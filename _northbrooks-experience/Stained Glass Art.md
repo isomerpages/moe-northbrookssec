@@ -18,34 +18,17 @@ The Visual Arts Unit takes part actively in Singapore Youth Festival (SYF) Art E
 
 
 
-<figure>
 
+##### Title: “The Return to Nature” Medium: Fused Glass
 ![](/images/Stain%20Glass%201.jpeg)
 
-<figcaption> <strong> Title: “The Return to Nature” Medium: Fused Glass </strong> </figcaption>
-
-</figure>
 
 
 
-<figure>
-
+##### Title: “The Progressing Singapore” Medium: Fused Glass 
 ![](/images/Stain%20Glass%202.jpeg)
 
-<figcaption> <strong> Title: “The Progressing Singapore” Medium: Fused Glass </strong> </figcaption>
 
-</figure>
-
-
-
-<figure>
-
+##### Title: “Remembering where we started” Medium: Fused Glass
 ![](/images/Stain%20Glass%203.jpeg)
-
-<figcaption> <strong> Title: “Remembering where we started” Medium: Fused Glass </strong> </figcaption>
-
-</figure>
-
-
-
 
