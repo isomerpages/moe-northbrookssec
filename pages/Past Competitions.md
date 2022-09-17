@@ -14,12 +14,9 @@ Four students, Seri, Nur Fidiah, Kenny and Jia Rou, participated in the St Marg
 Teacher-in-charge: Ms Foong Yin Ping
 
 
-<figure>
 
 ![](/images/Past.png)
-<figcaption> <strong> The team (L to R): Nurfidiah, Kenny, Jia Rou and Seri</strong> </figcaption>
-
-</figure>
+The team (L to R): Nurfidiah, Kenny, Jia Rou and Seri
 
 ### Singapore GeoSpatial Challenge 2013
 -----------------------------------
@@ -31,13 +28,12 @@ Teachers-in-charge: Ms Foong Yin Ping and Ms Shee En Xin
 
 
 
-<figure>
 
 ![](/images/Past2.png)
 
-<figcaption> <strong> The happy team (from L to R): Eunice, Sok Fang, Yoke Peng and Jasmine.</strong> </figcaption>
+The happy team (from L to R): Eunice, Sok Fang, Yoke Peng and Jasmine.
 
-</figure>
+
 
 ### Senoko Sustainability Challenge 2013
 ------------------------------------
@@ -51,23 +47,15 @@ Team Two, consisted of Johnson Wong, Bryan Ho, Ryan Waters and Li Hao from Sec 3
 
 
 
-<figure>
+
 
 ![](/images/Past3.png)
 
-<figcaption> <strong> Team One: from L to R: Sok Fang, Eunice, Hak Yee and Jasmine</strong> </figcaption>
-
-</figure>
-
-
-
-<figure>
+Team One: from L to R: Sok Fang, Eunice, Hak Yee and Jasmine
 
 ![](/images/Past4.png)
 
-<figcaption> <strong> Team Two: from L to R: Li Hao, Ryan Waters, Johnson, and Bryan</strong> </figcaption>
-
-</figure>
+Team Two: from L to R: Li Hao, Ryan Waters, Johnson, and Bryan
 
 ### NUS Geo-Challenge 2013
 ----------------------
@@ -79,13 +67,6 @@ Teachers-in-charge: Ms Foong Yin Ping and Mdm Nuraida
 
 
 
-<figure>
-
 ![](/images/Past5.png)
 
-<figcaption> <strong> The team (L to R): Renzo, Hendri, Sebastian Sim and Li Ka-Shing </strong> </figcaption>
-
-</figure>
-
-
-
+The team (L to R): Renzo, Hendri, Sebastian Sim and Li Ka-Shing
