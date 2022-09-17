@@ -14,13 +14,12 @@ Northern Touch 2015 is a Humanities Overseas Learning Journey to Malacca, Malays
 
 
 
-<figure>
+#### Northern Touch 2015 Photos - Humanities Overseas Learning Journey to Malacca, Malaysia
 
 ![](/images/Overseas.gif)
 
-<figcaption> <strong> Northern Touch 2015 Photos - Humanities Overseas Learning Journey to Malacca, Malaysia</strong> </figcaption>
 
-</figure>
+
 
 The objectives of this trip were to inculcate in our students a passion for the Humanities subjects through an authentic learning experience. We wanted to provide opportunities for students to live out the school values of Graciousness, Teamwork, and Discipline, by learning and working together, and interacting with people from a different culture. We also wanted to broaden our students’ horizons through learning for life from the larger community beyond their school.
 
