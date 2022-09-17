@@ -11,43 +11,23 @@ _Programmes by the PE Department_
 
 
 
-<figure>
-
+##### Sports Carnival / Health Fiesta 
 ![](/images/Sports.gif)
 
-<figcaption> <strong> Sports Carnival / Health Fiesta </strong> </figcaption>
-
-</figure>
 
 
 
-<figure>
-
+##### Cross Country
 ![](/images/CrossCountry.gif)
 
-<figcaption> <strong> Cross Country </strong> </figcaption>
 
-</figure>
-
-
-
-<figure>
-
+##### Level Camp 
 ![](/images/Level%20Camp.gif)
 
-<figcaption> <strong> Level Camp </strong> </figcaption>
 
-</figure>
-
-
-
-<figure>
-
+##### Sports Education Programme
 ![](/images/Sports%20Education%20Programme.gif)
 
-<figcaption> <strong> Sports Education Programme </strong> </figcaption>
-
-</figure>
 
 
 
