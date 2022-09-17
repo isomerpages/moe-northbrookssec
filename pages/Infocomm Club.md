@@ -16,19 +16,15 @@ description: ""
 
 
 
-<div>
-
-<div style="float: right">
 
 ![](/images/infocomm.png)
 
-</div><div>
+
 
 Northbrooks Infocomm Club aims to excite students about infocomm in a fun and meaningful way by helping them learn infocomm skills and to cultivate leadership and entrepreneurial capabilities at an early age.
 
 Activities in Infocomm Clubs are aligned with MOE’s Co-Curricular Activities (CCA) framework, where students earn CCA points through participation in the Clubs. The club activities include projects and competitions. The students in
 
-</div></div>
 
 ##### Objectives:
 
