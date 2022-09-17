@@ -28,17 +28,11 @@ For projects, our students are exposed to process skills which promote self-dire
 3.  Coursework Project
 
 
-<div>
-
-<div style="float: left">
 
 ![](/images/nutrition.gif)
 
-</div><div>
-
 The school’s Personal Learning Device Program (PLDP) present new opportunities for NFS teachers to engage with the students. It allows for the use of technology in FCE programmes which has immensely increased students’ engagement with the subject content. FCE Games such as the Escape room allow students to collaborate with one another in order to solve FCE-related puzzles and exploration of the Culinary Food Laboratory to provide a learning experience that is immersive and engaging. Students also use their devices to capture high resolution pictures on their finished products in order to capture their learning.
 
-</div></div>
 
 ### Upper Secondary
 
