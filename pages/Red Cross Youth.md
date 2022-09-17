@@ -144,7 +144,7 @@ Through these activities, we hope that our cadets will develop a passion for lea
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-6lcs">Excellence Unit Award(EUA)</th>
+    <th class="tg-6lcs" colspan="2">Excellence Unit Award(EUA)</th>
   </tr>
 </thead>
 <tbody>
@@ -191,4 +191,4 @@ Through these activities, we hope that our cadets will develop a passion for lea
 ### Links:
 
 *   Downloadable file [RED CROSS YOUTH CALENDAR OF EVENTS 2014](/files/RCY%20Calendar%20of%20Events%202014.pdf)
-*   Singapore Red Cross Youth: https://www.redcross.org.sg/
+*   Singapore Red Cross Youth: https://www.redcross.org.sg/red-cross-youth-11.phtml
