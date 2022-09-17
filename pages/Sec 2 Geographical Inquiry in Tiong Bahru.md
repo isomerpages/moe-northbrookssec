@@ -12,13 +12,13 @@ The Secondary 2 Express and Normal (Academic) students conducted their Geographi
 
 
 
-<figure>
 
+#### Sec 2 Geographical Inquiry
 ![](/images/Geog.gif)
 
-<figcaption> <strong> Sec 2 Geographical Inquiry</strong> </figcaption>
 
-</figure>
+
+
 
 
 
