@@ -4,7 +4,6 @@ permalink: /people/Parents/COVID-19-Vaccination/permalink/
 description: ""
 third_nav_title: Parents
 ---
-
 COVID-19 Vaccination
 ====================
 
@@ -41,10 +40,7 @@ Thank you.
 _Click_ [*here*](/files/Why%20vaccinate%20your%20child.pdf) _for more information_
 
 ![](/images/vaccine.jpeg)
-_Click_ [*here*]() _for more information_
+_Click [here](/files/Attachment%203-Vaccination%20for%20students%20Infographic.pdf) for more information_
 
 
 ![](/images/What%20to%20Expect_Covid%20Vaccine.jpeg)
-
-
-
