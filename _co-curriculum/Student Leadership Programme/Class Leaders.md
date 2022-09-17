@@ -15,23 +15,9 @@ The class leaders undergo workshops to build class cohesion and develop conflict
 
 
 
-<figure>
-
+###### Parents-Teacher Conference
 ![](/images/CCALEADERS1.jpeg)
 
-<figcaption> <strong>Parents-Teacher Conference </strong> </figcaption>
 
-</figure>
-
-
-
-<figure>
-
+###### Form Teachers’ appreciation on Teachers’ Day
 ![](/images/CCALEADERS2.jpeg)
-
-<figcaption> <strong> Form Teachers’ appreciation on Teachers’ Day</strong> </figcaption>
-
-</figure>
-
-
-
