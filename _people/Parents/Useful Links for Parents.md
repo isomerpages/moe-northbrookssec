@@ -115,4 +115,6 @@ Useful Links for Parents
    -  [Handouts.pdf](/files/Additional%20Slides%20to%20Print%20as%20Handouts.pdf)
    -  [Slides on Cyber Bullying.pdf](/files/Additional%20Slides%20to%20share%20on%20cyber%20bullying.pdf)
 
-* 
+* [Sexuality Education](/co-curriculum/CCE/Sexuality-Education-Programme/permalink/)
+   -    Information on Sexuality Education Programme in Northbrooks Secondary School
+   -    Opt-out form
