@@ -14,13 +14,10 @@ On 24th and 25th August 2016, the Secondary One Express and Normal (Academic) st
 
 
 
-<figure>
+#### Geographical Inquiry
 
 ![](/images/Inquiry.gif)
 
-<figcaption> <strong> Geographical Inquiry</strong> </figcaption>
-
-</figure>
 
 As part of their Geography curriculum dealt with the importance of Singapore’s water supply, our students were introduced to the Public Utilities Board’s “Active, Beautiful and Clean Waters (ABC Waters)” programme, the 2-hour water trail created an awareness and appreciation of Singapore’s reservoirs and waterways as well as its care, protection and management.
 
