@@ -21,23 +21,17 @@ In their post-GI reflection, students reflected that the experience has taught t
 
 
 
-<figure>
+
 
 ![](/images/ExperiementalLearning1.png)
 
-<figcaption> <strong> Approaching residents to complete their survey form</strong> </figcaption>
-
-</figure>
+Approaching residents to complete their survey form
 
 
-
-<figure>
 
 ![](/images/experimentallearning2.jpg)
 
-<figcaption> <strong> Interviewing residents at Tiong Bahru Market </strong> </figcaption>
-
-</figure>
+Interviewing residents at Tiong Bahru Market
 
 
 
