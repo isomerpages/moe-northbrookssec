@@ -64,4 +64,3 @@ Activities in Infocomm Clubs are aligned with MOE’s Co-Curricular Activities (
 
 *   Infocomm Clubs Outstanding School Award 2010
 
-</div></div>
