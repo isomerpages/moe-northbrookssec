@@ -105,5 +105,14 @@ Useful Links for Parents
 Useful Links for Parents
 ========================
 ### Useful Links (Internal) 
-* [Application Form for Leave of Absence](https://form.gov.sg/#!/60cc38174363940011bb95a3): For parents who wish to apply leave of absence for their child.
+* [Application Form for Leave of Absence](https://form.gov.sg/#!/60cc38174363940011bb95a3)
+    - For parents who wish to apply leave of absence for their child.
+* [Direct School Admission (DSA)](/northbrooks-experience/DSA-at-Northbrooks/permalink/)
+    - The Direct School Admission (DSA) is an opportunity for Primary 6 students to directly apply for admission into participating secondary schools based on their talents and achievement which might not have been demonstrated at the Primary School Leaving Examination (PSLE).
+
+* Cyber Wellness Materials
+  
+   -  [Handouts.pdf](/files/Additional%20Slides%20to%20Print%20as%20Handouts.pdf)
+   -  [Slides on Cyber Bullying.pdf](/files/Additional%20Slides%20to%20share%20on%20cyber%20bullying.pdf)
+
 * 
