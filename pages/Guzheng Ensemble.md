@@ -20,17 +20,11 @@ Fridays, 1.00pm - 4.00pm
 
 
 
-<div>
-
-<div style="float: right">
 
 ![](/images/2021%20SYF.png)
 
-</div><div>
-
 Northbrook’s Guzheng Ensemble is an enrichment initiative of Cultural Club which started in November 2005.&nbsp;Northbrooks' Guzheng Ensemble has proved to be popular even among non-Chinese pupils. At present, we have 39 Guzheng members learning&nbsp;from&nbsp;our instructors,&nbsp;Ms.&nbsp;Lim Choo Li and&nbsp;Mr.&nbsp;Eugene Toh.
 
-</div></div>
 
 ### Vision
 
@@ -68,14 +62,14 @@ To develop every member to be a disciplined Guzheng member and to create a unite
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-baqh"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/CCA%20Exchange.JPG" alt="Image" width="400" height="300"><br><span style="font-weight:400;font-style:normal">CCA Exchange with other schools</span><br></th>
-    <th class="tg-baqh"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/IMG_ECCA%20Exchange%20%20Nanyang%20Girls%20High%20School%2002.JPG" alt="Image" width="400" height="300"><br><span style="font-weight:400;font-style:normal">CCA Exchange @ Nanyang Girls’ High School</span><br></th>
+    <th class="tg-baqh"><img height="300" width="400" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/CCA%20Exchange.JPG"><br><span style="font-weight:400;font-style:normal">CCA Exchange with other schools</span><br></th>
+    <th class="tg-baqh"><img height="300" width="400" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/IMG_ECCA%20Exchange%20%20Nanyang%20Girls%20High%20School%2002.JPG"><br><span style="font-weight:400;font-style:normal">CCA Exchange @ Nanyang Girls’ High School</span><br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-baqh"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/CCA%20Farewell.JPG" alt="Image" width="400" height="300"><br><span style="font-weight:400;font-style:normal">CCA Farewell</span><br></td>
-    <td class="tg-baqh"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/CCA%20Camp%2001.jpg" alt="Image" width="400" height="300"><br><span style="font-weight:400;font-style:normal">CCA Bonding Activity</span><br></td>
+    <td class="tg-baqh"><img height="300" width="400" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/CCA%20Farewell.JPG"><br><span style="font-weight:400;font-style:normal">CCA Farewell</span><br></td>
+    <td class="tg-baqh"><img height="300" width="400" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/CCA%20Camp%2001.jpg"><br><span style="font-weight:400;font-style:normal">CCA Bonding Activity</span><br></td>
   </tr>
 </tbody>
 </table>
@@ -83,48 +77,25 @@ To develop every member to be a disciplined Guzheng member and to create a unite
 ### Achievements
 
 
-<div>
-
-<div style="float: right">
-
-![](/images/Guzheng1.png)
-
-</div><div>
 
 ##### 2021:
+![](/images/Guzheng1.png)
+
 *  **SYF Arts Presentation:**&nbsp;Northbrooks Guzheng Ensemble received the&nbsp;**Certificate of Distinction**&nbsp;in the Instrumental Ensemble (Guzheng) - Secondary School Level Category
 
-</div></div>
-
-
-
-<div>
-
-<div style="float: right">
-
-![](/images/Guzheng2.png)
-
-</div><div>
 
 ##### 2019:
+![](/images/Guzheng2.png)
+
 *   **SYF Arts Presentation:**&nbsp;Northbrooks Guzheng Ensemble received the&nbsp;**Certificate of Accomplishment**&nbsp;in the Instrumental Ensemble (Guzheng) - Secondary School Level Category
 
-</div></div>
-
-
-
-<div>
-
-<div style="float: right">
-
-![](/images/Guzheng3.png)
-
-</div><div>
 
 ##### 2017:
+![](/images/Guzheng3.png)
+
 *   **SYF Arts Presentation:**&nbsp;Northbrooks Guzheng Ensemble received the&nbsp;**Certificate of**&nbsp;**Accomplishment**&nbsp;in the Instrumental Ensemble (Guzheng) - Secondary School Level Category
 
-</div></div>
+
 
 ##### 2015
 
@@ -132,28 +103,20 @@ To develop every member to be a disciplined Guzheng member and to create a unite
     Category
 		
 
-<div>
-
-<div style="float: right">
-
-![](/images/Guzheng5.png)
-
-</div><div>
 
 ##### 2013:
+![](/images/Guzheng5.png)
+
+
 *   **SYF Arts Presentation:**&nbsp;Northbrooks Guzheng Ensemble received the&nbsp;**Certificate of**&nbsp;**Accomplishment**&nbsp;in the Instrumental Ensemble (Guzheng) - Secondary School Level Category
 	
-</div></div>
 
 
-
-<div>
-
-<div style="float: right">
+##### 2011
 
 ![](/images/Guzheng4.png)
 
-</div><div>
+
 
 ##### 2011
 *   SYF Central Judging&nbsp;**(Silver)**
@@ -161,7 +124,7 @@ To develop every member to be a disciplined Guzheng member and to create a unite
 ##### 2009
 *   SYF Central Judging&nbsp;**(Gold)**
 
-</div></div>
+
 
 #### Links:  
 
