@@ -51,7 +51,7 @@ Yours sincerely,
 Mr Henry Ng  
 HOD  
 Internal Partners
-</div></div>
+
 
 **PSG volunteering their time during Sec One Registration**
 ![](/images/Fishing.jpeg)
