@@ -6,15 +6,15 @@ description: ""
 Principal's Message
 ===================
 
+<img src="/images/123.png" style="width:250px;height:240px;margin-left:10px;" align = "right">
+
 A warm welcome to Northbrooks Secondary School!
 
+  
+
 I feel honoured and privileged to be the Principal of Northbrooks, carrying forward the good work done by my predecessors.
-![](/images/123.png)
 
-
-
-
-
+  
 
 Since it’s humble beginnings in 2000, Northbrooks Secondary has steadily grown to become a choice school. Guided by our vision – Every Brooksian a Champion, Impacting the Community – we are united in our desire to do our very best for our students, preparing them to be effective life-long learners. We foster in every Brooksian the Champion Learning Mindset, a mindset with a strong desire to learn and improve and bounce back in the face of adversities. We want to instil in our students this growth mindset, developing grit and resilience that are essential for success in life. In turn, our Brooksians will develop the capacity to serve by leading and lead in serving our school, our community and our nation.
 
