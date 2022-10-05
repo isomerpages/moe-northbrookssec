@@ -14,20 +14,15 @@ Parent Support Group (PSG)
 From L to R : Mdm Martha Ng, Mdm Stella Ng, Mdm Vivien Tay, Mr Desmond Soh, Mdm Yasmin, Mdm Wati, Mrs Kerine Goe 
 
 
-<div>
-
-<div style="float: right">
-
-![](/images/PSG.jpeg)
-
-</div><div>
-
 Dear Parents,   
 
-##### “To share the responsibility and work in partnership with our school to develop our children’s potential.”
+#### “To share the responsibility and work in partnership with our school to develop our children’s potential.”
 
-  
 
+<img src="/images/PSG.jpeg" style="width:200px;height:240px;margin-left:15px;" align = "right">
+
+	
+	
 In line with this vision, we set the following objectives:
 1.  **To play an active role in our programmes**
 2.  **To establish a bridge between school management and faculty with parents.**
@@ -44,7 +39,10 @@ By being a PSG member, you will reap many benefits:
 *   You build your network of friends.
 *   Your family participates in activities that will bring you closer together.
 
+
   
+
+
 
 Jesse Jackson, American Civil Rights Activist, once said: “Your children need your presence more than your presents.” So come join us and let’s make a difference together!  
 
@@ -60,17 +58,12 @@ Internal Partners
 
 
 
-<div>
 
-<div style="float: left">
+<img src="/images/Dads%20for%20life%20.png" style="width:390px;height:240px;margin-left:15px;" align = "left">
 
-![](/images/Dads%20for%20life%20.png)
 
-</div><div>
+Dad's for Life(DFL) is a national fathers movement that seeks to inspire, mobilise and involve fathers to become good influencers in the children's lives... for life!
 
-Dad's for Life (DFL) is a national fathers movement that seeks to inspire, mobilise and involve fathers to become good influencers in the children's lives... for life!
-
-</div></div>
 
 **Fishing at ORTO in March**
 ![](/images/Fishing.jpeg)
