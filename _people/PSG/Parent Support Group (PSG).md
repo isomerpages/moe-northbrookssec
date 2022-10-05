@@ -64,13 +64,16 @@ Internal Partners
 
 Dad's for Life(DFL) is a national fathers movement that seeks to inspire, mobilise and involve fathers to become good influencers in the children's lives... for life!
 
----
 
-**Fishing at ORTO in March**
+
+
+###### Fishing at ORTO in March
+----
 ![](/images/Fishing.jpeg)
 ![](/images/AAA.png)
 
-**Archery in May 2019**
+###### Archery in May 2019
+----
 ![](/images/Archery1.jpeg) ![](/images/Archery2.jpeg)
 
 **The PSG managed a booth yearly where students wrote messages to expressed their gratitude to their parents prior to Mothers' Day and Fathers' Day.**
