@@ -59,7 +59,7 @@ Internal Partners
 
 
 
-<img src="/images/Dads%20for%20life%20.png" style="width:390px;height:240px;margin-left:15px;" align = "left">
+<img src="/images/Dads%20for%20life%20.png" style="width:400px;height:240px;margin-left:15px;" align = "left">
 
 
 Dad's for Life(DFL) is a national fathers movement that seeks to inspire, mobilise and involve fathers to become good influencers in the children's lives... for life!
