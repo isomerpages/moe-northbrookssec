@@ -35,7 +35,10 @@ Should you encounter technical issues with the DMA or wish to share with us any 
 
 
 
-![](/images/QR3.png)
+
+
+<img src="/images/QR3.png" style="width:170px;height:220px;margin-left:15px;" align = "right">
+
 
 
 
