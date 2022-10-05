@@ -6,7 +6,7 @@ description: ""
 The Brooksian Crest
 ===================
 
-![](/images/1234.png)
+<img src="/images/1234.png" style="width:40%">
 
 
 Just as WATER
