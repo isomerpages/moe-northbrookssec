@@ -11,7 +11,10 @@ Alumni
 
 
 
-<img src="images/alumnilogo.jpg" style="width:183px;height:300px;margin-left:15px;" align = "right">
+
+<img src="/images/alumnilogo.jpg" style="width:183px;height:290px;margin-left:15px;" align = "right">
+
+
 
 
 Northbrooks Secondary School Alumni aims to foster closer ties between the school and our former students. We hope to form a network through this site so that even when you are abroad, you will still be connected and be informed of the events in our school.  
