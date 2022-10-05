@@ -27,4 +27,4 @@ Sec 1 Registration 2022 Intake
 
 [Feedback on Sec One Registration](https://form.gov.sg/#!/error/404)
 
-![](/images/QR4.png)
+![](/images/QR5.png)
