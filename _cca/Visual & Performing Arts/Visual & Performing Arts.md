@@ -4,9 +4,6 @@ permalink: /CCA/Visual-and-Performing-Arts/permalink/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-
-
-
 Visual & Performing Arts
 ========================
 
@@ -20,13 +17,3 @@ Performing Arts CCAs provide opportunities for students to develop a lifelong pa
 3.  Presenting – Students will gain the opportunity to put to practice and showcase their skills in the art form.
 4.  Responding – Students will learn to think critically and show confidence in their ability to reflect and express opinion on arts expression and performances.
 
-
-## [CONCERT BAND](/Concert-Band/permalink/)
-
-## [DRAMA CLUB](/Drama-Club/permalink/)
-
-## [GUITAR ENSEMBLE](/Guitar-Ensemble/permalink/)
-
-## [GUZHENG ENSEMBLE](/Guzheng-Ensemble/permalink/)
-
-## [MODERN DANCE](/Modern-Dance/permalink/)
