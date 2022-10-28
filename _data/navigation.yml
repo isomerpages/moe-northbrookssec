@@ -14,3 +14,6 @@ links:
     collection: northbrooks-experience
   - title: Others
     collection: others
+  - title: Co-Curriculum
+    url: /permalink
+    sublinks: []
