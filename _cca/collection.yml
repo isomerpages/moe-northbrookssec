@@ -2,8 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/Uniformed Groups.md
-      - Uniformed Groups/.keep
       - CCA.md
       - Sports & Games/.keep
       - Sports & Games/Sports & Games.md
@@ -18,4 +16,6 @@ collections:
       - Clubs & Societies/Infocomm Club.md
       - Clubs & Societies/AVA Club.md
       - Clubs & Societies/Environmental Art Club.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups.md
       - Visual & Performing Arts.md
