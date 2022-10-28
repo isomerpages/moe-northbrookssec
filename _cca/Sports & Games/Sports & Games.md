@@ -4,9 +4,6 @@ permalink: /CCA/Sports-and-Games/permalink/
 description: ""
 third_nav_title: Sports & Games
 ---
-
-
-
 Sports &amp; Games
 ==============
 
@@ -21,13 +18,3 @@ Sports &amp; Games
 *   Provide specialist&nbsp;advise&nbsp;and consultancy in sports to schools
 *   Design and develop sports training packages and professional course for teachers
 *   Oversee and facilitate the organisation of the Singapore Schools/Primary Schools Sports Council (SSSC &amp; SPSSC) Inter-School Sports Competitions.
-
-## [BADMINTON](/Badminton/permalink/)
-
-## [BASKETBALL](/Basketball/permalink/)
-
-## [BOWLING](/Bowling/permalink/)
-
-## [FLOORBALL](/Floorball/permalink/)
-
-## [OUTDOOR ADVENTURE CLUB](/Outdoor-Adventure-Club/permalink/)
