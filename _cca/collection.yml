@@ -2,12 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Clubs & Societies/Youth Flying Club.md
-      - Clubs & Societies/Infocomm Club.md
-      - Clubs & Societies/AVA Club.md
-      - Clubs & Societies/Environmental Art Club.md
-      - Clubs & Societies/Clubs & Societies.md
-      - Clubs & Societies/.keep
       - CCA.md
       - Sports & Games/.keep
       - Sports & Games/Sports & Games.md
@@ -16,5 +10,11 @@ collections:
       - Sports & Games/Bowling.md
       - Sports & Games/Floorball.md
       - Sports & Games/Outdoor Adventure Club.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Youth Flying Club.md
+      - Clubs & Societies/Infocomm Club.md
+      - Clubs & Societies/AVA Club.md
+      - Clubs & Societies/Environmental Art Club.md
+      - Clubs & Societies/Clubs & Societies.md
       - Uniformed Groups.md
       - Visual & Performing Arts.md
