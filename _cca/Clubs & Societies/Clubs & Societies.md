@@ -4,9 +4,6 @@ permalink: /CCA/Clubs-and-Societies/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-
-
-
 Clubs & Societies
 =================
 
@@ -19,11 +16,3 @@ Clubs and Societies encompass a diverse range of interests which covers knowledg
 3.  implementation of CCA-based, school-based and even community based projects.
 
 The CCA will also plan termly sports and games activities throughout the year to promote team bonding through sports.
-
-## [YOUTH FLYING CLUB](/Youth-Flying-Club/permalink/)
-
-## [INFOCOMM CLUB](/Infocomm-Club/permalink/)
-
-## [AVA CLUB](/AVA-club/permalink/)
-
-## [ENVIRONMENTAL ART CLUB](/Environmental-Art-Club/permalink/)
