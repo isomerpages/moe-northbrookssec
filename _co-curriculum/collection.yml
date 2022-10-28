@@ -2,7 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
-      - CCA/.keep
       - CCE/.keep
       - CCE/CCE.md
       - CCE/Cyber Wellness (CW).md
