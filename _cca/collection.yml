@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA.md
       - Sports & Games.md
       - Clubs & Societies.md
       - Uniformed Groups.md
