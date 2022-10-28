@@ -7,14 +7,6 @@ links:
   - title: Curriculum
     collection: curriculum
   - title: Co-Curriculum
-    collection: co-curriculum
-  - title: Achievements
-    collection: achievements
-  - title: Northbrooks Experience
-    collection: northbrooks-experience
-  - title: Others
-    collection: others
-  - title: Co-Curriculum
     url: /co-curriculum/CCA/CCA/permalink/
     sublinks:
       - title: CCA
@@ -22,4 +14,10 @@ links:
       - title: CCE
         url: /co-curriculum/CCE/CCE/permalink/
       - title: Student Leadership Programme
-        url: /permalink
+        url: /co-curriculum/Student-Leadership-Programme/Student-Leadership-Programme/permalink/
+  - title: Achievements
+    collection: achievements
+  - title: Northbrooks Experience
+    collection: northbrooks-experience
+  - title: Others
+    collection: others
