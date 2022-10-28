@@ -2,9 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - Sports & Games/Sports & Games.md
-      - Sports & Games/.keep
       - CCA.md
+      - Sports & Games/.keep
+      - Sports & Games/Sports & Games.md
       - Clubs & Societies.md
       - Uniformed Groups.md
       - Visual & Performing Arts.md
