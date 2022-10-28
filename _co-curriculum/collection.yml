@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA/.keep
-      - CCA/CCA.md
       - CCE/.keep
       - CCE/CCE.md
       - CCE/Cyber Wellness (CW).md
