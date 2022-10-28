@@ -4,9 +4,6 @@ permalink: /CCA/Uniformed-Groups/permalink/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
-
 Uniformed Groups
 ================
 
@@ -38,11 +35,3 @@ A group of 5 teachers and 35 members from the UGs embarked on a cultural immersi
 
 During the March holidays, 18-20 March 2013, a group of 78 members from the six UGs embarked on a service learning project in Batam. The trip raised students’ awareness of the realities and needs of the global community and provided opportunities for students to live out the school values by carrying out meaningful projects. In collaboration with a non-governmental organization, students were involved in the planning and organising of an outreach programme for two orphanages in Batam, Indonesia. The programme included mural and outdoor painting, assembling shoe racks and cabinets, cleaning and moving of construction materials, repairing building edges, cleaning and rearranging thebook shelves, organizing games for the orphans and installing a pulley clothes hanger. Apart from providing authentic platform for leadership development, the trip offered an excellent opportunity for students to acquire valuable life skills such as project management, teamwork, and relationship management.
 
-
-## [BOYS' BRIGADE](/Boys-Brigade/permalink/)
-
-## [NATIONAL CADET CORPS (AIR)](/National-Cadet-Corps-Air/permalink/)
-
-## [NATIONAL POLICE CADET CORPS](/National-Police-Cadet-Corps/permalink/)
-
-## [RED CROSS YOUTH](/Red-Cross-Youth/permalink/)
