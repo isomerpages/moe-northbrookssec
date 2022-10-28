@@ -15,5 +15,7 @@ links:
   - title: Others
     collection: others
   - title: Co-Curriculum
-    url: /permalink
-    sublinks: []
+    url: /co-curriculum/CCA/CCA/permalink/
+    sublinks:
+      - title: CCE
+        url: /permalink
