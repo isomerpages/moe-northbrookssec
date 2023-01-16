@@ -24,7 +24,7 @@ We are sure that you and your child/ward are very excited to start this new chap
 
   
 
-To help you and your child/ward transition into secondary school, we have compiled a list of answers to some of the questions that you may find useful. We have complied a list of **[FAQs](https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Parents/Sec%201%20Registration%20(2023%20Intake)/FAQ_20%20Dec%202022.pdf)** that you may find useful.
+To help you and your child/ward transition into secondary school, we have compiled a list of answers to some of the questions that you may find useful. We have complied a list of [<b>FAQs</b>](/files/FAQ_20%20Dec%202022.pdf) that you may find useful.
 
   
 
