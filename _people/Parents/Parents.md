@@ -4,7 +4,6 @@ permalink: /people/parents/permalink/
 description: ""
 third_nav_title: Parents
 ---
-
 Parents
 =======
 
