@@ -33,3 +33,9 @@ For your convenience, you may wish to download our [<b>Secondary One Posting C
   
 
 <b>There are 4 Sections to complete the Sec 1 registration.</b>
+
+
+
+
+<b>Please ensure that you go through all 4 sections. Thank You.</b> <br>
+[Feedback on Sec One Registration](https://form.gov.sg/639f259fcf15ee001277e690)
