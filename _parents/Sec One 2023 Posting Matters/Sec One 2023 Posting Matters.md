@@ -32,4 +32,4 @@ For your convenience, you may wish to download our [**Secondary One Posting Ch
 
   
 
-**There are 4 Sections to complete the Sec 1 registration.**
+<b>There are 4 Sections to complete the Sec 1 registration.</b>
