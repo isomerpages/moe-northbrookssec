@@ -122,3 +122,10 @@ Through blended learning, we hope to nurture self-directed and independent learn
 The school values its partnership with all Parents/Guardians. This is key in supporting your child. We would like to invite you to join the Parents Support Group (PSG). If you are keen, please complete the [<b>PSG Enrolment Form</b>](https://form.gov.sg/63871d55bf54e4001375d2a0). Thank You.
 
 ![](/images/PSG%202023.png)
+
+Please email to Ms Hui Hui, PSG Chairperson at [eehuihui8080@gmail.com](mailto:eehuihui8080@gmail.com) if you have any enquiry about PSG.
+
+### 6\. Primary to Secondary School Transition
+------------------------------------------
+
+<p><a href="https://www.moe.gov.sg/secondary/transition-to-secondary"><img style="width:100%" src="/images/Primary%20to%20Secondary%20School%20Transition.jpg"></a></p>
