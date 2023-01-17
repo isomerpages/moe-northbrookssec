@@ -60,3 +60,17 @@ Please click [here](https://form.gov.sg/63929178df16190012907484) or scan the 
 <i><b>(Applicable to some students)</b></i>
 
 Some sec 1 NA and NT students will be eligible to take more demanding subjects through Subject Based Banding.  This means that NA students may take Exp subjects and NT students may take NA and Exp subjects.  <b>Parents/Guardians will receive a notification via Parents Gateway or phone call if your child is eligible by 22 Dec 2022.</b>  Students can choose if they want to accept this offer.  Upon accepting the offer, the students can proceed to purchase books for the subject at a higher level.
+
+
+
+### Step 2c: Sales of Books, PE Attire, Shoes and Uniform
+-----------------------------------------------------
+
+##### **Sales of books/PE Attire/Shoes**
+
+  
+
+<b>Mode of Order:</b> 
+*   Online Purchase for Home Delivery at $13.00 (Delivery between 27/12 to 03/01). Online orders cut off on 25/12.
+*   There will be no self-collection for Online Purchase.
+*   Walk-In by stream based on the schedule below.
