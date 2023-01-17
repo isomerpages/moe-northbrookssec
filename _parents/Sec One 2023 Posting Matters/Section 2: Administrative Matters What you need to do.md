@@ -171,3 +171,16 @@ Some sec 1 NA and NT students will be eligible to take more demanding subjects t
   </tr>
 </tbody>
 </table>
+
+
+<b>Mode of Payment:</b> 
+
+*   Online Purchase via PayNow and Credit Card (VISA/Mastercard) for Home Delivery at $7 per delivery trip.
+*   [https://beauvoix.com/product-category/secondary/nbs/](https://beauvoix.com/product-category/secondary/nbs/)  
+    
+*   No self-collection for Online Purchases.
+*   Walk-in Purchase via Cash, PayNow, NTUC Care Fund (e-vouchers), CDAC Vouchers.
+
+  
+
+Sec 1 students are allowed to wear their primary school uniform if their new uniforms are not ready during this transition period.
