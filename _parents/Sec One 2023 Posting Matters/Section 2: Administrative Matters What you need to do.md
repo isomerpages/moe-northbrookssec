@@ -114,3 +114,17 @@ Some sec 1 NA and NT students will be eligible to take more demanding subjects t
   </tr>
 </tbody>
 </table>
+
+
+<b>Mode of Payment:</b>
+
+*   Online Purchase via PayNow and Credit Card (VISA/Mastercard) for Home Delivery.
+*   Self-Collection ([www.cascoedusupply.com.sg](http://www.cascoedusupply.com.sg/)) - Username: NSS, Password  2413
+*   Walk-in Purchase via Cash, PayNow, NTUC Care Fund (e-vouchers).
+
+
+
+
+  
+
+<b>Bookshop contact number:</b> 67540201
