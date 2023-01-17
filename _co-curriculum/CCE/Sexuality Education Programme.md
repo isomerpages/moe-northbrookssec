@@ -7,7 +7,7 @@ third_nav_title: CCE
 Sexuality Education Programme
 =============================
 
-#### Information on Sexuality Education Programme in NORTHBROOKS SECONDARY SCHOOL
+#### <center> Information on Sexuality Education Programme in NORTHBROOKS SECONDARY SCHOOL </center>
 
 ### MOE SEXUALITY EDUCATION IN SCHOOLS
 ----------------------------------
