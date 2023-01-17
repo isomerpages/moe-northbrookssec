@@ -4,11 +4,10 @@ permalink: /CCA/Clubs-and-Societies/AVA-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-
 AVA Club
 ========
 
-### Teacher-in-Charge
+##### Teacher-in-Charge
 
 1\. Mr Alex Ang Kok Wee (Advisor)  
 2\. Mr Kesavan (Teacher-in-charge)  
@@ -16,7 +15,7 @@ AVA Club
 4. Mr Alex Tok  
 5\. Mr Shahrin Mansor
 
-### Training Day / Time
+##### Training Day / Time
 
 Mondays, 3.30pm - 5.30pm
 
