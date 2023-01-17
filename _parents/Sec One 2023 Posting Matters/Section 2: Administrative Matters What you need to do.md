@@ -123,6 +123,10 @@ Some sec 1 NA and NT students will be eligible to take more demanding subjects t
 *   Walk-in Purchase via Cash, PayNow, NTUC Care Fund (e-vouchers).
 
 
+**Booklists:**     
+
+[<b>Sec 1 EXP booklist</b>](/files/NSS%20Sec%201EXP%20%20Booklist%202023.pdf)
+  
 
 
   
