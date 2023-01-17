@@ -31,3 +31,5 @@ Students would be able to know the class allocation via [Parents Gateway App](h
 *   Education and Career Guidance (ECG) programmes <b>can also be better tailored and planned</b> by taking into consideration the students’ preferences.
 
 *   The survey data will enable them to explore their passions and pursue their areas of interest where possible
+
+<img src="/images/RIASEC.png" style="width:55%;float:left">
