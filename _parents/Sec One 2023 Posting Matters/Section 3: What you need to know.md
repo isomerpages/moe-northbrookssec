@@ -70,6 +70,9 @@ Section 3: What you need to know
 <p><a href="/files/Slide1.pdf"><img style="width:50%" src="/images/Slide1.png"></a></p>
 
 
+<p><a href="/files/Slide2.pdf"><img style="width:50%" src="/images/Slide2.png"></a></p>
+
+
 Please click on the link below to find out more.  
 [<b>Full Subject Based Banding @ Northbrooks</b>](/files/2022%20SBB_Sec%201%20Registration_for%20Parents_20%20Dec.pdf)
 
