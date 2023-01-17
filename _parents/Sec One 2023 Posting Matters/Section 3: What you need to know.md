@@ -102,3 +102,7 @@ To reduce out-of-pocket cash from students, Singapore citizen students can use t
   
 
 [**More information on 1 to 1 Personal Learning Device**](https://northbrookssec-moe-edu-sg-admin.cwp.sg/people/parents/national-digital-literacy-programme-ndlp)
+
+
+### 4.  Blended Learning (BL)
+-------------------------
