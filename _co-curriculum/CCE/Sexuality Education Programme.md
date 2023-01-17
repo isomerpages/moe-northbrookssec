@@ -143,7 +143,8 @@ b. Character and Citizenship Education (CCE)
 </tbody>
 </table>
 
-##### Secondary 3
+##### <center>Secondary 3</center>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -151,34 +152,41 @@ b. Character and Citizenship Education (CCE)
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-5f5j{background-color:#FCE573;color:#222;text-align:left;vertical-align:top}
+.tg .tg-py7v{background-color:#104366;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-k5ew{background-color:#FDF69E;color:#222;text-align:left;vertical-align:top}
 .tg .tg-un07{background-color:#104366;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-kbmg{background-color:#FCE573;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-5ld3{background-color:#FDF69E;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-un07">UNIT</th>
-    <th class="tg-un07">LESSONS / DURATION</th>
+    <th class="tg-py7v"><span style="background-color:transparent">Unit</span><br></th>
+    <th class="tg-un07">Lesson Title/ Duration</th>
+    <th class="tg-un07">Lesson Overview</th>
     <th class="tg-un07">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
-    <th class="tg-un07">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+    <th class="tg-un07">Time Period<br>(e.g.Term 1 Week 2)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-5f5j" rowspan="3">Respectful Relationships &amp; Safety</td>
-    <td class="tg-5f5j">1A<br>(60 mins)</td>
-    <td class="tg-5f5j"><br>Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br>Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br>Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.<br><br></td>
-    <td class="tg-5f5j">Term 3 Week 9</td>
+    <td class="tg-5f5j" rowspan="3"><span style="font-weight:normal">Respectful Relationships &amp; Safety</span></td>
+    <td class="tg-5f5j">Love Yourself, Love Others <br>Lesson 1A<br>(60 mins)</td>
+    <td class="tg-5f5j">This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship. </td>
+    <td class="tg-kbmg"><br>know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline <br>understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours<br>recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship <br></td>
+    <td class="tg-5f5j">Term 2 Week 6</td>
   </tr>
   <tr>
-    <td class="tg-k5ew">1B<br><br>(60 mins)<br></td>
-    <td class="tg-k5ew"><br>Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br>Know that a decision to end a relationship will have consequences on oneself and others.<br>Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br><br></td>
-    <td class="tg-k5ew">Term 4 Week 1</td>
+    <td class="tg-k5ew">Mending a Broken Heart Lesson 1B<br>(60 mins)</td>
+    <td class="tg-k5ew">Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support.<span style="font-weight:normal;background-color:transparent"> </span></td>
+    <td class="tg-5ld3"><br>know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges <br>know that a decision to end a relationship will have consequences on oneself and others<br>know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience <br>know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support <br></td>
+    <td class="tg-k5ew">Term 2 Week 7</td>
   </tr>
   <tr>
-    <td class="tg-5f5j">2<br>(60 mins)</td>
-    <td class="tg-5f5j">Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
-    <td class="tg-5f5j">Term 4 Week 2</td>
+    <td class="tg-5f5j">When Respect Takes Centre Stage <br>Lesson 2<br>(60 mins)</td>
+    <td class="tg-5f5j">This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students’ convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need.</td>
+    <td class="tg-kbmg"><br>recognize the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them <br>understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs <br></td>
+    <td class="tg-5f5j">Term 2 Week 9</td>
   </tr>
 </tbody>
 </table>
