@@ -36,4 +36,4 @@ Students would be able to know the class allocation via [Parents Gateway App](h
 
 Please click [here](https://form.gov.sg/63929178df16190012907484) or scan the QR code to complete the survey
 
-<img src="/images/RIASEC%20QR.png" style="width:45%;float:right">
+<img src="/images/RIASEC%20QR.png" style="width:40%;float:right">
