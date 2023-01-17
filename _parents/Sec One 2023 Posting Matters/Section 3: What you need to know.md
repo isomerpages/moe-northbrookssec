@@ -6,3 +6,7 @@ third_nav_title: Sec One 2023 Posting Matters
 ---
 Section 3: What you need to know
 ================================
+
+
+### 1.  Sec One First Day and Orientation
+-------------------------------------
