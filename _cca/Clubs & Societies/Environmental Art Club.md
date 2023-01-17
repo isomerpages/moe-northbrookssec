@@ -4,18 +4,14 @@ permalink: /CCA/Clubs-and-Societies/Environmental-Art-Club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-
-
-
 ### Environmental Art Club
 ![](/images/artclub.png)
 
 ##### Teacher-in-Charge
 
-1. Mr Paul Tham (Advisor)  
+1. Mr Alex Ang Kok Wee (Advisor)  
 2. Ms Siti Liana Bt Hashim (Teacher-in-charge)  
-3. Mrs Celine Goh (2 Teacher-in-charge)  
-4. Ms Nuruljannah Binte Juma'at
+3. Mrs Celine Goh (2 Teacher-in-charge)
 
 ##### Training Day / Time
 
