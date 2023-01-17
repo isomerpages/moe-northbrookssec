@@ -199,7 +199,7 @@ The [digital letter](https://northbrookssec.moe.edu.sg/) contains information 
   
 Parents/Guardians applying for MOE Financial Assistance Scheme (FAS) must come down to school in person by <b>27 December 2022, 5.00pm</b> with all the original & required supporting documents.    
 
-Please refer to the [MOE FAS Application Form](https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Parents/Sec%201%20Registration%20(2023%20Intake)/MOE%20FAS%20Application%20Form.pdf)
+Please refer to the [MOE FAS Application Form](/files/MOE%20FAS%20Application%20Form.pdf)
 
 Two types of FAS application:
 
@@ -217,4 +217,3 @@ Please ensure that you obtain the School Approval letter before collecting your 
 For parents/guardians who want to find out more about the MOE Financial Assistance Scheme (FAS), you may click on the link below.
 
 [**MOE FAS Pamphlet 2023**](https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Parents/Sec%201%20Registration%20(2023%20Intake)/MOE%20FAS%20Pamphlet%202023.pdf)
-
