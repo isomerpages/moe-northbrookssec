@@ -254,7 +254,7 @@ For students who are offering HCL, students are to indicate accept or reject the
 (ii) Parents who wish to submit the MAE application via email should first contact the school at tel: 67524311 by <b>21 December 2022, 12.00pm</b> for further advice.  
 (iii) Release of Medical Appeal Exercise Results is tentatively on 30 December 2022.  
 (iv) All appeals must be accompanied by relevant supporting documents, such as medical reports, letters from doctors.  
-(v) The staff at your child’s posted secondary school will help you to file your appeal. The appeal results will be released in early January. For successful students, they will receive the Medical Appeal Result Letters (S1\_001) on 3 January 2023 from the originally posted secondary school. They may then proceed to the new posted school immediately. Students who are unsuccessful in their appeal will remain in the original posted secondary school.
+(v) The staff at your child’s posted secondary school will help you to file your appeal. The appeal results will be released in early January. <b>For successful students, they will receive the Medical Appeal Result Letters (S1\_001) on 3 January 2023 from the originally posted secondary school. They may then proceed to the new posted school immediately. Students who are unsuccessful in their appeal will remain in the original posted secondary school.</b>
 
 <b>\------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</b>  
 
