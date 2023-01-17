@@ -62,3 +62,7 @@ Section 3: What you need to know
   </tr>
 </tbody>
 </table>
+
+
+### 2.  Full Subject-Based Banding (FSBB)
+-------------------------------------
