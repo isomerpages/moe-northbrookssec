@@ -10,3 +10,5 @@ Section 3: What you need to know
 
 ### 1.  Sec One First Day and Orientation
 -------------------------------------
+
+<p><a href="/files/Sec%20One%20Orientation%202023.pdf"><img style="width:100%" src="/images/Sec%20One%20Orientation%202023.png"></a></p>
