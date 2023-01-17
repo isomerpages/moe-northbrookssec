@@ -26,4 +26,4 @@ Every CCA a Champion CCA, Impacting the Community
 
 ### CCA Information & Teachers-in-charge 2023
 
-Click [here](https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more information
+Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more information
