@@ -249,7 +249,7 @@ For students who are offering HCL, students are to indicate accept or reject the
 
 <b>Transferring-out Cases: Medical Appeal Exercises</b> <b>(only for students with serious medical conditions and severe physical impairments)</b>  
 
-(i) Parents to file the appeal in person at the posted school [General Office](https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Parents/Sec%201%20Registration%20(2022%20Intake)/On-site%202022.jpg) by <b>22 December 2022, 12.00pm</b>.  
+(i) Parents to file the appeal in person at the posted school [General Office](/files/On-site%202022.pdf) by <b>22 December 2022, 12.00pm</b>.  
 
 (ii) Parents who wish to submit the MAE application via email should first contact the school at tel: 67524311 by <b>21 December 2022, 12.00pm</b> for further advice.  
 (iii) Release of Medical Appeal Exercise Results is tentatively on 30 December 2022.  
