@@ -212,6 +212,5 @@ Please ensure that you obtain the School Approval letter before collecting your 
 
   
 
-For parents/guardians who want to find out more about the MOE Financial Assistance Scheme (FAS), you may click on the link below.
-
-[**MOE FAS Pamphlet 2023**](https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Parents/Sec%201%20Registration%20(2023%20Intake)/MOE%20FAS%20Pamphlet%202023.pdf)
+For parents/guardians who want to find out more about the MOE Financial Assistance Scheme (FAS), you may click on the link below. <br>
+[<b>MOE FAS Pamphlet 2023</b>](/files/MOE%20FAS%20Pamphlet%202023.pdf)
