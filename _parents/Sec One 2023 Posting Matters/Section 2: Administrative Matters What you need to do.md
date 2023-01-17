@@ -125,7 +125,8 @@ Some sec 1 NA and NT students will be eligible to take more demanding subjects t
 
 **Booklists:**     
 
-[<b>Sec 1 EXP booklist</b>](/files/NSS%20Sec%201EXP%20%20Booklist%202023.pdf)
+[<b>Sec 1 EXP booklist</b>](/files/NSS%20Sec%201EXP%20%20Booklist%202023.pdf) <br>
+[<b>Sec 1 NA booklist</b>](/files/NSS%20Sec%201%20NA%20Booklist%202023.pdf)
   
 
 
