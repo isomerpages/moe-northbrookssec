@@ -114,3 +114,9 @@ Blended Learning builds on Singapore’s education reform – “Learn for Life�
 Blended Learning refers to the model of integrating Home-Based Learning (HBL) as a regular feature in the schooling experience. It constitutes a seamless learning experience, with days when students learn in school, and days (which could be termed as “Independent Learning Days”\*) when students can learn at home.
 
 Through blended learning, we hope to nurture self-directed and independent learners and develop passionate and intrinsically motivated learners who possess the desire and passion to learn for life.
+
+
+### 5\. Parents Support Group (PSG)
+-------------------------------
+
+The school values its partnership with all Parents/Guardians. This is key in supporting your child. We would like to invite you to join the Parents Support Group (PSG). If you are keen, please complete the [<b>PSG Enrolment Form</b>](https://form.gov.sg/63871d55bf54e4001375d2a0). Thank You.
