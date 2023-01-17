@@ -71,4 +71,4 @@ Section 3: What you need to know
 
 
 Please click on the link below to find out more.  
-[**Full Subject Based Banding @ Northbrooks**](https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Parents/Sec%201%20Registration%20(2022%20Intake)/2022%20SBB_Sec%201%20Registration_for%20Parents_20%20Dec.pdf)
+[<b>Full Subject Based Banding @ Northbrooks</b>](/files/2022%20SBB_Sec%201%20Registration_for%20Parents_20%20Dec.pdf)
