@@ -289,3 +289,7 @@ If you are seeking a transfer due to other reasons, you may check the preferred 
 
 
 <p><a href="[](/files/AEPMEP.pdf)"><img style="width:100%" src="/images/AEP_MEP.jpg"></a></p>
+
+
+<center> <i>Click on the image above for more information</i>
+</center>
