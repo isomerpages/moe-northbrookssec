@@ -19,3 +19,15 @@ Books and uniform/PE attire are available for purchase online. If you choose to 
     
 
 Students would be able to know the class allocation via [Parents Gateway App](https://northbrookssec.moe.edu.sg/people/parents/sec-1-registration-2021-intake/section-4-others) by 30 December 2022, 5 pm.
+
+
+### Step 2a: RIASEC Survey
+----------------------
+
+*   The RIASEC self-assessment tool allows us to <b>better understand</b> students’ personality, strength and work values.
+
+*   The information from the survey will provide us with more opportunities to <b>better guide and support them</b> in exploring their career aspirations
+
+*   Education and Career Guidance (ECG) programmes <b>can also be better tailored and planned</b> by taking into consideration the students’ preferences.
+
+*   The survey data will enable them to explore their passions and pursue their areas of interest where possible
