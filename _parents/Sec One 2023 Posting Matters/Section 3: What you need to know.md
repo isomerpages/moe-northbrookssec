@@ -95,4 +95,3 @@ At MOE’s Committee of Supply Debate in March 2020, MOE launched the National D
 Every Brooksian will be using the latest <b>9th generation Apple iPad (10.2”)</b> as their personal learning device. Every iPad will come bundled with the pencil and keyboard to maximise the affordances of the iPad as a learning tool.  Lessons in the curriculum and co-curriculum will be designed intentionally to allow students to have the opportunity to apply their digital literacy, as we enable them to be future-ready in a digital world.
 
 To reduce out-of-pocket cash from students, Singapore citizen students can use their Edusave account to pay for the PLD. For students on financial assistance, further subsidies will be provided.  Currently, most students will be able to pay through their Edusave without paying any cash. The purchase process for 2023 sec 1 students will happen in Term 1, 2023.  More information will be provided in January 2023.
-
