@@ -282,3 +282,7 @@ The decision of the school’s Admissions Committee is final and the school will
 
 <b>Transferring-out Cases due to non-medical reasons:</b>  
 If you are seeking a transfer due to other reasons, you may check the preferred school’s website for more information. Your child’s PSLE score should meet the school’s cut-off point for that year. Transfers will be subject to available vacancies and meeting the school’s admission criteria.
+
+
+### Step 2h: Art & Music Elective Programmes (AEP/MEP) Matters
+----------------------------------------------------------
