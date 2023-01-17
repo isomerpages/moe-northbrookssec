@@ -50,45 +50,8 @@ b. Character and Citizenship Education (CCE)
 
 ##### <center>At Northbrooks Secondary School, the following Sexuality Education lessons will be taught in 2023:</center>
 
-##### Secondary 1
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-5f5j{background-color:#FCE573;color:#222;text-align:left;vertical-align:top}
-.tg .tg-k5ew{background-color:#FDF69E;color:#222;text-align:left;vertical-align:top}
-.tg .tg-un07{background-color:#104366;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-un07">UNIT</th>
-    <th class="tg-un07">LESSONS / DURATION</th>
-    <th class="tg-un07">Lesson Objectives<br>At the end of the lesson, students will be able to:<br></th>
-    <th class="tg-un07">TIME PERIOD<br>(e.g. Term 1 Week 2)<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-5f5j" rowspan="3">Respectful Relationships &amp; Safety<br> <br> </td>
-    <td class="tg-5f5j">1<br>(60 mins)</td>
-    <td class="tg-5f5j"><br>Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>Understand what dating is, and recognise that the readiness and interest in dating vary among individuals<br><br></td>
-    <td class="tg-5f5j">Term 2 Week 4</td>
-  </tr>
-  <tr>
-    <td class="tg-k5ew">2<br>(60 mins)</td>
-    <td class="tg-k5ew"><br>Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept<br></td>
-    <td class="tg-k5ew">Term 2 Week 5</td>
-  </tr>
-  <tr>
-    <td class="tg-5f5j">3<br>(60 mins)</td>
-    <td class="tg-5f5j"><br>Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)<br></td>
-    <td class="tg-5f5j">Term 2 Week 6</td>
-  </tr>
-</tbody>
-</table>
+##### <center>Secondary 1</center>
+
 
 
 
