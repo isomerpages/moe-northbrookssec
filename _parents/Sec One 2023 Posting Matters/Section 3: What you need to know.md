@@ -74,3 +74,8 @@ Please click on the link below to find out more.
 [<b>Full Subject Based Banding @ Northbrooks</b>](/files/2022%20SBB_Sec%201%20Registration_for%20Parents_20%20Dec.pdf)
 
 ![](/images/FSBB_2023.png)
+
+----
+
+
+More information can be found here: **[https](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html)[://](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html)[www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html)**
