@@ -260,7 +260,7 @@ For students who are offering HCL, students are to indicate accept or reject the
 
 <b>Transferring-in Cases:</b>
 
-For parents/guardians who would like to transfer your child to Northbrooks Secondary School, please click **[here](https://form.gov.sg/637f04fcea6ff7001247ec72)** to complete the form.
+For parents/guardians who would like to transfer your child to Northbrooks Secondary School, please click [<b>here</b>](https://form.gov.sg/637f04fcea6ff7001247ec72) to complete the form.
 
 The deadline for the submission of appeals is on <b>27 December 2022, 12.00pm</b>. Late submission will not be allowed.
 
