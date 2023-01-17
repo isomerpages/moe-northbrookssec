@@ -3,9 +3,6 @@ title: CCA
 permalink: /CCA/CCA/
 description: ""
 ---
-
-
-
 CCA
 ===
 ![](/images/CCA%202022.png)
@@ -26,7 +23,7 @@ Every CCA a Champion CCA, Impacting the Community
 *   Progression of development in skills and abilities through structured levels of attainment and opportunities for competition within each year over 4-5 years
 *   Provides balance development through cognitive, social-moral, leadership, physical and aesthetic domains.
 
-### CCA Information & Teachers-in-charge 2022
------------------------------------------
 
-Click [here](/files/CCA.pdf) for more information
+### CCA Information & Teachers-in-charge 2023
+
+Click [here](https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more information
