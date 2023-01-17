@@ -214,3 +214,29 @@ Please ensure that you obtain the School Approval letter before collecting your 
 
 For parents/guardians who want to find out more about the MOE Financial Assistance Scheme (FAS), you may click on the link below. <br>
 [<b>MOE FAS Pamphlet 2023</b>](/files/MOE%20FAS%20Pamphlet%202023.pdf)
+
+
+### Step 2f: Applications for Higher Mother Tongue, Foreign / 3rd Languages and exemption in Mother Tongue Language
+---------------------------------------------------------------------------------------------------------------
+
+<i><b>(Applicable to some students)</b></i>    
+
+[<b>Click here for more information</b>](/files/MTL%20SOPFAQ.pdf)
+
+**_Higher Mother Tongue_**
+
+MOE HMTL Option Letters will be given to eligible Sec 1 students based on MOE’s eligibility criteria to offer HMTL on the first day of school when school reopens.
+
+Parents are advised to purchase MT/ HMTL textbooks on the first week of school only after receiving the eligibility letter to be offered HMTL.
+
+For students who are offering Higher Chinese Language (HCL), they will study this subject during school curriculum time.
+
+For students who are offering HCL, students are to indicate accept or reject the offer and inform their Higher Mother Tongue or Mother Tongue teacher in the first HMT or MT lesson in 2023.
+
+**_Offering Third Languages At Secondary School_**
+
+*   Parents will be informed by the school via Parents Gateway (PG) for both successful and unsuccessful applications.
+*   Students will have to register online with the respective centres: MOE Language Centre (MOELC) or Malay/Chinese Special Programme (MSP/CSP) Zonal Centres by 5 January 2023.
+*   For registration at MOELC, students are to confirm the acceptance of the offer and complete the online registration at: [**https://www.moelc.moe.edu.sg/**](https://www.moelc.moe.edu.sg/)
+*   Please note that the duration of registration for MOELC.
+*   For Malay / Chinese Special Programme, please check with the MSP/CSP Zonal Centres for the registration deadline.
