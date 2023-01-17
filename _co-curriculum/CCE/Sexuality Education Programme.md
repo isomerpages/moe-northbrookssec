@@ -321,7 +321,7 @@ b. Character and Citizenship Education (CCE)
 
 10\. Parents may opt their children out of the Sexuality Education lessons, <i>eTeens</i> and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
-11\. Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://northbrookssec.moe.edu.sg/qql/slot/u162/CCE/Sexuality%20Education%20Programme/2023/Annex%20A%20v2.docx) (Annex A). The completed form is to be submitted by 25/01/2023.
+11\. Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A%20v2.pdf) (Annex A). The completed form is to be submitted by 25/01/2023.
 
 12\. Parents who wish to opt their children out of the <i><b>eTeens</b></i> <b>programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://northbrookssec.moe.edu.sg/qql/slot/u162/CCE/Sexuality%20Education%20Programme/2023/Annex%20B.pdf) (Annex B). The completed form is to be submitted by 25/01/2023.
 
