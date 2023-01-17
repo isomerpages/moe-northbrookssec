@@ -286,3 +286,6 @@ If you are seeking a transfer due to other reasons, you may check the preferred 
 
 ### Step 2h: Art & Music Elective Programmes (AEP/MEP) Matters
 ----------------------------------------------------------
+
+
+<p><a href="[](/files/AEPMEP.pdf)"><img style="width:100%" src="/images/AEP_MEP.jpg"></a></p>
