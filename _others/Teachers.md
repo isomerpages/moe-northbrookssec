@@ -63,7 +63,7 @@ Teachers
   </tr>
   <tr>
     <td class="tg-9n0n"><a href="https://vle.learning.moe.edu.sg/"><span style="text-decoration:none;color:#20248D">Student Learning Space (SLS) Website</span></a><br><a href="https://learning.moe.edu.sg/"><span style="text-decoration:none;color:#20248D">https://learning.moe.edu.sg</span></a></td>
-    <td class="tg-auud"><span style="color:#000">An online platform that allows students to access curriculum-aligned resources.</span><br><br><span style="color:#000">Click </span><a href="https://northbrookssec.moe.edu.sg/people/students/students-learning-space"><span style="text-decoration:none;color:#20248D">here</span></a><span style="color:#000"> to find out more.</span></td>
+    <td class="tg-auud"><span style="color:#000">An online platform that allows students to access curriculum-aligned resources.</span><br><br><span style="color:#000">Click </span><a href="/people/Students/Students-Learning-Space/"><span style="text-decoration:none;color:#20248D">here</span></a><span style="color:#000"> to find out more.</span></td>
   </tr>
   <tr>
     <td class="tg-1vm2"><a href="http://www.academyofsingaporeteachers.moe.gov.sg/"><span style="text-decoration:none;color:#20248D">Academy of Singapore Teachers (AST)</span></a><br><a href="https://academyofsingaporeteachers.moe.edu.sg/"><span style="text-decoration:none;color:#20248D">https://academyofsingaporeteachers.moe.edu.sg/</span></a></td>
