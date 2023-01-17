@@ -237,6 +237,6 @@ For students who are offering HCL, students are to indicate accept or reject the
 
 *   Parents will be informed by the school via Parents Gateway (PG) for both successful and unsuccessful applications.
 *   Students will have to register online with the respective centres: MOE Language Centre (MOELC) or Malay/Chinese Special Programme (MSP/CSP) Zonal Centres by 5 January 2023.
-*   For registration at MOELC, students are to confirm the acceptance of the offer and complete the online registration at: [**https://www.moelc.moe.edu.sg/**](https://www.moelc.moe.edu.sg/)
+*   For registration at MOELC, students are to confirm the acceptance of the offer and complete the online registration at: [<b>https://www.moelc.moe.edu.sg/</b>](https://www.moelc.moe.edu.sg/)
 *   Please note that the duration of registration for MOELC.
 *   For Malay / Chinese Special Programme, please check with the MSP/CSP Zonal Centres for the registration deadline.
