@@ -106,3 +106,5 @@ To reduce out-of-pocket cash from students, Singapore citizen students can use t
 
 ### 4.  Blended Learning (BL)
 -------------------------
+
+![](/images/BlendedLearning.png)
