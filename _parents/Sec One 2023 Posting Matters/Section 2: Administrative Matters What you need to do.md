@@ -223,7 +223,7 @@ For parents/guardians who want to find out more about the MOE Financial Assistan
 
 [<b>Click here for more information</b>](/files/MTL%20SOPFAQ.pdf)
 
-**_Higher Mother Tongue_**
+<i><u><b>Higher Mother Tongue</b></u></i>
 
 MOE HMTL Option Letters will be given to eligible Sec 1 students based on MOE’s eligibility criteria to offer HMTL on the first day of school when school reopens.
 
@@ -233,7 +233,7 @@ For students who are offering Higher Chinese Language (HCL), they will study thi
 
 For students who are offering HCL, students are to indicate accept or reject the offer and inform their Higher Mother Tongue or Mother Tongue teacher in the first HMT or MT lesson in 2023.
 
-**_Offering Third Languages At Secondary School_**
+<i><u><b>Offering Third Languages At Secondary School</b></u></i>
 
 *   Parents will be informed by the school via Parents Gateway (PG) for both successful and unsuccessful applications.
 *   Students will have to register online with the respective centres: MOE Language Centre (MOELC) or Malay/Chinese Special Programme (MSP/CSP) Zonal Centres by 5 January 2023.
