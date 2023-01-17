@@ -36,4 +36,27 @@ Students would be able to know the class allocation via [Parents Gateway App](h
 
 Please click [here](https://form.gov.sg/63929178df16190012907484) or scan the QR code to complete the survey
 
-<img src="/images/RIASEC%20QR.png" style="width:40%;float:right">
+<img src="/images/RIASEC%20QR.png" style="width:35%;float:right">
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+### Step 2b: Subject Based Banding
+------------------------------
+
+<i><b>(Applicable to some students)</b></i>
+
+Some sec 1 NA and NT students will be eligible to take more demanding subjects through Subject Based Banding.  This means that NA students may take Exp subjects and NT students may take NA and Exp subjects.  **Parents/Guardians will receive a notification via Parents Gateway or phone call if your child is eligible by 22 Dec 2022.**  Students can choose if they want to accept this offer.  Upon accepting the offer, the students can proceed to purchase books for the subject at a higher level.
