@@ -66,3 +66,5 @@ Section 3: What you need to know
 
 ### 2.  Full Subject-Based Banding (FSBB)
 -------------------------------------
+
+<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:50%" src="/images/Slide1.png"></a></p>
