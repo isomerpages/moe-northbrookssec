@@ -201,9 +201,9 @@ Parents/Guardians applying for MOE Financial Assistance Scheme (FAS) must come 
 
 Two types of FAS application:
 
-*   **Already Approved MOE FAS for 2023 with Approval Letter from Primary School** \- Please exchange your letter at [Learning Network Room (Level 1)](https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Parents/Sec%201%20Registration%20(2022%20Intake)/On-site%202022.jpg) in order for you to collect your books and uniforms.  
+*   <b>Already Approved MOE FAS for 2023 with Approval Letter from Primary School</b> \- Please exchange your letter at [Learning Network Room (Level 1)](https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Parents/Sec%201%20Registration%20(2022%20Intake)/On-site%202022.jpg) in order for you to collect your books and uniforms.  
     
-*   **New applications** \- Please proceed to [Learning Network Room (Level 1)](https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Parents/Sec%201%20Registration%20(2022%20Intake)/On-site%202022.jpg) to complete the application form. Submit your supporting documents. Once approved, you will be notified to collect the School Approval letter.  
+*   <b>New applications</b> \- Please proceed to [Learning Network Room (Level 1)](https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Parents/Sec%201%20Registration%20(2022%20Intake)/On-site%202022.jpg) to complete the application form. Submit your supporting documents. Once approved, you will be notified to collect the School Approval letter.  
     
 
   
