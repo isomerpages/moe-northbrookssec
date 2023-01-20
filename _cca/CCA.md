@@ -7,13 +7,13 @@ CCA
 ===
 ![](/images/CCA%202022.png)
 
-Co-curricular activities (CCA) allow students to not only learn new skills and knowledge, but also allow students to put into practice their skills and knowledge learnt in their CCAs. This in turn allows students to widen their experiences developing them to be future-ready with a keen desire for life-long learning.  
+Co-curricular activities (CCA) allow students to not only learn new skills and knowledge, but also allow students to put into practice their skills and knowledge learnt in their CCAs. This in turn allows students to widen their experiences developing them to be future-ready with a keen desire for life-long learning.
 
   
 
 In Northbrooks, we strive to instil in every Brooksian resilience and a growth mindset. To equip our students with social-emotional competencies, we strive to create a strong sense of belonging to school and good relationships between peers and teachers. To nurture in every student the tenacity to earnestly learn, constantly improve and courageously bounce back in the face of challenges, we believe that we are preparing them to achieve success in life. We recognised the potential and needs of every students is unique and different, thus in the 4 or 5 years, we take heart and time to nurture every Brooksian by capitalising on their strengths.
 
-### CCA Vision
+### <center> CCA Vision </center>
 
 Every CCA a Champion CCA, Impacting the Community
 
