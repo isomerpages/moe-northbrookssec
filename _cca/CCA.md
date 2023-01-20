@@ -94,7 +94,18 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
 
 
 
+| [Badminton](/CCA/Sports-and-Games/Badminton/)| [Basketball](/CCA/Sports-and-Games/Basketball/) | [Bowling](/CCA/Sports-and-Games/Bowling/) | [Floorball](/CCA/Sports-and-Games/Floorball/)
+| -------- | -------- | -------- |-------- |
+||||
 
+
+<img src="/images/badminton.jpg" style="width:25%;float:left">
+
+<img src="/images/Basketball.jpg" style="width:25%;float:left">
+
+<img src="/images/Bowling.jpg" style="width:25%;float:left">
+
+<img src="/images/Floorball.jpg" style="width:25%;float:left">
 
 
 
