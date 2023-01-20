@@ -21,3 +21,33 @@ Parents/Guardians and students and click on the link below to find out more abou
 ![](/images/Parents%20Gateway.jpg)
 
 Click [<b>here</b>](https://pg.moe.edu.sg/) for more information
+
+### School Locker Rental
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-etn9{background-color:#E6C20C;color:#141D1C;text-align:left;vertical-align:middle}
+.tg .tg-orvo{background-color:#E6C20C;color:#141D1C;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-etn9"><span style="color:#141D1C;background-color:#E6C20C">SCAN TO PAY</span> <span style="text-decoration:underline">OR </span><br><span style="color:#141D1C;background-color:#E6C20C">PAYNOW TO UEN:201629913E</span></th>
+    <th class="tg-orvo"><span style="font-weight:500;color:#141D1C;background-color:#E6C20C">GOOGLE QR CODE - Application Form</span><br></th>
+    <th class="tg-orvo"><span style="font-weight:500;color:#141D1C;background-color:#E6C20C">SCHOOL CODE</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/People/Parents/Sec1%20Reg/Others/SchLocker_GoogleQRCode.jpg" alt="SchLocker_GoogleQRCode.jpg" width="249"></td>
+    <td class="tg-ktyi"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/People/Parents/Sec1%20Reg/Others/SchLocker_Paynow.png" alt="SchLocker_Paynow.png" width="251"></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Northbrooks Secondary School – NBSS</span></td>
+  </tr>
+</tbody>
+</table>
