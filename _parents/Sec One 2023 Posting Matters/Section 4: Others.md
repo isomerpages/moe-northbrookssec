@@ -12,9 +12,9 @@ Section 4: Others
 
 ### eTour @ Northbrooks
 
-Parents/Guardians and students and click on the link below to find out more about the school  
+Parents/Guardians and students and click on the link below to find out more about the school 
 
-*   [eTour@Northbrooks](https://northbrookssec.moe.edu.sg/about-us/tour-at-northbrooks)
+*   [eTour@Northbrooks](/about-us/tour-at-northbrooks/)
 
 ### Northbrooks Social Media
 
