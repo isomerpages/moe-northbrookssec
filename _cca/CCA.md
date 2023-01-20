@@ -17,7 +17,7 @@ In Northbrooks, we strive to instil in every Brooksian resilience and a growth m
 
 Every CCA a Champion CCA, Impacting the Community
 
-### CCA Objectives
+### <center> CCA Objectives </center>
 
 *   Develop experiential learning opportunities through participation in one of the four categories of CCA : Uniformed Group, Sports, Performing Arts and Clubs and Societies
 *   Progression of development in skills and abilities through structured levels of attainment and opportunities for competition within each year over 4-5 years
