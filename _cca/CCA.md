@@ -94,7 +94,7 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
 
 
 
-| [Badminton](/CCA/Sports-and-Games/Badminton/)| [Basketball](/CCA/Sports-and-Games/Basketball/) | [Bowling](/CCA/Sports-and-Games/Bowling/) | [Floorball](/CCA/Sports-and-Games/Floorball/)
+| [AVA Club](/CCA/Clubs-and-Societies/AVA-club/)| [Basketball](/CCA/Sports-and-Games/Basketball/) | [Bowling](/CCA/Sports-and-Games/Bowling/) | [Floorball](/CCA/Sports-and-Games/Floorball/)
 | -------- | -------- | -------- |-------- |
 ||||
 
