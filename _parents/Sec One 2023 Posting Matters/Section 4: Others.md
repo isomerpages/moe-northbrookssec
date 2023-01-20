@@ -54,30 +54,24 @@ Click [<b>here</b>](https://pg.moe.edu.sg/) for more information
 
 
 
-**Step 1**: Please scan QR to pay or PAYNOW to UEN: 201629913E 
+<b>Step 1</b>: Please scan QR to pay or PAYNOW to UEN: 201629913E <br>Key in PAYNOW reference with < STUDENT NAME> <br>
+e.g. Northbrooks Secondary School = NBSS  Jason Lim. <br>
+Kindly screenshot the receipt of payment. <br>
 
-            Key in PAYNOW reference with < STUDENT NAME> 
-
-            e.g. Northbrooks Secondary School = NBSS  Jason Lim. 
-
-            Kindly screenshot the receipt of payment.
-
-            For New applicant: $35.00 (inclusive padlock), Renewal: $25.00 
+For New applicant: $35.00 (inclusive padlock), Renewal: $25.00 
 
   
 
-**Step 2**: Please scan Google QR code to upload the receipt, fill in the student details and submit the application.
+<b>Step 2</b>: Please scan Google QR code to upload the receipt, fill in the student details and submit the application.
 
   
 
-**Step 3**: Upon receipt of your application form and payment, you will be duly informed of your assigned locker number and padlock combination code via email.
+<b>Step 3</b>: Upon receipt of your application form and payment, you will be duly informed of your assigned locker number and padlock combination code via email.
 
   
 
-**Step 4**: New Applicant: The new padlock will hang on the assigned locker, and you may use it.
-
-            Renewal:  Please hang the padlock on the assigned locker and use it. 
-
+<b>Step 4</b>: New Applicant: The new padlock will hang on the assigned locker, and you may use it. <br>
+Renewal:  Please hang the padlock on the assigned locker and use it. <br>
 \*If the locker is secured with a plastic cable tie, please cut it, and start using the locker. 
 
   
@@ -86,8 +80,7 @@ Important Note: For new applicant and new padlock purchase, payment and applica
 
   
 
-Collection Address: 33 Ubi Avenue 3 #07-66/67 Vertex Singapore 408868.
-
+Collection Address: 33 Ubi Avenue 3 #07-66/67 Vertex Singapore 408868. <br>
 Available Time: Monday to Friday (10am–1pm OR 2pm–5pm)
 
   
