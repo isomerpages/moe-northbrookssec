@@ -157,135 +157,15 @@ b. Character and Citizenship Education (CCE)
 
 ##### <center>Secondary 3</center>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-5f5j{background-color:#FCE573;color:#222;text-align:left;vertical-align:top}
-.tg .tg-py7v{background-color:#104366;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-k5ew{background-color:#FDF69E;color:#222;text-align:left;vertical-align:top}
-.tg .tg-un07{background-color:#104366;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-kbmg{background-color:#FCE573;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-5ld3{background-color:#FDF69E;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-py7v"><span style="background-color:transparent">Unit</span><br></th>
-    <th class="tg-un07">Lesson Title/ Duration</th>
-    <th class="tg-un07">Lesson Overview</th>
-    <th class="tg-un07">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
-    <th class="tg-un07">Time Period<br>(e.g.Term 1 Week 2)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-5f5j" rowspan="3"><span style="font-weight:normal">Respectful Relationships &amp; Safety</span></td>
-    <td class="tg-5f5j">Love Yourself, Love Others <br>Lesson 1A<br>(60 mins)</td>
-    <td class="tg-5f5j">This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship. </td>
-    <td class="tg-kbmg"><br>know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline <br>understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours<br>recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship <br></td>
-    <td class="tg-5f5j">Term 2 Week 6</td>
-  </tr>
-  <tr>
-    <td class="tg-k5ew">Mending a Broken Heart Lesson 1B<br>(60 mins)</td>
-    <td class="tg-k5ew">Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support.<span style="font-weight:normal;background-color:transparent"> </span></td>
-    <td class="tg-5ld3"><br>know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges <br>know that a decision to end a relationship will have consequences on oneself and others<br>know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience <br>know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support <br></td>
-    <td class="tg-k5ew">Term 2 Week 7</td>
-  </tr>
-  <tr>
-    <td class="tg-5f5j">When Respect Takes Centre Stage <br>Lesson 2<br>(60 mins)</td>
-    <td class="tg-5f5j">This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students’ convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need.</td>
-    <td class="tg-kbmg"><br>recognize the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them <br>understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs <br></td>
-    <td class="tg-5f5j">Term 2 Week 9</td>
-  </tr>
-</tbody>
-</table>
+
 
 ##### <center>Secondary 4</center>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-5f5j{background-color:#FCE573;color:#222;text-align:left;vertical-align:top}
-.tg .tg-k5ew{background-color:#FDF69E;color:#222;text-align:left;vertical-align:top}
-.tg .tg-un07{background-color:#104366;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-un07">Unit</th>
-    <th class="tg-un07">Lesson Title</th>
-    <th class="tg-un07">Lesson Overview</th>
-    <th class="tg-un07">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
-    <th class="tg-un07">Time Period<br>(e.g.Term 1 Week 2)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-5f5j" rowspan="3">Respectful Relationships &amp; Safety</td>
-    <td class="tg-5f5j">Levelling the Ground Lesson 1<br>(60 mins)</td>
-    <td class="tg-5f5j">This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</td>
-    <td class="tg-5f5j"><br>understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity<br>understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations<br>know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided <br></td>
-    <td class="tg-5f5j">Term 1 Week 5</td>
-  </tr>
-  <tr>
-    <td class="tg-k5ew">When Love Hurts <br>Lesson 2<br>(60 mins)</td>
-    <td class="tg-k5ew">This lesson aims to help students recognise unhealthy relationships and build their help-seeking skills. Students will learn to identify potential signs of an unhealthy relationship and recognise the different forms of dating violence. They will get to understand why dating violence occurs, why victims often feel “trapped” in such unhealthy relationships, and how one can get out of such a relationship safely. Students will learn when, where and how to seek help from trusted adults (e.g. family, teachers, school counsellors) in the supportive environment that they have if they or their friends are involved in an unhealthy relationship.</td>
-    <td class="tg-k5ew"><br>know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support<br><span style="background-color:transparent">recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims</span><br>understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being<br>understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship<span style="background-color:transparent"> </span><br><br><br></td>
-    <td class="tg-k5ew">Term 1 Week 7</td>
-  </tr>
-  <tr>
-    <td class="tg-5f5j">For Better or For Worse <br>Lesson 3<br>(60 mins)</td>
-    <td class="tg-5f5j">This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters to sustain and maintain a long-term romantic relationship leading to marriage is understanding the other person’s perspective and effectively communicating with each other. </td>
-    <td class="tg-5f5j"><br>know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions<br>know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort <br>understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage <br><br> </td>
-    <td class="tg-5f5j">Term 1 Week 8</td>
-  </tr>
-  <tr>
-    <td class="tg-k5ew"> </td>
-    <td class="tg-k5ew">There’s Always More to a Story<br>Lesson 4<br>(60 mins)</td>
-    <td class="tg-k5ew">In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger. </td>
-    <td class="tg-k5ew"><br>understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs<br></td>
-    <td class="tg-k5ew">Term 2 Week 1</td>
-  </tr>
-</tbody>
-</table>
+
 
 ##### <center>Secondary 5</center>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-5f5j{background-color:#FCE573;color:#222;text-align:left;vertical-align:top}
-.tg .tg-un07{background-color:#104366;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-un07">UNIT</th>
-    <th class="tg-un07">Lesson Title</th>
-    <th class="tg-un07">Lesson Overview</th>
-    <th class="tg-un07">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
-    <th class="tg-un07">Time Period<br>(e.g.Term 1 Week 2)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-5f5j">Respectful Relationships &amp; Safety</td>
-    <td class="tg-5f5j">This is Where I Draw the Line<br>(60 mins)<br> </td>
-    <td class="tg-5f5j">In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.</td>
-    <td class="tg-5f5j"><br>understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs<br></td>
-    <td class="tg-5f5j">Term 1 Week 5</td>
-  </tr>
-</tbody>
-</table>
+
 
 
 
