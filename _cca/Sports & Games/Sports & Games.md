@@ -8,7 +8,7 @@ Sports &amp; Games
 ==============
 
 #### Core Business  
-**Plan and develop and monitor policies and programmes on sports co-curricular activities:**
+<b>Plan and develop and monitor policies and programmes on sports co-curricular activities:</b>
 *   Develop sports policies through studies in diverse research areas
 *   Develop research protocols to meet the needs of schools in the delivery of effective sports programmes
 *   Develop models and strategies to maximise resources
