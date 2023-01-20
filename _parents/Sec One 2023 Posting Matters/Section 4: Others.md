@@ -16,12 +16,4 @@ Parents/Guardians and students and click on the link below to find out more abou
 
 *   [eTour@Northbrooks](/about-us/tour-at-northbrooks/)
 
-### Northbrooks Social Media
-
-Dear Sec 1 students and parents/guardians, we would like to invite you to 'like' and 'follow' our Facebook & Instagram pages to stay connected with the school. 
-
-  
-
-Facebook: [<b>https://www.facebook.com/officialnorthbrooks</b>](https://www.facebook.com/officialnorthbrooks)
-
-Instagram: [<b>http://instagram.com/officialnorthbrooks</b>](http://instagram.com/officialnorthbrooks)
+### Parents Gateway
