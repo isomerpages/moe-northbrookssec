@@ -45,12 +45,13 @@ Click [<b>here</b>](https://pg.moe.edu.sg/) for more information
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ktyi"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/People/Parents/Sec1%20Reg/Others/SchLocker_GoogleQRCode.jpg" alt="SchLocker_GoogleQRCode.jpg" width="249"></td>
-    <td class="tg-ktyi"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/People/Parents/Sec1%20Reg/Others/SchLocker_Paynow.png" alt="SchLocker_Paynow.png" width="251"></td>
+    <td class="tg-ktyi"><img src="/images/SchLocker_GoogleQRCode.jpg" style="width:100%"></td>
+    <td class="tg-ktyi"><img src="/images/SchLocker_Paynow.png" style="width:100%"></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Northbrooks Secondary School – NBSS</span></td>
   </tr>
 </tbody>
 </table>
+
 
 
 **Step 1**: Please scan QR to pay or PAYNOW to UEN: 201629913E 
