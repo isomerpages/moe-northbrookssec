@@ -45,6 +45,18 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
 </thead>
 </table>
 
+| [Boys Brigade](/co-curricular-activities/Uniformed-Groups/The-Boys-Brigade)| [Girl Guides](/co-curricular-activities/Uniformed-Groups/Girl-Guides) | [NCC Air Boys](/co-curricular-activities/Uniformed-Groups/NCC-Air-Boys-Unit) | [NCC Air Girls](/co-curricular-activities/Uniformed-Groups/NCC-Air-Girls-Unit)
+| -------- | -------- | -------- |-------- |
+||||
+
+
+<img src="/images/Boys%20Brigade.jpg" style="width:25%;float:left">
+
+<img src="/images/Girl%20Guides.jpg" style="width:25%;float:left">
+
+<img src="/images/NCC%20Air%20Boys.jpg" style="width:25%;float:left">
+
+<img src="/images/NCC%20Air%20Girls.jpg" style="width:25%;float:left">
 
 
 
