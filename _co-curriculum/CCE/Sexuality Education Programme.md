@@ -157,6 +157,50 @@ b. Character and Citizenship Education (CCE)
 
 ##### <center>Secondary 3</center>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k88s{background-color:#E6C20C;color:#141D1C;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-orvo{background-color:#E6C20C;color:#141D1C;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-k88s">UNIT</th>
+    <th class="tg-k88s">LESSONS / DURATION</th>
+    <th class="tg-k88s">Lesson Overview<br></th>
+    <th class="tg-k88s">Lesson Objectives<br><span style="background-color:transparent">At the end of the lesson, students will be able to:</span><br></th>
+    <th class="tg-orvo"><span style="font-weight:500;color:#141D1C;background-color:#E6C20C">TIME PERIOD (e.g. Term 1 Week 2)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi" rowspan="3"><span style="font-weight:400;color:#000">Respectful Relationships &amp; Safety</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Love Yourself, Love Others</span><br><span style="font-weight:400;color:#000">Lesson 1A</span><br><span style="font-weight:400;color:#000">(60 mins)</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.</span></td>
+    <td class="tg-ktyi"><br>know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline<br>understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours<br>recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship <br><br></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Term 2 Week 6</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mending a Broken Heart</span><br><span style="font-weight:400;color:#000">Lesson 1B</span><br><br>(60 mins)<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support.</span></td>
+    <td class="tg-ktyi"><br>Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges. <br>Know that a decision to end a relationship will have consequences on oneself and others. <br>Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience. <br>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support. <br><br></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Term 2 Week 7</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">When Respect Takes Centre Stage</span><br><span style="font-weight:400;color:#000">Lesson 2</span><br><span style="font-weight:400;color:#000">(60 mins)</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students’ convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need.</span></td>
+    <td class="tg-ktyi">Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them. <br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs. </td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Term 2 Week 9</span></td>
+  </tr>
+</tbody>
+</table>
+
 
 
 ##### <center>Secondary 4</center>
