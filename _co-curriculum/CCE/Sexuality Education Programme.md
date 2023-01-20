@@ -258,7 +258,36 @@ b. Character and Citizenship Education (CCE)
 
 ##### <center>Secondary 5</center>
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k88s{background-color:#E6C20C;color:#141D1C;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-k88s">UNIT</th>
+    <th class="tg-k88s">LESSONS / DURATION</th>
+    <th class="tg-k88s">Lesson Overview<br><br></th>
+    <th class="tg-k88s">Lesson Objectives<br>At the end of the lesson, students will be able to:<br></th>
+    <th class="tg-k88s"><span style="color:#000">TIME PERIOD</span><br>(e.g. Term 1 Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Respectful Relationships &amp; Safety</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">This is Where I Draw the Line</span><br><span style="font-weight:400;color:#000">Lesson 1</span><br><br>(60 mins)<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.</span></td>
+    <td class="tg-ktyi"><br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs<br></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Term 1 Week 5</span></td>
+  </tr>
+</tbody>
+</table>
 
 
 
