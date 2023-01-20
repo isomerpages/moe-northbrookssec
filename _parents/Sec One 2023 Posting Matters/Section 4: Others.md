@@ -86,3 +86,13 @@ Available Time: Monday to Friday (10am–1pm OR 2pm–5pm)
   
 
 For further enquiry, please email rent@lockerandlock.com
+
+
+### Northbrooks Social Media
+
+Dear Sec 1 students and parents/guardians, we would like to invite you to 'like' and 'follow' our Facebook & Instagram pages to stay connected with the school.   
+  
+Facebook: [https://www.facebook.com/officialnorthbrooks](https://www.facebook.com/officialnorthbrooks)  
+Instagram: [http://instagram.com/officialnorthbrooks](http://instagram.com/officialnorthbrooks)  
+
+Return to [Main Menu: Sec 1 Registration 2023 Intake](https://northbrookssec-moe-edu-sg-admin.cwp.sg/people/parents/sec-1-registration-2023-intake)
