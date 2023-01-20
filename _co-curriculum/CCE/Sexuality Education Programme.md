@@ -305,28 +305,27 @@ b. Character and Citizenship Education (CCE)
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-5f5j{background-color:#FCE573;color:#222;text-align:left;vertical-align:top}
-.tg .tg-k5ew{background-color:#FDF69E;color:#222;text-align:left;vertical-align:top}
-.tg .tg-un07{background-color:#104366;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-k88s{background-color:#E6C20C;color:#141D1C;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-un07">Topics/Lessons</th>
-    <th class="tg-un07">Programme Learning Objectives</th>
-    <th class="tg-un07">Time Period<br>(e.g. Term 3 Week 9)<br></th>
+    <th class="tg-k88s">Topics/Lessons</th>
+    <th class="tg-k88s">Programme Learning Objectives</th>
+    <th class="tg-k88s">Time Period<br>(e.g. Term 3 Week 9)<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-5f5j">Mass Talk by HPB appointed vendor </td>
-    <td class="tg-5f5j"><br>Awareness of the different STIs and HIV/AIDS<br>Modes of transmission<br>Modes of protection, specifically on how the condom is used<br>Consequences and impact of STIs/HIV<br></td>
-    <td class="tg-5f5j">Term 2 Week 5</td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mass Talk by HPB appointed vendor</span> </td>
+    <td class="tg-ktyi"><br>Awareness of the different STIs and HIV/AIDS<br>Modes of transmission<br>Modes of protection, specifically on how the condom is used<br>Consequences and impact of STIs/HIV<br></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Term 2 Week 5</span></td>
   </tr>
   <tr>
-    <td class="tg-k5ew">Classroom-based Lesson</td>
-    <td class="tg-k5ew"><br>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br></td>
-    <td class="tg-k5ew">Term 2 Week 6</td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Classroom-based Lesson</span></td>
+    <td class="tg-ktyi"><br>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Term 2 Week 6</span></td>
   </tr>
 </tbody>
 </table>
