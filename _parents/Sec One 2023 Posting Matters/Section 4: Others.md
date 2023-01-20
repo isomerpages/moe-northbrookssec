@@ -19,3 +19,5 @@ Parents/Guardians and students and click on the link below to find out more abou
 ### Parents Gateway
 
 ![](/images/Parents%20Gateway.jpg)
+
+Click [<b>here</b>](https://pg.moe.edu.sg/) for more information
