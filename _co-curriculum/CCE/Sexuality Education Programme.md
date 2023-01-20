@@ -71,40 +71,40 @@ b. Character and Citizenship Education (CCE)
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-5f5j{background-color:#FCE573;color:#222;text-align:left;vertical-align:top}
-.tg .tg-k5ew{background-color:#FDF69E;color:#222;text-align:left;vertical-align:top}
-.tg .tg-un07{background-color:#104366;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-s8if{background-color:#FCE573;color:#222;text-align:center;vertical-align:top}
+.tg .tg-orvo{background-color:#E6C20C;color:#141D1C;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-un07">Unit</th>
-    <th class="tg-un07">Lesson Title / Duration</th>
-    <th class="tg-un07">Lesson Overview</th>
-    <th class="tg-un07">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
-    <th class="tg-un07">Time Period<br>(e.g.Term 1 Week 2)</th>
+    <th class="tg-orvo"><span style="font-weight:500;color:#141D1C;background-color:#E6C20C">UNIT</span></th>
+    <th class="tg-orvo"><span style="font-weight:500;color:#141D1C;background-color:#E6C20C">LESSONS / DURATION</span></th>
+    <th class="tg-orvo"><span style="font-weight:500;color:#141D1C;background-color:#E6C20C">Lesson Overview</span><br></th>
+    <th class="tg-orvo"><span style="font-weight:500;color:#141D1C;background-color:#E6C20C">Lesson Objectives</span> <br><br><span style="font-weight:500;color:#141D1C;background-color:#E6C20C">At the end of the lesson, students will be able to:</span><br></th>
+    <th class="tg-orvo"><span style="font-weight:500;color:#141D1C;background-color:#E6C20C">TIME PERIOD (e.g. Term 1 Week2)</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-5f5j" rowspan="3">Respectful Relationships &amp; Safety<br> <br> </td>
-    <td class="tg-5f5j">Steady or Not<br>Lesson 1<br>(60 mins)</td>
-    <td class="tg-5f5j">This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.<br> <br> </td>
-    <td class="tg-5f5j"><br>recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles <br>recognise that there are different forms of love (e.g. familial, platonic, romantic love) <br>recognise the importance and understand what builds healthy and supportive relationships, both online and offline <br>understand what dating is, and recognise that the readiness and interest in dating vary among individuals<br><br></td>
-    <td class="tg-5f5j">Term 3 Week 2</td>
+    <td class="tg-ktyi" rowspan="3"><span style="font-weight:400;color:#000">Respectful Relationships &amp; Safety</span><br><br></td>
+    <td class="tg-7yig"><span style="font-weight:400;color:#000">Steady or Not Lesson 1</span><br><span style="font-weight:400;color:#000">(60 mins)</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</span></td>
+    <td class="tg-ktyi">recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>understand what dating is, and recognise that the readiness and interest in dating vary among individuals</td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Term 3 </span><br><span style="font-weight:400;color:#000">Week 2</span></td>
   </tr>
   <tr>
-    <td class="tg-k5ew">Being Aware, Being Safe<br>Lesson 2<br>(60 mins)</td>
-    <td class="tg-k5ew">This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-    <td class="tg-k5ew"><br>understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept<br></td>
-    <td class="tg-k5ew">Term 3 Week 3</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Being Aware, Being Safe Lesson 2 (60 mins)</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self.</span> <br><br><span style="color:#000;background-color:#FFF">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></td>
+    <td class="tg-ktyi">understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Term 3 </span><br>Week 3</td>
   </tr>
   <tr>
-    <td class="tg-5f5j">More than Meets the Eye<br>Lesson 3 <br>(60 mins)</td>
-    <td class="tg-5f5j">This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-    <td class="tg-5f5j"><br>understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences <br>recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)<br></td>
-    <td class="tg-s8if">Term 3 Week 9</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">More than Meets the Eye Lesson 3 (60 mins)</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.</span><br><br><span style="color:#000;background-color:#FFF">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></td>
+    <td class="tg-ktyi">understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Term 3 </span><br><span style="font-weight:400;color:#000">Week 9</span></td>
   </tr>
 </tbody>
 </table>
