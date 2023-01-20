@@ -4,9 +4,6 @@ permalink: /CCA/Clubs-and-Societies/Infocomm-Club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-
-
-
 # Infocomm Club
 ##### Teacher-in-Charge
 
@@ -16,7 +13,7 @@ third_nav_title: Clubs & Societies
 
 ##### Training Day / Time
 
-**Mondays, 3.30pm - 6.30pm**
+<b>Mondays, 3.30pm - 6.30pm</b>
 
 
 
@@ -67,4 +64,3 @@ Activities in Infocomm Clubs are aligned with MOE’s Co-Curricular Activities (
 2011
 
 *   Infocomm Clubs Outstanding School Award 2010
-
