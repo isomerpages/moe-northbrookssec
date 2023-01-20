@@ -50,7 +50,7 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
 ||||
 
 
-<img src="/images/Boys%20Brigade.jpg" style="width:25%;float:left">
+<img src="/images/badminton.jpg" style="width:25%;float:left">
 
 <img src="/images/Girl%20Guides.jpg" style="width:25%;float:left">
 
