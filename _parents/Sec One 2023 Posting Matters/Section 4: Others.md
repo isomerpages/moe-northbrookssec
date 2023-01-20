@@ -17,3 +17,5 @@ Parents/Guardians and students and click on the link below to find out more abou
 *   [eTour@Northbrooks](/about-us/tour-at-northbrooks/)
 
 ### Parents Gateway
+
+![](/images/Parents%20Gateway.jpg)
