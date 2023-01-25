@@ -8,25 +8,25 @@ Environment Art Club
 ====================
 ![](/images/artclub.png)
 
-##### Teacher-in-Charge
+### Teacher-in-Charge
 
 1. Mr Alex Ang Kok Wee (Advisor)  
 2. Ms Siti Liana Bt Hashim (Teacher-in-charge)  
 3. Mrs Celine Goh (2 Teacher-in-charge)
 
-##### Training Day / Time
+### Training Day / Time
 
 Mondays, 3.30pm - 5.30pm  
   
 Not an ordinary art club. In the Environmental Art Club, you choose your projects through learning and applying. You become environmental ambassadors.
 
-##### Objectives:
+### Objectives:
 
 *   Learn and apply art skills on recycle art crafts
 *   Understand and spread awareness of environmental messages
 *   Become independent ambassadors of the environment who can impact the community
 
-##### Key Programmes / CCA Programme Structure
+### Key Programmes / CCA Programme Structure
 
 
 *   Recycled Art Masterclasses
