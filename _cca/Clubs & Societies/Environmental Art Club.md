@@ -130,6 +130,8 @@ Green Living at Nee Soon East 2014
 
 #### On 4 September 2014
 
+Northbrooks Interact Green Club members participated in the yearly Nee Soon East Green Living event, graced by MP Mr Patrick Tay. Interactors created a variety of funfair games using recycled materials, entertaining the residents who participated in the event. The wall mural was painted by Interactors who volunteered their time over a span of two weeks.
+
 
 
 
