@@ -15,8 +15,8 @@ third_nav_title: Clubs & Societies
 
 ##### Training Day / Time
 
-Mondays, 3.30pm - 5.30pm
-
+Mondays, 3.30pm - 5.30pm  
+  
 Not an ordinary art club. In the Environmental Art Club, you choose your projects through learning and applying. You become environmental ambassadors.
 
 ##### Objectives:
