@@ -169,4 +169,3 @@ The opening ceremony of the community wall mural by MP Mr Patrick Tay Teck Guan,
 </tbody>
 </table>
 
-## [GREEN LIVING AT NEE SOON EAST 2014](/Green-Living-at-Nee-Soon-East-2014/permalink/)
