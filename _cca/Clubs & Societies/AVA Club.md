@@ -15,6 +15,7 @@ AVA Club
 4. Mr Alex Tok  
 5\. Mr Shahrin Mansor
 
+
 ##### Training Day / Time
 
 Mondays, 3.30pm - 5.30pm
