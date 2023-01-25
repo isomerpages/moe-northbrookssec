@@ -23,7 +23,8 @@ Northbrooks Infocomm Club aims to excite students about infocomm in a fun and me
 
 Activities in Infocomm Clubs are aligned with MOE’s Co-Curricular Activities (CCA) framework, where students earn CCA points through participation in the Clubs. The club activities include projects and competitions. The students in
 
-![](/images/infocomm.png)
+
+<img src="/images/infocomm.png" style="width:50%">
 
 
 ##### Objectives:
