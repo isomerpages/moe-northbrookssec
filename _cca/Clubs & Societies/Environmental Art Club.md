@@ -76,6 +76,14 @@ National Youth Business Challenge – Silver
 
 ### CCA Experiences by Students
 
+<img src="/images/EAC%208.png" style="width:200px;height:190px;margin-right:15px;" align = "left">  
+
+
+<b>Student Name:</b> Jazmine Claire Balancio Macapagal <br>
+<b>Student Class (Class / Year):</b> 3F, 2020 <br>
+<b>Student role in CCA:</b> Member
+
+
 
 
 
