@@ -68,21 +68,14 @@ Northbrooks Youth Flying Club (NYFC) was set up in January 2003 with the aim of 
 
 ### Objectives:
 
+<img src="/images/fly7.png" style="width:25%;float:right">
 
 *   To ignite the strong learning passion for aerospace in our students.
 *   To develop aerospace knowledge and skills in our students so as to prepare them for a career in the aerospace industry.
 
-##### Objectives:
-*   To ignite the strong learning passion for aerospace in our students.
-*   To develop aerospace knowledge and skills in our students so as to prepare them for a career in the aerospace industry.
 
 
 
-
-
-![](/images/fly7.png)
-
-</div><div>
 
 ##### Programmes:
 
