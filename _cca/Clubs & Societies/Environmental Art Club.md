@@ -83,6 +83,29 @@ National Youth Business Challenge – Silver
 <b>Student Class (Class / Year):</b> 3F, 2020 <br>
 <b>Student role in CCA:</b> Member
 
+----
+<b>Student’s Experience</b>
+
+  
+
+When I joined EAC back in 2018, I didn’t really like the idea of doing art with recyclable materials initially. I felt like it was limiting what I could do as an EAC member. However, I grew to like the medium eventually and I like to challenge my creativity with these resources.
+
+  
+
+To me, EAC is a place where you can cultivate your talent in art and build your foundation in creativity. It is also a nice and thoughtful to contribute back to the community during our outreach sessions.
+
+  
+
+I grew better in my art and as a person in this CCA. I will like to thank my CCA teachers for giving me the opportunity to try this new medium art and a chance at making good memories.
+
+----
+
+<img src="/images/EAC%209.png" style="width:200px;height:190px;margin-right:15px;" align = "left">
+
+<b>Student Name:</b> Eesha <br>
+<b>Student Class (Class / Year):</b> 3I, 2020 <br>
+<b>Student role in CCA:</b> Vice-President
+
 
 
 
