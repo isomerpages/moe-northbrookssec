@@ -6,7 +6,8 @@ third_nav_title: Clubs & Societies
 ---
 # Youth Flying Club
 
-![](/images/fly.jpeg)
+
+<img src="/images/fly.jpeg" style="width:80%">
  
 ##### Teacher-in-Charge
 
