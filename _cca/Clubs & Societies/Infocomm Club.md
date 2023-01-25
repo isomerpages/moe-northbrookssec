@@ -47,6 +47,8 @@ Activities in Infocomm Clubs are aligned with MOE’s Co-Curricular Activities (
 
 ![](/images/infocomm2.png)
 
+<img src="/images/xxx.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
+
 
 
  2017
