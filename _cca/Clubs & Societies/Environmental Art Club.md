@@ -145,7 +145,7 @@ MP Mr Patrick Tay browsing Project Kaleidoscope, an Interact Green Club project 
 ![](/images/Green4.jpg)
 The opening ceremony of the community wall mural by MP Mr Patrick Tay Teck Guan, BBM. , Nee Soon East GRC.
 
-<img src="/images/Green2.jpg" style="width:100%">
+<img src="/images/Green3.jpg" style="width:100%">
 
 
 <style type="text/css">
@@ -165,7 +165,7 @@ The opening ceremony of the community wall mural by MP Mr Patrick Tay Teck Guan,
 </thead>
 <tbody>
   <tr>
-    <td class="tg-8jgo"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Environmental%20Art%20Club/2014%20Green%20Living%20at%20NeeSoonEast/.tn.IGC_GoGreen_3.jpg.2.jpg" alt="MP Mr Patrick Tay browsing Project Kaleidoscope"><br><span style="font-weight:400;color:#000">MP Mr Patrick Tay browsing Project Kaleidoscope, an Interact Green Club project sponsored by the Rotary Club of Pandan Valley.</span></td>
+    <td class="tg-8jgo"><img src="/images/Green3.jpg" style="width:100%"><br><span style="font-weight:400;color:#000">MP Mr Patrick Tay browsing Project Kaleidoscope, an Interact Green Club project sponsored by the Rotary Club of Pandan Valley.</span></td>
     <td class="tg-8jgo"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Environmental%20Art%20Club/2014%20Green%20Living%20at%20NeeSoonEast/.tn.IGC_GoGreen_1.jpg.2.jpg" alt="The Opening Ceremony.jpg"><br><span style="font-weight:400;color:#000">The opening ceremony of the community wall mural by MP Mr Patrick Tay Teck Guan, BBM. , Nee Soon East GRC.</span></td>
   </tr>
 </tbody>
