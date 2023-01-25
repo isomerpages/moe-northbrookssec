@@ -37,7 +37,6 @@ Not an ordinary art club. In the Environmental Art Club, you choose your project
 
 
 
-
 ![](/images/artclub1.png)
 
 In 2020, Environmental Art Club students engaged in the Recycled Art Masterclass on ‘Making Flower Wall Art using Toilet Paper Rolls’. These are some of the artistic products done by the students.
