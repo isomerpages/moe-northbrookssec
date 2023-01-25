@@ -25,6 +25,14 @@ Not an ordinary art club. In the Environmental Art Club, you choose your project
 *   Understand and spread awareness of environmental messages
 *   Become independent ambassadors of the environment who can impact the community
 
+##### Key Programmes / CCA Programme Structure
+
+
+*   Recycled Art Masterclasses
+*   Project-based programmes (differs from year to year)
+*   Learning Journey (differs from year to year)
+*   National Competition (differs from year to year)
+
 
 
 
