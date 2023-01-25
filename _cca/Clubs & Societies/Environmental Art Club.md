@@ -4,7 +4,8 @@ permalink: /CCA/Clubs-and-Societies/Environmental-Art-Club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-### Environmental Art Club
+Environment Art Club
+====================
 ![](/images/artclub.png)
 
 ##### Teacher-in-Charge
