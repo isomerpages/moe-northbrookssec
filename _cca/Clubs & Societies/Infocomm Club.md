@@ -5,13 +5,13 @@ description: ""
 third_nav_title: Clubs & Societies
 ---
 # Infocomm Club
-##### Teacher-in-Charge
+### Teacher-in-Charge
 
 1. Mr Paul Tham (Advisor)  
 2\. Mr Muhammad Khairi Bin Md Nor (Teacher-in-charge)  
 3\. Ms Nurnadia Binte Abdolah
 
-##### Training Day / Time
+### Training Day / Time
 
 
 
@@ -27,12 +27,12 @@ Activities in Infocomm Clubs are aligned with MOE’s Co-Curricular Activities (
 <img src="/images/infocomm.png" style="width:50%">
 
 
-##### Objectives:
+### Objectives:
 
 *   To cultivate a deeper appreciation of the arts through music and movement (Graciousness)
 *   To build confidence, discipline and learn to work well together towards a common goal (Fortitude, Teamwork, Empathy, Discipline)
 
-##### Programmes:
+### Programmes:
 
 *   Schools Digital Media Awards (SDMA)  
     
@@ -40,7 +40,7 @@ Activities in Infocomm Clubs are aligned with MOE’s Co-Curricular Activities (
     
 *   Ad hoc projects to hone skills
 
-##### Achievements:
+### Achievements:
 
 
 <img src="/images/infocomm2.png" style="width:240px;height:240px;margin-left:15px;" align = "right">
