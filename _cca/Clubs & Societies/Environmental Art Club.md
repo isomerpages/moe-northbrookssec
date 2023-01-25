@@ -128,6 +128,8 @@ To me, EAC is full of talented people from many walks of life!
 Green Living at Nee Soon East 2014
 ==================================
 
+#### On 4 September 2014
+
 
 
 
