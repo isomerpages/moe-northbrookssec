@@ -106,6 +106,24 @@ I grew better in my art and as a person in this CCA. I will like to thank my CCA
 <b>Student Class (Class / Year):</b> 3I, 2020 <br>
 <b>Student role in CCA:</b> Vice-President
 
+---
+
+<b>Student’s Experience</b>
+
+  
+
+Since the start of secondary 1, this CCA has been a fun and creative space for me to express myself. It has been a positive experience for me as well as in making great friends in this process.
+
+  
+
+EAC has given me the opportunity to improve my leadership skills and allowed me to fine tune my stained glass cutting/ sharpening skills.
+
+  
+
+To me, EAC is full of talented people from many walks of life!
+
+-----
+
 
 
 
