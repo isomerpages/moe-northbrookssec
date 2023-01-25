@@ -34,6 +34,47 @@ Not an ordinary art club. In the Environmental Art Club, you choose your project
 *   Learning Journey (differs from year to year)
 *   National Competition (differs from year to year)
 
+### CCA / Level Leaders
+
+##### 2018
+
+President – Lim Zhi Xian  
+Vice-president – Ngow Wei Qi  
+  
+
+##### 2019
+
+President – Yee Mon Oo  
+Vice-president – Nyu Kang Yi  
+  
+
+##### 2020
+
+President – Gwendolyn Neo Su Ping  
+Vice-president - Eesha
+
+### Achievements
+
+##### 2020
+
+To be announced.  
+  
+
+##### 2019
+
+Go Green Fund Award - Merit  
+  
+
+##### 2018
+
+Go Green Fund Award - Gold  
+  
+
+##### 2017
+
+National Youth Business Challenge – Silver
+
+### CCA Experiences by Students
 
 
 
