@@ -49,15 +49,15 @@ Activities in Infocomm Clubs are aligned with MOE’s Co-Curricular Activities (
 
 ##### 2017  
 
-*   Schools Digital Media Awards (SDMA) - **Merit Award**
+*   Schools Digital Media Awards (SDMA) - <b>Merit Award</b>
 
 ##### 2014
 
-*   Singapore Heartbeat Photo Contest - **3rd Placing**
+*   Singapore Heartbeat Photo Contest - <b>3rd Placing</b>
 
 ##### 2013
 
-*   Schools Digital Media Awards (SDMA) - **Merit Award**  
+*   Schools Digital Media Awards (SDMA) - <b>Merit Award</b>  
     (Secondary/Pre-University Category)
 
 ##### 2011
