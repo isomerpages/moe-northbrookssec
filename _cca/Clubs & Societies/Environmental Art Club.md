@@ -168,4 +168,3 @@ The opening ceremony of the community wall mural by MP Mr Patrick Tay Teck Guan,
   </tr>
 </tbody>
 </table>
-
