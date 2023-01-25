@@ -9,18 +9,18 @@ third_nav_title: Clubs & Societies
 
 <img src="/images/fly.jpeg" style="width:80%">
  
-##### Teacher-in-Charge
 
-1.  Mr Paul Tham (Advisor)
-2.  Mr Annamalai Kumar (IC)
-3.  Mr Foo Weng Choy (2IC)
-4.  Mr Lim Chee Tiong
+### Teacher-in-Charge
 
+1\.  Mr Alex Ang Kok Wee (Advisor) <br>
+2\.  Mr Annamalai Kumar (Teacher-in-charge) <br>
+3\.  Mr Foo Weng Choy (2 Teacher-in-charge) <br>
+4\.  Mr Lim Chee Tiong
   
 
-##### Training Day / Time 
+### Training Day / Time
 
-Mondays, 3.30pm - 6.30pm Fridays, 2.30pm - 5.30pm
+Mondays and Wednesdays, 3.30pm - 6.30pm
 
 
 
