@@ -73,11 +73,7 @@ Northbrooks Youth Flying Club (NYFC) was set up in January 2003 with the aim of 
 *   To ignite the strong learning passion for aerospace in our students.
 *   To develop aerospace knowledge and skills in our students so as to prepare them for a career in the aerospace industry.
 
-
-
-
-
-##### Programmes:
+### Programmes:
 
 *   Aeromodelling skills
 *   SYFC theory and practical courses.
@@ -91,15 +87,14 @@ Northbrooks Youth Flying Club (NYFC) was set up in January 2003 with the aim of 
 *   Flight Simulations
 *   Research, Design and Testing (RDT)
 
-  
 
-##### Key Activities:
+
+### Key Activities:
 
 *   Designing, Building and Testing of Radio Controlled Models
 *   Designing, Building and Testing of Unpowered Glider Models
 *   Flight Simulation Training (Microsoft Flight Simulation X)
 *   National Airfix Aeronautical Model Engineering
-
 
 
 ##### Achievements
