@@ -367,6 +367,67 @@ A self-directed learner, Brendan’s fortitude and determination have enabled hi
 
 *   2015 National Airfix Aeronautical Model and Engineering Competition
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm">Name</th>
+    <th class="tg-amwm">Class</th>
+    <th class="tg-amwm">Category</th>
+    <th class="tg-amwm">Award</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh">Chan Yi En</td>
+    <td class="tg-baqh">S 4-G</td>
+    <td class="tg-baqh">Inter-school</td>
+    <td class="tg-baqh">1st</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Sean Chai Qixuan</td>
+    <td class="tg-baqh">S 3-G</td>
+    <td class="tg-baqh">Inter-school</td>
+    <td class="tg-baqh">1st</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Tan Boon Siang</td>
+    <td class="tg-baqh">S 3-G</td>
+    <td class="tg-baqh">Inter-school</td>
+    <td class="tg-baqh">3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Tea Zhi Xun </td>
+    <td class="tg-baqh">S 4-E</td>
+    <td class="tg-baqh">Inter-school</td>
+    <td class="tg-baqh">3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Tea Zhi Xun</td>
+    <td class="tg-baqh">S 4-E</td>
+    <td class="tg-nrix"></td>
+    <td class="tg-baqh">Commendation</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Mohd Daril</td>
+    <td class="tg-baqh">S 1-I</td>
+    <td class="tg-nrix"></td>
+    <td class="tg-baqh">Commendation</td>
+  </tr>
+</tbody>
+</table>
+
+
+*   Singapore Amazing Flying Machine Competition (SAFMC) 2015
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -374,228 +435,167 @@ A self-directed learner, Brendan’s fortitude and determination have enabled hi
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-1wig">Name</th>
-    <th class="tg-1wig">Class</th>
-    <th class="tg-1wig">Category</th>
-    <th class="tg-1wig">Award</th>
+    <th class="tg-amwm" colspan="4">GLIDER - CATEGORY B</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">Chan Yi En</td>
-    <td class="tg-0lax">S 4-G</td>
-    <td class="tg-0lax">Inter-school</td>
-    <td class="tg-0lax">1st</td>
+    <td class="tg-amwm">Team Members </td>
+    <td class="tg-amwm">Class   </td>
+    <td class="tg-amwm"> Category </td>
+    <td class="tg-amwm">Award </td>
   </tr>
   <tr>
-    <td class="tg-0lax">Sean Chai Qixuan</td>
-    <td class="tg-0lax">S 3-G</td>
-    <td class="tg-0lax">Inter-school</td>
-    <td class="tg-0lax">1st</td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000">Andi Putra Bin Norman       </span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000">S 3-G</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> THEORY OF FLIGHT</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> GOLD</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Tan Boon Siang</td>
-    <td class="tg-0lax">S 3-G</td>
-    <td class="tg-0lax">Inter-school</td>
-    <td class="tg-0lax">3rd</td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000">Josiah Goh</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000">S 2-F</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Tea Zhi Xun </td>
-    <td class="tg-0lax">S 4-E</td>
-    <td class="tg-0lax">Inter-school</td>
-    <td class="tg-0lax">3rd</td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000">Sean Chai Qi Xuan</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000">S 3-G</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Tea Zhi Xun</td>
-    <td class="tg-0lax">S 4-E</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Commendation</td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> Chan Yi En (Joseph)</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> S 4-G</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> PRESENTATION</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> SILVER</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Mohd Daril</td>
-    <td class="tg-0lax">S 1-I</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Commendation</td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> Arsyad Bin Abdul Malki</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> S 3-G</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> Abu Bakar B Mohamed Kamal</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> S 3-I</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> Adsel Chew Wen Wei</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> S 2-T</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> Sean Chai Qi Xuan</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> S 3-G</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> CREATIVITY</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> BRONZE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> Josiah Goh</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> S 2-F</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> Sean Chai Qi Xuan</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> S 3-G</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> Ng Jia Cheng</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000">S 4-I</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> AESTHETICS</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> BRONZE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> Lin Zhao</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000">S 4-T</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> Zhou Ze Hong</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000">S 2-F </span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> Clarissa Lim Xin Rong</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000">S 3-T2</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> Lee Shao Zheng</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> S 4-G</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> THEORY OF FLIGHT</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> BRONZE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> Tea Zhi Cheng</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> S 2-T</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> Amparo Mico Magpantay</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> S 3-I</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> Mohd Fahman bin Muhd Fauze</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> S 4-I</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-amwm" colspan="4">RADIO CONTROLLED - CATEGORY C</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm"> Team Members</td>
+    <td class="tg-amwm">Class</td>
+    <td class="tg-amwm"> Category</td>
+    <td class="tg-amwm"> Award</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> Chan Yi En (Joseph)</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> S 4-G</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> THEORY OF FLIGHT</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> GOLD</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> Arsyad Bin Abdul Malik</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> S 3-I</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> Abu Bakar B Mohamad Kamal</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> S 3-1</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> Ahmad Irfan Bin Ahmad Zaidi</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> S 4-G</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span></td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000"> </span><br><span style="font-weight:400;color:#000"> </span></td>
   </tr>
 </tbody>
 </table>
 
-***Singapore Amazing Flying Machine Competition (SAFMC) 2015***
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8mwx{background-color:#FFF;color:#505050;text-align:left;vertical-align:top}
-.tg .tg-h3v2{background-color:#FFF;color:#505050;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-h3v2" colspan="4">GLIDER - CATEGORY B</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-h3v2">Team Members </td>
-    <td class="tg-h3v2">Class   </td>
-    <td class="tg-h3v2"> Category </td>
-    <td class="tg-h3v2">Award </td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx">Andi Putra Bin Norman       </td>
-    <td class="tg-8mwx">S 3-G</td>
-    <td class="tg-8mwx"> THEORY OF FLIGHT</td>
-    <td class="tg-8mwx"> GOLD</td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx">Josiah Goh</td>
-    <td class="tg-8mwx">S 2-F</td>
-    <td class="tg-8mwx"> </td>
-    <td class="tg-8mwx"> </td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx">Sean Chai Qi Xuan</td>
-    <td class="tg-8mwx">S 3-G</td>
-    <td class="tg-8mwx"> </td>
-    <td class="tg-8mwx"> </td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx"> Chan Yi En (Joseph)</td>
-    <td class="tg-8mwx"> S 4-G</td>
-    <td class="tg-8mwx"> PRESENTATION</td>
-    <td class="tg-8mwx"> SILVER</td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx"> Arsyad Bin Abdul Malki</td>
-    <td class="tg-8mwx"> S 3-G</td>
-    <td class="tg-8mwx"> </td>
-    <td class="tg-8mwx"> </td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx"> Abu Bakar B Mohamed Kamal</td>
-    <td class="tg-8mwx"> S 3-I</td>
-    <td class="tg-8mwx"> </td>
-    <td class="tg-8mwx"> </td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx"> Adsel Chew Wen Wei</td>
-    <td class="tg-8mwx"> S 2-T</td>
-    <td class="tg-8mwx"> </td>
-    <td class="tg-8mwx"> </td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx"> Sean Chai Qi Xuan</td>
-    <td class="tg-8mwx"> S 3-G</td>
-    <td class="tg-8mwx"> CREATIVITY</td>
-    <td class="tg-8mwx"> BRONZE</td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx"> Josiah Goh</td>
-    <td class="tg-8mwx"> S 2-F</td>
-    <td class="tg-8mwx"> </td>
-    <td class="tg-8mwx"> </td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx"> Sean Chai Qi Xuan</td>
-    <td class="tg-8mwx"> S 3-G</td>
-    <td class="tg-8mwx"> </td>
-    <td class="tg-8mwx"> </td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx"> Ng Jia Cheng</td>
-    <td class="tg-8mwx">S 4-I</td>
-    <td class="tg-8mwx"> AESTHETICS</td>
-    <td class="tg-8mwx"> BRONZE</td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx"> Lin Zhao</td>
-    <td class="tg-8mwx">S 4-T</td>
-    <td class="tg-8mwx"> </td>
-    <td class="tg-8mwx"> </td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx"> Zhou Ze Hong</td>
-    <td class="tg-8mwx">S 2-F </td>
-    <td class="tg-8mwx"> </td>
-    <td class="tg-8mwx"> </td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx"> Clarissa Lim Xin Rong</td>
-    <td class="tg-8mwx">S 3-T2</td>
-    <td class="tg-8mwx"> </td>
-    <td class="tg-8mwx"> </td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx"> Lee Shao Zheng</td>
-    <td class="tg-8mwx"> S 4-G</td>
-    <td class="tg-8mwx"> THEORY OF FLIGHT</td>
-    <td class="tg-8mwx"> BRONZE</td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx"> Tea Zhi Cheng</td>
-    <td class="tg-8mwx"> S 2-T</td>
-    <td class="tg-8mwx"> </td>
-    <td class="tg-8mwx"> </td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx"> Amparo Mico Magpantay</td>
-    <td class="tg-8mwx"> S 3-I</td>
-    <td class="tg-8mwx"> </td>
-    <td class="tg-8mwx"> </td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx"> Mohd Fahman bin Muhd Fauze</td>
-    <td class="tg-8mwx"> S 4-I</td>
-    <td class="tg-8mwx"> </td>
-    <td class="tg-8mwx"> </td>
-  </tr>
-  <tr>
-    <td class="tg-h3v2" colspan="4">RADIO CONTROLLED - CATEGORY C</td>
-  </tr>
-  <tr>
-    <td class="tg-h3v2"> Team Members</td>
-    <td class="tg-h3v2">Class</td>
-    <td class="tg-h3v2"> Category</td>
-    <td class="tg-h3v2"> Award</td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx"> Chan Yi En (Joseph)</td>
-    <td class="tg-8mwx"> S 4-G</td>
-    <td class="tg-8mwx"> THEORY OF FLIGHT</td>
-    <td class="tg-8mwx"> GOLD</td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx"> Arsyad Bin Abdul Malik</td>
-    <td class="tg-8mwx"> S 3-I</td>
-    <td class="tg-8mwx"> </td>
-    <td class="tg-8mwx"> </td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx"> Abu Bakar B Mohamad Kamal</td>
-    <td class="tg-8mwx"> S 3-1</td>
-    <td class="tg-8mwx"> </td>
-    <td class="tg-8mwx"> </td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx"> Ahmad Irfan Bin Ahmad Zaidi</td>
-    <td class="tg-8mwx"> S 4-G</td>
-    <td class="tg-8mwx"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-</tbody>
-</table>
-
-###### **2014**
+#### 2014
 
 *   10th National Inter-School Air Race and Fighter Championship at Hwa Chong Institution
 *   Inter-Schools Competitions 2014 - 9 Awards (Glider and Radio-Controlled Pylon Racing)
@@ -604,10 +604,13 @@ A self-directed learner, Brendan’s fortitude and determination have enabled hi
     Best Airfix Model - Interschool and Commendation Awards
 *   SAFMC Competition - 2 Awards
 
-*   CAT B: PERFORMANCE AWARD (SILVER)
-*   CAT C: MOST CREATIVE AWARD (SILVER)
+    *   CAT B: PERFORMANCE AWARD (SILVER)
+    *   CAT C: MOST CREATIVE AWARD (SILVER)
 
-##### Other Links
-[Singapore Youth Flying Club](https://www.syfc.sg/)
+
+### Other Links
+
+[](http://www.syfc.sg/)[Singapore Youth Flying Club](http://www.syfc.sg/)
+
 
 ## [BOEING SIM RIDES 2015](/Boeing-Sim-Rides-2015/permalink/)
