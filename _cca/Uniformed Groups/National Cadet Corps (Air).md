@@ -4,10 +4,8 @@ permalink: /CCA/Uniformed-Groups/National-Cadet-Corps-Air/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
-
-# National Cadet Corps (Air)
+National Cadet Corp (Air)
+=========================
 ### Teachers-in-Charge
 1. Mr Paul Tham (Advisor)
 2. Mr Toh Chin Hwee (Teacher-in-charge)
