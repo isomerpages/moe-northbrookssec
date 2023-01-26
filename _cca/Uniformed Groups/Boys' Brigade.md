@@ -9,10 +9,13 @@ Boys' Brigade
 
 ![](/images/2021_BB_Cover.jpeg)
 
-##### Teachers-in-Charge
+### Teachers-in-Charge
 
-1\. Mr Paul Tham (Advisor)  
-2\. Mr Huang Kee Hong (Teacher-in-charge)3\. Ms Chelsea Mun Jie Yi, Carine (2 Teacher-in-charge)
+1\. Mr Alex Ang Kok Wee (Advisor) <br>
+2\. Ms Chelsea Mun Jie Yi, Carine (Teacher-in-charge) <br>
+3\. Mr Joel Tan Yi Liang (2 Teacher-in-charge) <br>
+4\. Mr Huang Kee Hong
+
 
 ##### Training Day / Time
 
