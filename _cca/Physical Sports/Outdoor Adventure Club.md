@@ -66,31 +66,6 @@ Singapore National Games (Adventure Race @ Sentosa)
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-zv4m"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/CCA/Sports%20N%20Games/ODAC/2021/ODAC%204.jpg" alt="ODAC 4.jpg" width="116" height="277"></th>
-    <th class="tg-zv4m"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/CCA/Sports%20N%20Games/ODAC/2021/ODAC%205.jpg" alt="ODAC 5.jpg" width="121" height="277"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-zv4m">1st position - C Division Girls<br></td>
-    <td class="tg-8jgo">2nd position - B Division Girls</td>
-  </tr>
-</tbody>
-</table>
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
@@ -108,6 +83,9 @@ Singapore National Games (Adventure Race @ Sentosa)
 </tbody>
 </table>
 
+
+
+<img src="/images/ODAC1.png" style="width:100%">
 
 ![](/images/ODAC1.png)
 
