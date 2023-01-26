@@ -185,7 +185,7 @@ A self-directed learner, Brendan’s fortitude and determination have enabled hi
 <thead>
   <tr>
     <td class="tg-amwm" colspan="3">R/C Fixed-Wing Pylon Racing</td>
-    <td class="tg-baqh" rowspan="10"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/CCA/Clubs%20n%20societies/youth%20flying%20club/.tn.interschool_2.jpg.2.jpg" alt=" R/C Fixed-Wing Pylon Racing.jpg" width="300" height="399"></td>
+    <td class="tg-baqh" rowspan="10"><img src="/images/fly9.png" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-amwm">Name</td>
@@ -233,67 +233,69 @@ A self-directed learner, Brendan’s fortitude and determination have enabled hi
 
 
 
+*   2015 National Inter-School Air Race Championship
 
-
-
-
-
-
-
-
-
-
-
-***2015 National Inter-School Air Race Championship***
-
-
-*   The team came in **3rd in the Fighter Challenge**
-*   Alex Tan Boon Siang also took the **Silver award for the Best Spot Landing**
-
-![](/images/fly10.jpg)
-
-The team members are:
+    *   The team came in <b>3rd in the Fighter Challenge</b>
+    *   Alex Tan Boon Siang also took the <b>Silver award for the Best Spot Landing</b>
+		
+		
+		
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8mwx{background-color:#FFF;color:#505050;text-align:left;vertical-align:top}
-.tg .tg-h3v2{background-color:#FFF;color:#505050;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-h3v2">Name</th>
-    <th class="tg-h3v2">Class</th>
+    <td class="tg-nrix">The team members are:</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh" rowspan="7"><img src="/images/fly10.jpg" style="width:100%"></td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">Name</td>
+    <td class="tg-amwm">Class</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix"> Alex Tan Boon Siang</td>
+    <td class="tg-nrix">S3-G </td>
+  </tr>
+  <tr>
+    <td class="tg-nrix"> Amparo Mico</td>
+    <td class="tg-nrix">S3-I </td>
+  </tr>
+  <tr>
+    <td class="tg-nrix"> Mercado Phillip Gabriel</td>
+    <td class="tg-nrix">S3-I </td>
+  </tr>
+  <tr>
+    <td class="tg-nrix"> Theodore Quek Teng Hwei</td>
+    <td class="tg-nrix">S2-F </td>
+  </tr>
+  <tr>
+    <td class="tg-nrix"> Tea Zhi Cheng</td>
+    <td class="tg-nrix">S2-T </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td class="tg-8mwx">Alex Tan Boon Siang</td>
-    <td class="tg-8mwx">S3-G</td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx">Amparo Mico</td>
-    <td class="tg-8mwx">S3-I</td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx">Mercado Phillip Gabriel</td>
-    <td class="tg-8mwx">S3-I</td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx">Theodore Quek Teng Hwei</td>
-    <td class="tg-8mwx">S2-F</td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx">Tea Zhi Cheng</td>
-    <td class="tg-8mwx">S2-T</td>
-  </tr>
-</tbody>
 </table>
 
-***Aero Challenge 2015 - 3rd***
+
+
+*   Aero Challenge 2015 - 3rd
+
+
+
+
+
+
+
+
+
 ![](/images/fly11.jpg)
 The members are:
 <style type="text/css">
