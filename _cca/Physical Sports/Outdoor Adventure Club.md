@@ -91,33 +91,36 @@ Singapore National Games (Adventure Race @ Sentosa)
 
 ![](/images/ODAC%206.jpeg)
 
-###### 2018
+#### 2018
 
 *   National Orienteering Race
 
-     - 1st position for B Division Boys
-     - 1st position for C Division Girls
+    *   1st position for B Division Boys
+    
+        1st position for C Division Girls
     
 
 *   Greendale Adventure Race
 
-      - 1st in boys and Mixed Category
+    *   1st in boys and Mixed Category
 
-*   Singapore National Games (Adventure Race)&nbsp;
-     - Team Youth (Female) 3rd (Natasha 1T, Blaqis 1T, Amirah 1T)&nbsp;
+*   Singapore National Games (Adventure Race) 
+
+    *   Team Youth (Female) 3rd (Natasha 1T, Blaqis 1T, Amirah 1T) 
 
   
 
-###### 2017
+#### 2017
 
 *   Greendale Adventure Race
-     - 5th position in Mixed Category  
+
+    *   5th position in Mixed Category  
     
 
   
 
-###### 2016&nbsp;
+#### 2016 
 
 *   Greendale Adventure Race
 
-    - 2nd position in Mixed Category
+    *   2nd position in Mixed Category
