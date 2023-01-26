@@ -4,11 +4,8 @@ permalink: /CCA/Sports-and-Games/Badminton/
 description: ""
 third_nav_title: Physical Sports
 ---
-
-
-
-
-#  Badminton
+Badminton
+=========
 ![](/images/badminton.png)
 
 ##### Teachers-in-Charge
