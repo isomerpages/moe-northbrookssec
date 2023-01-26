@@ -4,11 +4,8 @@ permalink: /CCA/Sports-and-Games/Outdoor-Adventure-Club/
 description: ""
 third_nav_title: Physical Sports
 ---
-
-
-
-
-# Outdoor Adventure Club
+Outdoor Adventure Club
+======================
 
 ![](/images/ODAC%201.jpeg)
 
