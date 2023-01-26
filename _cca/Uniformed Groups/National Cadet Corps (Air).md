@@ -62,47 +62,50 @@ Cadets will also participate in inter-unit competitions and the Air competition 
 *   Unit Recognition - Acoomplishment
 
 *   Air COmpetition (Catapult Launched Glider) - Third
-&nbsp;<img style="width:70%" src="/images/NCC1.jpeg">
+&nbsp;<img src="/images/NCC1.jpeg" style="width:70%">
 
-###### **2018**
-
-
+#### 2018
 
 *   Unit Recognition - Accomplishment
 
-###### **2017**
+  
 
+#### 2017
 
 *   Best Unit Competition - Silver
 
-###### **2016**
+  
 
+#### 2016
 
+*   Best Unit Competition - Silver
 
-*   Best Unit Competition - Silver  
-    
+  
 
-###### 2015
-
+#### 2015
 
 *   Best Unit Competition - Silver
 *   NCC Mini League Results 2015 - 1st place for the Soccer Team
 
-###### 2014
+  
 
+#### 2014
 
-*   Best Unit Competition&nbsp;- Silver
+*   Best Unit Competition - Silver
 
-###### **2013**
+  
 
+#### 2013
 
 *   Best Unit Competiton - Gold
+
+  
 
 ### Links:
 
 *   More information on NCC:
-    - [https://www.facebook.com/sgncc.hq](https://www.facebook.com/sgncc.hq)
-    - [https://www.instagram.com/sg\_ncc/](https://www.instagram.com/sg_ncc/)
 
+    *   [https://www.facebook.com/sgncc.hq](https://www.facebook.com/sgncc.hq)
+    *   [https://www.instagram.com/sg\_ncc/](https://www.instagram.com/sg_ncc/)
 
 ![](/images/For%20Website%201.png)
