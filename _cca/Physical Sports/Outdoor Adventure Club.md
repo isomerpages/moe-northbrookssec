@@ -11,11 +11,11 @@ Outdoor Adventure Club
 
 ### Teacher-in-Charge
 
-1.  Mr Alex Ang Kok Wee (Advisor)
-2.  Ms Audrey Chong Jia Wen (Teacher-in-charge)
-3.  Mr Timothy Chong (2 Teacher-in-charge)
-4.  Ms Sharifah
-5.  Ms Lim Xin Yi
+1\.  Mr Alex Ang Kok Wee (Advisor) <br>
+2\.  Ms Audrey Chong Jia Wen (Teacher-in-charge) <br>
+3\.  Mr Timothy Chong (2 Teacher-in-charge) <br>
+4\.  Ms Sharifah <br>
+5\.  Ms Lim Xin Yi
 
 ### Training Day / Time
 
