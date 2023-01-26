@@ -613,4 +613,6 @@ A self-directed learner, Brendan’s fortitude and determination have enabled hi
 [](http://www.syfc.sg/)[Singapore Youth Flying Club](http://www.syfc.sg/)
 
 
-## [BOEING SIM RIDES 2015](/Boeing-Sim-Rides-2015/permalink/)
+Boeing Sim Rides 2015
+=====================
+#### On 3 February 2015
