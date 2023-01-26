@@ -6,11 +6,6 @@ third_nav_title: Uniformed Groups
 ---
 National Cadet Corp (Air)
 =========================
-### Teachers-in-Charge
-1. Mr Paul Tham (Advisor)
-2. Mr Toh Chin Hwee (Teacher-in-charge)
-3. Mr Muhammad Bin Parjo (2 Teacher-in-charge)
-4. Mr Wu Yueshen
 
 ![](/images/For%20Website%202.png)
 
