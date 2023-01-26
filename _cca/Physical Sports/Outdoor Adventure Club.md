@@ -65,8 +65,6 @@ Singapore National Games (Adventure Race @ Sentosa)
 
 ![](/images/ODAC1.png)
 
- 1st position - C Division Girls
-
 
 
 ![](/images/ODAC3.png)
