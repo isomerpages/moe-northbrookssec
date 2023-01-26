@@ -83,21 +83,11 @@ Singapore National Games (Adventure Race @ Sentosa)
 </tbody>
 </table>
 
-
-
-<img src="/images/ODAC1.png" style="width:100%">
-
-![](/images/ODAC1.png)
+*   Asian Orienteering Championships
 
 
 
-![](/images/ODAC3.png)
 
- 2nd position - B Division Girls 
-
-
-
-- Asian Orienteering Championships
 
 ![](/images/ODAC%206.jpeg)
 
