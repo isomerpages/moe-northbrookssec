@@ -27,23 +27,19 @@ The 87th Singapore Company was officially founded on 7th Nov 2002. Since then, t
 
 The Company has achieved much in such a short period of time. This is largely due to the unrelenting efforts of our Volunteer Adult Leaders and Instructors. The Company has set its sights to be the preferred CCA that is Best for Boys!
 
-##### Objective:
+### Objective:
 
- 
+The advancement of Christ’s kingdom among Boys and the promotion of habits of Obedience, Reverence, Discipline, Self-respect and all that tends towards a true Christian manliness.
 
-The advancement of Christ’s kingdom among Boys and the promotion of habits of Obedience, Reverence, Discipline, Self-respect and all that tends towards a true Christian manliness.  
+### Motto:
 
+Sure and Stedfast  
   
-
-##### Motto:
-
+Taken from the King James Version of Hebrews 6:19: “<b>Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil</b>”.  
   
+<b>The emblem of BB</b>:
 
-Sure and Stedfast
 
-Taken from the King James Version of Hebrews 6:19: “**Which hope we have as an anchor of the soul, both** _**sure and stedfast**_**, and which entereth into that within the veil**”.
-
-##### **The emblem of BB:**
 
 
 The BB emblem is an anchor as inspired by the same Bible verse.
