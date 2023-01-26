@@ -46,20 +46,23 @@ The physical fitness of cadets is developed with regular physical training sessi
 Cadets will also participate in inter-unit competitions and the Air competition conducted by NCC HQ annually. Cadets will also contribute to the community by conducting VIA activities.
  
 ### Programmes:
-- Camp FORGE (Junior Cadets)
-- Camp STEEL (Senior Cadets)
-- Specialist Assessment (Cadet Leaders)
-- Senior Specialist Leaders Course (Cadet Leaders)
-- Total Defence programme (Junior Cadets, Senior Cadets, Cadet Leaders)
-- Wings programme (Junior Cadets, Senior Cadets, Cadet Leaders)
-- Aeromodelling programme (Junior Cadets, Senior Cadets, Cadet Leaders)
+*   Camp FORGE (Junior Cadets)
+*   Camp STEEL (Senior Cadets)
+*   Specialist Assessment (Cadet Leaders)
+*   Senior Specialist Leaders Course (Cadet Leaders)
+*   Total Defence programme (Junior Cadets, Senior Cadets, Cadet Leaders)
+*   Wings programme (Junior Cadets, Senior Cadets, Cadet Leaders)
+*   Aeromodelling programme (Junior Cadets, Senior Cadets, Cadet Leaders)
  
 ### Achievements:
 
-###### 2019
-- Unit Recognition - Acoomplishment
-- Air COmpetition (Catapult Launched Glider) - Third
-![](/images/NCC1.jpeg)
+#### 2019
+
+
+*   Unit Recognition - Acoomplishment
+
+*   Air COmpetition (Catapult Launched Glider) - Third
+&nbsp;<img style="width:70%" src="/images/NCC1.jpeg">
 
 ###### **2018**
 
