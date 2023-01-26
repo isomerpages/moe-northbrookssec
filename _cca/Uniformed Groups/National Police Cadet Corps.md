@@ -4,11 +4,8 @@ permalink: /CCA/Uniformed-Groups/National-Police-Cadet-Corps/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
-
-National Police Cadet Corps
-===========================
+National Police Cadet Corp
+==========================
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
