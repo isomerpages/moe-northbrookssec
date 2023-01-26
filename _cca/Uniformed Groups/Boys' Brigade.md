@@ -69,12 +69,12 @@ Taken from the King James Version of Hebrews 6:19: “<b>Which hope we have as a
 
 The BB emblem is an anchor as inspired by the same Bible verse.
 
-##### Programmes:
+### Programmes:
 
+The Boys’ Brigade Seniors Programme provides holistic development to secondary school boys. Through the proficiency awards scheme, Boys acquire skills and knowledge in the areas of Leadership, Personal Mastery, Global Awareness and Community Spiritedness.  
   
-
-The Boys’ Brigade Seniors Programme provides holistic development to secondary school boys. Through the proficiency awards scheme, Boys acquire skills and knowledge in the areas of Leadership, Personal Mastery, Global Awareness and Community Spiritedness.In addition, brigade-level competitions, leadership development courses and community service projects such as BB Share-a-Gift and BB CARES offer opportunities for exposure and skills development. Mentoring also plays a big role in the Seniors Programme. With Intentional Mentoring, Boys are closely mentored by dedicated Officers who take time to develop Boys' character more closely.
-
+In addition, brigade-level competitions, leadership development courses and community service projects such as BB Share-a-Gift and BB CARES offer opportunities for exposure and skills development. Mentoring also plays a big role in the Seniors Programme. With Intentional Mentoring, Boys are closely mentored by dedicated Officers who take time to develop Boys' character more closely.  
+  
 The ranks in the Seniors Programme include:
 ![](/images/2021_BB_Rank.png)
 
