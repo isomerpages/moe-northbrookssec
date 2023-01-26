@@ -28,7 +28,7 @@ Mondays and Wednesdays, 3.30pm - 6.30pm
 Northbrooks Youth Flying Club (NYFC) was set up in January 2003 with the aim of training and guiding pupils who were interested in pursuing a career in the aerospace industry. During the earlier years, our students mastered control-line flying, and took part and excelled in several National and International Aeromodelling competitions. As we continue to develop our Aerospace Niche, our Youth Flying Club currently pursues several platforms - radio-controlled flying, drone flying, drone coding, FPV drone racing and flight simulations. Over the years, our students have done well in the Singapore Amazing Flying Machine Competition and other various inter-school competitions like the National Airfix Aeromodelling Competition. We have also incorporated the learning of airport ground operations and airport engineering into the CCA curriculum. In close partnership with higher institutions, the organisations from the aviation industry and Singapore Youth Flying Club (SYFC), our club will continue to work towards greater heights.
 
 
-<img src="/images/fly3.png" style="width:100%">
+<img src="/images/fly6.png" style="width:100%">
 
 
 <style type="text/css">
@@ -49,7 +49,7 @@ Northbrooks Youth Flying Club (NYFC) was set up in January 2003 with the aim of 
 <tbody>
   <tr>
     <td class="tg-8jgo"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/CCA/Clubs%20n%20societies/youth%20flying%20club/2021/YFC5.jpg" alt="YFC5.jpg" width="120" height="188"><br>Sec 1 cadets on a learning journey on dismantling a simple piston engine at Singapore Polytechnic</td>
-    <td class="tg-8jgo"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/CCA/Clubs%20n%20societies/youth%20flying%20club/fly3.jpg" alt="fly3.jpg" width="117" height="188"><br>Learning instrumental control in flight simulation</td>
+    <td class="tg-8jgo"><img src="/images/fly6.png" style="width:100%"><br>Learning instrumental control in flight simulation</td>
   </tr>
 </tbody>
 </table>
