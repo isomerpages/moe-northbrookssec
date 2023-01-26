@@ -62,7 +62,4 @@ Key programmes that the Northbrooks Floorball Team are as follows:
 
 *   National Floorball 'C' Division Championships - 2nd Placing
 
-*   National Floorball 'C' Division Championships - 2nd Placing
-
 ![](/images/floorball2.png)
-
