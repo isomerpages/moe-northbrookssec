@@ -27,4 +27,6 @@ Fridays, 2.30pm - 5.30pm
 *   Sports/Badminton Camp
 ![](/images/badminton3.png)
 *   VIA Programmes e.g. Junior Coaching Programme partnership with Chong Pang CC
-![](/images/badminton5.png)
+
+
+<img src="/images/badminton5.png" style="width:70%">
