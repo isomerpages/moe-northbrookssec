@@ -78,38 +78,32 @@ In addition, brigade-level competitions, leadership development courses and comm
 The ranks in the Seniors Programme include:
 ![](/images/2021_BB_Rank.png)
 
-##### Achievements:
+
+### Achievements:
+
+#### 2020
+
+*   The Boys' Brigade JM Fraser Award 2020 (Year of Assessment 2019) - Bronze Award
+*   BB Founder's Award  
+    Northbrooks Boys' Brigade member Fong Jing Nan Derrick (4G) have achieved Founder's Award from BBHQ. The Founder's Award is the highest and most prestigious award in The Boys' Brigade Senior's Programme. Derrick has proved to be outstanding in his performance.
 
   
 
-###### **2020**
-
-
-
-*   The Boys' Brigade JM Fraser Award 2020 (Year of Assessment 2019) - Bronze Award
-*   BB Founder's Award   
-    
-    Northbrooks Boys' Brigade member Fong Jing Nan Derrick (4G) have achieved Founder's Award from BBHQ. The Founder's Award is the highest and most prestigious award in The Boys' Brigade Senior's Programme. Derrick has proved to be outstanding in his performance.
-    
-
-**2019**
-
-
+#### 2019
 
 *   The Boys' Brigade JM Fraser Award 2018 (Year of Assessment 2018) - Bronze Award
 *   BB Week - Silver Award
 
-###### **2018**
+  
 
+#### 2018
 
 *   The Boys' Brigade JM Fraser Award 2018 (Year of Assessment 2017) - Bronze Award
 *   BB Week - Gold Award
 
+  
 
-
-###### **2017**
-
-
+#### 2017
 
 *   The Boys' Brigade JM Fraser Award 2017 (Year of Assessment 2016) - Bronze Award
 *   BB Week - Gold Award
