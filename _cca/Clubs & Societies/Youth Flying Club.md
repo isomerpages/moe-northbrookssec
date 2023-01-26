@@ -89,8 +89,7 @@ Northbrooks Youth Flying Club (NYFC) was set up in January 2003 with the aim of 
 ### Achievements
 
   
-
-###### 2020
+#### 2020  
 
 *   Asia Drone Championship Virtual
 *   This was organized by Science Centre Singapore and MRAS. It was a virtual competition due to the COVID pandemic.
@@ -98,32 +97,27 @@ Northbrooks Youth Flying Club (NYFC) was set up in January 2003 with the aim of 
 
   
 
-###### 2019
+#### 2019
 
 *   Singapore Amazing Flying Machine Competition Category C2 FPV Drone Race
 *   Artiaga Tan Ren Lennard – 2nd runner up
 
   
 
-###### 2018
-*   Top Gun Fighter Challenge  
-    
+#### 2018
 
-Our YFC students have won the 1st prize in Top Gun Fighter challenge during the September holidays. The competition was held at Hwa Chong Institution organised by Asia Flight Simulation Center.
 
-Our champions are: 
-
-1\. Pilapil Alleone (3I)
-
-2\. Artiaga Tan Ren Lennard (2I) &
-
+*   Top Gun Fighter Challenge <br>  
+    Our YFC students have won the 1st prize in Top Gun Fighter challenge during the September holidays. The competition was held at Hwa Chong Institution organised by Asia Flight Simulation Center. <br>
+Our champions are: <br>
+1\. Pilapil Alleone (3I) <br>
+2\. Artiaga Tan Ren Lennard (2I) & <br>
 3\. Jeremy Tan Kong Keat (2G)
 
   
 
-*   Ngee Ann AeroChallenge
-
-4 teams from Northbrooks were through to the final round in the AeroChallenge at Ngee Ann Polytechnic.  With excellent teamwork and creativity demonstrated by the students, Northbrooks has emerged as Champion and 2nd runner-up.
+*   Ngee Ann AeroChallenge <br>
+4 teams from Northbrooks were through to the final round in the AeroChallenge at Ngee Ann Polytechnic. With excellent teamwork and creativity demonstrated by the students, Northbrooks has emerged as Champion and 2nd runner-up.
 
   
 
@@ -131,121 +125,124 @@ Our champions are: 
 
   
 
-###### 2017
+#### 2017
 
 *   National Airfix Aeronautical Model Engineering Competition 2017 -Most Creative Award, 3 Commendation Award & 3 Participation Award.
 *   Singapore Amazing Flying Machine Competition (SAFMC) - 1st Runner Up
-*   Annual SYFC inter-school Aeromodelling Competition -  1st Runner-up
+*   Annual SYFC inter-school Aeromodelling Competition - 1st Runner-up
 *   Fighter Challenge of the National Air Race Competition - Silver Medal
 *   Singapore Amazing Flying Machine Competition 2017 - Creative Award – Category B & Aesthetic Award, RC Plane - Category C
 
   
 
-###### **2016**
+#### 2016
 
 *   Drone Fiesta 2016 - 3rd
 *   National Airfix Model Competition 2016  
     
 *   Singapore Amazing Flying Machine Competition (SAFMC)
-     - 4th position in the Unpowered Glider Competition
-     - 3rd Position in the Radio Controlled Flight Competition
 
+    *   4th position in the Unpowered Glider Competition
+    *   3rd Position in the Radio Controlled Flight Competition
 
-
-
-
-
-![](/images/fly8.png) 
+<img src="/images/fly8.png" style="width:60%">
 
 
 We are proud that our ex-Brooksian, Brendan Lee Wei Liang (Class of 2013) has attained his Private Pilot License (PPL), after having gone through rigorous phase training and examinations conducted by the Singapore Youth Flying Club (SYFC).
 
+  
+
 During his Secondary School days as a member of the Northbrooks Youth Flying Club, Brendan made full use of his learning opportunities and honed his skills in aviation. The experience inspired him and he developed an avid interest in aviation, aspiring to become a pilot someday. With the attainment of his PPL, his dream has finally materialized.
 
-"The school instilled in me the discipline to work hard and to never give up even when faced with difficult problems. Training as a pilot was no easy task as it required tremendous focus, dedication, and knowledge. Undergoing this course, I learned to be disciplined in reviewing all the mistakes I made and strove to always do better in the next flight" said Brendan.   
+  
+
+"The school instilled in me the discipline to work hard and to never give up even when faced with difficult problems. Training as a pilot was no easy task as it required tremendous focus, dedication, and knowledge. Undergoing this course, I learned to be disciplined in reviewing all the mistakes I made and strove to always do better in the next flight" said Brendan.
+
+  
 
 A self-directed learner, Brendan’s fortitude and determination have enabled him to set a new yardstick for the next generation of achievers of the Northbrooks Youth Flying Club.
 
+  
 
+#### 2015
 
-###### **2015**
+*   Republic Polytechnic UAV Obstacle Competition - <b>2nd Placing</b>
+*   Glidefest Competition 2015 - <b>2nd Placing</b>
+*   Singapore Youth Flying Club Interschool Competition 2015 - <b>2nd Overall Placing</b>
 
-*   Republic Polytechnic UAV Obstacle Competition - **2nd Placing**
-*   Glidefest Competition 2015 - **2nd Placing**
-*   Singapore Youth Flying Club Interschool Competition 2015 - **2nd Overall Placing**
+  
 
-![](/images/fly9.png)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8mwx{background-color:#FFF;color:#505050;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-h3v2{background-color:#FFF;color:#505050;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-6lcs{background-color:#FFF;color:#505050;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-amwm" colspan="3">R/C Fixed-Wing Pylon Racing</th>
+    <td class="tg-amwm" colspan="3">R/C Fixed-Wing Pylon Racing</td>
+    <td class="tg-baqh" rowspan="10"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/CCA/Clubs%20n%20societies/youth%20flying%20club/.tn.interschool_2.jpg.2.jpg" alt=" R/C Fixed-Wing Pylon Racing.jpg" width="300" height="399"></td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">Name</td>
+    <td class="tg-amwm">Class</td>
+    <td class="tg-amwm">Position</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:normal">Clarissa Lim</span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">S3-T2</span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">4th</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:normal">Muhammed Hafiz</span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">S3-I </span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">6th</span></td>
+  </tr>
+  <tr>
+    <td class="tg-amwm" colspan="3">Flight Simulation (Junior)</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:normal">Wong Jun Kit</span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">S1-F </span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">3rd </span></td>
+  </tr>
+  <tr>
+    <td class="tg-amwm" colspan="3">Free Flight Glider</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:normal">Clarence Lim</span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">S2-G </span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">1st </span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:normal">Tea Zhi Cheng</span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">S2-T </span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">4th </span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:normal">Josiah Goh</span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">S2-F </span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">5th </span></td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td class="tg-h3v2">Name</td>
-    <td class="tg-h3v2">Class</td>
-    <td class="tg-h3v2">Position</td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx">Clarissa Lim </td>
-    <td class="tg-8mwx">S3-T2</td>
-    <td class="tg-8mwx">4th</td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx">Muhammed Hafiz           </td>
-    <td class="tg-8mwx">S3-I</td>
-    <td class="tg-8mwx">6th</td>
-  </tr>
-  <tr>
-    <td class="tg-6lcs" colspan="3"> Flight Simulation (Junior)</td>
-  </tr>
-  <tr>
-    <td class="tg-h3v2">Name</td>
-    <td class="tg-h3v2">Class</td>
-    <td class="tg-h3v2">Position</td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx">Wong Jun Kit </td>
-    <td class="tg-8mwx">S1-F</td>
-    <td class="tg-8mwx">3rd</td>
-  </tr>
-  <tr>
-    <td class="tg-6lcs" colspan="3">Free Flight Glider</td>
-  </tr>
-  <tr>
-    <td class="tg-h3v2">Name</td>
-    <td class="tg-h3v2">Class</td>
-    <td class="tg-h3v2">Position</td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx">Clarence Lim</td>
-    <td class="tg-8mwx">S2-G</td>
-    <td class="tg-8mwx">1st</td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx">Tea Zhi Cheng</td>
-    <td class="tg-8mwx">S2-T</td>
-    <td class="tg-8mwx">4th</td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx">Josiah Goh</td>
-    <td class="tg-8mwx">S2-F</td>
-    <td class="tg-8mwx">5th</td>
-  </tr>
-</tbody>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ***2015 National Inter-School Air Race Championship***
 
