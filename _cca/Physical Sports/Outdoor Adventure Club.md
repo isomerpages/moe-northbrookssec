@@ -24,43 +24,40 @@ Fridays, 2.30pm - 5.30pm
 
 ### Programmes
 
-![](/images/ODAC2.png)
+
+![](/images/ODAC--.png)
 
 
+1\.   Kayaking 1-star certificate <br>
+2\.  Rock climbing Level 1 certificate <br>
+3\.  Orienteering competitions and activities <br>
+4\.  Cycling <br>
+5\.  Outdoor Cooking <br>
+6\.  Outdoor Expeditions <br>
+7\.  Dragon-boating <br>
+8\.  Termly hikes <br>
+9\.  Malaysia Hiking Trip
 
+  
 
+### <u>Competitions</u>
 
-![](/images/ODAC.png)
-
-
-
-1.  Kayaking&nbsp;&nbsp;1-star certificate
-2.  Rock climbing Level 1 certificate
-3.  Orienteering competitions and activities
-4.  Cycling
-5.  Outdoor Cooking
-6.  Outdoor Expeditions
-7.  Dragon-boating
-8.  Termly hikes
-9.  Malaysia Hiking Trip
-
-
-
-**Competitions**  
-National Orienteering Race  
-Greendale Orienteering Race  
-Asian Orienteering Championships&nbsp;  
+National Orienteering Race <br>
+Greendale Orienteering Race <br>
+Asian Orienteering Championships <br>
 Singapore National Games (Adventure Race @ Sentosa)
 
-##### Achievements:
+### Achievements
 
-###### 2019
+#### 2019
 
 *   National Orienteering Race
 
-    - Champions for Relay Category  
-    - 1st position for C Division Girls  
-    - 2nd position for B Division Girls
+    *   Champions for Relay Category  
+    
+    *   1st position for C Division Girls  
+    
+    *   2nd position for B Division Girls
 
 
 
