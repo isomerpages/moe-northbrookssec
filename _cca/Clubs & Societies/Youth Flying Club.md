@@ -28,6 +28,9 @@ Mondays and Wednesdays, 3.30pm - 6.30pm
 Northbrooks Youth Flying Club (NYFC) was set up in January 2003 with the aim of training and guiding pupils who were interested in pursuing a career in the aerospace industry. During the earlier years, our students mastered control-line flying, and took part and excelled in several National and International Aeromodelling competitions. As we continue to develop our Aerospace Niche, our Youth Flying Club currently pursues several platforms - radio-controlled flying, drone flying, drone coding, FPV drone racing and flight simulations. Over the years, our students have done well in the Singapore Amazing Flying Machine Competition and other various inter-school competitions like the National Airfix Aeromodelling Competition. We have also incorporated the learning of airport ground operations and airport engineering into the CCA curriculum. In close partnership with higher institutions, the organisations from the aviation industry and Singapore Youth Flying Club (SYFC), our club will continue to work towards greater heights.
 
 
+<img src="/images/fly3.png" style="width:100%">
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -39,7 +42,7 @@ Northbrooks Youth Flying Club (NYFC) was set up in January 2003 with the aim of 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-8jgo"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/CCA/Clubs%20n%20societies/youth%20flying%20club/2021/Powered%20paperplane%20OK.jpg" alt="Powered paperplane OK.jpg" width="120" height="187"><br>Cadets are indulged in a session of powered paper planes, in partnership with Airbus Asia</th>
+    <th class="tg-8jgo"><img src="/images/fly3.png" style="width:100%"><br>Cadets are indulged in a session of powered paper planes, in partnership with Airbus Asia</th>
     <th class="tg-8jgo"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/CCA/Clubs%20n%20societies/youth%20flying%20club/2021/Prat%20engine%20Ok.jpg" alt="Prat engine Ok.jpg" width="117" height="187"><br>Cadets enthralled by the Pratt &amp; Whitney Engine during the Unmanned Systems Asia Exhibition </th>
   </tr>
 </thead>
