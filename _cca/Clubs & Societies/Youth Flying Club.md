@@ -42,7 +42,7 @@ Northbrooks Youth Flying Club (NYFC) was set up in January 2003 with the aim of 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-8jgo"><img src="/images/fly3.png" style="width:100%"><br>Cadets are indulged in a session of powered paper planes, in partnership with Airbus Asia</th>
+    <th class="tg-8jgo"><img src="/images/fly3.png" style="width:80%"><br>Cadets are indulged in a session of powered paper planes, in partnership with Airbus Asia</th>
     <th class="tg-8jgo"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/CCA/Clubs%20n%20societies/youth%20flying%20club/2021/Prat%20engine%20Ok.jpg" alt="Prat engine Ok.jpg" width="117" height="187"><br>Cadets enthralled by the Pratt &amp; Whitney Engine during the Unmanned Systems Asia Exhibition </th>
   </tr>
 </thead>
