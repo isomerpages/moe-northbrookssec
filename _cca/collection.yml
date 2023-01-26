@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - CCA.md
-      - Sports & Games/.keep
-      - Sports & Games/Sports & Games.md
-      - Sports & Games/Badminton.md
-      - Sports & Games/Basketball.md
-      - Sports & Games/Bowling.md
-      - Sports & Games/Floorball.md
-      - Sports & Games/Outdoor Adventure Club.md
+      - Physical Sports/.keep
+      - Physical Sports/Sports & Games.md
+      - Physical Sports/Badminton.md
+      - Physical Sports/Basketball.md
+      - Physical Sports/Bowling.md
+      - Physical Sports/Floorball.md
+      - Physical Sports/Outdoor Adventure Club.md
       - Clubs & Societies/.keep
       - Clubs & Societies/Clubs & Societies.md
       - Clubs & Societies/AVA Club.md
