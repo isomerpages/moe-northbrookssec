@@ -4,11 +4,8 @@ permalink: /CCA/Sports-and-Games/Floorball/
 description: ""
 third_nav_title: Physical Sports
 ---
-
-
-
-
-# Floorball
+Floorball
+=========
 ![](/images/floorball.jpeg)
 
 ##### Teachers-in-Charge
