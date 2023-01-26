@@ -289,86 +289,84 @@ A self-directed learner, Brendan’s fortitude and determination have enabled hi
 *   Aero Challenge 2015 - 3rd
 
 
-
-
-
-
-
-
-
-![](/images/fly11.jpg)
-The members are:
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8mwx{background-color:#FFF;color:#505050;text-align:left;vertical-align:top}
-.tg .tg-h3v2{background-color:#FFF;color:#505050;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-h3v2">Name</th>
-    <th class="tg-h3v2">Class</th>
+    <td class="tg-baqh">The members are:</td>
+    <td class="tg-nrix"></td>
+    <td class="tg-baqh" rowspan="5"><img src="/images/fly11.jpg" style="width:100%"></td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">Name</td>
+    <td class="tg-amwm">Class</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">ARSYAD B ABDUL MALIK</td>
+    <td class="tg-baqh">S 3-G</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">LIM ZHAO JIE</td>
+    <td class="tg-baqh">S 3-G</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">SEAN CHAI QIXUAN</td>
+    <td class="tg-baqh">S 3-G<br></td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td class="tg-8mwx">ARSYAD B ABDUL MALIK</td>
-    <td class="tg-8mwx">S 3-G</td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx">LIM ZHAO JIE</td>
-    <td class="tg-8mwx">S 3-G</td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx">SEAN CHAI QIXUAN</td>
-    <td class="tg-8mwx">S 3-G</td>
-  </tr>
-</tbody>
 </table>
 
 
-***9th National RoboPreneur Carnival 2015 - Drone Air Race: 2nd***
+*   9th National RoboPreneur Carnival 2015 - Drone Air Race: 2nd
 
-The team members are:
-
-![](/images/Fly.jpg)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8mwx{background-color:#FFF;color:#505050;text-align:left;vertical-align:top}
-.tg .tg-h3v2{background-color:#FFF;color:#505050;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-h3v2">Name</th>
-    <th class="tg-h3v2">Class</th>
+    <td class="tg-nrix">The team members are:</td>
+    <td class="tg-nrix"></td>
+    <td class="tg-baqh" rowspan="5"><img src="/images/Fly.jpg" style="width:100%"></td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">Name</td>
+    <td class="tg-amwm">Class</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Joshua Seow Wen Jun</td>
+    <td class="tg-nrix">S 3-I</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Muhammad Hafiz Bin Mohammad Azli </td>
+    <td class="tg-nrix">S 3-I</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Sean Chai Qixuan</td>
+    <td class="tg-nrix">S 3-G</td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td class="tg-8mwx">Joshua Seow Wen Jun</td>
-    <td class="tg-8mwx">S 3-I</td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx">Muhammad Hafiz Bin Mohammad Azli </td>
-    <td class="tg-8mwx">S 3-I</td>
-  </tr>
-  <tr>
-    <td class="tg-8mwx">Sean Chai Qixuan</td>
-    <td class="tg-8mwx">S 3-G</td>
-  </tr>
-</tbody>
 </table>
 
-***2015 National Airfix Aeronautical Model and Engineering Competition***
+
+*   2015 National Airfix Aeronautical Model and Engineering Competition
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
