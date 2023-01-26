@@ -63,3 +63,87 @@ Key programmes that the Northbrooks Floorball Team are as follows:
 *   National Floorball 'C' Division Championships - 2nd Placing
 
 ![](/images/floorball2.png)
+
+
+#### 2015
+
+*   National Floorball 'C' Division Championships - Top 10
+
+  
+
+#### 2014
+
+*   National Schools Floorball Championship: 2nd Round (9th / 10th)
+    
+
+  
+
+#### 2013
+
+*   National Schools Floorball Championship: 2nd Round (11th / 12th)
+    
+
+  
+
+#### 2012
+
+*   Top 4 placing in the National Schools Floorball Championship
+    
+
+  
+
+#### 2011
+
+*   Top 6 placing in the National Schools Floorball Championship
+    
+
+  
+
+#### 2010
+
+*   4th placing in the Tampines West CDC U19 Floorball Tournament (Girls)
+    
+*   2th placing in the Tampines West CDC U19 Floorball Tournament (Boys)
+    
+
+  
+
+#### 2007
+
+*   4th placing in the National Interschool Floorball Championship
+    
+*   3rd placing in the Singapore Polytechnic Floorball Competition
+    
+*   2nd placing in the Singapore River Raft Race Floorball Competitition
+    
+
+  
+
+Congratulations to the 'B' Boys floorball team for receiving Northzone Colour Awards for the first time in 2007. On top of that, 3 of our Brooksian floorball players received individual Northzone Colour Awards for their outstanding contributions:
+
+  
+
+*   Syazni Ramlee
+
+*   Amir Mustaffa
+    
+*   Iskandar Shah
+    
+
+  
+
+Congratulations also to these boys who have been successfully selected for the Singapore Combined School Floorball Team 2008:
+
+  
+
+*   Mohd Nazr, 4I
+    
+*   Abdul Syafiq, 4T
+    
+*   Mohd Amir, 4E
+    
+
+  
+
+2nd placing in the Singapore Raft River Race Floorball Open on 19 – 20th May 2007-6-29   
+Participated in the 1st National Interschool Floorball Championship 2007
