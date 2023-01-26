@@ -9,19 +9,20 @@ Outdoor Adventure Club
 
 ![](/images/ODAC%201.jpeg)
 
-##### Teacher-in-Charge
+### Teacher-in-Charge
 
 1.  Mr Alex Ang Kok Wee (Advisor)
-2.  Ms Isabel Ho&nbsp;(Teacher-in-charge)
-3.  Ms Audrey Chong Jia Wen&nbsp;(2 Teacher-in-charge)
+2.  Ms Audrey Chong Jia Wen (Teacher-in-charge)
+3.  Mr Timothy Chong (2 Teacher-in-charge)
 4.  Ms Sharifah
+5.  Ms Lim Xin Yi
 
-##### Training Day / Time
+### Training Day / Time
 
 Mondays, 3.30pm - 6.30pm  
-Fridays, 2.30pm - 5.30pm
+Fridays, 2.30pm - 5.30pm  
 
-##### Programmes and activities
+### Programmes
 
 ![](/images/ODAC2.png)
 
