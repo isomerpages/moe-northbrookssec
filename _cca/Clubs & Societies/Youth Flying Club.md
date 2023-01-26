@@ -28,7 +28,6 @@ Mondays and Wednesdays, 3.30pm - 6.30pm
 Northbrooks Youth Flying Club (NYFC) was set up in January 2003 with the aim of training and guiding pupils who were interested in pursuing a career in the aerospace industry. During the earlier years, our students mastered control-line flying, and took part and excelled in several National and International Aeromodelling competitions. As we continue to develop our Aerospace Niche, our Youth Flying Club currently pursues several platforms - radio-controlled flying, drone flying, drone coding, FPV drone racing and flight simulations. Over the years, our students have done well in the Singapore Amazing Flying Machine Competition and other various inter-school competitions like the National Airfix Aeromodelling Competition. We have also incorporated the learning of airport ground operations and airport engineering into the CCA curriculum. In close partnership with higher institutions, the organisations from the aviation industry and Singapore Youth Flying Club (SYFC), our club will continue to work towards greater heights.
 
 
-<img src="/images/fly6.png" style="width:100%">
 
 
 <style type="text/css">
@@ -54,19 +53,6 @@ Northbrooks Youth Flying Club (NYFC) was set up in January 2003 with the aim of 
 </tbody>
 </table>
 
-###### Cadets are indulged in a session of powered paper planes, in partnership with Airbus Asia 
-![](/images/fly3.png)
-
-
-###### Cadets enthralled by the Pratt & Whitney Engine during the Unmanned Systems Asia Exhibition
-![](/images/fly4.png)
-
-
-###### Sec 1 cadets on a learning journey on dismantling a simple piston engine at Singapore Polytechnic 
-![](/images/fly5.png)
-
-###### Learning instrumental control in flight simulation 
-![](/images/fly6.png)
 
 
 ### Objectives:
