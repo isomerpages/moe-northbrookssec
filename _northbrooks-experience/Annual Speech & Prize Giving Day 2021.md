@@ -11,4 +11,4 @@ Annual Speech & Prize Giving
 ![](/images/Annual.jpeg)
 
   
-#### For more information, do refer to the programme booklet below.
+#### <center>For more information, do refer to the programme booklet below.</center>
