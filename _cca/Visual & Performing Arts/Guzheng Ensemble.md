@@ -4,23 +4,19 @@ permalink: /CCA/Visual-and-Performing-Arts/Guzheng-Ensemble/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-
-
-
 Guzheng Ensemble
 ================
 
-![](/images/2021%20SYF.jpeg)
+
+<img style="width:80%" src="/images/2021%20SYF.jpeg">
 
 ### Teachers-in-Charge
-1. Mr Eddy Norisman (Advisor)
-2. Ms Lin Lin (Teacher-in-charge)
-3. Mdm Ma Ying (2nd Teacher-in-charge)
-4. Ms Tan Shin Yuen
 
-### Training Day / Time
-Mondays, 3.15pm - 6.15pm
-Fridays, 1.00pm - 4.00pm
+1\. Mr Ler Kai Ming Gavin (Advisor) <br>
+2\. Ms Tan Shin Yuen (Michelle) (Teacher-in-charge) <br>
+3\. Mdm Dian Farhana Bte Akbar (2 Teacher-in-charge) <br>
+4\. Ms Teo Qianyu <br>
+5\. Miss Han Xiuting Serene
 
 
 
@@ -66,14 +62,14 @@ To develop every member to be a disciplined Guzheng member and to create a unite
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-baqh"><img height="300" width="400" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/CCA%20Exchange.JPG"><br><span style="font-weight:400;font-style:normal">CCA Exchange with other schools</span><br></th>
-    <th class="tg-baqh"><img height="300" width="400" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/IMG_ECCA%20Exchange%20%20Nanyang%20Girls%20High%20School%2002.JPG"><br><span style="font-weight:400;font-style:normal">CCA Exchange @ Nanyang Girls’ High School</span><br></th>
+    <th class="tg-baqh"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/CCA%20Exchange.JPG" alt="Image" width="400" height="300"><br><span style="font-weight:400;font-style:normal">CCA Exchange with other schools</span><br></th>
+    <th class="tg-baqh"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/IMG_ECCA%20Exchange%20%20Nanyang%20Girls%20High%20School%2002.JPG" alt="Image" width="400" height="300"><br><span style="font-weight:400;font-style:normal">CCA Exchange @ Nanyang Girls’ High School</span><br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-baqh"><img height="300" width="400" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/CCA%20Farewell.JPG"><br><span style="font-weight:400;font-style:normal">CCA Farewell</span><br></td>
-    <td class="tg-baqh"><img height="300" width="400" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/CCA%20Camp%2001.jpg"><br><span style="font-weight:400;font-style:normal">CCA Bonding Activity</span><br></td>
+    <td class="tg-baqh"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/CCA%20Farewell.JPG" alt="Image" width="400" height="300"><br><span style="font-weight:400;font-style:normal">CCA Farewell</span><br></td>
+    <td class="tg-baqh"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Visual%20n%20Performing%20Arts/Guzheng%20Ensemble/2021/CCA%20Camp%2001.jpg" alt="Image" width="400" height="300"><br><span style="font-weight:400;font-style:normal">CCA Bonding Activity</span><br></td>
   </tr>
 </tbody>
 </table>
