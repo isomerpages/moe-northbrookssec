@@ -122,3 +122,19 @@ Testimonials
 ============
 
 ### Testimonials from Secondary 4 NPCC Cadets:
+
+
+
+<div>
+
+<div style="float: right">
+
+![](/images/NPCC1.jpeg)
+
+</div><div>
+	
+SSGT(NPCC) Darwin Azhar Bin Azni
+
+"Without NPCC, I would have never been able to change my ways during my third year in secondary school. After my second year, I realised that my attitude and behaviour in school at that point of time would not bring me any good. Things changed after I went through the Cadet Leader Training Course in secondary three. My personality changed for the better and I matured. Thanks to NPCC, my life became better than before. I have become the leader who I have always wanted to be - driven and disciplined one."
+	
+</div></div>
