@@ -27,7 +27,7 @@ The MISSION of the National Police Cadet Corps is to develop our members to be a
   
 The VISION of the National Police Cadet Corps is to become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.  
   
-In accordance with NPCC mission and observing our objectives, we hope our cadets:  
+In accordance with NPCC mission and observing our objectives, we hope our cadets:
 
 ### Objectives
 
