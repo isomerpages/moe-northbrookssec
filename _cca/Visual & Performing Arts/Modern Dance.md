@@ -6,28 +6,31 @@ third_nav_title: Visual & Performing Arts
 ---
 Modern Dance
 ============
-<img style="width:80%" src="/images/DE%20Banner.jpeg">
-
+<img src="/images/DE%20Banner.jpeg" style="width:80%">
 
 ### Teachers-in-Charge
-1. MrLer Kai Ming Gavin (Advisor)
-2. Ms Nicolich Ann Melissa (Teacher-in-charge)
-3. Ms Premila D/O Dhanabal (2nd Teacher-in-charge)
-4. Mdm Zuraidah Bte Abdul Karim 
+
+1\. Mr Ler Kai Ming Gavin (Advisor) <br>
+2\. Ms Premila D/O Dhanabal (Teacher-in-charge) <br>
+3\. Ms Shivaranjani Subramaniam (2nd Teacher-in-charge) <br>
+4\. Mdm Zuraidah Bte Abdul Karim&nbsp;
 
 ### Training Day / Time
-Wednesdays, 3.30pm - 6.00pm
-Fridays, 2.00pm - 4.30pm
 
-### Objectives:
-* To cultivate a deeper appreciation of the arts through music and movement (Graciousness)
-* To build confidence, discipline and learn to work well together towards a common goal (Fortitude, Teamwork, Empathy, Discipline)
+Wednesdays, 3.30pm - 6.00pm  
+Fridays, 2.00pm - 4.30pm  
 
-Dance as an art has a significant role to play in the holistic education in our schools. Even if a child can never carry his efforts far enough to realise dance in its highest forms, he should still be granted the chance to experience the joy of the rhythmic sense of free, controlled and expressive movement, and through this, be led to discover an important part of life.  
+### Objectives
 
+*   To cultivate a deeper appreciation of the arts through music and movement (Graciousness)
+*   To build confidence, discipline and learn to work well together towards a common goal (Fortitude, Teamwork, Empathy, Discipline)
+
+  
+Dance as an art has a significant role to play in the holistic education in our schools. Even if a child can never carry his efforts far enough to realise dance in its highest forms, he should still be granted the chance to experience the joy of the rhythmic sense of free, controlled and expressive movement, and through this, be led to discover an important part of life.&nbsp;&nbsp;  
+  
 Northbrooks Dance Explosion (DE) was formed in 2010. They are trained in modern, contemporary, hip hop and international dance styles. Since then, they had put up several internal and external performances.
 
-##### Programmes for the Year 2021:
+### Programmes for the Year 2021
 
 *   CCA Display Day
 *   Chinese New Year Concert (Virtual Presentation)
@@ -36,15 +39,15 @@ Northbrooks Dance Explosion (DE) was formed in 2010. They are trained in modern,
 *   SYF 2021 Art Presentation
 *   National Day Concert
 *   Teachers Day Concert
-*   Makeup&nbsp;Technique Class
+*   Makeup Technique Class
 *   Bonding Activity
 *   Physical Training
 
-### Achievements:
+### Achievements
 
+#### 2021
 
-##### 2021
-* **SYF Arts Presentation 2021**: Northbrooks Modern Dance received the **Certificate of Distinction** in the Dance (International Dance) - Secondary School Level Category
+*   <b>SYF Arts Presentation 2021</b>: Northbrooks Modern Dance received the&nbsp;<b>Certificate of Distinction</b>&nbsp;in the Dance (International Dance) - Secondary School Level Category
 
 ![](/images/Dance1.png)
 
