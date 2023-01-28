@@ -3,11 +3,10 @@ title: Principal's Message
 permalink: /about-us/principal/
 description: ""
 ---
-
 Principal's Message
 ===================
 
-<img src="/images/123.png" style="width:250px;height:240px;margin-left:10px;" align = "right">
+<img src="/images/123.png" style="width:250px;height:240px;margin-right:10px;" align = "left">
 
 A warm welcome to Northbrooks Secondary School!
 
