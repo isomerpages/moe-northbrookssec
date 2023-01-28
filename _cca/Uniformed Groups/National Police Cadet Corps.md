@@ -49,7 +49,7 @@ In accordance with NPCC mission and observing our objectives, we hope our cadets
 #### 2020
 
 Chairperson – Juana Ardhanty  
-Vice Chairperson – Qurniawan Ilhansyah Bin Mohamad Redzuan  
+Vice Chairperson – Qurniawan Ilhansyah Bin Mohamad Redzuan
   
 
 #### 2019
