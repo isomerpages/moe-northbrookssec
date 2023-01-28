@@ -6,7 +6,7 @@ third_nav_title: Visual & Performing Arts
 ---
 Modern Dance
 ============
-<img style="width:80%" src="/images/DE%20Banner.jpeg">
+<img src="/images/DE%20Banner.jpeg" style="width:80%">
 
 ### Teachers-in-Charge
 
@@ -84,39 +84,42 @@ Northbrooks Dance Explosion (DE) was formed in 2010. They are trained in modern,
 
 ![](/images/Dance5.png)
 
-##### 2015
+#### 2015
 
 *   Super24 Competition - The Ultimate Team Dance Challenge 2015
-*   **SYF Arts Presentation:**&nbsp;Northbrooks Modern Dance received the&nbsp;**Certificate of Accomplishment**&nbsp;in the Dance (International Dance) -&nbsp;Secondary School Level Category
+*   <u><b>SYF Arts Presentation:</b></u>&nbsp;Northbrooks Modern Dance received the&nbsp;<b>Certificate of Accomplishment</b>&nbsp;in the Dance (International Dance) -&nbsp;Secondary School Level Category
 
 ![](/images/Dance6.png)
 
-##### 2014&nbsp;
+#### 2014
 
 *   Super24 Competition - The Ultimate Team Dance Challenge 2014 - 9th Placing
 *   Participated in Chingay&nbsp;Parade Singapore 2014 in PAYM&nbsp;Contingent
 
-![](/images/Dance7.png)
+  
 
-##### 2013
+#### 2013
 
-*   **SYF Arts Presentation:**&nbsp;Northbrooks Modern Dance received the&nbsp;**Certificate of Accomplishment**&nbsp;in the Dance (International Dance) (Secondary School Level) Category  
+*   <u><b>SYF Arts Presentation:</b></u>&nbsp;Northbrooks Modern Dance received the&nbsp;<b>Certificate of Accomplishment</b>&nbsp;in the Dance (International Dance) (Secondary School Level) Category  
     
 *   Participated in Chingay&nbsp;Parade Singapore 2013&nbsp;in Zumba&nbsp;Contingent
 
+![](/images/Dance7.png)
+
+
 ![](/images/Dance8.png)
 
-##### 2012
+#### 2012
 
 *   Participated in Chingay&nbsp;Parade Singapore 2012&nbsp;in PAYM&nbsp;Contingent
 
 ![](/images/Dance9.png)
 
-##### 2011
+#### 2011
 
 *   SYF 2011 Central Judging - Dance (International Dance)(Secondary Schools) (Bronze)
 
-![](/images/Dance10.png)
+<img style="width:60%" src="/images/Dance10.png">
 
 ### Links:
 
