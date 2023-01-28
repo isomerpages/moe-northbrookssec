@@ -6,8 +6,8 @@ third_nav_title: Visual & Performing Arts
 ---
 Modern Dance
 ============
+<img style="width:80%" src="/images/DE%20Banner.jpeg">
 
-![](/images/DE%20Banner.jpeg)
 
 ### Teachers-in-Charge
 1. MrLer Kai Ming Gavin (Advisor)
@@ -36,7 +36,7 @@ Northbrooks Dance Explosion (DE) was formed in 2010. They are trained in modern,
 *   SYF 2021 Art Presentation
 *   National Day Concert
 *   Teachers Day Concert
-*   Makeup Technique Class
+*   Makeup&nbsp;Technique Class
 *   Bonding Activity
 *   Physical Training
 
@@ -56,54 +56,54 @@ Northbrooks Dance Explosion (DE) was formed in 2010. They are trained in modern,
 
 ##### 2019
 
-*   SYF Arts Presentation 2019: Northbrooks Modern Dance received the Certificate of Accomplishment in the Dance (International Dance) - Secondary School Level Category
+*   SYF Arts Presentation 2019: Northbrooks Modern Dance received the&nbsp;Certificate of Accomplishment&nbsp;in the Dance (International Dance) - Secondary School Level Category
 
 ![](/images/Dance3.png)
 
 ##### 2018
 
-*   World Supremacy Battleground Competition 
-*   Represent Northbrooks at HDB and HDB Staff Union Joint Bursary Award Presentation and HDBSU Long Membership Cum Retirement Award Ceremony 2018
+*   World Supremacy Battleground Competition&nbsp;
+*   Represent&nbsp;Northbrooks&nbsp;at&nbsp;HDB and HDB Staff Union Joint Bursary Award Presentation and HDBSU Long Membership Cum Retirement Award Ceremony 2018
 *   Represent Northbrooks at Gambas Lunar New Year Dinner 2018
 
 ![](/images/Dance4.png)
 
 ##### 2017
 
-*   **SYF Arts Presentation:** Northbrooks Modern Dance received the **Certificate of Accomplishment** in the Dance (International Dance) - Secondary School Level Category
+*   **SYF Arts Presentation:**&nbsp;Northbrooks Modern Dance received the&nbsp;**Certificate of Accomplishment**&nbsp;in the Dance (International Dance) -&nbsp;Secondary School Level Category
 
 ##### 2016
 
 *   Represent Northbrooks at Gambas Constituency National Day Carnival
-*   Represent Northbrooks at Lot One Shopping Centre Charity
+*   Represent Northbrooks at Lot One Shopping Centre&nbsp;Charity
 
 ![](/images/Dance5.png)
 
 ##### 2015
 
 *   Super24 Competition - The Ultimate Team Dance Challenge 2015
-*   **SYF Arts Presentation:** Northbrooks Modern Dance received the **Certificate of Accomplishment** in the Dance (International Dance) - Secondary School Level Category
+*   **SYF Arts Presentation:**&nbsp;Northbrooks Modern Dance received the&nbsp;**Certificate of Accomplishment**&nbsp;in the Dance (International Dance) -&nbsp;Secondary School Level Category
 
 ![](/images/Dance6.png)
 
-##### 2014 
+##### 2014&nbsp;
 
 *   Super24 Competition - The Ultimate Team Dance Challenge 2014 - 9th Placing
-*   Participated in Chingay Parade Singapore 2014 in PAYM Contingent
+*   Participated in Chingay&nbsp;Parade Singapore 2014 in PAYM&nbsp;Contingent
 
 ![](/images/Dance7.png)
 
 ##### 2013
 
-*   **SYF Arts Presentation:** Northbrooks Modern Dance received the **Certificate of Accomplishment** in the Dance (International Dance) (Secondary School Level) Category  
+*   **SYF Arts Presentation:**&nbsp;Northbrooks Modern Dance received the&nbsp;**Certificate of Accomplishment**&nbsp;in the Dance (International Dance) (Secondary School Level) Category  
     
-*   Participated in Chingay Parade Singapore 2013 in Zumba Contingent
+*   Participated in Chingay&nbsp;Parade Singapore 2013&nbsp;in Zumba&nbsp;Contingent
 
 ![](/images/Dance8.png)
 
 ##### 2012
 
-*   Participated in Chingay Parade Singapore 2012 in PAYM Contingent
+*   Participated in Chingay&nbsp;Parade Singapore 2012&nbsp;in PAYM&nbsp;Contingent
 
 ![](/images/Dance9.png)
 
@@ -117,4 +117,4 @@ Northbrooks Dance Explosion (DE) was formed in 2010. They are trained in modern,
 
 *   [http://www.singaporeyouthfestival.sg/](http://www.singaporeyouthfestival.sg/)
 *   [http://www.chingay.org.sg/](http://www.chingay.org.sg/)
-*   Email us @ [nbssdanceexplosion@groups.facebook.com](mailto:nbssdanceexplosion@groups.facebook.com)
+*   Email us @&nbsp;[nbssdanceexplosion@groups.facebook.com](mailto:nbssdanceexplosion@groups.facebook.com)
