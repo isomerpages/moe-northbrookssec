@@ -34,7 +34,7 @@ For your convenience, you may wish to download our [<b>Secondary One Posting C
 
 <b>There are 4 Sections to complete the Sec 1 registration.</b>
 
-
+[Section 1: Welcome Message by Mr David Lau (Principal of Northbrooks Secondary)](/parents/Sec-One-2023-Posting-Matters/Sec-One-2023-Posting-Matters/)
 
 
 <b>Please ensure that you go through all 4 sections. Thank You.</b> <br>
