@@ -107,3 +107,25 @@ Through these activities, we hope that our cadets will develop a passion for lea
 ### Competitions
 
 *   First Aid Competition
+
+
+### Community Involvement Programmes
+
+*   First Aid Duties
+*   Fundraising activities
+*   Visits to Homes
+
+### Cadet Modular Workshops
+
+*   Evacuation
+*   Footdrill
+*   Outdoor Activities
+*   Red Cross Knowledge
+*   Total Defence
+*   National Heritage
+*   Fundraising
+*   Health Law
+
+### Inter-unit/ UG activities
+
+*   Combined UG Adventure Camp
