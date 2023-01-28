@@ -7,7 +7,7 @@ third_nav_title: Uniformed Groups
 Red Cross Youth
 ===============
 
-<img src="/images/CCA%20Display%20Day.jpeg" style="width:60%">
+<img style="width:60%" src="/images/CCA%20Display%20Day.jpeg">
 
 ### Teachers-in-Charge
 
@@ -24,7 +24,7 @@ Wednesday, 3.45pm - 6.15pm
 Red Cross Youth (Singapore) seeks to:
 
 
-<img align="right" style="width:290px;height:180px;margin-left:15px;" src="/images/YOUTH.png">
+<img src="/images/YOUTH.png" style="width:290px;height:180px;margin-left:15px;" align="right">
 
 *   Promote and encourage the participation of children and young persons in the work of the Red Cross.
 *   Inculcate healthy living habits.
@@ -33,7 +33,7 @@ Red Cross Youth (Singapore) seeks to:
 
 	
 
-<img src="/images/youth2.jpg" style="width:50%">
+<img style="width:50%" src="/images/youth2.jpg">
 
 
 In Northbrooks Red Cross Youth, we seek to develop our cadets holistically. Through the activities organized for cadets, both at the school unit level as well as the national level, cadets will be exposed to numerous opportunities where they can learn both the hard and the soft skills. The hard skills include how to perform standard first aid, evacuation, foot drill, along with outdoor activity skills such as setting up campfires and tent pitching. We also participate in various competitions, organized at the national level, so that our cadets can gain more exposure and hone their skills at an inter-school level such as the Current Affairs Competition and First Aid Competition.
@@ -44,7 +44,7 @@ In Northbrooks Red Cross Youth, we seek to develop our cadets holistically. Thro
 
 Not to forget, our cadets are a valuable asset as they tirelessly performed first aid duties during school events such as the Cross Country, Sports Day, and Speech Day. Amidst these commitments, yearly visits are made to an elderly home so that cadets can do their part for the community and learn valuable life experiences from their senior friends at the Home.
 
-<img style="width:50%" src="/images/youth3.png">
+<img src="/images/youth3.png" style="width:50%">
 <center> <i>Visit to Khoo Teck Phuat Hospital as part of our Community Involvement Programme</i> </center>
 
 Through these activities, we hope that our cadets will develop a passion for learning, strong moral values and a keen sense of duty and community.
@@ -129,3 +129,71 @@ Through these activities, we hope that our cadets will develop a passion for lea
 ### Inter-unit/ UG activities
 
 *   Combined UG Adventure Camp
+
+
+### Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th colspan="2" class="tg-amwm">Excellence Unit Award(EUA)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh">2008</td>
+    <td class="tg-baqh">Silver</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">2009</td>
+    <td class="tg-baqh">Silver</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">2010</td>
+    <td class="tg-baqh">Silver</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">2011</td>
+    <td class="tg-nrix">Gold</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">2012</td>
+    <td class="tg-nrix">Gold</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">2013</td>
+    <td class="tg-nrix">Gold</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">2014</td>
+    <td class="tg-nrix">Gold</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">2015</td>
+    <td class="tg-nrix">Gold</td>
+  </tr>
+</tbody>
+</table>
+
+
+### 2015
+
+*   Sustained Achievement Award (<b>5 years</b>)
+*   National First Aid Championship 2015 -&nbsp;<b>National Champion</b>
+
+  
+
+### Links
+
+*   Downloadable file&nbsp;[RED CROSS YOUTH CALENDAR OF EVENTS 2014](https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Uniformed%20Groups/Red%20Cross%20Youth/RCY%20Calendar%20of%20Events%202014.pdf)
+*   Singapore Red Cross Youth:&nbsp;[http://www.redcross.org.sg/red-cross-youth-11.phtml](http://www.redcross.org.sg/red-cross-youth-11.phtml)
