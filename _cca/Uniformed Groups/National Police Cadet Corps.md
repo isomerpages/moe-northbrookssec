@@ -35,7 +35,6 @@ In accordance with NPCC mission and observing our objectives, we hope our cadets
 *   grow into confident and resilient members of society
 *   be aware on the role of the Singapore Police Force (SPF) and adopt SPF’s tradition of high standards of performance, commitment, duty and service, to seek to excel and to face up to challenge
 
-
 ### Key Programmes / CCA Programme Structure
 
 *   Campcraft and drills
