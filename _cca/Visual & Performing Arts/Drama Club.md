@@ -12,28 +12,24 @@ Drama Club
 
 ### Teachers-in-Charge
 
-1. Mr Ler Kai Ming Gavin (Advisor)  
-2. Ms Diana Ghazali (Teacher-in-charge)  
-3. Ms Nur Sakinah (2 Teacher-in-charge)  
-4. Ms Lee Chien Wuan  
+1\. Mr Ler Kai Ming Gavin (Advisor) <br>
+2\. Ms Lee Chien Wuan (Teacher-in-charge) <br>
+3\. Ms Diana Ghazali (2 Teacher-in-charge) <br>
+4\. Ms Chia Ji Ling (Nik)
 
 ### Training Day / Time
 
 Wednesdays, 3.30pm - 6.30pm  
-Fridays, 2.30pm - 5.30pm
+Fridays, 2.30pm - 6.00pm  
+  
+Northbrooks’ Drama club is comprised of fun-loving, expressive and disciplined teenagers who use their intellectual abilities to memorise scripts, and their emotional capacity to empathise, in order to bring fictional characters to life. By learning to control their bodies and to move with precision in synchronicity with team members, the aesthetic ideal is approached.
 
-Northbrooks’ Drama club is comprised of fun-loving, expressive and disciplined teenagers who use their intellectual abilities to memorise scripts, and their emotional capacity to empathise, in order to bring fictional characters to life. By learning to control their bodies and to move with precision in synchronicity with team members, the aesthetic ideal is approached.
-
-### Objectives:
+### Objectives
 
 *   To nurture pupils’ talents in acting, leadership and event management
 
-  
-
-### **Programmes:**
-
-*   Drama training  
-    
+### Programmes
+*   Drama training
 *   Participation in school concerts and events
 *   Participation in external competitions
 
