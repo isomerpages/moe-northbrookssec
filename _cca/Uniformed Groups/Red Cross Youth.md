@@ -49,7 +49,7 @@ Not to forget, our cadets are a valuable asset as they tirelessly performed firs
 
 Through these activities, we hope that our cadets will develop a passion for learning, strong moral values and a keen sense of duty and community.
 
-### Programmes:&nbsp;
+### Programmes
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -57,139 +57,53 @@ Through these activities, we hope that our cadets will develop a passion for lea
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8mwx{background-color:#FFF;color:#505050;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-8mwx">January</th>
-    <th class="tg-8mwx">CCA Open House</th>
+    <th class="tg-c3ow">January</th>
+    <th class="tg-baqh">CCA Open House</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-8mwx">February</td>
-    <td class="tg-8mwx">Total Defence Day<br><span style="color:#000;background-color:initial">First Aid Competition (Preliminary)</span></td>
+    <td class="tg-baqh">February</td>
+    <td class="tg-baqh">Total Defence Day<br><span style="color:#000">First Aid Competition (Preliminary)</span></td>
   </tr>
   <tr>
-    <td class="tg-8mwx">March  </td>
-    <td class="tg-8mwx">First Aid duty for Cross Country<br><span style="color:#000;background-color:initial">Instructional Leadership Programme Camp 2D1N</span></td>
+    <td class="tg-baqh">March  </td>
+    <td class="tg-baqh">First Aid duty for Cross Country<br><span style="color:#000">Instructional Leadership Programme Camp 2D1N</span></td>
   </tr>
   <tr>
-    <td class="tg-8mwx">April  </td>
-    <td class="tg-8mwx">World Red Cross Day Celebration cum Enrolment Ceremony<br><span style="color:#000;background-color:initial">Speech Day March-in</span><br><span style="color:#000;background-color:initial">First Aid Competition (Finals)</span></td>
+    <td class="tg-baqh">April  </td>
+    <td class="tg-baqh">World Red Cross Day Celebration cum Enrolment Ceremony<br><span style="color:#000">Speech Day March-in</span><br><span style="color:#000">First Aid Competition (Finals)</span></td>
   </tr>
   <tr>
-    <td class="tg-8mwx">Jun</td>
-    <td class="tg-8mwx">Standard First Aid certification workshop<br><span style="color:#000;background-color:initial">Unit Leaders' Programme</span></td>
+    <td class="tg-baqh">Jun</td>
+    <td class="tg-baqh">Standard First Aid certification workshop<br><span style="color:#000">Unit Leaders' Programme</span></td>
   </tr>
   <tr>
-    <td class="tg-8mwx">August</td>
-    <td class="tg-8mwx">National Day March-in<br><span style="color:#000;background-color:initial">Accreditation Camp</span></td>
+    <td class="tg-baqh">August</td>
+    <td class="tg-baqh">National Day March-in<br><span style="color:#000">Accreditation Camp</span></td>
   </tr>
   <tr>
-    <td class="tg-8mwx">September</td>
-    <td class="tg-8mwx">Red Cross Society Flag Day</td>
+    <td class="tg-baqh">September</td>
+    <td class="tg-baqh">Red Cross Society Flag Day</td>
   </tr>
   <tr>
-    <td class="tg-8mwx">October</td>
-    <td class="tg-8mwx">VIA- Visit to Welfare Home<br><span style="color:#000;background-color:initial">Year End Camp</span></td>
+    <td class="tg-baqh">October</td>
+    <td class="tg-baqh">VIA- Visit to Welfare Home<br><span style="color:#000">Year End Camp</span></td>
   </tr>
   <tr>
-    <td class="tg-8mwx">November</td>
-    <td class="tg-8mwx">Unit Instructors' Programme<br><span style="color:#000;background-color:initial">RCYC Camp</span></td>
+    <td class="tg-baqh">November</td>
+    <td class="tg-baqh">Unit Instructors' Programme<br><span style="color:#000">RCYC Camp</span></td>
   </tr>
 </tbody>
 </table>
 
 
-##### Competitions
+### Competitions
 
-*   First Aid Competition  
-      
-    
-
-##### Community Involvement Programmes
-
-*   First Aid Duties
-*   Fundraising activities
-*   Visits to Homes
-
- 
-##### Cadet Modular Workshops
-*   Evacuation
-*   Footdrill
-*   Outdoor Activities
-*   Red Cross Knowledge
-*   Total Defence
-*   National Heritage
-*   Fundraising
-*   Health Law
-
-
-##### Inter-unit/ UG activities
-
-*   Combined UG Adventure Camp
-
-### Achievements:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-os4z{background-color:#FFF;color:#505050;text-align:center;vertical-align:top}
-.tg .tg-6lcs{background-color:#FFF;color:#505050;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-6lcs" colspan="2">Excellence Unit Award(EUA)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-6lcs">2008</td>
-    <td class="tg-os4z">Silver</td>
-  </tr>
-  <tr>
-    <td class="tg-6lcs">2009</td>
-    <td class="tg-os4z">Silver</td>
-  </tr>
-  <tr>
-    <td class="tg-6lcs">2010</td>
-    <td class="tg-os4z">Silver</td>
-  </tr>
-  <tr>
-    <td class="tg-6lcs">2011</td>
-    <td class="tg-os4z">Gold</td>
-  </tr>
-  <tr>
-    <td class="tg-6lcs">2012</td>
-    <td class="tg-os4z">Gold</td>
-  </tr>
-  <tr>
-    <td class="tg-6lcs">2013</td>
-    <td class="tg-os4z">Gold</td>
-  </tr>
-  <tr>
-    <td class="tg-6lcs">2014</td>
-    <td class="tg-os4z">Gold</td>
-  </tr>
-  <tr>
-    <td class="tg-6lcs">2015</td>
-    <td class="tg-os4z">Gold</td>
-  </tr>
-</tbody>
-</table>
-
-##### 2015
-
-*   Sustained Achievement Award&nbsp;**(5 years)**
-*   National First Aid Championship 2015 -&nbsp;**National Champion**
-
-### Links:
-
-*   Downloadable file [RED CROSS YOUTH CALENDAR OF EVENTS 2014](/files/RCY%20Calendar%20of%20Events%202014.pdf)
-*   Singapore Red Cross Youth: https://www.redcross.org.sg/red-cross-youth-11.phtml
+*   First Aid Competition
