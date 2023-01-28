@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Useful Links for Parents.md
       - Parent Support Group (PSG).md
       - Sec One 2023 Posting Matters/.keep
       - Sec One 2023 Posting Matters/Sec One 2023 Posting Matters.md
