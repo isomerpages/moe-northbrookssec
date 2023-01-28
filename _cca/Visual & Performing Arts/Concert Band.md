@@ -27,7 +27,7 @@ In Concert Band, we offer the opportunity to learn musical skills and join a com
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_nsP-v7BZ7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Objectives:
+### Objectives
 
 *   To develop pupils' musical talents
 *   To develop pupils' musicianship and instrumental skills
@@ -35,7 +35,7 @@ In Concert Band, we offer the opportunity to learn musical skills and join a com
 
 ![](/images/BAND.png)
 
-### Programmes:
+### Programmes
 
 *   CCA Display Day
 *   Performing Arts Camp
@@ -48,65 +48,3 @@ In Concert Band, we offer the opportunity to learn musical skills and join a com
 
 ![](/images/BAND2.png)
 
-### Achievements: 
-
-  
-
-##### 2021
-
-
-*   **SYF Arts Presentation:** Northbrooks Concert Band (Junior Band) performed at the Concert Bands (Secondary School Level) Category
-*   **SYF Arts Presentation:** Northbrooks Concert Band (Senior Band/ Team B) received the **Certificate of Accomplishment** Concert Bands (Secondary School Level) Category
-
-##### 2019
-
-
-
-*   **SYF Arts Presentation:** Northbrooks Concert Band  received the **Certificate of** Accomplishment Concert Bands (Secondary School Level)  Category
-
- 
-
-##### 2017
-
-
-*   **SYF Arts Presentation:** Northbrooks Concert Band  received the Certificate of Accomplishment Concert Bands (Secondary School Level)  Category
-
-
-
-##### 2015
-
-
-
-*   **SYF Arts Presentation:** Northbrooks Concert Band  received the **Certificate of Commendation** Concert Bands (Secondary School Level)  Category
-
-
-
-##### 2013
-
-
-*   **SYF Arts Presentation:** Northbrooks Concert Band  received the **Certificate of Commendation** Concert Bands (Secondary School Level)  Category
-
-  
-
-##### 2012
-
-*   Participated in SHOWCASE! Performing Arts Festival 2012
-
-##### 2011
-
-*    SYF Central Judging (Bronze)
-
-##### 2009
-
-*    SYF Central Judging (Bronze)
- 
-##### 2007
-
-*   SYF Central Judging (Bronze)
-
-##### 2005
-*   SYF Central Judging (Silver)
-
-##### 2003
-
-*   SYF Central Judging (Bronze)
