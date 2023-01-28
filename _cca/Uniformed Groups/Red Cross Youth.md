@@ -7,7 +7,7 @@ third_nav_title: Uniformed Groups
 Red Cross Youth
 ===============
 
-<img src="/images/CCA%20Display%20Day.jpeg" style="width:60%">
+<img style="width:60%" src="/images/CCA%20Display%20Day.jpeg">
 
 ### Teachers-in-Charge
 
@@ -20,7 +20,8 @@ Red Cross Youth
 
 Wednesday, 3.45pm - 6.15pm
 
-
+### Objectives
+Red Cross Youth (Singapore) seeks to:
 
 ![](/images/YOUTH.png)
 
@@ -147,7 +148,7 @@ Through these activities, we hope that our cadets will develop a passion for lea
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-6lcs" colspan="2">Excellence Unit Award(EUA)</th>
+    <th colspan="2" class="tg-6lcs">Excellence Unit Award(EUA)</th>
   </tr>
 </thead>
 <tbody>
