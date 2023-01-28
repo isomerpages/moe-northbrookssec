@@ -4,13 +4,10 @@ permalink: /CCA/Uniformed-Groups/Red-Cross-Youth/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
-
 Red Cross Youth
 ===============
 
-![](/images/CCA%20Display%20Day.jpeg)
+<img style="width:60%" src="/images/CCA%20Display%20Day.jpeg">
 
 ### Teachers-in-Charge
 1. Mr Paul Tham (Advisor)
@@ -148,7 +145,7 @@ Through these activities, we hope that our cadets will develop a passion for lea
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-6lcs" colspan="2">Excellence Unit Award(EUA)</th>
+    <th colspan="2" class="tg-6lcs">Excellence Unit Award(EUA)</th>
   </tr>
 </thead>
 <tbody>
