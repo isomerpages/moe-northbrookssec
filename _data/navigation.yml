@@ -19,5 +19,8 @@ links:
     collection: achievements
   - title: Northbrooks Experience
     collection: northbrooks-experience
+  - title: Parents
+    url: /permalink
+    sublinks: []
   - title: Others
     collection: others
