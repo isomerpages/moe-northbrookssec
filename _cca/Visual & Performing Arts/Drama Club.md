@@ -35,47 +35,44 @@ Northbrooks’ Drama club is comprised of fun-loving, expressive and disciplined
 
   
 
-### Achievements:
-  
+### Achievements
 
-##### 2018
+#### 2018
 
-*    ‘Destination Imagination’ competition - 3rd Placing  
-    
+*   ‘Destination Imagination’ competition - 3rd Placing
 
   
 
-##### 2015
+#### 2015
 
-*   **SYF Arts Presentation:** Northbrooks Drama Club received the **Certificate of Accomplishment** in the English Drama - Secondary School Level Category
+*   <u><b>SYF Arts Presentation</b></u>: Northbrooks Drama Club received the Certificate of Accomplishment in the English Drama - Secondary School Level Category
 
-![](/images/Drama_SYF_2015.jpeg)
+<img src="/images/Drama_SYF_2015.jpeg" style="width:60%">
 
-##### 2013
+
+#### 2013
 
 *   The Book Trailer and Book Parade Competitions during the National Literature Festival
-    -  First Prize in the Book Trailer competition
-    
 
-*   **SYF Arts Presentation:** Northbrooks Drama Club received the **Certificate of Accomplishment** in the English Drama - Secondary School Level Category
+*   First Prize in the Book Trailer competition
 
-![](/images/Drama2.jpg)
+*   <u><b>SYF Arts Presentation</b></u>: Northbrooks Drama Club received the Certificate of Accomplishment in the English Drama - Secondary School Level Category
 
-##### 2011
+<img src="/images/Drama2.jpg" style="width:50%">
 
-*   SYF Central Judging (Bronze)
+#### 2011
 
+SYF Central Judging (Bronze)  
+  
 
- 
-##### 2010
+#### 2010
 
-*   Rihlah Short Story contest (1st Prize-Trophy & $700) organise by National Library Board
-*   Pioneered a very successful Dinner-Theatre concept for the school’s tenth-anniversary celebrations
+Rihlah Short Story contest (1st Prize-Trophy & $700) organise by National Library Board  
+Pioneered a very successful Dinner-Theatre concept for the school’s tenth-anniversary celebrations
 
-![](/images/Drama4.png)
+<img src="/images/Drama4.png" style="width:50%">
 
-##### 2007
+#### 2007
 
-*   Participation in the Green Life movement
-    
-*   SYF Central Judging (Bronze) in the English Drama - Secondary School Level Category
+Participation in the Green Life movement  
+SYF Central Judging (Bronze) in the English Drama - Secondary School Level Category
