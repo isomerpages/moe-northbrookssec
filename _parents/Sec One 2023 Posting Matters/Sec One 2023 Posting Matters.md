@@ -40,5 +40,7 @@ For your convenience, you may wish to download our [<b>Secondary One Posting C
 
 [Section 3: Information - What you need to know](/parents/Sec-One-2023-Posting-Matters/section-3-what-you-need-to-know/)
 
+[Section 4: Others](/parents/Sec-One-2023-Posting-Matters/Section-4-Others/)
+
 <b>Please ensure that you go through all 4 sections. Thank You.</b> <br>
 [Feedback on Sec One Registration](https://form.gov.sg/639f259fcf15ee001277e690)
