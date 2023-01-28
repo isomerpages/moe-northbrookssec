@@ -6,8 +6,9 @@ third_nav_title: Visual & Performing Arts
 ---
 Drama Club
 ==========
+<img src="/images/drama.jpeg" style="width:50%">
 
-![](/images/drama.jpeg)
+
 
 ### Teachers-in-Charge
 
