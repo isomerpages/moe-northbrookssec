@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Letters to Parents or Guardian.md
       - Parent Support Group (PSG).md
       - Sec One 2023 Posting Matters/.keep
       - Sec One 2023 Posting Matters/Sec One 2023 Posting Matters.md
@@ -14,3 +13,4 @@ collections:
       - "Sec One 2023 Posting Matters/Section 4: Others.md"
       - National Digital Literacy Programme (NDLP).md
       - Partners in Education.md
+      - Letters to Parents or Guardian.md
