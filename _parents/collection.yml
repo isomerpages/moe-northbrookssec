@@ -2,8 +2,8 @@ collections:
   parents:
     output: true
     order:
-      - National Digital Literacy Programme (NDLP).md
       - Parent Support Group (PSG).md
+      - Sec One 2023 Posting Matters/.keep
       - Sec One 2023 Posting Matters/Sec One 2023 Posting Matters.md
       - "Sec One 2023 Posting Matters/Section 1:  Welcome Message by Mr David
         Lau.md"
@@ -11,4 +11,4 @@ collections:
         need to do.md"
       - "Sec One 2023 Posting Matters/Section 3: What you need to know.md"
       - "Sec One 2023 Posting Matters/Section 4: Others.md"
-      - Sec One 2023 Posting Matters/.keep
+      - National Digital Literacy Programme (NDLP).md
