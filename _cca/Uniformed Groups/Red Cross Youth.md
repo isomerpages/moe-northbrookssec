@@ -7,7 +7,7 @@ third_nav_title: Uniformed Groups
 Red Cross Youth
 ===============
 
-<img style="width:60%" src="/images/CCA%20Display%20Day.jpeg">
+<img src="/images/CCA%20Display%20Day.jpeg" style="width:60%">
 
 ### Teachers-in-Charge
 
@@ -24,7 +24,7 @@ Wednesday, 3.45pm - 6.15pm
 Red Cross Youth (Singapore) seeks to:
 
 
-<img src="/images/YOUTH.png" style="width:290px;height:180px;margin-left:15px;" align="right">
+<img align="right" style="width:290px;height:180px;margin-left:15px;" src="/images/YOUTH.png">
 
 *   Promote and encourage the participation of children and young persons in the work of the Red Cross.
 *   Inculcate healthy living habits.
@@ -33,14 +33,14 @@ Red Cross Youth (Singapore) seeks to:
 
 	
 
-<img style="width:50%" src="/images/youth2.jpg">
+<img src="/images/youth2.jpg" style="width:50%">
 
 
 In Northbrooks Red Cross Youth, we seek to develop our cadets holistically. Through the activities organized for cadets, both at the school unit level as well as the national level, cadets will be exposed to numerous opportunities where they can learn both the hard and the soft skills. The hard skills include how to perform standard first aid, evacuation, foot drill, along with outdoor activity skills such as setting up campfires and tent pitching. We also participate in various competitions, organized at the national level, so that our cadets can gain more exposure and hone their skills at an inter-school level such as the Current Affairs Competition and First Aid Competition.
 
 
 ![](/images/youth.png)
-National First Aid Competition 2014- Champion (North District) 
+<center> <i>National First Aid Competition 2014 - Champion (North District) </i> </center>
 
 Not to forget, our cadets are a valuable asset as they tirelessly performed first aid duties during school events such as the Cross Country, Sports Day, and Speech Day. Amidst these commitments, yearly visits are made to an elderly home so that cadets can do their part for the community and learn valuable life experiences from their senior friends at the Home.
 
@@ -146,7 +146,7 @@ Through these activities, we hope that our cadets will develop a passion for lea
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-6lcs">Excellence Unit Award(EUA)</th>
+    <th class="tg-6lcs" colspan="2">Excellence Unit Award(EUA)</th>
   </tr>
 </thead>
 <tbody>
