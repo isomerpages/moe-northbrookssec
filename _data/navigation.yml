@@ -2,8 +2,6 @@ logo: /images/Logo.svg
 links:
   - title: About Us
     collection: about-us
-  - title: People
-    collection: people
   - title: Curriculum
     collection: curriculum
   - title: Co-Curriculum
@@ -15,8 +13,6 @@ links:
         url: /co-curriculum/CCE/CCE/permalink/
       - title: Student Leadership Programme
         url: /co-curriculum/Student-Leadership-Programme/Student-Leadership-Programme/permalink/
-  - title: Achievements
-    collection: achievements
   - title: Northbrooks Experience
     collection: northbrooks-experience
   - title: Parents
@@ -24,3 +20,5 @@ links:
     sublinks: []
   - title: Others
     collection: others
+  - title: Achievements
+    collection: achievements
