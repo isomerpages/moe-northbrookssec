@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Sec 3 Subject combination information.md
       - Parent Support Group (PSG).md
       - Sec One 2023 Posting Matters/.keep
       - Sec One 2023 Posting Matters/Sec One 2023 Posting Matters.md
@@ -18,3 +17,4 @@ collections:
       - Useful Links for Parents.md
       - Three Things About SkillsFuture.md
       - COVID19 Vaccination.md
+      - Sec 3 Subject combination information.md
