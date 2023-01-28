@@ -88,11 +88,12 @@ Unit Overall Proficiency Award - Silver
 
 </div><div>
 
-Student Name: Nursyahirah Bte Salimi  
-Student Class (Class / Year): 4T 2019  
-Student role in CCA: Sec 2 IC
+	
+<b>Student Name</b>: Nursyahirah Bte Salimi  
+<b>Student Class</b>(<b>Class</b> / <b>Year</b>): 4T 2019  
+<b>Student role in CCA</b>: Sec 2 IC
 
-Student’s Experience:  
+<b>Student’s Experience:</b>  
 It's been a brilliant 4 years being in NPCC and all the activities that i couldn't believe doing made it viable in this CCA. NPCC has provided me opportunities to grow and develop into a better individual.
 
 </div></div>
