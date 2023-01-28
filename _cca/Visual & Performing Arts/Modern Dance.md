@@ -6,7 +6,7 @@ third_nav_title: Visual & Performing Arts
 ---
 Modern Dance
 ============
-<img src="/images/DE%20Banner.jpeg" style="width:80%">
+<img style="width:80%" src="/images/DE%20Banner.jpeg">
 
 ### Teachers-in-Charge
 
@@ -51,19 +51,19 @@ Northbrooks Dance Explosion (DE) was formed in 2010. They are trained in modern,
 
 ![](/images/Dance1.png)
 
-##### 2020
+#### 2020
 
 *   Represent Northbrooks in Chingay Parade Singapore in January 2020
 
 ![](/images/Dance2.png)
 
-##### 2019
+#### 2019
 
 *   SYF Arts Presentation 2019: Northbrooks Modern Dance received the&nbsp;Certificate of Accomplishment&nbsp;in the Dance (International Dance) - Secondary School Level Category
 
 ![](/images/Dance3.png)
 
-##### 2018
+#### 2018
 
 *   World Supremacy Battleground Competition&nbsp;
 *   Represent&nbsp;Northbrooks&nbsp;at&nbsp;HDB and HDB Staff Union Joint Bursary Award Presentation and HDBSU Long Membership Cum Retirement Award Ceremony 2018
@@ -71,11 +71,13 @@ Northbrooks Dance Explosion (DE) was formed in 2010. They are trained in modern,
 
 ![](/images/Dance4.png)
 
-##### 2017
+#### 2017
 
-*   **SYF Arts Presentation:**&nbsp;Northbrooks Modern Dance received the&nbsp;**Certificate of Accomplishment**&nbsp;in the Dance (International Dance) -&nbsp;Secondary School Level Category
+*   <u><b>SYF Arts Presentation:</b></u>&nbsp;Northbrooks Modern Dance received the&nbsp;<b>Certificate of Accomplishment</b>&nbsp;in the Dance (International Dance) -&nbsp;Secondary School Level Category
 
-##### 2016
+  
+
+#### 2016
 
 *   Represent Northbrooks at Gambas Constituency National Day Carnival
 *   Represent Northbrooks at Lot One Shopping Centre&nbsp;Charity
