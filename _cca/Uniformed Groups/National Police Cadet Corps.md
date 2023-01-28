@@ -55,7 +55,7 @@ Vice Chairperson – Qurniawan Ilhansyah Bin Mohamad Redzuan
 #### 2019
 
 Chairperson – K Thayalan  
-Vice Chairperson – Neo Yu Xuan Amaris Lois  
+Vice Chairperson – Neo Yu Xuan Amaris Lois
   
 
 #### 2018
