@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Three Things About SkillsFuture.md
       - Parent Support Group (PSG).md
       - Sec One 2023 Posting Matters/.keep
       - Sec One 2023 Posting Matters/Sec One 2023 Posting Matters.md
@@ -16,3 +15,4 @@ collections:
       - Partners in Education.md
       - Letters to Parents or Guardian.md
       - Useful Links for Parents.md
+      - Three Things About SkillsFuture.md
