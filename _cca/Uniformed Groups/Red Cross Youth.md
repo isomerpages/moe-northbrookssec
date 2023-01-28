@@ -7,15 +7,17 @@ third_nav_title: Uniformed Groups
 Red Cross Youth
 ===============
 
-<img style="width:60%" src="/images/CCA%20Display%20Day.jpeg">
+<img src="/images/CCA%20Display%20Day.jpeg" style="width:60%">
 
 ### Teachers-in-Charge
-1. Mr Paul Tham (Advisor)
-2. Mr Timothy Ting (Teacher-in-charge)
-3. Mdm Xu Xiaoyu Sherry (2 Teacher-in-charge)
-4. Mr Sanjay Radakrishna 
+
+1\. Mr Alex Ang Kok Wee (Advisor) <br>
+2\. Mr Timothy Ting (Teacher-in-charge) <br>
+3\. Mdm Xu Xiaoyu Sherry (2 Teacher-in-charge) <br>
+4\. Mr Sanjay Radakrishna&nbsp;
 
 ### Training Day / Time
+
 Wednesday, 3.45pm - 6.15pm
 
 
@@ -145,7 +147,7 @@ Through these activities, we hope that our cadets will develop a passion for lea
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-6lcs">Excellence Unit Award(EUA)</th>
+    <th class="tg-6lcs" colspan="2">Excellence Unit Award(EUA)</th>
   </tr>
 </thead>
 <tbody>
