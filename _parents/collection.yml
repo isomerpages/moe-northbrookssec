@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - COVID19 Vaccination.md
       - Parent Support Group (PSG).md
       - Sec One 2023 Posting Matters/.keep
       - Sec One 2023 Posting Matters/Sec One 2023 Posting Matters.md
@@ -17,3 +16,4 @@ collections:
       - Letters to Parents or Guardian.md
       - Useful Links for Parents.md
       - Three Things About SkillsFuture.md
+      - COVID19 Vaccination.md
