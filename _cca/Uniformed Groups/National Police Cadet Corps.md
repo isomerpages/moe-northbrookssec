@@ -108,12 +108,13 @@ It's been a brilliant 4 years being in NPCC and all the activities that i c
 
 </div><div>
 	
-Student Name: Lim Yue Feng Austin   
-Student Class (Class / Year): 4F 2018  
-Student role in CCA: Chairperson 
+<b>Student Name</b>: Lim Yue Feng Austin <br>
+<b>Student Class (Class / Year):</b> 4F 2018 <br>
+<b>Student role in CCA:</b> Chairperson 
 
-Student’s Experience
+  
 
+<b>Student’s Experience</b> <br>
 NPCC has guided me in many different ways and it has shaped me into becoming who I am today. The trainings every week were tiring, but it taught me to persevere on and endure through my 4 years. Despite all these tough trainings, I was still able to have fun, by hanging out with the seniors and making friends with other units during area events.
 </div></div>
 
