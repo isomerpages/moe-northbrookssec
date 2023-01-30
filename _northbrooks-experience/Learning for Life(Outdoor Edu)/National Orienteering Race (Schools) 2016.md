@@ -4,6 +4,7 @@ permalink: /northbrooks-experience/Learning-for-Life-Outdoor-Edu/National-Orient
 description: ""
 third_nav_title: Learning for Life(Outdoor Edu)
 ---
+![](/images/cca.jpg)
 
 National Orienteering Race (Schools) 2016
 =========================================
