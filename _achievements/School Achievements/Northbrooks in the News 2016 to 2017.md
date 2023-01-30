@@ -207,3 +207,16 @@ Our PE/Outdoor Education and Humanities team were invited to showcase their resp
 
 
 ##### On 29 November 2016
+
+
+<img src="/images/PA%20Community%20Spirit%20(GRO)%20Merit%20Award.jpg" style="width:70%">
+
+
+Students of the Environmental Art Club painted 5 dustbins which were presented to the public at Canberra CC on 6 November. The school was presented with a token of appreciation from Sembawang Town Council. The dustbin with the basketball design will be permanently placed at the futsal court in Canberra CC, to encourage people to bin their rubbish.
+
+
+<center> <u><b>YFC and NT student Community work</b></u> </center>
+
+
+##### On 03 November 2016
+
