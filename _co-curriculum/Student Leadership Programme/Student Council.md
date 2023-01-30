@@ -4,6 +4,7 @@ permalink: /co-curriculum/Student-Leadership-Programme/Student-Council/
 description: ""
 third_nav_title: Student Leadership Programme
 ---
+![](/images/cca.jpg)
 
 Student Council
 ===============
