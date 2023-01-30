@@ -4,6 +4,7 @@ permalink: /northbrooks-experience/Applied-Learning-Aerospace/Elective-Modules-E
 description: ""
 third_nav_title: Applied Learning (Aerospace)
 ---
+![](/images/cca.jpg)
 
 Elective Modules (EM)
 =====================
