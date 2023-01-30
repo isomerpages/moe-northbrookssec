@@ -235,3 +235,15 @@ This year, 2 students went for the audition. Our Brooksian, Ahmad Irfan, was 1
   </tr>
 </tbody>
 </table>
+
+
+<center> <u><b>People's Association Community Spirit Awards 2014</b></u> </center>
+
+
+#### On 5 August 2014
+
+<img src="/images/PA.jpeg" style="width:180px;height:240px;margin-left:15px;" align = "right">
+
+On Friday, 1 August 2014, Northbrooks received the People’s Association Community Spirit Award for the  3rd consecutive year, in recognition of its partnership of, and contributions towards the community.
+
+**Click [here](https://northbrookssec-moe-edu-sg-admin.cwp-stg.sg/qql/slot/u162/Achievements/2014-2015%20Sch%20Achievements/PA_Award.jpg) to view the larger image**
