@@ -4,9 +4,10 @@ permalink: /co-curriculum/Student-Leadership-Programme/Student-Leaders-Investitu
 description: ""
 third_nav_title: Student Leadership Programme
 ---
+![](/images/cca.jpg)
 
-Student Leaders’ Investiture 2020
-=================================
+Student Leaders' Investiture
+============================
 
 ### Class Leaders 2020
 ------------------
