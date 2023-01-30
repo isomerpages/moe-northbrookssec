@@ -3,6 +3,7 @@ title: NYAA Silver Programme
 permalink: /northbrooks-experience/NYAA-Silver-Programme/
 description: ""
 ---
+![](/images/northbrooks%20experience.jpg)
 
 NYAA Silver Programme
 =====================
@@ -280,5 +281,3 @@ The participant is responsible for keeping their own record towards the completi
 
 **Authorisation of the National Youth Achievement Award**  
 Once the participants have completed and fulfilled the basic requirements of the three components (for Bronze and Silver Level); or four components (for Gold Level), with reports and records duly submitted to the NYAA Council for verification and endorsement, a certificate will be awarded by the National Youth Achievement Award Council.
-
-
