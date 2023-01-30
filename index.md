@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage.gif
+      background: /images/NorthbrooksHome.gif
       key_highlights:
         - title: "School announcements "
           description: ""
