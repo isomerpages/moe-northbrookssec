@@ -4,7 +4,7 @@ permalink: /curriculum/IT/CPA-and-EBS-Department/
 description: ""
 third_nav_title: IT,CPA & EBS Department
 ---
-
+![](/images/curriculum.jpg)
 
 IT/CPA & EBS Department
 =======================
