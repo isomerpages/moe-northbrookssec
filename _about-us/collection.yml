@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Admissions/DSA @ Northbrooks.md
       - Admissions/.keep
       - About us.md
       - School Information/.keep
