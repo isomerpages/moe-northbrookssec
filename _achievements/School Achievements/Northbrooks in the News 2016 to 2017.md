@@ -47,3 +47,44 @@ Congratulations! Northbrooks Secondary School has achieved the <b>Lotus Sustain
 
 #### On 30 July 2017
 
+![](/images/News1.png)
+
+
+It was their first time they had ever written a Science report and designed a Science poster, but two teams of 1G students gamely rolled up their sleeves and spent months planning and then presenting their work at the 16th Elementz Science Project Competition and Exhibition held in Anderson Secondary School on 24th and 26th July.    
+
+  
+
+With a total of 46 lower secondary teams from schools in the North Zone participating in the competition, our two teams managed to achieve a Bronze and a Certificate of Commendation.    
+
+  
+
+The objectives of this competition were to:  
+
+(a) generate interest in scientific study through investigative-type projects in science, and;  
+
+(b) provide a platform for schools in the North Zone to exhibit and share their findings    
+
+  
+
+In addition to planning and conducting scientific experiments, each group was required to write a 1000-word report to describe their project and findings, and to design posters to highlight the gist of their experimental purposes, approaches and conclusions. The competition ended with students’ oral presentations to the judges as well as Q&A sessions on 24th July. On 26th July, their project booths were open to all North Zone schools for viewing and voting for the Viewer's Choice Award.    
+
+  
+
+The students have displayed high levels of enthusiasm and scientific inquiry throughout the project. In fact, all of them have even expressed great interest to join the competition again next year.   Our Brooksian Champions who took part in this festival were:   
+
+  
+
+Our Brooksian Champions who took part in this festival were:    
+
+  
+
+<u>Group 1</u> <br>Title of project: Anti-Antagonistic Ants! <br> Synopsis of project: To investigate which natural ingredient will best keep ants away.  project: To investigate which natural ingredient will best keep ants away. <br>Group members: <br>
+1\. Pothu Tejas (1G) <br>
+2\. Aryan Deshpande (1G) <br> 3\. Shin Thant Te Aung (1G) <br>4\. Jeremy Tan Kong Keat (1G)  <br>
+Teacher Mentor: Mr Quah Wai Kuan  <br>
+Result: Bronze 
+
+  
+
+<u>Group 2</u> <br>
+Title of project: Hydrodynamics - Resist Water! <br>Synopsis of project:  This project aims to find out which shapes has the least resistance moving in water. Keeping force and volume of water constant, students will measure the time needed for different shapes to move across. <br> Group Members: <br>1\. Anselm Nair (1G) <br> 2\. Teki Abhay Das (1G) <br> 3\. Loh Chuan Kit (1G) <br>Teacher Mentor: Ms Wendy Lee <br>Result: Certificate of Commendation
