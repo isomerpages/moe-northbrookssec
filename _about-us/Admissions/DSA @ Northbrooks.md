@@ -109,3 +109,57 @@ Our Learning for Life Programme (LLP) in Outdoor Education is known as A.C.E. an
   </tr>
 </tbody>
 </table>
+
+<i>*Meeting all the criteria does not guarantee that the student will be shortlisted/ given an offer.</i>
+
+### Application Process
+
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11 am to 1 June 2022, 3 pm. For more details, please refer to MOE DSA-Sec website – www.moe.gov.sg/dsa-sec.   
+  
+Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
+
+### Outcome
+
+Applicants will be notified of the outcome of the application via a letter by Monday, 12 September 2022. The letter will indicate whether the applicant has been given a Confirmed Offer, put on the Waiting List or Unsuccessful.
+
+### Key Dates
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ayh6{background-color:#E6C20C;color:#141D1C;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ayh6">Dates</th>
+    <th class="tg-ayh6">Process</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig">5 May 2022 – 1 June 2022</td>
+    <td class="tg-7yig">DSA Application period</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">27 June 2022 – 12 September 2022 </td>
+    <td class="tg-7yig">Selection and Interview period</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">By 12 September 2022</td>
+    <td class="tg-7yig">Release of Outcome of DSA Application</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">31 October 2022 – 4 November 2022</td>
+    <td class="tg-7yig">School Preference Submission by Applicants who have received at least one DSA-Sec offer</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Late November 2022</td>
+    <td class="tg-7yig">DSA-Sec Allocation Results Release</td>
+  </tr>
+</tbody>
+</table>
