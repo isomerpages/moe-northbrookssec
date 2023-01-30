@@ -4,6 +4,7 @@ permalink: /curriculum/ITCPA-and-EBS-Department/Computer-Applications/
 description: ""
 third_nav_title: IT,CPA & EBS Department
 ---
+![](/images/curriculum.jpg)
 
 Computer Applications
 =====================
