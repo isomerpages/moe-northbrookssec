@@ -4,6 +4,7 @@ permalink: /curriculum/Craft-and-Technology-Department/Design-and-technology-uni
 description: ""
 third_nav_title: Craft & Technology Department
 ---
+![](/images/curriculum.jpg)
 
 Design & Technology Unit
 ========================
