@@ -4,6 +4,7 @@ permalink: /northbrooks-experience/Learning-for-Life-Outdoor-Edu/Learning-for-Li
 description: ""
 third_nav_title: Learning for Life(Outdoor Edu)
 ---
+![](/images/cca.jpg)
 
 Learning for Life (Outdoor Education)
 =====================================
