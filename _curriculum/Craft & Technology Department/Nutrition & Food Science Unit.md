@@ -4,6 +4,7 @@ permalink: /curriculum/Craft-and-Technology-Department/Nutrition-and-Food-Scienc
 description: ""
 third_nav_title: Craft & Technology Department
 ---
+![](/images/curriculum.jpg)
 
 Nutrition & Food Science Unit
 =============================
