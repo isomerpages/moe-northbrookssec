@@ -4,6 +4,7 @@ permalink: /curriculum/Physical-Education-Department/Physical-Education-Departme
 description: ""
 third_nav_title: Physical Education Department
 ---
+![](/images/curriculum.jpg)
 
 Physical Education Department
 =============================
