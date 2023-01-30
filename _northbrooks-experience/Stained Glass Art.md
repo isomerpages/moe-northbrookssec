@@ -3,6 +3,7 @@ title: Stained Glass Art
 permalink: /northbrooks-experience/Stained-Glass-Art/
 description: ""
 ---
+![](/images/northbrooks%20experience.jpg)
 
 Stained Glass Art
 =================
@@ -32,4 +33,3 @@ The Visual Arts Unit takes part actively in Singapore Youth Festival (SYF) Art E
 
 ##### Title: “Remembering where we started” Medium: Fused Glass
 ![](/images/Stain%20Glass%203.jpeg)
-
