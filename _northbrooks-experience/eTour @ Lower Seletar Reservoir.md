@@ -3,6 +3,7 @@ title: eTour @ Lower Seletar Reservoir
 permalink: /northbrooks-experience/e-Tour-at-Lower-Seletar-Reservoir/
 description: ""
 ---
+![](/images/cca.jpg)
 
 e-Tour @ Lower Seletar Reservoir
 ================================
