@@ -121,3 +121,5 @@ At the finals of the Chinese singing competition, Xing Kong Xia that took place 
 
 
 ##### On 8 July 2017
+
+<img src="/images/FamChamps.jpg" style="width:70%">
