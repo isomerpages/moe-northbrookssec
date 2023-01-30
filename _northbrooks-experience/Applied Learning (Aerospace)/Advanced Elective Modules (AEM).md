@@ -4,6 +4,7 @@ permalink: /northbrooks-experience/Applied-Learning-Aerospace/Advanced-Elective-
 description: ""
 third_nav_title: Applied Learning (Aerospace)
 ---
+![](/images/cca.jpg)
 
 Advanced Elective Modules (AEM)
 ===============================
