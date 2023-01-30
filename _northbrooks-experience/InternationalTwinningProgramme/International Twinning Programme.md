@@ -4,10 +4,10 @@ permalink: /northbrooks-experience/International-Twinning-Programme/Internationa
 description: ""
 third_nav_title: InternationalTwinningProgramme
 ---
+![](/images/northbrooks%20experience.jpg)
 
-
-China Twinning Programme
-========================
+International Twinning Programme
+================================
 
 ### Objectives  of Twinning
 
