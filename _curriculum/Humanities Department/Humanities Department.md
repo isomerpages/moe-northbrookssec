@@ -4,6 +4,8 @@ permalink: /curriculum/Humanities-Department/Humanities-Department/permalink/
 description: ""
 third_nav_title: Humanities Department
 ---
+![](/images/curriculum.jpg)
+
 Humanities Department
 =====================
 
