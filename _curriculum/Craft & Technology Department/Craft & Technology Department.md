@@ -4,6 +4,8 @@ permalink: /curriculum/craft-and-technology-department/
 description: ""
 third_nav_title: Craft & Technology Department
 ---
+![](/images/curriculum.jpg)
+
 Craft & Technology Department
 =============================
 
