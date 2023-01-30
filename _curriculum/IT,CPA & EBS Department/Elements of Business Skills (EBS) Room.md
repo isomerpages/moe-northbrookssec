@@ -4,6 +4,7 @@ permalink: /curriculum/ITCPA-and-EBS-Department/Elements-of-Business-Skills-EBS-
 description: ""
 third_nav_title: IT,CPA & EBS Department
 ---
+![](/images/curriculum.jpg)
 
 Elements of Business Skills (EBS) Room
 ----------------
