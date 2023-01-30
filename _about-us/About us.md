@@ -3,6 +3,7 @@ title: About us
 permalink: /about-us/
 description: ""
 ---
+![](/images/about_us.jpg)
 
 About Us
 ========
