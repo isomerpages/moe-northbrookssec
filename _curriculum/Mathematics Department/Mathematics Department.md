@@ -4,6 +4,8 @@ permalink: /curriculum/Mathematics-Department/
 description: ""
 third_nav_title: Mathematics Department
 ---
+![](/images/curriculum.jpg)
+
 Mathematics Department
 ======================
 ### Key Plan
