@@ -4,7 +4,7 @@ permalink: /curriculum/Mother-Tongue-Department/
 description: ""
 third_nav_title: Mother Tongue Department
 ---
-
+![](/images/curriculum.jpg)
 
 Mother Tongue Department
 ========================
