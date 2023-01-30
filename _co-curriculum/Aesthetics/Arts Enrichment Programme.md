@@ -21,3 +21,6 @@ It will be held on the <b>27th October 2022, 6.30pm in our school hall</b>. The
 
 
 #### <center> Book your tickets now! Scan the QR code below or click [here](https://docs.google.com/forms/d/e/1FAIpQLScBueBmFmjYDay9KC0FcOUK_ZZT3ZO7m2buieFyQccj4cgzjw/viewform)! </center>
+
+
+![](/images/CENTRESTAGE%20POSTER%202022.jpeg)
