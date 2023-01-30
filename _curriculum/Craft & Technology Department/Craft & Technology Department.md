@@ -4,8 +4,6 @@ permalink: /curriculum/craft-and-technology-department/
 description: ""
 third_nav_title: Craft & Technology Department
 ---
-
-
 Craft & Technology Department
 =============================
 
@@ -16,7 +14,7 @@ The Craft and Technology (C&T) department comprise of the Visual Art, Design & 
 *   Brooksians studying Nutrition & Food Science (FCE/NFS/FS), will be equipped with skills and knowledge for health management and making good decisions in order to be a responsible and smart consumers.
 *   Brooksians studying Music will be nurtured to display musicality and music appreciation, through an expression of the creative mind.
 
-**Subjects offered:**
+<u>Subjects offered:</u>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
