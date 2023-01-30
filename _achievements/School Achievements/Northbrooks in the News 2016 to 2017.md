@@ -117,10 +117,3 @@ At the finals of the Chinese singing competition, Xing Kong Xia that took place 
 <img src="/images/ChineseSingingComp_2017_1.jpg" style="width:70%;float:left">
 
 
-
-
-
-
-
-
-
