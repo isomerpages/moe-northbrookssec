@@ -64,7 +64,7 @@ Brookians had the opportunity to mingle with students from our twinning school f
 
 #### Twinning Programme 2008
 
-**NanyaMiddle School to NorthbrooksSecondary School (2 – 10 August 2008)** 
+<center> <b>NanyaMiddle School to NorthbrooksSecondary School (2 – 10 August 2008)</b> </center>
 
 With the signing of a memorandum of understanding in 2007, Northbrooks Secondary School and Nanya Middle School (Changsha, China) are involved in a 3 years Twinning Programme. The main objectives of the programme included the exchange of teaching and learning resources and teaching strategies, and to provide our students and teachers with a rich educational experience as we exposed our pupils to different cultures and environments and nurtured their social and cultural skills. 
 
@@ -78,7 +78,7 @@ NanyaHigh School’s staff and pupils also had the opportunity to immerse in the
 
 This twinning programme has given both Brooksians and NanyaHigh School’s students and teachers experiences that will be forever etched in our memory.
 
-**Northbrooks Secondary School to NanyaMiddle School (9 – 15 November 2008)** 
+<center> <b>Northbrooks Secondary School to NanyaMiddle School (9 – 15 November 2008)</b> </center>
 
 On November 2008, twenty students, two heads of department and the vice principal from NorthbrooksSecondary School visited NanyaMiddle School in Changsha, Hunan, China. The short flight from Changi International airport proved to be a learning experience for some of our students, as this was the first time that they had been on an aeroplane. 
 
