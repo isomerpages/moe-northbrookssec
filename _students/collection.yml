@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Current Students/School Timetable.md
       - Current Students/National Digital Literacy Programme (NDLP).md
       - Current Students/Tests & Examinations.md
       - "Current Students/Care & Learning Behavioural Support Team: Working Time
