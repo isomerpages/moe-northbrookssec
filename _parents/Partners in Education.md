@@ -3,7 +3,7 @@ title: Partners in Education
 permalink: /parents/Partners-in-Education/
 description: ""
 ---
-
+![](/images/Parentsbanner.jpg)
 
 Partners in Education
 =====================
