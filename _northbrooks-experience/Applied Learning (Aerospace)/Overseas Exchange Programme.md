@@ -4,7 +4,7 @@ permalink: /northbrooks-experience/Applied-Learning-Aerospace/Overseas-Exchange-
 description: ""
 third_nav_title: Applied Learning (Aerospace)
 ---
-![](/images/cca.jpg)
+![](/images/northbrooks%20experience.jpg)
 
 Overseas Exchange Programme
 ===========================
