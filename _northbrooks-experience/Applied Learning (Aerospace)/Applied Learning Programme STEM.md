@@ -4,7 +4,7 @@ permalink: /northbrooks-experience/Applied-Learning-Aerospace/Applied-Learning-P
 description: ""
 third_nav_title: Applied Learning (Aerospace)
 ---
-![](/images/cca.jpg)
+![](/images/northbrooks%20experience.jpg)
 
 Applied Learning Programme STEM
 ===============================
