@@ -134,3 +134,17 @@ Congratulations to 2 of our students who received the Outstanding FamChamps Awar
 <img src="/images/SYF%201.jpg" style="width:70%">
 
 <img src="/images/SYF%202.jpg" style="width:70%">
+
+
+In the recent Singapore Youth Festival 2017, our students managed to receive one of the top 3 Judge's Choice Award for the Youth Got Talent competition.
+
+
+<center> <u><b>MOE ExCel Fest 2017</b></u> </center>
+
+
+##### On 31 March 2017 
+
+  
+
+Our PE/Outdoor Education and Humanities team were invited to showcase their respective projects (adventure Character Environment Programme and Germanopology) in the recently MOE ExCel Fest 2017. Our outdoor education students and staff were given the opportunity to share and communicate their ideas and experiences with other students and fellow educators in the  fraternity  .
+
