@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Admissions/DSA @ Northbrooks.md
-      - Admissions/.keep
       - About us.md
       - School Information/.keep
       - School Information/Principal's Message.md
@@ -21,6 +19,8 @@ collections:
       - School Facilities/Champion's Lodge.md
       - School Facilities/Arts Space.md
       - School Facilities/Indoor Sports Hall.md
+      - Admissions/.keep
+      - Admissions/DSA @ Northbrooks.md
+      - Tour @ Northbrooks.md
       - Brooksian Code of Conduct.md
       - Brooksian Anthem.md
-      - Tour @ Northbrooks.md
