@@ -11,5 +11,5 @@ Humanities Department
 
 Activities to enhance students’ learning includes  
 
-* [Experiential Learning](/curriculum/Humanities-Department/Experiential-Learning/permalink/)
+* [Experiential Learning](/curriculum/Humanities-Department/Experiential-Learning/)
 * [External Competitions](/curriculum/Humanities-Department/External-Competitions/permalink/)
