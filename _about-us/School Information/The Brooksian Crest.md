@@ -4,7 +4,7 @@ permalink: /about-us/School-Information/the-brooksian-crest/
 description: ""
 third_nav_title: School Information
 ---
-
+![](/images/about_us.jpg)
 
 
 The Brooksian Crest
