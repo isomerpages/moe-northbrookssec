@@ -182,3 +182,56 @@ The Good Neighbour Award Ceremony 2015 was held on 23 May 2015, Saturday. Eleaza
 
 
 #### On 19 September 2014
+
+
+As part of N3 Cluster, Northbrooks Secondary School was pleased to contribute several artworks created by our students for an Art community outreach project in collaboration with Asiamalls Management Pte Ltd. The students were invited to paint on A2-sized canvases, to illustrate what the national spirit means to them. Artworks by Brooksians are among the 184 beautiful art pieces on display in the impressive three-dimensional art installation, hung from the skylight in the atrium of Hougang Mall. The massive art installation was aimed at creating for shoppers a unique experience in which they would be able to enjoy and appreciate artwork by students. The exhibits will be on display in the mall until mid-November 2014.
+
+
+**Click [here](https://northbrookssec-moe-edu-sg-admin.cwp-stg.sg/qql/slot/u162/Achievements/2014-2015%20Sch%20Achievements/NE_Forte_17_Sep.jpg) to view the larger image**
+
+
+<center> <u><b>YOUth Got Talent Singing Competition</b></u> </center>
+
+#### On 25 August 2014
+
+<img src="/images/YouthTalentIrfan.jpg" style="width:60%">
+
+
+Since 2009, T-Net Club (Teens Network Club) has been organizing YOUth Got Talent Singing Competition annually to allow youths in Singapore to showcase their talents and develop self-confidence through the competition. 
+
+This year, 2 students went for the audition. Our Brooksian, Ahmad Irfan, was 1 of the 10 finalists out of 100 over participants of the competition. On Saturday, 16 August 2014, he took part in the finals at Plaza Singapura. His charisma, popular song choice and a large amount of audience who clapped along won him the "Most Supporter Team" award.
+
+
+![](/images/Youth.png)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cmgu{background-color:#FFF;font-size:100%;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cmgu"><span style="color:#000">S/N</span></th>
+    <th class="tg-9hzb"><span style="color:#000">Name</span></th>
+    <th class="tg-9hzb"><span style="color:#000">Class</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">1</span></td>
+    <td class="tg-ktyi"><span style="color:#000">AHMAD IRFAN B AHMAD ZAIDI</span></td>
+    <td class="tg-ktyi"><span style="color:#000">3G</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">2</span></td>
+    <td class="tg-ktyi"><span style="color:#000">TANTI NUR MUTIARA BTE ZAINAL</span></td>
+    <td class="tg-ktyi"><span style="color:#000">1T</span></td>
+  </tr>
+</tbody>
+</table>
