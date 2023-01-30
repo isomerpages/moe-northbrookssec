@@ -36,3 +36,10 @@ The aims of the English Literature Curriculum at Northbrooks are:
 
 *   The Unseen – Prose and Poetry
 *   Projects and debates/forum on the set text ‘Hook & Eye’ edited by Dr Dennis Yeo and Rachel Teo Zhen Li
+
+
+4\. All  Levels: 
+
+*   Participation in internal and external competitions
+*   Viewing plays on the set-texts
+*   Brooksian Theatre Day
