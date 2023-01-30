@@ -220,3 +220,8 @@ Students of the Environmental Art Club painted 5 dustbins which were presented t
 
 ##### On 03 November 2016
 
+
+In the belief that every single person can and will leave an indelible mark of difference in the lives of others, Northbrooks’ YFC and NT students partnered Touch Community Services on Saturday, 22 October 2016, to raise funds for children and families from disadvantaged backgrounds. The project was themed “iCAN – mark a difference”. This is only one of several platforms which Northbrooks uses to groom champion Brooksians, Brooksians who will become caring and concerned citizens. Though the students experienced rejection from some residents when they approached them to make a donation, the students remained gracious and persevered, keeping their mission and purpose in mind. They managed to raise a total of $1247
+
+
+<center> <u><b>PA Community Spirit (GRO) Merit Award</b></u> </center>
