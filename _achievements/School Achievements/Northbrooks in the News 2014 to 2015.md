@@ -97,3 +97,52 @@ The staff team came in 4th out of 7 teams.
 #### On 28 May 2015
 
 ![](/images/Green4.png)
+
+Ministry of Education's Physical Education and Sports Education Branch organized an Inter-cluster Ultimate Frisbee Competition (Youth Celebrate! Jubilee Cup) for schools on 25th May 2015.  Our cluster, N6 emerged as overall SECOND position in the North Zone! The champion team would represent the zone in the national competition against the 3 other zones.
+
+![](/images/Green5.png)
+
+
+Four of our student councillors have been training hard under the tutelage of Ms Irene Heng, HOD PE from Yio Chu Kang Secondary School and they were part of the team that came in Second!
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tzkj{font-size:100%;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-tzkj">Name</th>
+    <th class="tg-amwm">Class</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">ANDI PUTRA B NORMAN</td>
+    <td class="tg-0lax">3G</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">MAS ATHIRAH BTE MAZALI</td>
+    <td class="tg-0lax">3G</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">IMRAN IMTIAZ BARAKATHULLA</td>
+    <td class="tg-0lax">3T1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">LEUNG WEI YENG</td>
+    <td class="tg-0lax">3T1</td>
+  </tr>
+</tbody>
+</table>
+
+<center> <u><b>Good Neighbour Award 2015</b></u> </center>
+
+#### On 27 May 2015
