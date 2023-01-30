@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Alumni.md
       - Students.md
       - Current Students/.keep
       - Current Students/Full Home Based Learning.md
@@ -12,3 +11,4 @@ collections:
       - Current Students/Tests & Examinations.md
       - "Current Students/Care & Learning Behavioural Support Team: Working Time
         and Venue.md"
+      - Alumni.md
