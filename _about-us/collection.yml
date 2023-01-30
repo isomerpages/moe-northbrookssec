@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Our People and Partners/Patron & School Advisory Committee.md
+      - Our People and Partners/School Advisory Committee.md
       - Our People and Partners/Key External Partners.md
       - Our People and Partners/Staff List 2023.md
       - Our People and Partners/.keep
