@@ -4,6 +4,7 @@ permalink: /curriculum/Mother-Tongue-Department/Malay-Language-Unit/
 description: ""
 third_nav_title: Mother Tongue Department
 ---
+![](/images/curriculum.jpg)
 
 Malay Language Unit
 ===================
@@ -30,4 +31,3 @@ Sempena Program Dwi Minggu Bahasa Ibunda, Unit Bahasa Melayu telah mengadakan pe
 Para pelajar didedahkan kepada kepengacaraan dan kewartawanan, serta keperluan untuk menyesuaikan diri dengan disiplin apabila bekerja di bawah tekanan dan mematuhi tarikh akhir yang ketat. Program ini berakhir dengan lawatan ke studio Screenbox Pte Ltd. Para pelajar diberi peluang untuk mengedit video mentah dan menghasilkan sebuah video yang berlangsung selama 1 minit.
 
 Video ini disiarkan di seluruh sekolah. Para pelajar amat teruja dengan aktiviti ini kerana ini adalah pertama kali pelajar didedahkan kepada penghasilan video secara autentik.
-
