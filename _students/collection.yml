@@ -2,6 +2,8 @@ collections:
   students:
     output: true
     order:
+      - Students.md
+      - Current Students/.keep
       - Current Students/Full Home Based Learning.md
       - Current Students/Students Learning Space.md
       - Current Students/School Timetable.md
@@ -9,5 +11,3 @@ collections:
       - Current Students/Tests & Examinations.md
       - "Current Students/Care & Learning Behavioural Support Team: Working Time
         and Venue.md"
-      - Current Students/.keep
-      - Students.md
