@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Achievements/.keep
-      - School Achievements/Northbrooks in the News 2016 to 2017.md
       - School Achievements/Northbrooks in the News 2014 to 2015.md
       - Academic Achievements/.keep
       - Academic Achievements/Academic Achievements.md
