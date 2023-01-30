@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - School Information/Brooksian Cheer.md
-      - School Information/The Brooksian Crest.md
-      - School Information/Vision, Mission & Values.md
-      - School Information/Strategic Thrusts & Outcomes.md
-      - School Information/Principal's Message.md
       - School Information/.keep
+      - School Information/Principal's Message.md
+      - School Information/Strategic Thrusts & Outcomes.md
+      - School Information/Vision, Mission & Values.md
+      - School Information/The Brooksian Crest.md
+      - School Information/Brooksian Cheer.md
       - About us.md
       - Brooksian Code of Conduct.md
       - Brooksian Anthem.md
