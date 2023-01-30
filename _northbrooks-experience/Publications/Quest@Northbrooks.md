@@ -4,6 +4,7 @@ permalink: /northbrooks-experience/Publications/Quest-at-Northbrooks/
 description: ""
 third_nav_title: Publications
 ---
+![](/images/northbrooks%20experience.jpg)
 
 Quest@Northbrooks
 =================
