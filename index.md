@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Background.gif
+      background: /images/Home.gif
       key_highlights:
         - title: "School announcements "
           description: ""
@@ -25,5 +25,3 @@ sections:
       image: /images/Students.png
       alt: Image alt text
 ---
-
-
