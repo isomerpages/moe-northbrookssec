@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Alumni.md
       - Students.md
       - Current Students/.keep
       - Current Students/Full Home Based Learning.md
