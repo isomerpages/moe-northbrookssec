@@ -4,6 +4,7 @@ permalink: /northbrooks-experience/Applied-Learning-Aerospace/
 description: ""
 third_nav_title: Applied Learning (Aerospace)
 ---
+![](/images/northbrooks%20experience.jpg)
 
 Applied Learning (Aerospace)
 ============================
