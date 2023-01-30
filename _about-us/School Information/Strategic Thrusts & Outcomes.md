@@ -4,7 +4,7 @@ permalink: /about-us/School-Information/strategic-thrusts-and-outcomes/
 description: ""
 third_nav_title: School Information
 ---
-
+![](/images/about_us.jpg)
 
 
 Strategic Thrusts & Outcomes
