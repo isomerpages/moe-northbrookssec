@@ -95,3 +95,5 @@ The staff team came in 4th out of 7 teams.
 
 
 #### On 28 May 2015
+
+![](/images/Green4.png)
