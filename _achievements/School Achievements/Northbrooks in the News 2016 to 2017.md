@@ -225,3 +225,11 @@ In the belief that every single person can and will leave an indelible mark of d
 
 
 <center> <u><b>PA Community Spirit (GRO) Merit Award</b></u> </center>
+
+##### On 15 August 2016
+
+
+<img src="/images/PA%20Community%20Spirit%20(GRO)%20Merit%20Award.jpg" style="width:70%">
+
+
+Northbrooks Secondary School (NBSS) has been an esteemed and valuable partner for Nee Soon East Grassroots Organisations. Northbrooks Secondary School was conferred with the PACS Awards 2016 - Community Partnership (GRO) Merit Award by People’s Association.
