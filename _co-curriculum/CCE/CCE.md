@@ -4,6 +4,7 @@ permalink: /co-curriculum/CCE/CCE/
 description: ""
 third_nav_title: CCE
 ---
+![](/images/cca.jpg)
 
 CCE
 ===
