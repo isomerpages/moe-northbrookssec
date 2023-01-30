@@ -4,6 +4,7 @@ permalink: /curriculum/Craft-and-Technology-Department/Music-Unit/
 description: ""
 third_nav_title: Craft & Technology Department
 ---
+![](/images/curriculum.jpg)
 
 Music Unit
 ==========
@@ -102,4 +103,4 @@ Students practising in their respective iBand to put up class performance.
 
 ![](/images/Music4.jpeg)
 
-Students from Sec. 2 NT performing an item for Brooksian Talent Showcase. 
+Students from Sec. 2 NT performing an item for Brooksian Talent Showcase.
