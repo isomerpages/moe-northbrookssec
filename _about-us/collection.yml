@@ -2,10 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our People and Partners/School Advisory Committee.md
-      - Our People and Partners/Key External Partners.md
-      - Our People and Partners/Staff List 2023.md
-      - Our People and Partners/.keep
       - About us.md
       - School Information/.keep
       - School Information/Principal's Message.md
@@ -13,6 +9,10 @@ collections:
       - School Information/Vision, Mission & Values.md
       - School Information/The Brooksian Crest.md
       - School Information/Brooksian Cheer.md
+      - Our People and Partners/.keep
+      - Our People and Partners/School Advisory Committee.md
+      - Our People and Partners/Key External Partners.md
+      - Our People and Partners/Staff List 2023.md
       - Brooksian Code of Conduct.md
       - Brooksian Anthem.md
       - School Facilities/.keep
