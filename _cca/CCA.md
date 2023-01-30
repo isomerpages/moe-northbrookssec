@@ -66,11 +66,14 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
 
 
 
-| [Outdoor Adventure Club](/CCA/Sports-and-Games/Outdoor-Adventure-Club/)| 
-| -------- | 
-|
 
-<img src="/images/Odac.jpg" style="width:100%;float:left">
+
+| [Outdoor Adventure Club](/CCA/Sports-and-Games/Outdoor-Adventure-Club/)|
+| -------- | 
+||||
+
+
+<img src="/images/Odac.jpg" style="width:25%;float:left">
 
 
 	
@@ -129,7 +132,7 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
 </table>
 
 
---------
+
 
 
 <style type="text/css">
