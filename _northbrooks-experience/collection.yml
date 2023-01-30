@@ -2,7 +2,6 @@ collections:
   northbrooks-experience:
     output: true
     order:
-      - DSA @ Northbrooks.md
       - Annual Speech & Prize Giving Day.md
       - Applied Learning (Aerospace)/.keep
       - Applied Learning (Aerospace)/Applied Learning (Aerospace).md
