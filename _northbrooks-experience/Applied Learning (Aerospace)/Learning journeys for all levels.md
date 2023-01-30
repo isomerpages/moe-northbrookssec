@@ -4,6 +4,7 @@ permalink: /northbrooks-experience/Applied-Learning-Aerospace/Learning-journeys-
 description: ""
 third_nav_title: Applied Learning (Aerospace)
 ---
+![](/images/cca.jpg)
 
 Learning journeys for all levels
 ================================
