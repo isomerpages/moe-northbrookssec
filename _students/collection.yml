@@ -2,5 +2,7 @@ collections:
   students:
     output: true
     order:
+      - "Current Students/Care & Learning Behavioural Support Team: Working Time
+        and Venue.md"
       - Current Students/.keep
       - Students.md
