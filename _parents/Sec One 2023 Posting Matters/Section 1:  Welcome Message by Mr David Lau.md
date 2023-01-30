@@ -4,6 +4,8 @@ permalink: /parents/Sec-One-2023-Posting-Matters/Section-1-Welcome-Message-by-Mr
 description: ""
 third_nav_title: Sec One 2023 Posting Matters
 ---
+![](/images/Parentsbanner.jpg)
+
 Section 1:  Welcome Message by Mr David Lau
 ===========================================
 
