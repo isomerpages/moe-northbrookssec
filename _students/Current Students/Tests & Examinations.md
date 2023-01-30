@@ -4,7 +4,7 @@ permalink: /students/Current-Students/Tests-and-Examinations/
 description: ""
 third_nav_title: Current Students
 ---
-
+![](/images/Parentsbanner.jpg)
 
 Tests & Examinations
 ====================
