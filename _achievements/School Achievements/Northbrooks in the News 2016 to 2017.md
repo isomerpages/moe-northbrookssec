@@ -236,3 +236,5 @@ Northbrooks Secondary School (NBSS) has been an esteemed and valuable partner fo
 
 
 <center> <u><b>National Junior College Shooting Club 11th Invitational Shoot</b></u> </center>
+
+##### On 15 June 2016
