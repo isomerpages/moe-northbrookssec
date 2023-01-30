@@ -4,7 +4,7 @@ permalink: /northbrooks-experience/International-Twinning-Programme/Background-o
 description: ""
 third_nav_title: InternationalTwinningProgramme
 ---
-
+![](/images/northbrooks%20experience.jpg)
 
 Background of Twinning Programme with Nanya Middle School, Hunan, China
 =======================================================================
