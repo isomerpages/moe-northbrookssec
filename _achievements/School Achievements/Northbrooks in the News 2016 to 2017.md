@@ -118,3 +118,6 @@ At the finals of the Chinese singing competition, Xing Kong Xia that took place 
 
 
 <center> <u><b>FamChamps Award</b></u> </center>
+
+
+##### On 8 July 2017
