@@ -4,6 +4,7 @@ permalink: /curriculum/Craft-and-Technology-Department/Visual-Arts-Unit/
 description: ""
 third_nav_title: Craft & Technology Department
 ---
+![](/images/curriculum.jpg)
 
 Visual Arts Unit
 ================
