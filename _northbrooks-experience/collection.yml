@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Aesthetics/.keep
-      - Aesthetics/Aesthetics.md
       - Aesthetics/Centrestage 2022.md
       - DSA @ Northbrooks.md
       - Annual Speech & Prize Giving Day.md
