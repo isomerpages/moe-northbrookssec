@@ -3,6 +3,8 @@ title: Principal's Message
 permalink: /about-us/principal/
 description: ""
 ---
+![](/images/about_us.jpg)
+
 Principal's Message
 ===================
 
