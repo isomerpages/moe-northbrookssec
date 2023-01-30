@@ -4,7 +4,7 @@ permalink: /northbrooks-experience/Applied-Learning-Aerospace/ECG-on-Aerospace/
 description: ""
 third_nav_title: Applied Learning (Aerospace)
 ---
-![](/images/cca.jpg)
+![](/images/northbrooks%20experience.jpg)
 
 Education career guidance programme on Aerospace
 ================================================
