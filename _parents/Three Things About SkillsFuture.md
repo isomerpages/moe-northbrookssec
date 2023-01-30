@@ -3,7 +3,7 @@ title: Three Things About SkillsFuture
 permalink: /parents/Three-Things-About-SkillsFuture/
 description: ""
 ---
-
+![](/images/Parentsbanner.jpg)
 
 Three Things About SkillsFuture
 ===============================
