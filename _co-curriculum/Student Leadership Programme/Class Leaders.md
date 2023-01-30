@@ -4,6 +4,7 @@ permalink: /co-curriculum/Student-Leadership-Programme/Class-Leaders/
 description: ""
 third_nav_title: Student Leadership Programme
 ---
+![](/images/cca.jpg)
 
 Class Leaders
 =============
