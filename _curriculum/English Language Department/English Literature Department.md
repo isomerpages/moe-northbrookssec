@@ -4,7 +4,6 @@ permalink: /curriculum/English-Language-Department/English-Literature-Department
 description: ""
 third_nav_title: English Language Department
 ---
-
 English Literature Department
 =============================
 
@@ -21,7 +20,7 @@ The aims of the English Literature Curriculum at Northbrooks are:
 *   explore how the elements of different genres function in literary works to achieve specific effects; and
 *   appreciate the importance of the contexts in which literary texts are written and understood.
 
-#### **English Literature Key Curricular Programmes**
+#### **English Literature Key Programmes**
 
 1\. Secondary One:  Prose and Poetry
 
