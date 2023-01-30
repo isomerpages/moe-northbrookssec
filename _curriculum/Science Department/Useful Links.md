@@ -4,6 +4,7 @@ permalink: /curriculum/Science-Department/Useful-Links/
 description: ""
 third_nav_title: Science Department
 ---
+![](/images/curriculum.jpg)
 
 Useful Links
 ============
