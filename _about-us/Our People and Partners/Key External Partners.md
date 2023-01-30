@@ -4,7 +4,7 @@ permalink: /about-us/Our-People-and-Partners/key-external-partners/
 description: ""
 third_nav_title: Our People and Partners
 ---
-
+![](/images/about_us.jpg)
 
 Key External Partners
 =====================
