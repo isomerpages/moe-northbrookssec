@@ -3,7 +3,7 @@ title: Sec 3 Subject combination information
 permalink: /parents/Sec-3-Subject-combination-information/
 description: ""
 ---
-
+![](/images/Parentsbanner.jpg)
 
 Sec 3 Subject combination information
 =====================================
