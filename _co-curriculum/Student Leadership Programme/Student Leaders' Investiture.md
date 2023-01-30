@@ -9,19 +9,19 @@ third_nav_title: Student Leadership Programme
 Student Leaders' Investiture
 ============================
 
-### Class Leaders 2020
+### <center>Class Leaders 2020 </center>
 ------------------
 
-### CCA Leaders 2020
+### <center>CCA Leaders 2020</center>
 ----------------
 
-### Student Councillors 2020
+### <center>Student Councillors 2020</center>
 ------------------------
-#####  Sec 2:
+#####  <center>Sec 2:</center>
 
-##### Sec 3:
+##### <center>Sec 3:</center>
 
-##### Sec 4:
+##### <center>Sec 4:</center>
 
-### Honour Segment - Student Leaders Appreciation
+### <center>Honour Segment - Student Leaders Appreciation</center>
 ---------------------------------------------
