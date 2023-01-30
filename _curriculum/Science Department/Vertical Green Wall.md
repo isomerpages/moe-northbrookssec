@@ -4,6 +4,7 @@ permalink: /curriculum/Science-Department/Vertical-Green-Wall/
 description: ""
 third_nav_title: Science Department
 ---
+![](/images/curriculum.jpg)
 
 Vertical Green Wall
 ===================
