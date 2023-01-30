@@ -2,8 +2,6 @@ collections:
   northbrooks-experience:
     output: true
     order:
-      - Aesthetics/.keep
-      - Aesthetics/Centrestage 2022.md
       - DSA @ Northbrooks.md
       - Annual Speech & Prize Giving Day.md
       - Applied Learning (Aerospace)/.keep
