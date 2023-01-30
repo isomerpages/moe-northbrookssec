@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Current Students/Full Home Based Learning.md
       - Current Students/Students Learning Space.md
       - Current Students/School Timetable.md
       - Current Students/National Digital Literacy Programme (NDLP).md
