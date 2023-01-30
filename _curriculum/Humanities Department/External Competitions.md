@@ -4,6 +4,7 @@ permalink: /curriculum/Humanities-Department/External-Competitions/
 description: ""
 third_nav_title: Humanities Department
 ---
+![](/images/curriculum.jpg)
 
 External Competitions
 =====================
