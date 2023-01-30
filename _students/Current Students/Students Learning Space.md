@@ -4,17 +4,13 @@ permalink: /students/Current-Students/Students-Learning-Space/
 description: ""
 third_nav_title: Current Students
 ---
+Students Learning Space
+=======================
 
+<img src="/images/sls.png" style="width:40%">
 
+Student Learning Space Website: [https://learning.moe.edu.sg](https://www.learning.moe.edu.sg/sls/index.html) 
 
-#  Students Learning Space
-
-
-
-
-![](/images/sls.png)
-
- Student Learning Space Website: [https://learning.moe.edu.sg](https://www.learning.moe.edu.sg/sls/index.html)
 
 
 An online platform that allows students to access curriculum-aligned resources.
