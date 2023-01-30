@@ -44,3 +44,68 @@ Our Learning for Life Programme (LLP) in Outdoor Education is known as A.C.E. an
 1\.  Applicants should have a keen interest and passion for the respective talent areas. <br>
 2\.  Applicants should have a positive learning attitude and a growth mindset. <br>
 3\.  Applicants should have demonstrated good conduct and leadership skills in school.
+
+
+### Criteria and Selection Process
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k88s{background-color:#E6C20C;color:#141D1C;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-k88s">Talent Area</th>
+    <th class="tg-k88s">Criteria</th>
+    <th class="tg-k88s">Selection Process</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dgl5">Aerospace</td>
+    <td class="tg-ktyi">Demonstration of<br>1.  Positive attitude and conduct<br>2.  Strong interest in Aerospace and STEAM fields<br>3.  Highly motivated and resilient when faced with an unfamiliar setting <br>4.  Good content knowledge on basic physics of flight and STEAM concepts<br>5.  Demonstration of skills in the areas of critical thinking and reasoning, problem solving, adaptability and teamwork<br>6.  Demonstration of skills related to Aerospace</td>
+    <td class="tg-ktyi">1. Online Test (Multiple Choice Questions) on Theory of Flight and Aerodynamics<br><br>2. Interview via video conferencing<br><br><span style="font-style:italic">*During the interview, applicants are encouraged to share their STEAM related projects done in their primary schools through portfolio.</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Outdoor Adventure</td>
+    <td class="tg-ktyi">Demonstration of <br>1.  Positive attitude and conduct<br>2.  Leadership skills<br>3.  Good physical fitness<br>Prior experiences in outdoor adventure-related activities</td>
+    <td class="tg-ktyi">Interview </td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Leadership</td>
+    <td class="tg-ktyi">Demonstration of <br>1.  Positive attitude and conduct<br>2.  Leadership skills<br>Prior experiences in leadership-related activities</td>
+    <td class="tg-ktyi">1. Interview<br>2. Leadership Challenge<br><span style="font-style:italic">*Both interview and Leadership Challenge will be conducted in person</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Floorball (Boys)</td>
+    <td class="tg-ktyi">Demonstration of <br>1.  Positive attitude and conduct<br>2.  Good physical fitness<br>Prior experiences in Floorball/Hockey competitions</td>
+    <td class="tg-ktyi">1. Sports Trial<br>2. Interview<br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Guzheng Ensemble </td>
+    <td class="tg-ktyi">Demonstration of<br>1.  Positive attitude and conduct.<br>2.  Good performance skills and techniques in Guzheng<br>3.  Participated in performances/ events in or outside school<br>4.  Demonstrate high level of commitment and self-motivation<br></td>
+    <td class="tg-ktyi">1.  Submission of any existing video recording of a performance. If a video recording is submitted, applicants must ensure that he/she is in the video frame and that the recording is not edited.<br>Applicants who do not have any existing videos will not be required to make a new video to support this application.<br>Details on video submission will be sent to applicants via email<br>2. Audition – Students might be required to demonstrate skills pertaining to musicality (pitching and rhythm) during the audition. This will not require an instrument.<br>3. Interview</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Modern Dance</td>
+    <td class="tg-ktyi">Demonstration of<br>1.  Positive attitude and conduct<br>2.  Demonstration of good performance skills and techniques in Dance<br>3.  Participated in performances/ events in or outside school<br>4.  Demonstrate high level of commitment and self-motivation</td>
+    <td class="tg-ktyi">1.  Submission of any existing video recording of a dance performance (Not longer than 3 minutes). If a video recording is submitted, applicants must ensure that he/she is in the video frame and that the recording is not edited.<br>Applicants who do not have any existing videos will not be required to make a new video to support this application.<br>Details on video submission will be sent to applicants via email.<br>2.  Interview</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Concert Band</td>
+    <td class="tg-ktyi">Demonstration of <br>1.  Positive attitude and conduct<br>2.  Demonstration of good performance skills and techniques in playing of a musical instrument<br>3.  Participated in performances/ events in or outside school<br>4.  Demonstrate high level of commitment and self-motivation</td>
+    <td class="tg-ktyi">1.  Submission of any existing video recording of a dance performance (Not longer than 3 minutes). If a video recording is submitted, applicants must ensure that he/she is in the video frame and that the recording is not edited.<br>Applicants who do not have any existing videos will not be required to make a new video to support this application.<br>Details on video submission will be sent to applicants via email.<br>2.  Audition – Students might be required to demonstrate skills pertaining to musicality (pitching and rhythm) during the audition. This will not require an instrument.<br>3.  Interview</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Badminton</td>
+    <td class="tg-ktyi">Demonstration of <br>1.  Positive attitude and conduct<br>2.  Good physical fitness<br></td>
+    <td class="tg-ktyi">1.  Submission of a 11-points game video played between the applicant and their opponent. The video should showcase the following skills:<br>-  Lobbing<br>-  Service<br>-  Netting<br>-  Smash<br>-  Footwork<br>-  Ability to strategically place the shuttle to score a point<br><span style="font-style:italic">*The video should capture the applicant’s full body movement as well as the shuttle’s projectile. Please refer to this video (</span><span style="font-weight:bold;font-style:italic">https://tinyurl.com/NorthbrooksBadmintonDSAVideo</span><span style="font-style:italic">)for reference on the acceptable video camera angle.</span><br><br>Details on video submission will be sent to applicants via email<br>2.  Interview</td>
+  </tr>
+</tbody>
+</table>
