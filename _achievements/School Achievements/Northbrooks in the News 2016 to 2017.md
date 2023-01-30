@@ -148,3 +148,62 @@ In the recent Singapore Youth Festival 2017, our students managed to receive one
 
 Our PE/Outdoor Education and Humanities team were invited to showcase their respective projects (adventure Character Environment Programme and Germanopology) in the recently MOE ExCel Fest 2017. Our outdoor education students and staff were given the opportunity to share and communicate their ideas and experiences with other students and fellow educators in the  fraternity  .
 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jxlw{background-color:#FFF;border-color:#ffffff;font-size:100%;text-align:left;vertical-align:top}
+.tg .tg-osp6{background-color:#FFF;border-color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-jjsp{background-color:#FFF;border-color:#ffffff;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-jxlw"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/2016%202017/WhatsApp%20Image%202017-03-30%20at%207.07.41%20PM.jpeg" alt="WhatsApp Image 2017-03-30 at 7.07.41 PM.jpeg" width="274"></th>
+    <th class="tg-osp6">Sharing their ideas  <br>and experiences. <br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-osp6">Our Humanities team at the  <br>MOE ExCel Fest 2017 <br></td>
+    <td class="tg-jjsp"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/2016%202017/WhatsApp%20Image%202017-04-03%20at%203.14.12%20PM.jpeg" alt="WhatsApp Image 2017-04-03 at 3.14.12 PM.jpeg" width="291"></td>
+  </tr>
+  <tr>
+    <td class="tg-jjsp"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/2016%202017/WhatsApp%20Image%202017-04-03%20at%203.14.10%20PM.jpeg" alt="WhatsApp Image 2017-04-03 at 3.14.10 PM.jpeg" width="305"></td>
+    <td class="tg-osp6">Germanpoly created by our Humanities team. <br></td>
+  </tr>
+  <tr>
+    <td class="tg-osp6">Students demonstrating  <br>what they have learned  <br>through from the  <br>Outdoor Education Programme.</td>
+    <td class="tg-jjsp"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/2016%202017/IMG_7568.jpg" alt="IMG_7568.jpg" width="271"></td>
+  </tr>
+</tbody>
+</table>
+
+
+2016
+----
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-39y2{background-color:#E6C20C;color:#141D1C;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-39y2">NORTHBROOKS SCHOOL ACHIEVEMENTS 2016<br>Congratulations to the school!</td>
+  </tr>
+</thead>
+</table>
+
+
+<center> <u><b>Fun Bin from Northbrooks</b></u> </center>
+
+
+##### On 29 November 2016
