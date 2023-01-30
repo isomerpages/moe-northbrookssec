@@ -2,8 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Aesthetics/Aesthetics.md
-      - Aesthetics/.keep
       - CCE/.keep
       - CCE/CCE.md
       - CCE/Cyber Wellness (CW).md
@@ -17,3 +15,5 @@ collections:
       - Student Leadership Programme/Co Curricular Activities Leaders.md
       - Student Leadership Programme/Class Leaders.md
       - Student Leadership Programme/Student Leaders' Investiture.md
+      - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
