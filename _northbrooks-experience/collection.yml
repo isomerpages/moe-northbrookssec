@@ -2,7 +2,6 @@ collections:
   northbrooks-experience:
     output: true
     order:
-      - Photo Gallery.md
       - Annual Speech & Prize Giving Day.md
       - Applied Learning (Aerospace)/.keep
       - Applied Learning (Aerospace)/Applied Learning (Aerospace).md
@@ -41,5 +40,6 @@ collections:
       - Publications/Newsletters.md
       - Publications/Yearbooks.md
       - Publications/Quest@Northbrooks.md
+      - Photo Gallery.md
       - Photo Gallery/.keep
       - Video Gallery.md
