@@ -4,6 +4,7 @@ permalink: /co-curriculum/CCE/Education-and-Career-Guidance-ECG/
 description: ""
 third_nav_title: CCE
 ---
+![](/images/cca.jpg)
 
 Education and Career Guidance (ECG)
 ===================================
