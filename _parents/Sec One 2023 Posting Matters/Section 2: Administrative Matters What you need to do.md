@@ -4,6 +4,8 @@ permalink: /parents/Sec-One-2023-Posting-Matters/Section-2-Administrative-Matter
 description: ""
 third_nav_title: Sec One 2023 Posting Matters
 ---
+![](/images/Parentsbanner.jpg)
+
 Section 2: Administrative Matters - What you need to do
 =======================================================
 
