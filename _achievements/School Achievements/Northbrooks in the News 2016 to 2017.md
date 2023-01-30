@@ -36,7 +36,7 @@ Northbrooks in the News 2016-2017
 </table>
 
 
-#### On 27 October 2017
+##### On 27 October 2017
 
 
 <img src="/images/Sustained%20Lotus%20Award.jpg" style="width:60%">
@@ -45,7 +45,7 @@ Congratulations! Northbrooks Secondary School has achieved the <b>Lotus Sustain
 
 <center> <u><b>16th Elementz Science Competition</b></u> </center>
 
-#### On 30 July 2017
+##### On 30 July 2017
 
 ![](/images/News1.png)
 
@@ -95,7 +95,7 @@ Title of project: Hydrodynamics - Resist Water! <br>Synopsis of project:  This
 ### <center><u>Brooksian wins C Div Boys' 10m Air Rifle Competition</u></center>
 
 
-#### On 4 August 2017
+##### On 4 August 2017
 
 ![](/images/News2.png)
 
@@ -108,10 +108,12 @@ Click [here](https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achieve
 <center> <u><b>Chinese Singing Competition</b></u> </center>
 
 
-#### On 9 July 2017
+##### On 9 July 2017
 
-<img src="/images/ChineseSingingComp_2017_2.jpg" style="width:180px;height:300px;margin-left:15px;" align = "right">
+<img src="/images/comp.png" style="width:180px;height:300px;margin-left:15px;" align = "right">
 
 At the finals of the Chinese singing competition, Xing Kong Xia that took place on 12 Aug 2018. Our students, Tan Ching won an accomplishment award after she has made it into the top 5.  She was affirmed by the judges for her ability. She had an amazing cheering team that supported her throughout this competition
 
 <img src="/images/ChineseSingingComp_2017_1.jpg" style="width:70%;float:left">
+
+
