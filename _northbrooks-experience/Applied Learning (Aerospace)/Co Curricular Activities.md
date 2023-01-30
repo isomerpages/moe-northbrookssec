@@ -4,6 +4,7 @@ permalink: /northbrooks-experience/Applied-Learning-Aerospace/Co-Curricular-Acti
 description: ""
 third_nav_title: Applied Learning (Aerospace)
 ---
+![](/images/cca.jpg)
 
 Co-Curricular Activities
 ========================
