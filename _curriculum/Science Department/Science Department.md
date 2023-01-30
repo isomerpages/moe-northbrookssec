@@ -4,6 +4,7 @@ permalink: /curriculum/Science-Department/Science-Department/
 description: ""
 third_nav_title: Science Department
 ---
+![](/images/curriculum.jpg)
 
 Science Department
 ==================
