@@ -13,7 +13,8 @@ Partners in Education
 
  
 
-**14 May 2019**
 
-Click [here](https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Parents/Parents%20Engagement%20Session.jpg) for more information.
+<b>14 May 2019</b>
+
+Click [<b>HERE</b>](https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/People/Parents/Parents%20Engagement%20Session.jpg) for more information.
 ![](/images/Parents%20Engagement%20Session.jpeg)
