@@ -92,4 +92,7 @@ Title of project: Hydrodynamics - Resist Water! <br>Synopsis of project:  This
 
 
 
-#### <u>Brooksian wins C Div Boys' 10m Air Rifle Competition</u>
+### <center><u>Brooksian wins C Div Boys' 10m Air Rifle Competition</u></center>
+
+
+#### On 4 August 2017
