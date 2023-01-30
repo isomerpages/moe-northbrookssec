@@ -2,7 +2,6 @@ collections:
   people:
     output: true
     order:
-      - Patron & School Advisory Committee.md
       - PSG/.keep
       - PSG/Essential Parenting.md
       - Staff List 2022.md
