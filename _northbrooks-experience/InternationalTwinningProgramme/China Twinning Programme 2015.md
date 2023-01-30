@@ -4,6 +4,7 @@ permalink: /northbrooks-experience/China-Twinning-Programme/China-Twinning-Progr
 description: ""
 third_nav_title: InternationalTwinningProgramme
 ---
+![](/images/northbrooks%20experience.jpg)
 
 China Twinning Programme 2015
 =============================
