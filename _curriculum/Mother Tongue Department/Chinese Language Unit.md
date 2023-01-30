@@ -4,6 +4,7 @@ permalink: /curriculum/Mother-Tongue-Department/Chinese-Language-Unit/
 description: ""
 third_nav_title: Mother Tongue Department
 ---
+![](/images/curriculum.jpg)
 
 Chinese Language Unit
 =====================
