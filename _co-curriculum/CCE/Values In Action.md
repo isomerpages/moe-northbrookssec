@@ -4,6 +4,8 @@ permalink: /co-curriculum/CCE/Values-In-Action/permalink/
 description: ""
 third_nav_title: CCE
 ---
+![](/images/cca.jpg)
+
 Values In Action
 ================
 
