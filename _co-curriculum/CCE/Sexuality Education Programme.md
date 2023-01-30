@@ -4,6 +4,7 @@ permalink: /co-curriculum/CCE/Sexuality-Education-Programme/
 description: ""
 third_nav_title: CCE
 ---
+![](/images/cca.jpg)
 
 Sexuality Education Programme
 =============================
