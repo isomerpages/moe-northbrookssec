@@ -4,6 +4,8 @@ permalink: /co-curriculum/Student-Leadership-Programme/Co-Curricular-Activities-
 description: ""
 third_nav_title: Student Leadership Programme
 ---
+![](/images/cca.jpg)
+
 
 Co-Curricular Activities Leaders
 ================================
