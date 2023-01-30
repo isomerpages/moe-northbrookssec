@@ -4,6 +4,7 @@ permalink: /northbrooks-experience/Learning-for-Life-Outdoor-Edu/Gallery/
 description: ""
 third_nav_title: Learning for Life(Outdoor Edu)
 ---
+![](/images/cca.jpg)
 
 Gallery
 =======
@@ -34,4 +35,3 @@ Gallery
 
 *   **Student Leaders – 4th Position**
 ![](/images/Gallery7.png)
-
