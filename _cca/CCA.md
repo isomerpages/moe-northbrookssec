@@ -33,6 +33,7 @@ Every CCA a Champion CCA, Impacting the Community
 Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more information
 
 
+<div><div>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -72,6 +73,7 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
 
 <img src="/images/Odac.jpg" style="width:25%;float:left">
 
+<div><div>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
