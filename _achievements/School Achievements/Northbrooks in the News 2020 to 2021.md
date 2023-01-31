@@ -31,3 +31,19 @@ Northbrooks in the News 2020-2021
 
 
 <center> <u><b>NorthWest CDC Gold Partner Award</b></u> </center>
+
+
+##### On 15 April 2021
+
+<img src="/images/Outstanding%20School%20Partner%20Award.jpg" style="width:80%">
+
+
+Through our participation and partnership with NorthWest CDC in 2020, we have achieved the Gold Partner Award! <br>
+Special thanks to the following programmes that were part of the NWCDC activities in 2020: <br>1\.  Recyclatron 2020 <br>
+2\.  Sec 1 Service Learning EOY PEA 2020 <br>
+3\.  WeCare,WeRecycle@NorthWest 2020 <br>
+4\.  NWCDC Giraffe Fund 2020 for Community Outreach
+
+
+2020
+----
