@@ -58,25 +58,11 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
 |
 
 
-<img src="/images/Odac.jpg" style="width:25%;float:left">
 
 
+<img src="/images/Odac.jpg" style="width:30%">
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-3c3y{background-color:#06667e;color:#eaeaea;font-size:20px;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-3c3y">Clubs &amp; Societies</td>
-  </tr>
-</thead>
-</table>
+### <center> Clubs & Societies </center>
 
 
 | [AVA Club](/CCA/Clubs-and-Societies/AVA-club/)| [Environment Art Club](/CCA/Clubs-and-Societies/Environmental-Art-Club/) | [Infocomm Club](/CCA/Clubs-and-Societies/Infocomm-Club/) | [Youth Flying Club](/CCA/Clubs-and-Societies/Youth-Flying-Club/)
@@ -94,18 +80,4 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
 	
 	
 	
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-flia{background-color:#f56414;color:#141d1c;font-size:20px;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-flia">Uniformed Groups</td>
-  </tr>
-</thead>
-</table>
+### <center> Uniformed Groups </center>
