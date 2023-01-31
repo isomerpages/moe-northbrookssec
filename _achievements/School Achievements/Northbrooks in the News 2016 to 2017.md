@@ -239,4 +239,7 @@ Northbrooks Secondary School (NBSS) has been an esteemed and valuable partner fo
 
 ##### On 15 June 2016
 
+<img src="/images/xxx.png" style="width:183px;height:240px;margin-left:15px;" align = "right">  
+
+
 The National Junior College Shooting Club held its 11th Invitational Shoot on Saturday, May 28th and Sunday, May 29th, 2016 at Yishun SAFRA Indoor Air Weapon Shooting Range. Gai Tianrui (Sec 1 Empathy) finished 2nd in the competition for C Division Air Rifle Category. He displayed FORTITUDE, FOCUS and DISCIPLINE during the competition.
