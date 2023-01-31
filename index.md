@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: News & Announcements
           description: ""
-          url: ""
+          url: /News-and-Announcements/
         - title: Achievements
           description: Northbrooks Achievements
-          url: /achievements/permalink/
+          url: ""
   - infopic:
       title: STUDENTS
       button: For Students
