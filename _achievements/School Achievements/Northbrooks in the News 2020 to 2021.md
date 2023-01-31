@@ -64,3 +64,19 @@ Special thanks to the following programmes that were part of the NWCDC activitie
   </tr>
 </thead>
 </table>
+
+
+##### On 28 April 2020
+
+
+<img src="/images/2019%202020.jpg" style="width:80%">
+
+
+Through our participation and partnership with NorthWest CDC in 2019, we have achieved the Gold Partner Award! <br>
+Special thanks to the following programmes that were part of the NWCDC activities in 2019: <br> 
+1\.  Recyclatron + Reduce@NW <br>
+2\.  NWCDC Block Parties <br>
+3\.  Bukit Panjang Eco CC LJ <br>
+4\.  Sky Greens LJ <br>5\.  NWCDC Mayor Network Session <br>6.  Clean & Green Carnival with NWCDC
+
+
