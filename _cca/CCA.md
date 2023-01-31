@@ -88,3 +88,17 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
   </tr>
 </thead>
 </table>
+
+
+| [AVA Club](/CCA/Clubs-and-Societies/AVA-club/)| [Environment Art Club](/CCA/Clubs-and-Societies/Environmental-Art-Club/) | [Infocomm Club](/CCA/Clubs-and-Societies/Infocomm-Club/) | [Youth Flying Club](/CCA/Clubs-and-Societies/Youth-Flying-Club/)
+| -------- | -------- | -------- |-------- |
+||||
+
+
+<img src="/images/Ava.jpg" style="width:25%;float:left">
+
+<img src="/images/Eac.jpg" style="width:25%;float:left">
+
+<img src="/images/Infocomm%20club.jpg" style="width:25%;float:left">
+
+<img src="/images/Yfc.jpg" style="width:25%;float:left">
