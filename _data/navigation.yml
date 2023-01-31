@@ -19,7 +19,7 @@ links:
     collection: parents
   - title: Students
     collection: students
-  - title: Others
-    collection: others
   - title: Achievements
     collection: achievements
+  - title: Others
+    collection: others
