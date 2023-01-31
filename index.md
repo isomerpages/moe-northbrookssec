@@ -9,19 +9,16 @@ sections:
   - hero:
       background: /images/NorthbrooksHome.gif
       key_highlights:
-        - title: "School announcements "
+        - title: News & Announcements
           description: ""
-          url: /announcements/permalink/
-        - title: News
-          description: Northbrooks in the News
-          url: /achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/permalink/
+          url: ""
         - title: Achievements
           description: Northbrooks Achievements
           url: /achievements/permalink/
   - infopic:
       title: STUDENTS
       button: For Students
-      url: /people/students/permalink/
+      url: /students/Students/
       image: /images/Students.png
       alt: Image alt text
 ---
