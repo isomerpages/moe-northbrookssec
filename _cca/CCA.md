@@ -102,6 +102,15 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
 ### <center> Visual & Performing Arts </center>
 
 
-| [Concert Band](/CCA/Visual-and-Performing-Arts/Concert-Band/) | [Drama Club](/CCA/Visual-and-Performing-Arts/Drama-Club/) | [Guitar Ensemble](/CCA/Visual-and-Performing-Arts/Guitar-Ensemble/) | [Red Cross Youth](/CCA/Uniformed-Groups/Red-Cross-Youth/)
+| [Concert Band](/CCA/Visual-and-Performing-Arts/Concert-Band/) | [Drama Club](/CCA/Visual-and-Performing-Arts/Drama-Club/) | [Guitar Ensemble](/CCA/Visual-and-Performing-Arts/Guitar-Ensemble/) | [Guzheng Ensemble](/CCA/Visual-and-Performing-Arts/Guzheng-Ensemble/)
 | -------- | -------- | -------- |-------- |
 ||||
+
+
+<img src="/images/Concert.jpg" style="width:25%;float:left">
+
+<img src="/images/Drama.jpg" style="width:25%;float:left">
+
+<img src="/images/Guitar.jpg" style="width:25%;float:left">
+
+<img src="/images/Guzheng.jpg" style="width:25%;float:left">
