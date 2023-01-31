@@ -4,6 +4,8 @@ permalink: /CCA/Clubs-and-Societies/
 description: ""
 third_nav_title: Clubs & Societies
 ---
+![](/images/cca.jpg)
+
 Clubs & Societies
 =================
 
