@@ -4,6 +4,8 @@ permalink: /CCA/Sports-and-Games/Floorball/
 description: ""
 third_nav_title: Physical Sports
 ---
+![](/images/cca.jpg)
+
 Floorball
 =========
 ![](/images/floorball.jpeg)
