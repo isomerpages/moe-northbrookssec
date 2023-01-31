@@ -4,6 +4,8 @@ permalink: /CCA/Sports-and-Games/Badminton/
 description: ""
 third_nav_title: Physical Sports
 ---
+![](/images/cca.jpg)
+
 Badminton
 =========
 ![](/images/badminton.png)
