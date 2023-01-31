@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Staff Achievements.md
       - School Achievements/.keep
       - School Achievements/Northbrooks in the News 2020 to 2021.md
       - School Achievements/Northbrooks in the News 2018 to 2019.md
@@ -11,3 +10,4 @@ collections:
       - School Achievements/Northbrooks in the News 2012 to 2013.md
       - School Achievements/Northbrooks in the News 2011.md
       - Student Achievements.md
+      - Staff Achievements.md
