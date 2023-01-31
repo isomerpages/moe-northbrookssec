@@ -85,3 +85,8 @@ Zi Heng had rehearsed wholeheartedly during the weeks leading up to the competit
 Our 2 participants: Ascendas Teo Yue Teng Fei (3I) and Wan Ruoyu (3G) were awarded the <b>Participation Award</b>.
 
 
+
+![](/images/Student.png)
+
+
+<center> <u><b>National Chinese Pen Calligraphy Competition 2021</b></u> </center>
