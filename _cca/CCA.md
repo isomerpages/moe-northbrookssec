@@ -95,3 +95,8 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
 <img src="/images/Npcc.jpg" style="width:25%;float:left">
 
 <img src="/images/Rcy.jpg" style="width:25%;float:left">
+
+
+
+
+### <center> Visual & Performing Arts </center>
