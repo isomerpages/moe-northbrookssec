@@ -62,9 +62,3 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
 <img src="/images/Bowling.jpg" style="width:25%;float:left">
 
 <img src="/images/Floorball.jpg" style="width:25%;float:left">
-
-
-
-
-
-
