@@ -4,7 +4,10 @@ permalink: /CCA/Clubs-and-Societies/Infocomm-Club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-# Infocomm Club
+![](/images/cca.jpg)
+
+Infocomm Club
+=============
 ### Teacher-in-Charge
 
 1. Mr Paul Tham (Advisor)  
