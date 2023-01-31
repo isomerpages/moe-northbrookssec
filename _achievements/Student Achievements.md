@@ -24,3 +24,38 @@ Student Achievements
   </tr>
 </thead>
 </table>
+
+
+<center> <u><b>2021 National Create Your Own Newspaper Competition (Chinese)</b></u> </center>
+
+
+After months of conducting interviews, composition writing, designing and typesetting, selected students from Sec. 1-3 created wonderful newspapers to take part in the competition. We are proud to share the good results.
+
+  
+
+Our Lower Secondary Team achieved the <b>Second Prize</b>. <br>
+The team members are  Ye Minghan (2G), Oh Xin Hui Kelly (2G), Lin Shi Rou (2G), Jong Sau Ru (2G) and Venedict Wang (1T1).
+
+
+![](/images/CL_Newspaper%20Competition.jpg)
+And our Upper Secondary Team achieved the <b>Commendation Award</b>. <br>
+The team members are  Ang Kok Rui (3G), Joey Ng Tien Yi (3I), Holmberg Glennis (3F), Angie Chu (3F), Xendra Tan Qian Yi (3F).
+
+![](/images/CL_Newspaper%20Competition_2.jpg)
+
+
+
+<img src="/images/CL_Newspaper%20Competition_3.jpg" style="width:55%">
+
+
+<center> <u><b>The 3rd Text Recital Competition for Primary and Secondary Schools 2021</b></u> </center>
+
+
+This competition was held on 27th July 2021 via Zoom.  
+  
+
+1.   <b>Gold Award Final Round Champion (Group)</b>
+
+  
+
+Our team, which is made up of Ascendas Teo Yue Teng Fei (3I) and Wan Ruoyu (3G) worked very hard to memorise the script, put themselves into the context, and vividly expressed the appropriate emotions. They were shortlisted for the Grand Final and finally received the top <b>Gold Award</b>.
