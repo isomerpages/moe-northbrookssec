@@ -4,6 +4,8 @@ permalink: /CCA/Visual-and-Performing-Arts/Drama-Club/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+![](/images/cca.jpg)
+
 Drama Club
 ==========
 <img src="/images/drama.jpeg" style="width:50%">
