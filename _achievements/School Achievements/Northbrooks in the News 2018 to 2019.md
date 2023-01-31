@@ -60,3 +60,27 @@ Men's Under 18 (5.4km): <br> 1\.  <b>Edwin Huang (3E)</b>  <br>
     3\.  From Taiwan  <br>
     4\.  <b>Azhad (3I)</b>  <br>
     5\.  <b>Jun Xiang (3T)</b>
+		
+		
+We also had Mdm Au who emerged <b>4th</b> in her the Women's 45-55 years old Category!
+
+
+<center> <u><b>North West Outstanding School Partner Award (Bronze)</b></u> </center>
+
+##### On 14 May 2018
+
+<img src="/images/SchAchievement_North%20West%20CDC%20Outstanding%20School%20Partner%20Award%202018.jpg" style="width:60%">
+
+
+Northbrooks has been awarded the North West Outstanding School Partner Award <b>(Bronze)</b> for 2018. This is an award given by the North West Community Development Council that recognises the school contributions to the North West community.
+
+
+<center> <u><b>National School Games Shooting Championship</b></u> </center>
+
+
+##### On 20 April 2018
+
+<img src="/images/SchAchievement_Shooting.jpg" style="width:60%">
+
+
+Gai Tianrui (3E) took part in the National School Games Shooting Championship finals on 20 April 2018. He displayed grit and determination throughout the gruelling shoot-off under intense pressure. He finished <b>4th</b>overall out of 24.
