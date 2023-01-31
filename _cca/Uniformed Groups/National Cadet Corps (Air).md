@@ -4,6 +4,8 @@ permalink: /CCA/Uniformed-Groups/National-Cadet-Corps-Air/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+![](/images/cca.jpg)
+
 National Cadet Corp (Air)
 =========================
 
@@ -62,7 +64,7 @@ Cadets will also participate in inter-unit competitions and the Air competition 
 *   Unit Recognition - Acoomplishment
 
 *   Air COmpetition (Catapult Launched Glider) - Third
-&nbsp;<img src="/images/NCC1.jpeg" style="width:70%">
+&nbsp;<img style="width:70%" src="/images/NCC1.jpeg">
 
 #### 2018
 
