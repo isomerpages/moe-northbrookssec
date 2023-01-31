@@ -13,8 +13,8 @@ sections:
           description: ""
           url: /News-and-Announcements/
         - title: Achievements
-          description: Northbrooks Achievements
-          url: ""
+          description: ""
+          url: /achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/
   - infopic:
       title: STUDENTS
       button: For Students
