@@ -243,3 +243,23 @@ Northbrooks Secondary School (NBSS) has been an esteemed and valuable partner fo
 
 
 The National Junior College Shooting Club held its 11th Invitational Shoot on Saturday, May 28th and Sunday, May 29th, 2016 at Yishun SAFRA Indoor Air Weapon Shooting Range. Gai Tianrui (Sec 1 Empathy) finished 2nd in the competition for C Division Air Rifle Category. He displayed FORTITUDE, FOCUS and DISCIPLINE during the competition.
+
+
+<center> <u><b>National Story Challenge 2016</b></u> </center>
+
+##### On 15 March 2016
+
+<img src="/images/NationalStory2016%20(2).jpg" style="width:60%">
+
+
+The <b>Finals</b> of the <b>National Story Challenge 2016</b> was held on Saturday, 12 March, and the team from Northbrookswas placed <u><b>Second in the Grand Finals</b></u>!
+
+  
+
+The competition requires teams of 3 student participants to create and dramatise an original story. Teams are given 15 minutes to prepare and enact their story based on a given topic (e.g. 'The Midnight Train'), and in the last 3 minutes, are given a condition which is unique to their team (e.g. 'There must be 3 rabbits in the story', or 'One of the characters must say "I'm pretty!" three times'). They are to then dramatise a 3-  to 4-minute story in front of judges. 
+
+  
+
+The students attended 3 drama workshops to help prepare them for the competition. 
+
+Despite the challenging nature of the competition, the students demonstrated mental resilience, spontaneity, creativity, teamwork and an impressive amount of confidence.
