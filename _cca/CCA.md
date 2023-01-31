@@ -65,6 +65,6 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
 
 
 
-| [ODAC](/CCA/Sports-and-Games/Badminton/)| 
+| [Outdoor Adventure Club](/CCA/Sports-and-Games/Outdoor-Adventure-Club/)| 
 | -------- | 
 |
