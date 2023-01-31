@@ -31,3 +31,18 @@ Northbrooks in the News 2018-2019
 
 
 <center> <u><b>National Orienteering Race (Schools)</b></u> </center>
+
+
+##### On 14 July 2018
+
+  
+
+During the recently concluded National Orienteering Race (Schools) (14 Jul 2018) at Singapore Polytechnic, our students have emerged as <b>CHAMPIONS</b> in BOTH the pair (B Div Boys) and relay category (Sec Sch Girls).  The students displayed Grit and Resilience throughout this competition.
+
+
+<img src="/images/NationalOrieenteeringRace.jpg" style="width:70%">
+
+<center> <u><b>Malaysia Orienteering Asia Cup (Perak, Malaysia)</b></u> </center>
+
+
+##### On 16 May 2018
