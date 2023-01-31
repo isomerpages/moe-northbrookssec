@@ -33,7 +33,7 @@ Every CCA a Champion CCA, Impacting the Community
 Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more information
 
 
-<div><div>
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -73,7 +73,7 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
 
 <img src="/images/Odac.jpg" style="width:25%;float:left">
 
-<div><div>
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -104,3 +104,21 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
 <img src="/images/Infocomm%20club.jpg" style="width:25%;float:left">
 
 <img src="/images/Yfc.jpg" style="width:25%;float:left">
+	
+	
+	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-flia{background-color:#f56414;color:#141d1c;font-size:20px;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-flia">Uniformed Groups</td>
+  </tr>
+</thead>
+</table>
