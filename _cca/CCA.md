@@ -51,7 +51,7 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
 
 <img src="/images/Floorball.jpg" style="width:25%;float:left">
 
-
+---
 
 | [Outdoor Adventure Club](/CCA/Sports-and-Games/Outdoor-Adventure-Club/)| 
 | -------- | 
