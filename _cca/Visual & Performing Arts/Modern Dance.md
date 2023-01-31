@@ -4,9 +4,11 @@ permalink: /CCA/Visual-and-Performing-Arts/Modern-Dance/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+![](/images/cca.jpg)
+
 Modern Dance
 ============
-<img src="/images/DE%20Banner.jpeg" style="width:80%">
+<img style="width:80%" src="/images/DE%20Banner.jpeg">
 
 ### Teachers-in-Charge
 
@@ -119,7 +121,7 @@ Northbrooks Dance Explosion (DE) was formed in 2010. They are trained in modern,
 
 *   SYF 2011 Central Judging - Dance (International Dance)(Secondary Schools) (Bronze)
 
-<img style="width:60%" src="/images/Dance10.png">
+<img src="/images/Dance10.png" style="width:60%">
 
 ### Links:
 
