@@ -83,4 +83,4 @@ Northbrooks has been awarded the North West Outstanding School Partner Award <b
 <img src="/images/SchAchievement_Shooting.jpg" style="width:60%">
 
 
-Gai Tianrui (3E) took part in the National School Games Shooting Championship finals on 20 April 2018. He displayed grit and determination throughout the gruelling shoot-off under intense pressure. He finished <b>4th</b>overall out of 24.
+Gai Tianrui (3E) took part in the National School Games Shooting Championship finals on 20 April 2018. He displayed grit and determination throughout the gruelling shoot-off under intense pressure. He finished <b>4th</b> overall out of 24.
