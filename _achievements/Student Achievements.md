@@ -90,3 +90,6 @@ Our 2 participants: Ascendas Teo Yue Teng Fei (3I) and Wan Ruoyu (3G) were award
 
 
 <center> <u><b>National Chinese Pen Calligraphy Competition 2021</b></u> </center>
+
+
+3 of our participants were awarded the Participation Award. They are Qiu Keran (3G), Sum Wei Kiat Stanley (3F) and Elva Tan Wen Ya (1I).
