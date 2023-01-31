@@ -316,3 +316,6 @@ Despite the challenging nature of the competition, the students demonstrated men
   
 
 On 27th February, nine teams of Brooksians represented the school in the Greendale Secondary School Adventure Race. The students were from the Boys’ and Girls' Brigade, NPCC and the Student Council. Participants of the race had to navigate their way around the Punggol waterways and Lorong Halus over a distance of 30 kilometres. The participants were tested on several outdoor skills such as tent-pitching, outdoor cooking, navigation, knot-tying and mountain biking. The team consisting of our Student Councillors emerged <u><b>overall second position</b></u> in the race!
+
+
+![](/images/News4.png)
