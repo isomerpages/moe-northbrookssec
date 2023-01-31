@@ -263,3 +263,56 @@ The competition requires teams of 3 student participants to create and dramatise
 The students attended 3 drama workshops to help prepare them for the competition. 
 
 Despite the challenging nature of the competition, the students demonstrated mental resilience, spontaneity, creativity, teamwork and an impressive amount of confidence.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pdeq{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pdeq">S/N</th>
+    <th class="tg-dgl5">Name</th>
+    <th class="tg-dgl5">Class</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi">1</td>
+    <td class="tg-ktyi">KRISTIAN LENARDT YEO CHUN WEN</td>
+    <td class="tg-ktyi">3G</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">2</td>
+    <td class="tg-ktyi">JOEY HO YU SI</td>
+    <td class="tg-ktyi">3I</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">3</td>
+    <td class="tg-ktyi">TAN YAO AN, JARREL</td>
+    <td class="tg-ktyi">3I</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">4</td>
+    <td class="tg-ktyi">RACHAEL HOH WEI HUI (Reserve)</td>
+    <td class="tg-ktyi">3E</td>
+  </tr>
+</tbody>
+</table>
+
+
+<center> <u><b>Greendale Secondary School Adventure Race</b></u> </center>
+
+
+##### On 7 March 2016
+
+  
+
+On 27th February, nine teams of Brooksians represented the school in the Greendale Secondary School Adventure Race. The students were from the Boys’ and Girls' Brigade, NPCC and the Student Council. Participants of the race had to navigate their way around the Punggol waterways and Lorong Halus over a distance of 30 kilometres. The participants were tested on several outdoor skills such as tent-pitching, outdoor cooking, navigation, knot-tying and mountain biking. The team consisting of our Student Councillors emerged <u><b>overall second position</b></u> in the race!
