@@ -4,6 +4,8 @@ permalink: /CCA/Clubs-and-Societies/AVA-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
+![](/images/cca.jpg)
+
 AVA Club
 ========
 
