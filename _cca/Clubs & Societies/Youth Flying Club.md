@@ -4,7 +4,10 @@ permalink: /CCA/Clubs-and-Societies/Youth-Flying-Club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-# Youth Flying Club
+![](/images/cca.jpg)
+
+Youth Flying Club
+=================
 
 
 <img src="/images/fly.jpeg" style="width:80%">
