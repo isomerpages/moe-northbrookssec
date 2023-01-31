@@ -97,6 +97,4 @@ The school Orienteering Team competed in the Annual Greendale Adventure Race. Th
 
   
 
-Two teams have emerged as <b>CHAMPIONS</b> in the boys' category and mixed category. 
-
-The students displayed great resilience and grit to complete this race.
+Two teams have emerged as <b>CHAMPIONS</b> in the boys' category and mixed category. <br>The students displayed great resilience and grit to complete this race.
