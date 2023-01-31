@@ -4,6 +4,8 @@ permalink: /CCA/Clubs-and-Societies/Environmental-Art-Club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
+![](/images/cca.jpg)
+
 Environment Art Club
 ====================
 ![](/images/artclub.png)
