@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/NorthbrooksHome.gif
+      background: /images/Northbrooksecherobanner.gif
       key_highlights:
         - title: News & Announcements
           description: ""
