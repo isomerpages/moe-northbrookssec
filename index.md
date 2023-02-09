@@ -15,10 +15,4 @@ sections:
         - title: Achievements
           description: ""
           url: /achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/
-  - infopic:
-      title: STUDENTS
-      button: For Students
-      url: /students/Students/
-      image: /images/Students.png
-      alt: Image alt text
 ---
