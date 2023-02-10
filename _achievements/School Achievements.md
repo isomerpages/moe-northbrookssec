@@ -3,15 +3,11 @@ title: School Achievements
 permalink: /achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/
 description: ""
 ---
-
-
 ![](/images/achievements.jpg)
 
 School Achievements
 =================================
 
-
-2021
 ----
 
 <style type="text/css">
