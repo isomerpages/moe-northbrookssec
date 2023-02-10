@@ -2,4 +2,5 @@ collections:
   archive:
     output: true
     order:
+      - Northbrooks in the News 2016 to 2017.md
       - Northbrooks in the News 2014 to 2015.md
