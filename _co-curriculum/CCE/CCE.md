@@ -6,7 +6,8 @@ third_nav_title: CCE
 ---
 ![](/images/cca.jpg)
 
-CCE
+Character and Citizenship Education
+===================================
 ===
 
 In Northbrooks, we believe in developing Brooksian Champions with a growth mindset, grounded in G.I.F.T.E.D. values through Character and Citizenship Education (CCE). 
