@@ -19,3 +19,5 @@ links:
     collection: parents
   - title: Students
     collection: students
+  - title: Archive
+    collection: archive
