@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Northbrooks in the News 2020 to 2021.md
-      - School Achievements/.keep
       - Student Achievements.md
       - Staff Achievements.md
