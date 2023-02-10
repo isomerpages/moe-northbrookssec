@@ -6,7 +6,7 @@ third_nav_title: School Achievements
 ---
 ![](/images/achievements.jpg)
 
-Northbrooks in the News 2020-2021
+School Achievements
 =================================
 
 
@@ -78,5 +78,3 @@ Special thanks to the following programmes that were part of the NWCDC activitie
 2\.  NWCDC Block Parties <br>
 3\.  Bukit Panjang Eco CC LJ <br>
 4\.  Sky Greens LJ <br>5\.  NWCDC Mayor Network Session <br>6.  Clean & Green Carnival with NWCDC
-
-
