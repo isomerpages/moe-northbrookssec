@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Test.md
       - Northbrooks in the News 2012 to 2013.md
       - Northbrooks in the News 2011.md
       - Our Academic Achievements 2018.md
