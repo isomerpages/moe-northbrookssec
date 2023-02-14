@@ -118,8 +118,4 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
 
 [<center>Modern Dance</center>](/CCA/Visual-and-Performing-Arts/Modern-Dance/)
 
-
 <img src="/images/MD.jpg" style="width:30%">
-
-
-<a href="/CCA/Visual-and-Performing-Arts/Modern-Dance/"><img src="/images/MD.jpg" style="width:30%" alt="Modern Dance"></a>
