@@ -15,26 +15,25 @@ Staff List 2023
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-883j{background-color:#E6C20C;border-color:inherit;color:#141D1C;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-k88s{background-color:#E6C20C;color:#141D1C;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ayh6{background-color:#E6C20C;color:#141D1C;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-wjik{background-color:#E6C20C;color:#141D1C;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-39y2{background-color:#E6C20C;color:#141D1C;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-883j">S/N</th>
-    <th class="tg-k88s">Salutation</th>
-    <th class="tg-k88s">Name</th>
-    <th class="tg-k88s">Designation</th>
+    <th class="tg-wjik">S/N</th>
+    <th class="tg-wjik">Salutation</th>
+    <th class="tg-wjik">Name</th>
+    <th class="tg-wjik">Designation</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ayh6" colspan="4">TEACHING STAFF</td>
+    <td class="tg-39y2" colspan="4">TEACHING STAFF</td>
   </tr>
   <tr>
-    <td class="tg-ayh6" colspan="4">KP</td>
+    <td class="tg-39y2" colspan="4">KP</td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">1</span></td>
@@ -205,7 +204,7 @@ Staff List 2023
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">SH/Student Leadership &amp; Outdoor Education, Sec 3F</span></td>
   </tr>
   <tr>
-    <td class="tg-ayh6" colspan="4">LT &amp; ST </td>
+    <td class="tg-39y2" colspan="4">LT &amp; ST </td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">29</span></td>
@@ -244,7 +243,7 @@ Staff List 2023
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">ST/ML, Sec 2E</span></td>
   </tr>
   <tr>
-    <td class="tg-ayh6" colspan="4">Teacher<span style="font-weight:500;color:#141D1C;background-color:#E6C20C"> </span></td>
+    <td class="tg-39y2" colspan="4">Teacher<span style="font-weight:500;color:#141D1C;background-color:#E6C20C"> </span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">35</span></td>
@@ -517,10 +516,10 @@ Staff List 2023
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Teacher</span></td>
   </tr>
   <tr>
-    <td class="tg-ayh6" colspan="4">NON TEACHING STAFF</td>
+    <td class="tg-39y2" colspan="4">NON TEACHING STAFF</td>
   </tr>
   <tr>
-    <td class="tg-ayh6" colspan="4">Allied Educator (AED)  </td>
+    <td class="tg-39y2" colspan="4">Allied Educator (AED)  </td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">80</span></td>
@@ -547,7 +546,7 @@ Staff List 2023
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">AED (T&amp;L) Sec 2T2 FT</span></td>
   </tr>
   <tr>
-    <td class="tg-ayh6" colspan="4">Executive and Administrative Staff (EAS)</td>
+    <td class="tg-39y2" colspan="4">Executive and Administrative Staff (EAS)</td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">84</span></td>
@@ -664,10 +663,10 @@ Staff List 2023
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Operations Support Officer (OSO)</span></td>
   </tr>
   <tr>
-    <td class="tg-ayh6" colspan="4">OTHER PERSONNEL</td>
+    <td class="tg-39y2" colspan="4">OTHER PERSONNEL</td>
   </tr>
   <tr>
-    <td class="tg-ayh6" colspan="4">Flexi </td>
+    <td class="tg-39y2" colspan="4">Flexi </td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">103</span></td>
@@ -760,7 +759,7 @@ Staff List 2023
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">FAJT (D&amp;T) </span></td>
   </tr>
   <tr>
-    <td class="tg-ayh6" colspan="4">PGDE Programme</td>
+    <td class="tg-39y2" colspan="4">PGDE Programme</td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">118</span></td>
@@ -775,7 +774,7 @@ Staff List 2023
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Sec 2G FT</span></td>
   </tr>
   <tr>
-    <td class="tg-ayh6" colspan="4">Contract Employment</td>
+    <td class="tg-39y2" colspan="4">Contract Employment</td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">120</span></td>
@@ -796,7 +795,7 @@ Staff List 2023
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Receptionist cum Admin Assistant</span></td>
   </tr>
   <tr>
-    <td class="tg-ayh6" colspan="4">Desktop Engineer (DE)</td>
+    <td class="tg-39y2" colspan="4">Desktop Engineer (DE)</td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">123</span></td>
@@ -811,7 +810,7 @@ Staff List 2023
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Desktop Engineer</span></td>
   </tr>
   <tr>
-    <td class="tg-ayh6" colspan="4">Librarian</td>
+    <td class="tg-39y2" colspan="4">Librarian</td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">125</span></td>
@@ -820,7 +819,7 @@ Staff List 2023
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Librarian</span></td>
   </tr>
   <tr>
-    <td class="tg-ayh6" colspan="4">Youth Worker</td>
+    <td class="tg-39y2" colspan="4">Youth Worker</td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">126</span></td>
