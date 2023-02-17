@@ -9,6 +9,13 @@ third_nav_title: Sec One 2023 Posting Matters
 Section 3: What you need to know
 ================================
 
+[1\. Sec One First Day and Orientation](https://northbrookssec.moe.edu.sg/parents/sec-one-2023-posting-matters/section-3-what-you-need-to-know#_ptoh_123237)  
+[2\. Full Subject-Based Banding (FSBB)](https://northbrookssec.moe.edu.sg/parents/sec-one-2023-posting-matters/section-3-what-you-need-to-know#_ptoh_123238)  
+[3\. Personalised Digital Learning Programme (PDLP)](https://northbrookssec.moe.edu.sg/parents/sec-one-2023-posting-matters/section-3-what-you-need-to-know#_ptoh_123236)  
+[4\. Blended Learning (BL)](https://northbrookssec.moe.edu.sg/parents/sec-one-2023-posting-matters/section-3-what-you-need-to-know#_ptoh_123233)  
+[5\. Parents Support Group (PSG)](https://northbrookssec.moe.edu.sg/parents/sec-one-2023-posting-matters/section-3-what-you-need-to-know#_ptoh_123234)   
+[6\. Primary to Secondary School Transition](https://northbrookssec.moe.edu.sg/parents/sec-one-2023-posting-matters/section-3-what-you-need-to-know#_ptoh_123678)
+
 
 ### 1.  Sec One First Day and Orientation
 -------------------------------------
