@@ -26,3 +26,8 @@ In fostering the culture of Care and Growth at Northbrooks Secondary, our team o
   
 
 I wish everyone a wonderful and fulfilling year in 2023.
+
+
+
+
+Return to [Main Menu: Sec 1 Registration 2023 Intake](https://northbrookssec.moe.edu.sg/parents/sec-one-2023-posting-matters)
