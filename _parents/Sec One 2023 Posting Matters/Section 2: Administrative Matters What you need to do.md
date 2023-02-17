@@ -295,3 +295,6 @@ If you are seeking a transfer due to other reasons, you may check the preferred 
 
 <center> <i>Click on the image above for more information</i>
 </center>
+
+
+[Return to <b>Main Menu: Sec 1 Registration 2023 Intake</b>](/parents/Sec-One-2023-Posting-Matters/Sec-One-2023-Posting-Matters/)
