@@ -11,14 +11,14 @@ Section 2: Administrative Matters - What you need to do
 
 All incoming Secondary 1 students who have been posted to Northbrooks Secondary School are officially enrolled in the school from the day of posting. There is no need for registration to confirm your child/ward’s enrolment.
 
-[Step 2a: RIASEC Survey](https://northbrookssec.moe.edu.sg/parents/sec-one-2023-posting-matters/section-2-administrative-matters-what-you-need-to-do#_ptoh_137768)  
-[Step 2b: Subject Based Banding](https://northbrookssec.moe.edu.sg/parents/sec-one-2023-posting-matters/section-2-administrative-matters-what-you-need-to-do#_ptoh_123232)  
-[Step 2c: Sales of Books, PE Attire, Shoes and Uniform](https://northbrookssec.moe.edu.sg/parents/sec-one-2023-posting-matters/section-2-administrative-matters-what-you-need-to-do#_ptoh_123230)  
-[Step 2d: Health Promotion Board (HPB) Digital Letter](https://northbrookssec.moe.edu.sg/parents/sec-one-2023-posting-matters/section-2-administrative-matters-what-you-need-to-do#_ptoh_131323)   
-[Step 2e: MOE Financial Assistance Scheme (FAS)](https://northbrookssec.moe.edu.sg/parents/sec-one-2023-posting-matters/section-2-administrative-matters-what-you-need-to-do#_ptoh_123227)  
-[Step 2f: Applications for Higher Mother Tongue, Foreign / 3rd Languages and exemption in Mother Tongue Language](https://northbrookssec.moe.edu.sg/parents/sec-one-2023-posting-matters/section-2-administrative-matters-what-you-need-to-do#_ptoh_123228)  
-[Step 2g: Medical Appeal Exercises and Transfer Cases](https://northbrookssec.moe.edu.sg/parents/sec-one-2023-posting-matters/section-2-administrative-matters-what-you-need-to-do#_ptoh_123229)  
-[Step 2h: Art & Music Elective Programmes (AEP/MEP) Matters](https://northbrookssec.moe.edu.sg/parents/sec-one-2023-posting-matters/section-2-administrative-matters-what-you-need-to-do#_ptoh_124272)
+[Step 2a: RIASEC Survey](/parents/Sec-One-2023-Posting-Matters/Section-2-Administrative-Matters-What-you-need-to-do/)  
+[Step 2b: Subject Based Banding](/parents/Sec-One-2023-Posting-Matters/Section-2-Administrative-Matters-What-you-need-to-do/)  
+[Step 2c: Sales of Books, PE Attire, Shoes and Uniform](/parents/Sec-One-2023-Posting-Matters/Section-2-Administrative-Matters-What-you-need-to-do/)  
+[Step 2d: Health Promotion Board (HPB) Digital Letter](/parents/Sec-One-2023-Posting-Matters/Section-2-Administrative-Matters-What-you-need-to-do/)   
+[Step 2e: MOE Financial Assistance Scheme (FAS)](/parents/Sec-One-2023-Posting-Matters/Section-2-Administrative-Matters-What-you-need-to-do/)  
+[Step 2f: Applications for Higher Mother Tongue, Foreign / 3rd Languages and exemption in Mother Tongue Language](/parents/Sec-One-2023-Posting-Matters/Section-2-Administrative-Matters-What-you-need-to-do/)  
+[Step 2g: Medical Appeal Exercises and Transfer Cases](/parents/Sec-One-2023-Posting-Matters/Section-2-Administrative-Matters-What-you-need-to-do/)  
+[Step 2h: Art & Music Elective Programmes (AEP/MEP) Matters](/parents/Sec-One-2023-Posting-Matters/Section-2-Administrative-Matters-What-you-need-to-do/)
 
 Books and uniform/PE attire are available for purchase online. If you choose to visit the school for purchases of books and uniform/PE attire, please take note of the following:  
 
