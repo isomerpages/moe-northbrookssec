@@ -133,3 +133,5 @@ Please email to Ms Hui Hui, PSG Chairperson at [eehuihui8080@gmail.com](mailto:
 <p><a href="https://www.moe.gov.sg/secondary/transition-to-secondary"><img style="width:100%" src="/images/Primary%20to%20Secondary%20School%20Transition.jpg"></a></p>
 
 <center> <i>Click on the image for more information</i> </center>
+
+[Return to <b>Main Menu: Sec 1 Registration 2023 Intake</b>](/parents/Sec-One-2023-Posting-Matters/Sec-One-2023-Posting-Matters/)
