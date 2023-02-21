@@ -9,8 +9,8 @@ third_nav_title: Sec One 2023 Posting Matters
 Section 4: Others
 =================
 
-1. [eTour @ Northbrooks](https://northbrookssec-moe-edu-sg.cwp-stg.sg/parents/sec-one-2023-posting-matters/section-4-others#_ptoh_123751)  
-2. [Northbrooks Social Media](https://northbrookssec-moe-edu-sg.cwp-stg.sg/parents/sec-one-2023-posting-matters/section-4-others#_ptoh_124506)
+1. [eTour @ Northbrooks](/parents/Sec-One-2023-Posting-Matters/Section-4-Others/)  
+2. [Northbrooks Social Media](/parents/Sec-One-2023-Posting-Matters/Section-4-Others/)
 
 ### eTour @ Northbrooks
 
