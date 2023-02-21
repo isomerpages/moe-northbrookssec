@@ -38,5 +38,4 @@ For your convenience, you may wish to download our [Secondary 1 Registration Ch
 
 [Section 4: Others](/parents/Sec-One-2023-Posting-Matters/Section-4-Others/)
 
-Please ensure that you go through all 4 sections. Thank You. <br>
-[Feedback on Sec One Registration](https://form.gov.sg/639f259fcf15ee001277e690)
+Please ensure that you go through all 4 sections. Thank You.
