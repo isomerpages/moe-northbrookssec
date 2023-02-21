@@ -202,7 +202,7 @@ Sec 1 students are allowed to wear their primary school uniform if their new uni
 ### Step 2d: Health Promotion Board (HPB) Digital Letter 
 -----------------------------------------------------
 
-The [digital letter](https://northbrookssec.moe.edu.sg/) contains information of upcoming HPB’s health, immunisation and dental screening services. Parents/guardians will access the [Child Consent Portal](https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal) via the letter to provide consent and update their child/ward’s medical information accordingly.
+The [digital letter](https://northbrookssec-moe-edu-sg-admin.cwp.sg/) contains information of upcoming HPB’s health, immunisation and dental screening services. Parents/guardians will access the [Child Consent Portal](https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal) via the letter to provide consent and update their child/ward’s medical information accordingly.
 
 
 ### Step 2e:  MOE Financial Assistance Scheme (FAS)
