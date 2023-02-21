@@ -26,3 +26,6 @@ Dear Sec 1 students and parents/guardians, we would like to invite you to 'like'
 
 Facebook: [<b>https://www.facebook.com/officialnorthbrooks</b>](https://www.facebook.com/officialnorthbrooks) <br>
 Instagram: [<b>http://instagram.com/officialnorthbrooks</b>](http://instagram.com/officialnorthbrooks)
+
+
+[Return to Main Menu: Sec 1 Registration 2023 Intake](/parents/Sec-One-2023-Posting-Matters/Sec-One-2023-Posting-Matters/)
