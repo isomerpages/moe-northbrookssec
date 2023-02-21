@@ -26,7 +26,7 @@ To help you and your child transition into secondary school, we have compiled a 
 
 For your convenience, you may wish to download our [Secondary 1 Registration Checklist](/files/Checklist.pdf) to have an overview of the various submission deadlines.
 
-  
+ Note: FAQ pdf not found.  
 
 <b>There are 4 Sections to complete the Sec 1 registration.</b>
 
