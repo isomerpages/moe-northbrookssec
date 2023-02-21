@@ -40,7 +40,7 @@ Fridays - 1.00pm-4.00pm
 *   Friendly matches with other schools
 *   Basketball Day Camp
 *   Community involvement opportunities
-
+ 
 ### Achievements
 
 #### 2017&nbsp;
@@ -54,21 +54,22 @@ Fridays - 1.00pm-4.00pm
 
 #### 2016
 
-  
-
-*   2nd Tier North Zone ‘B’ Division Basketball League
-
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;2nd Runner-up (Boys Division 3)  
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;3rd Runner-up (Girls Division A)  
+*   2nd Tier North Zone ‘B’ Division Basketball League <br>
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 2nd Runner-up (Boys Division 3)  
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 3rd Runner-up (Girls Division A)  
 
 *   2nd Tier North Zone ‘B’ Division Basketball League  
     &nbsp; &nbsp; &nbsp; 3rd Runner-up (Girls Division 1)  
       
     
 *   North Zone ‘C’ Division Basketball Championships <br>
-           2nd Round (C Division Boys)
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;2nd Round (C Division Boys)  
+
+
 
 ### Links
 
 [http://redsports.sg](http://redsports.sg/)  
 [http://www.schoolsports.sg](http://www.schoolsports.sg/)
+
+Note: Schoolsports link broken. 
