@@ -30,7 +30,7 @@ To help you and your child/ward transition into secondary school, we have compil
 
   
 
-For your convenience, you may wish to download our [<b>Secondary One Posting Checklist</b>](/files/Checklist_20%20Dec%202022.pdf) to have an overview of the various submission deadlines.
+For your convenience, you may wish to download our [Secondary 1 Registration Checklist](/files/Checklist.pdf) to have an overview of the various submission deadlines.
 
   
 
