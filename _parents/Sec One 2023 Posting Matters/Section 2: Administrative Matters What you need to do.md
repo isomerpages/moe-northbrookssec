@@ -77,7 +77,7 @@ Please click [here](https://form.gov.sg/63929178df16190012907484) or scan the 
 
 <i><b>(Applicable to some students)</b></i>
 
-Some sec 1 NA and NT students will be eligible to take more demanding subjects through Subject Based Banding.  This means that NA students may take Exp subjects and NT students may take NA and Exp subjects.  <b>Parents/Guardians will receive a notification via Parents Gateway or phone call if your child is eligible by 22 Dec 2022.</b>  Students can choose if they want to accept this offer.  Upon accepting the offer, the students can proceed to purchase books for the subject at a higher level.
+Some sec 1 NA and NT students will be eligible to take more demanding subjects through Subject Based Banding. This means that NA students may take Exp subjects and NT students may take NA and Exp subjects. <b>Parents/Guardians will receive a notification via Parents Gateway or phone call if your child is eligible by 22 Dec 2022.</b> Students can choose if they want to accept this offer. Upon accepting the offer, the students can proceed to purchase books for the subject at a higher level.
 
 
 
@@ -87,8 +87,8 @@ Some sec 1 NA and NT students will be eligible to take more demanding subjects t
 ##### **Sales of books/PE Attire/Shoes**
 
   
+<b>Mode of Order:</b>
 
-<b>Mode of Order:</b> 
 *   Online Purchase for Home Delivery at $13.00 (Delivery between 27/12 to 03/01). Online orders cut off on 25/12.
 *   There will be no self-collection for Online Purchase.
 *   Walk-In by stream based on the schedule below.
@@ -100,41 +100,40 @@ Some sec 1 NA and NT students will be eligible to take more demanding subjects t
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-tmry{background-color:#104366;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-5f5j{background-color:#FCE573;color:#222;text-align:left;vertical-align:top}
-.tg .tg-py7v{background-color:#104366;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-k5ew{background-color:#FDF69E;color:#222;text-align:left;vertical-align:top}
+.tg .tg-k88s{background-color:#E6C20C;color:#141D1C;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-tmry">Operating Hours</th>
-    <th class="tg-py7v">Operating Dates</th>
-    <th class="tg-py7v">Stream</th>
-    <th class="tg-py7v">Remarks</th>
+    <th class="tg-k88s">Operating Hours</th>
+    <th class="tg-k88s">Operating Dates</th>
+    <th class="tg-k88s">Stream</th>
+    <th class="tg-k88s">Remarks</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-k5ew" rowspan="3">9.00 am to 3.00 pm<br>(Mon – Fri)<br>Closed on Sat, Sun,Eve of PH and PH<br>Closed on 30 Dec 2022</td>
-    <td class="tg-k5ew">22/12</td>
-    <td class="tg-k5ew">Express</td>
-    <td class="tg-k5ew" rowspan="2">Walk-in Purchases<br>MOE FAS collection</td>
+    <td class="tg-ktyi" rowspan="3">9.00 am to 3.00 pm<br>(Mon – Fri)<br> <br>Closed on Sat, Sun,Eve of PH and PH<br>Closed on 30 Dec 2022</td>
+    <td class="tg-ktyi">22/12</td>
+    <td class="tg-ktyi">Express</td>
+    <td class="tg-ktyi" rowspan="2">Walk-in Purchases<br>MOE FAS collection</td>
   </tr>
   <tr>
-    <td class="tg-5f5j">23/12</td>
-    <td class="tg-5f5j">NA/NT</td>
+    <td class="tg-ktyi">23/12</td>
+    <td class="tg-ktyi">NA/NT</td>
   </tr>
   <tr>
-    <td class="tg-k5ew">27/12 to 29/12</td>
-    <td class="tg-k5ew">All streams</td>
-    <td class="tg-k5ew">Walk-in Purchases<br>MOE FAS collection</td>
+    <td class="tg-ktyi">27/12 to 29/12</td>
+    <td class="tg-ktyi">All streams</td>
+    <td class="tg-ktyi"><span style="background-color:transparent">Walk-in Purchases</span><br><br>MOE FAS collection</td>
   </tr>
 </tbody>
 </table>
 
 
 <b>Mode of Payment:</b>
+
 
 *   Online Purchase via PayNow and Credit Card (VISA/Mastercard) for Home Delivery.
 *   Self-Collection ([www.cascoedusupply.com.sg](http://www.cascoedusupply.com.sg/)) - Username: NSS, Password  2413
