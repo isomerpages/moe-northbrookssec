@@ -140,7 +140,7 @@ Some sec 1 NA and NT students will be eligible to take more demanding subjects t
 *   Walk-in Purchase via Cash, PayNow, NTUC Care Fund (e-vouchers).
 
 
-**Booklists:**     
+<b>Booklists:</b> 
 
 [<b>Sec 1 EXP booklist</b>](/files/NSS%20Sec%201EXP%20%20Booklist%202023.pdf) <br>
 [<b>Sec 1 NA booklist</b>](/files/NSS%20Sec%201%20NA%20Booklist%202023.pdf) <br>
@@ -157,34 +157,33 @@ Some sec 1 NA and NT students will be eligible to take more demanding subjects t
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-5f5j{background-color:#FCE573;color:#222;text-align:left;vertical-align:top}
-.tg .tg-py7v{background-color:#104366;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-k5ew{background-color:#FDF69E;color:#222;text-align:left;vertical-align:top}
+.tg .tg-k88s{background-color:#E6C20C;color:#141D1C;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-py7v">Operating Hours</th>
-    <th class="tg-py7v">Operating Dates</th>
-    <th class="tg-py7v">Stream</th>
-    <th class="tg-py7v">Remarks</th>
+    <th class="tg-k88s">Operating Hours</th>
+    <th class="tg-k88s">Operating Dates</th>
+    <th class="tg-k88s">Stream</th>
+    <th class="tg-k88s">Remarks</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-k5ew" rowspan="3">9.00 am to 3.00 pm<br>(Mon – Fri)<br>Closed on Sat, Sun,Eve of PH and PH<br>Closed on 30 Dec 2022</td>
-    <td class="tg-k5ew">22/12</td>
-    <td class="tg-k5ew">Express</td>
-    <td class="tg-k5ew" rowspan="2">Walk-in Purchases<br>MOE FAS collection</td>
+    <td class="tg-ktyi" rowspan="3">9.00 am to 3.00 pm<br>(Mon – Fri)<br> <br>Closed on Sat, Sun,Eve of PH and PH<br>Closed on 30 Dec 2022</td>
+    <td class="tg-ktyi">22/12</td>
+    <td class="tg-ktyi">Express</td>
+    <td class="tg-ktyi" rowspan="2">Walk-in Purchases<br>MOE FAS collection</td>
   </tr>
   <tr>
-    <td class="tg-5f5j">23/12</td>
-    <td class="tg-5f5j">NA/NT</td>
+    <td class="tg-ktyi">23/12</td>
+    <td class="tg-ktyi">NA/NT</td>
   </tr>
   <tr>
-    <td class="tg-k5ew">27/12 to 29/12</td>
-    <td class="tg-k5ew">All streams</td>
-    <td class="tg-k5ew">Walk-in Purchases<br>MOE FAS collection</td>
+    <td class="tg-ktyi">27/12 to 29/12</td>
+    <td class="tg-ktyi">All streams</td>
+    <td class="tg-ktyi"><span style="background-color:transparent">Walk-in Purchases</span><br><br>MOE FAS collection</td>
   </tr>
 </tbody>
 </table>
@@ -198,10 +197,7 @@ Some sec 1 NA and NT students will be eligible to take more demanding subjects t
 *   No self-collection for Online Purchases.
 *   Walk-in Purchase via Cash, PayNow, NTUC Care Fund (e-vouchers), CDAC Vouchers.
 
-  
-
 Sec 1 students are allowed to wear their primary school uniform if their new uniforms are not ready during this transition period.
-
 
 ### Step 2d: Health Promotion Board (HPB) Digital Letter 
 -----------------------------------------------------
