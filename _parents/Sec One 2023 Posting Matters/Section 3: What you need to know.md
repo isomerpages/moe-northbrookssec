@@ -116,9 +116,9 @@ To reduce out-of-pocket cash from students, Singapore citizen students can use t
 ![](/images/BlendedLearning.png)
 
 Blended Learning builds on Singapore’s education reform – “Learn for Life” movement – to build stronger abilities, skills and habits for independent and lifelong learning. This is in line with Northbrooks Mission to imbue in Brooksians a growth learning mindset, rooted in values and impacts the community, so as to better prepare the students for the future.  
-
-Blended Learning refers to the model of integrating Home-Based Learning (HBL) as a regular feature in the schooling experience. It constitutes a seamless learning experience, with days when students learn in school, and days (which could be termed as “Independent Learning Days”\*) when students can learn at home.
-
+  
+Blended Learning refers to the model of integrating Home-Based Learning (HBL) as a regular feature in the schooling experience. It constitutes a seamless learning experience, with days when students learn in school, and days (which could be termed as “Independent Learning Days”\*) when students can learn at home.  
+  
 Through blended learning, we hope to nurture self-directed and independent learners and develop passionate and intrinsically motivated learners who possess the desire and passion to learn for life.
 
 
