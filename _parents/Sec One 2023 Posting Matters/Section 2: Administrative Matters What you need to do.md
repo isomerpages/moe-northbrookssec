@@ -210,23 +210,24 @@ The [digital letter](https://northbrookssec-moe-edu-sg-admin.cwp.sg/) contains
 
 <i><b>(Optional)</b></i>   
   
-Parents/Guardians applying for MOE Financial Assistance Scheme (FAS) must come down to school in person by <b>27 December 2022, 5.00pm</b> with all the original & required supporting documents. <br>Please refer to the [MOE FAS Application Form](/files/MOE%20FAS%20Application%20Form.pdf)
+Parents/Guardians applying for MOE Financial Assistance Scheme (FAS) must come down to the school in person on <b>27 December 2022, 5.00pm</b> with all the original & required supporting documents.  
+  
+Please refer to the **[MOE FAS Application Form](https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Parents/Sec%201%20Registration%20(2023%20Intake)/MOE%20FAS%20Application%20Form.pdf)**  
+  
+Two types of FAS application:  
 
-Two types of FAS application:
+*   <b>Already Approved MOE FAS for 2023 with Approval letter from Primary School</b> \- Please exchange your letter at Learning Network Room (Level 1) in order for you to collect your books and uniforms.
+*   <b>New Applications</b> \- Please proceed to Learning Network Room (Level 1) to complete the application form. Submit your supporting documents. Once approved, you will be notified to collect the School Approval Letter.
 
-*   <b>Already Approved MOE FAS for 2023 with Approval Letter from Primary School</b> \- Please exchange your letter at [Learning Network Room (Level 1)](/files/On-site%202022.pdf) in order for you to collect your books and uniforms.  
-    
-*   <b>New applications</b> \- Please proceed to [Learning Network Room (Level 1)](/files/On-site%202022.pdf) to complete the application form. Submit your supporting documents. Once approved, you will be notified to collect the School Approval letter.  
-    
+<b>Please ensure that you obtain the School Approval letter before collecting your free books and uniforms.</b>
 
   
 
-Please ensure that you obtain the School Approval letter before collecting your free books and uniforms.
+For parents/guardians who want to find out more about the MOE Financial Assistance Scheme (FAS), you may click on the link below.
 
-  
 
-For parents/guardians who want to find out more about the MOE Financial Assistance Scheme (FAS), you may click on the link below. <br>
-[<b>MOE FAS Pamphlet 2023</b>](/files/MOE%20FAS%20Pamphlet%202023.pdf)
+[MOE FAS Pamphlet 2023](https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Parents/Sec%201%20Registration%20(2023%20Intake)/MOE%20FAS%20Pamphlet%202023.pdf)
+
 
 
 ### Step 2f: Applications for Higher Mother Tongue, Foreign / 3rd Languages and exemption in Mother Tongue Language
