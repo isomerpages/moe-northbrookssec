@@ -85,10 +85,8 @@ Please click on the link below to find out more.
 
 ![](/images/FSBB_2023.png)
 
-----
 
-
-More information can be found here: **[https](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html)[://](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html)[www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html)**
+<b>More information can be found here:</b> [https](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html)[://](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html)[www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html)
 
 
 
