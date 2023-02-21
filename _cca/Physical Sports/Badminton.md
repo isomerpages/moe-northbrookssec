@@ -14,8 +14,7 @@ Badminton
 
 1\. Mr Alex Ang Kok Wee (Advisor) <br>
 2\. Mr Janson Yong (Teacher-in-charge) <br>
-3\. Ms Nuraini Mansor Ali (2 Teacher-in-charge) <br> 
-4\. Ms Quek Sue Wen Carolyn
+3\. Ms Nuraini Mansor Ali (2 Teacher-in-charge) <br> 4\. Ms Quek Sue Wen Carolyn
 
 ### Training Day / Time
 
