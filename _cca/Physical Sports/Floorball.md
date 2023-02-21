@@ -15,8 +15,7 @@ Floorball
 1\. Mr Alex Ang Kok Wee (Advisor) <br>
 2\. Mr Kenneth Yong (Teacher-in-charge) <br>
 3\. Miss Chan Min Er, Cecilia (2 Teacher-in-charge) <br>
-4\. Mr Eng Sze Shean <br> 
-5\. Ms Siti Nadiah
+4\. Mr Eng Sze Shean <br>5\. Ms Siti Nadiah
 
 ### Training Day / Time
 
