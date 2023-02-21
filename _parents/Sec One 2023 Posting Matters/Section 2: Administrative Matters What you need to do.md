@@ -30,6 +30,8 @@ Books and uniform/PE attire are available for purchase online. If you choose to 
 
 Students would be able to know the class allocation via [Parents Gateway App](https://northbrookssec.moe.edu.sg/people/parents/sec-1-registration-2021-intake/section-4-others) by 30 December 2022, 5 pm.
 
+Note: Parents Gateway App link not found.
+
 
 ### Step 2a: RIASEC Survey
 ----------------------
