@@ -95,14 +95,15 @@ Please click on the link below to find out more.
 
 ![](/images/pdlp1.jpg)
 
-At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (NDLP) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed computing device or Personal Learning Device (PLD).
+At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (NDLP) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed computing device or Personal Learning Device (PLD).  
+  
 
-Every Brooksian will be using the latest <b>9th generation Apple iPad (10.2”)</b> as their personal learning device. Every iPad will come bundled with the pencil and keyboard to maximise the affordances of the iPad as a learning tool.  Lessons in the curriculum and co-curriculum will be designed intentionally to allow students to have the opportunity to apply their digital literacy, as we enable them to be future-ready in a digital world.
+Every Brooksian will be using the latest <b>9th generation Apple iPad (10.2”)</b> as their personal learning device. Every iPad will come bundled with the pencil and keyboard to maximise the affordances of the iPad as a learning tool. Lessons in the curriculum and co-curriculum will be designed intentionally to allow students to have the opportunity to apply their digital literacy, as we enable them to be future-ready in a digital world.
 
-To reduce out-of-pocket cash from students, Singapore citizen students can use their Edusave account to pay for the PLD. For students on financial assistance, further subsidies will be provided.  Currently, most students will be able to pay through their Edusave without paying any cash. The purchase process for 2023 sec 1 students will happen in Term 1, 2023.  More information will be provided in January 2023.
+To reduce out-of-pocket cash from students, Singapore citizen students can use their Edusave account to pay for the PLD. For students on financial assistance, further subsidies will be provided. Currently, most students will be able to pay through their Edusave without paying any cash. The purchase process for 2023 sec 1 students will happen in Term 1, 2023. More information will be provided in January 2023.
 
 
- <img src="/images/PDLP2.png" style="width:200px;height:200px;margin-right:15px;" align = "left"> In the meantime, You may click on the link below to access the 1 to 1 device page where you can find videos, letters and information sheet created in 2022 for our current students.  Within each letter and information sheet, there are frequently asked questions section as well.  Please do not use any of the forms found in it as it is not meant for 2023 Sec 1 students.  
+ <img src="/images/PDLP2.png" style="width:200px;height:200px;margin-right:15px;" align = "left">In the meantime, You may click on the link below to access the 1 to 1 device page where you can find videos, letters and information sheet created in 2022 for our current students. Within each letter and information sheet, there are frequently asked questions section as well. Please do not use any of the forms found in it as it is not meant for 2023 Sec 1 students.  
 
   
 
