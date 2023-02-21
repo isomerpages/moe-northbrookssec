@@ -107,7 +107,7 @@ To reduce out-of-pocket cash from students, Singapore citizen students can use t
 
   
 
-[<b>More information on 1 to 1 Personal Learning Device</b>](/people/Parents/National-Digital-Literacy-Programme-NDLP/)
+[<b>More information on 1 to 1 Personal Learning Device</b>](/parents/National-Digital-Literacy-Programme-NDLP/)
 
 
 ### 4.  Blended Learning (BL)
