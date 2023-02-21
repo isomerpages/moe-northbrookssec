@@ -41,8 +41,14 @@ Note: Parents Gateway App link not found.
 *   The information from the survey will provide us with more opportunities to <b>better guide and support them</b> in exploring their career aspirations
 
 *   Education and Career Guidance (ECG) programmes <b>can also be better tailored and planned</b> by taking into consideration the students’ preferences.
-
-*   The survey data will enable them to explore their passions and pursue their areas of interest where possible
+    
+    *   The RIASEC self-assessment tool allows us to <b>better understand</b> students’ personality, strength and work values.
+    
+    *   The information from the survey will provide us with more opportunities to <b>better guide and support them</b> in exploring their career aspirations
+    
+    *   Education and Career Guidance (ECG) programmes <b>can also be better tailored and planned</b> by taking into consideration the students’ preferences.
+    
+    *   The survey data will enable them to explore their passions and pursue their areas of interest where possible
 
 <img src="/images/RIASEC.png" style="width:45%;float:left">
 
