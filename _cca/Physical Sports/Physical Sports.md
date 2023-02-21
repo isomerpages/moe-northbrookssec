@@ -11,7 +11,7 @@ Physical Sports
 
 ### Core Focus
 
-##### Plan and develop and monitor policies and programmes on sports co-curricular activities:  
+##### Plan and develop and monitor policies and programmes on sports co-curricular activities:
 
 *   Develop sports policies through studies in diverse research areas
 *   Develop research protocols to meet the needs of schools in the delivery of effective sports programmes
