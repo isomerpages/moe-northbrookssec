@@ -27,7 +27,7 @@ Every CCA a Champion CCA, Impacting the Community
 *   Provides balance development through cognitive, social-moral, leadership, physical and aesthetic domains.
 
 
-### <center> CCA Information & Teachers-in-charge 2022 </center>
+### <center> CCA Information & Teachers-in-charge 2023 </center>
 
 
 Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more information
