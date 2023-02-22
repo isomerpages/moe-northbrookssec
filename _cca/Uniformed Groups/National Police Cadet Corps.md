@@ -120,39 +120,3 @@ It's been a brilliant 4 years being in NPCC and all the activities that i c
 NPCC has guided me in many different ways and it has shaped me into becoming who I am today. The trainings every week were tiring, but it taught me to persevere on and endure through my 4 years. Despite all these tough trainings, I was still able to have fun, by hanging out with the seniors and making friends with other units during area events.
 </div></div>
 
-Testimonials
-============
-
-### Testimonials from Secondary 4 NPCC Cadets:
-
-
-
-<div>
-
-<div style="float: right">
-
-![](/images/NPCC1.jpeg)
-
-</div><div>
-	
-SSGT(NPCC) Darwin Azhar Bin Azni
-
-"Without NPCC, I would have never been able to change my ways during my third year in secondary school. After my second year, I realised that my attitude and behaviour in school at that point of time would not bring me any good. Things changed after I went through the Cadet Leader Training Course in secondary three. My personality changed for the better and I matured. Thanks to NPCC, my life became better than before. I have become the leader who I have always wanted to be - driven and disciplined one."
-	
-</div></div>
-
-
----
-
-<div>
-
-<div style="float: right">
-
-![](/images/NPCC2.jpeg)
-
-</div><div>
-	
-SI(NPCC) Kimberly Chng  
-
-"When I first joined NPCC, I never thought I would be where I am today. I have learnt so much during my time here in the unit that almost everything that I have learnt, I have aplied it to my daily life. I have good friends who have been supporting me from the first day I entered NPCC. I used to be a shy person who did not dare to speak to a group of people. NPCC change that. I never thought I would become a squad IC because I was unsure I had the ability to take on a big role. But with the help of my squadmates, I actually spore out more and was never as shy as I was before. NPCC taught me that teamwork is very iportant. I appreciate that all these factors made me a better person."
-</div></div>
