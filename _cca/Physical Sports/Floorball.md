@@ -22,16 +22,26 @@ Floorball
 Mondays, 3.30pm - 6.30pm  
 Fridays, 2.30pm - 5.30pm  
 
-Floorball was first introduced to the courts of Singapore in 1994, and as the floorball scene continued to grow and gain traction amongst Singaporeans, it has become a niche sport in a number of schools today.  
+Floorball was first introduced to the courts of Singapore in 1994, and as the floorball scene continued to grow and gain traction amongst Singaporeans, it has become a niche sport in a number of schools today.
+
   
-The Northbrooks’ floorball team consists of a group of boys who are passionate about the sport. Conducted twice a week, training sessions are fast-paced and intense as the game requires players to play for a period of 15 minutes.  
+
+The Northbrooks’ floorball team consists of a group of boys who are passionate about the sport. Conducted twice a week, training sessions are fast-paced and intense as the game requires players to play for a period of 15 minutes.
+
   
-Under the mentorship of Northbrooks’ very own alumni, Syazni, Captain of the Singapore team during the SEA Games 2015, Northbrooks’ floorball team emerged as the first runner-up in the ‘C’ Division tournament in 2016 . The team hopes to continue to honour the school name in the years to come.  
+
+Under the mentorship of Northbrooks’ very own alumni, Syazni, Captain of the Singapore team during the SEA Games 2015, Northbrooks’ floorball team emerged as the first runner-up in the ‘C’ Division tournament in 2016 . The team hopes to continue to honour the school name in the years to come.
+
   
-Through the biweekly training and debrief sessions, the floorball CCA aims to cultivate the Champion Learning Mindset in our boys as they are given opportunities to learn and demonstrate the values of discipline, teamwork, fortitude, and sportsmanship. Potential leaders are also given opportunities to develop their leadership skills.  
+
+Through the biweekly training and debrief sessions, the floorball CCA aims to cultivate the Champion Learning Mindset in our boys as they are given opportunities to learn and demonstrate the values of discipline, teamwork, fortitude, and sportsmanship. Potential leaders are also given opportunities to develop their leadership skills.
+
   
-Also known as Team HOPLITES, a reference to the armored soldiers of Ancient Greece to symbolise the resilience of the team, the team has been given the opportunity in past years to participate in the ActiveSG Singapore Floorball League Men’s Division to better their skills and techniques where students get to play against players at the tertiary education level, or even adults.  
+
+Also known as Team HOPLITES, a reference to the armored soldiers of Ancient Greece to symbolise the resilience of the team, the team has been given the opportunity in past years to participate in the ActiveSG Singapore Floorball League Men’s Division to better their skills and techniques where students get to play against players at the tertiary education level, or even adults.
+
   
+
 Other key programmes that the team undergoes to hone their techniques and skills include: Mental Skills Programme, friendly matches against other school teams, and the End-of-Year training camp.
 
 ### Objectives
