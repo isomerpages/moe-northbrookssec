@@ -25,7 +25,8 @@ Boys' Brigade
 Mondays, 3.30pm - 6.30pm  
 Alternate Saturdays, 9.00am - 12.00pm
 
-The 87th Singapore Company was officially founded on 7th Nov 2002. Since then, the Company has grown rapidly with its all-encompassing activities like canoeing, hiking, rock climbing, archery, drill and leadership camps and has done well in every National Competition participated.
+The 87th Singapore Company was officially founded on 7th Nov 2002. Since then, the Company has grown rapidly with its all-encompassing activities like canoeing, hiking, rock climbing, archery, drill and leadership camps and has done well in every National Competition participated.  
+  
 
 The Company has achieved much in such a short period of time. This is largely due to the unrelenting efforts of our Volunteer Adult Leaders and Instructors. The Company has set its sights to be the preferred CCA that is Best for Boys!
 
@@ -73,10 +74,10 @@ The BB emblem is an anchor as inspired by the same Bible verse.
 
 ### Programmes:
 
-The Boys’ Brigade Seniors Programme provides holistic development to secondary school boys. Through the proficiency awards scheme, Boys acquire skills and knowledge in the areas of Leadership, Personal Mastery, Global Awareness and Community Spiritedness.  
-  
-In addition, brigade-level competitions, leadership development courses and community service projects such as BB Share-a-Gift and BB CARES offer opportunities for exposure and skills development. Mentoring also plays a big role in the Seniors Programme. With Intentional Mentoring, Boys are closely mentored by dedicated Officers who take time to develop Boys' character more closely.  
-  
+The Boys’ Brigade Seniors Programme provides holistic development to secondary school boys. Through the proficiency awards scheme, Boys acquire skills and knowledge in the areas of Leadership, Personal Mastery, Global Awareness and Community Spiritedness.
+
+In addition, brigade-level competitions, leadership development courses and community service projects such as BB Share-a-Gift and BB CARES offer opportunities for exposure and skills development. Mentoring also plays a big role in the Seniors Programme. With Intentional Mentoring, Boys are closely mentored by dedicated Officers who take time to develop Boys' character more closely.
+
 The ranks in the Seniors Programme include:
 ![](/images/2021_BB_Rank.png)
 
