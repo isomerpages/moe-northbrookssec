@@ -148,21 +148,15 @@ Our champions are: <br>
     *   4th position in the Unpowered Glider Competition
     *   3rd Position in the Radio Controlled Flight Competition
 
-<img src="/images/fly8.png" style="width:60%">
+<img src="/images/fly8.png" style="width:180px;height:280px;margin-left:15px;" align = "right">
 
 
-We are proud that our ex-Brooksian, Brendan Lee Wei Liang (Class of 2013) has attained his Private Pilot License (PPL), after having gone through rigorous phase training and examinations conducted by the Singapore Youth Flying Club (SYFC).
-
+We are proud that our ex-Brooksian, Brendan Lee Wei Liang (Class of 2013) has attained his Private Pilot License (PPL), after having gone through rigorous phase training and examinations conducted by the Singapore Youth Flying Club (SYFC).  
   
-
-During his Secondary School days as a member of the Northbrooks Youth Flying Club, Brendan made full use of his learning opportunities and honed his skills in aviation. The experience inspired him and he developed an avid interest in aviation, aspiring to become a pilot someday. With the attainment of his PPL, his dream has finally materialized.
-
+During his Secondary School days as a member of the Northbrooks Youth Flying Club, Brendan made full use of his learning opportunities and honed his skills in aviation. The experience inspired him and he developed an avid interest in aviation, aspiring to become a pilot someday. With the attainment of his PPL, his dream has finally materialized.  
   
-
-"The school instilled in me the discipline to work hard and to never give up even when faced with difficult problems. Training as a pilot was no easy task as it required tremendous focus, dedication, and knowledge. Undergoing this course, I learned to be disciplined in reviewing all the mistakes I made and strove to always do better in the next flight" said Brendan.
-
+"The school instilled in me the discipline to work hard and to never give up even when faced with difficult problems. Training as a pilot was no easy task as it required tremendous focus, dedication, and knowledge. Undergoing this course, I learned to be disciplined in reviewing all the mistakes I made and strove to always do better in the next flight" said Brendan.  
   
-
 A self-directed learner, Brendan’s fortitude and determination have enabled him to set a new yardstick for the next generation of achievers of the Northbrooks Youth Flying Club.
 
   
