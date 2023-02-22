@@ -8,15 +8,12 @@ third_nav_title: Uniformed Groups
 
 National Cadet Corp (Air)
 =========================
-
-![](/images/For%20Website%202.png)
-
-### Teachers-in-Charge
-
 1\. Mr Alex Ang Kok Wee (Advisor) <br>
 2\. Mr Toh Chin Hwee (Teacher-in-charge) <br>
 3\. Mr Wu Yueshen (2 Teacher-in-charge) <br>
 4\. Mr Muhammad Bin Parjo
+
+![](/images/For%20Website%202.png)
 
 ### Training Day / Time
 
@@ -64,7 +61,7 @@ Cadets will also participate in inter-unit competitions and the Air competition 
 *   Unit Recognition - Acoomplishment
 
 *   Air COmpetition (Catapult Launched Glider) - Third
-&nbsp;<img style="width:70%" src="/images/NCC1.jpeg">
+&nbsp;<img src="/images/NCC1.jpeg" style="width:70%">
 
 #### 2018
 
