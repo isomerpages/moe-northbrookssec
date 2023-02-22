@@ -130,31 +130,21 @@ Key programmes that the Northbrooks Floorball Team are as follows:
 
   
 
-Congratulations to the 'B' Boys floorball team for receiving Northzone Colour Awards for the first time in 2007. On top of that, 3 of our Brooksian floorball players received individual Northzone Colour Awards for their outstanding contributions:
-
+Congratulations to the 'B' Boys floorball team for receiving Northzone Colour Awards for the first time in 2007. On top of that, 3 of our Brooksian floorball players received individual Northzone Colour Awards for their outstanding contributions:  
   
 
-*   Syazni Ramlee
-
+*   Syazni Ramlee 
 *   Amir Mustaffa
-    
 *   Iskandar Shah
-    
 
   
-
-Congratulations also to these boys who have been successfully selected for the Singapore Combined School Floorball Team 2008:
-
+Congratulations also to these boys who have been successfully selected for the Singapore Combined School Floorball Team 2008:  
   
 
 *   Mohd Nazr, 4I
-    
 *   Abdul Syafiq, 4T
-    
 *   Mohd Amir, 4E
-    
 
   
-
-2nd placing in the Singapore Raft River Race Floorball Open on 19 – 20th May 2007-6-29   
+2nd placing in the Singapore Raft River Race Floorball Open on 19 – 20th May 2007-6-29  
 Participated in the 1st National Interschool Floorball Championship 2007
