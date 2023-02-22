@@ -13,11 +13,11 @@ Uniformed Groups
 
 The Uniformed Groups (UG) are recognised as a strong character building platform, as it helps to instil in students commitment and loyalty to the nation, develop ruggedness of body and mind as well as cultivate leadership qualities and discipline and esprit de corps. It is important that a significant proportion of our students continue to benefit from the UG.
 
-**Our Vision**  
+<b>Our Vision</b>  
 
 UG, The Preferred Choice
 
-**Our Mission**  
+<b>Our Mission</b>  
 
 We build and enhance the capacity of schools and stakeholders to enrich students’ experience through the Uniformed Groups.
 
@@ -29,6 +29,8 @@ We build and enhance the capacity of schools and stakeholders to enrich students
 ###### On 27 to 31 October 2014
 
 A group of 5 teachers and 35 members from the UGs embarked on a cultural immersion and adventure journey to Gopeng, Perak. The trip raised students’ awareness of cultural difference of the global community and provided opportunities for students to live out the school values. The programme included activities such as abseiling, white-water rafting, caving, visit to hot spring and trekking. The trip also offered an excellent opportunity for students to acquire valuable life skills such as teamwork and relationship management.
+
+Click [here](https://northbrookssec-moe-edu-sg.cwp-stg.sg/northbrooks-signature-experiences/photo-gallery) to view the photos
 
 ### UG Overseas Learning Experience
 -------------------------------
