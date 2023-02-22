@@ -16,18 +16,14 @@ Infocomm Club
 
 ### Training Day / Time
 
-
-
-
-
 Mondays, 3.30pm - 5.30pm
 
-Northbrooks Infocomm Club aims to excite students about infocomm in a fun and meaningful way by helping them learn infocomm skills and to cultivate leadership and entrepreneurial capabilities at an early age.
 
+<img src="/images/infocomm.png" style="width:200px;height:190px;margin-left:15px;" align = "right">
+
+Northbrooks Infocomm Club aims to excite students about infocomm in a fun and meaningful way by helping them learn infocomm skills and to cultivate leadership and entrepreneurial capabilities at an early age.  
+  
 Activities in Infocomm Clubs are aligned with MOE’s Co-Curricular Activities (CCA) framework, where students earn CCA points through participation in the Clubs. The club activities include projects and competitions. The students in
-
-
-<img src="/images/infocomm.png" style="width:50%">
 
 
 ### Objectives:
