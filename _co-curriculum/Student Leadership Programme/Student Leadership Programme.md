@@ -31,3 +31,51 @@ There is a need to tier student leaders into different categories so as to track
 
 
 <u><b>Student Leaders 3H Outcomes</b></u>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-nrix" rowspan="2">Tiers</th>
+    <th class="tg-nrix" colspan="3">Outcomes</th>
+  </tr>
+  <tr>
+    <th class="tg-nrix">Heart</th>
+    <th class="tg-nrix">Head</th>
+    <th class="tg-nrix">Hands</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-nrix">Tier 1</td>
+    <td class="tg-nrix">Display initiative</td>
+    <td class="tg-nrix">Self-discipline</td>
+    <td class="tg-nrix">Leading themselves to do the right thing</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Tier 2A</td>
+    <td class="tg-nrix">Empathy: Understanding Others</td>
+    <td class="tg-nrix">Leading by example</td>
+    <td class="tg-nrix">Conflict management skills <br>Facilitation and public speaking skills</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Tier 2B</td>
+    <td class="tg-nrix">Develop awareness of others and the needs of the community</td>
+    <td class="tg-nrix">Rally the school</td>
+    <td class="tg-nrix">Leading in planning and executing school wide events</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Tier 3</td>
+    <td class="tg-nrix">Develop traits of servant leadership: The use of negotiation with persuasion in decision-making</td>
+    <td class="tg-nrix">Leading people to impact the community </td>
+    <td class="tg-nrix">Leading in planning and facilitate school wide/ community events</td>
+  </tr>
+</tbody>
+</table>
