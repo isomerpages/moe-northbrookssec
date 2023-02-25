@@ -32,20 +32,18 @@ Activities in Infocomm Clubs are aligned with MOE’s Co-Curricular Activities (
 
 ### Programmes:
 
-*   Schools Digital Media Awards (SDMA)
+*   Schools Digital Media Awards (SDMA)  
+    
 *   Providing service to the school by filming and editing videos
+    
 *   Ad hoc projects to hone skills
 
 ### Achievements:
 
-
-<img src="/images/infocomm2.png" style="width:240px;height:240px;margin-left:15px;" align = "right">
-
-
-
 ##### 2017  
 
 *   Schools Digital Media Awards (SDMA) - <b>Merit Award</b>
+<img src="/images/infocomm2.png" style="width:240px;height:200px;margin-left:15px;" align = "right">
 
 ##### 2014
 
