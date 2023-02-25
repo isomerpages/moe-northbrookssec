@@ -111,3 +111,16 @@ There is a need to tier student leaders into different categories so as to track
   </tr>
 </tbody>
 </table>
+
+
+References:  
+Greenleaf, R.K. (1997) The Servant as Leader.  
+Kouzes, J & Posner, B (2012) Five Exemplary Practices of Student Leadership.  
+Dweck, C (2006) Mindset The new psychology of success.
+
+
+### Professional Development for Teachers
+
+The Student Leadership team takes teacher training seriously and actively role model continuous learning for our Student Leaders. The teachers have undergone training workshops in experiential learning facilitation and visual facilitation so as to cascade these skills to the Student Leaders.  
+  
+The teachers are also kept abreast with the youth development scene in Singapore through its learning journey to MOX, a collaborative entrepreneurship company. During the visit, teachers caught a glimpse of synergistic possibilities and how leadership is operationalised in local start-up firms.
