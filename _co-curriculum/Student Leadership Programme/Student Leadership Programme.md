@@ -28,3 +28,6 @@ Equipping with the skillsets to serve 
   
 3P Tier Approach   
 There is a need to tier student leaders into different categories so as to track their developmental progress and to customise programmes at targeted group of students. The tier-ing of Student Leaders takes close reference to the leadership domain in LEAPS 2.0
+
+
+<u><b>Student Leaders 3H Outcomes</b></u>
