@@ -41,7 +41,7 @@ School Facilities
   </tr>
   <tr>
     <td class="tg-norj"><span style="font-weight:500;color:#06667E">Brooks </span><br><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.IMG_9816.JPG.2.jpg" alt="Image" width="187" height="280"><br><span style="font-weight:400;color:#000">Our very own Park within the school</span><br></td>
-    <td class="tg-842k"><span style="font-weight:bold">Rockwall</span><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.rockwall_2.JPG.2.jpg" alt="Image" width="187" height="280"># <br>4-storey high rock wall used by students during PE lessons and for Enrichment</td>
+    <td class="tg-842k"><span style="font-weight:bold">Rockwall</span><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.rockwall_2.JPG.2.jpg" alt="Image" width="187" height="280"> <br>4-storey high rock wall used by students during PE lessons and for Enrichment</td>
   </tr>
   <tr>
     <td class="tg-norj"><span style="font-weight:500;color:#06667E">Running Track</span><br><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.IMG_9834.JPG.2.jpg" alt="Image" width="280" height="187"><br><span style="font-weight:400;color:#000">2 lane track around the field that provides students with synthetic running surface</span><br></td>
