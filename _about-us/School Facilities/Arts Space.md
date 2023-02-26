@@ -20,9 +20,7 @@ Aimed at providing a proper and common space for students to showcase artistic w
 
   
 
-Situated next to the Music Room, the Arts Space is utilised by students undergoing the General Music Programme (GMP). The Space transforms into a hive of student activities during Music lessons as students rehearse their presentations and simulate real stage performances. 
-
-The Arts Space also supports the showcase of visual art works. During the Post-Examination Activity (PEA) week recently, the Space was one of the venues to host the annual Brooksian Art Exhibition entitled <i><b>SOARTS</b></i>. 
+Situated next to the Music Room, the Arts Space is utilised by students undergoing the General Music Programme (GMP). The Space transforms into a hive of student activities during Music lessons as students rehearse their presentations and simulate real stage performances. <br>The Arts Space also supports the showcase of visual art works. During the Post-Examination Activity (PEA) week recently, the Space was one of the venues to host the annual Brooksian Art Exhibition entitled <i><b>SOARTS</b></i>. 
 
   
 
