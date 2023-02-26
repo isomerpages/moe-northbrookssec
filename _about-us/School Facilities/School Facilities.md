@@ -40,12 +40,12 @@ School Facilities
     <td class="tg-norj"><span style="font-weight:500;color:#06667E">Attic</span><br><br><img src="/images/Attic.jpeg" style="width:100%"><br><span style="font-weight:400;color:#000">An open air classroom for art  </span><br></td>
   </tr>
   <tr>
-    <td class="tg-norj"><span style="font-weight:500;color:#06667E">Brooks </span><br><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.IMG_9816.JPG.2.jpg" alt="Image" width="187" height="280"><br><span style="font-weight:400;color:#000">Our very own Park within the school</span><br></td>
-    <td class="tg-842k"><span style="font-weight:500;color:#06667E">Rockwall</span><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.rockwall_2.JPG.2.jpg" alt="Image" width="187" height="280"> <br>4-storey high rock wall used by students during PE lessons and for Enrichment</td>
+    <td class="tg-norj"><span style="font-weight:500;color:#06667E">Brooks </span><br><br><img src="/images/Brooks.jpeg" style="width:70%"><br><span style="font-weight:400;color:#000">Our very own Park within the school</span><br></td>
+    <td class="tg-842k"><span style="font-weight:500;color:#06667E">Rockwall</span><br><img src="/images/Rockwall.jpeg" style="width:70%"> <br>4-storey high rock wall used by students during PE lessons and for Enrichment</td>
   </tr>
   <tr>
-    <td class="tg-norj"><span style="font-weight:500;color:#06667E">Running Track</span><br><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.IMG_9834.JPG.2.jpg" alt="Image" width="280" height="187"><br><span style="font-weight:400;color:#000">2 lane track around the field that provides students with synthetic running surface</span><br></td>
-    <td class="tg-norj"><span style="font-weight:500;color:#06667E">Futsal Court</span><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/streetsoccer.jpg" alt="Image" width="294" height="186"><br>Free-to-play Futsal court</td>
+    <td class="tg-norj"><span style="font-weight:500;color:#06667E">Running Track</span><br><br><img src="/images/Track.jpeg" style="width:80%"><br><span style="font-weight:400;color:#000">2 lane track around the field that provides students with synthetic running surface</span><br></td>
+    <td class="tg-norj"><span style="font-weight:500;color:#06667E">Futsal Court</span><br><img src="/images/streetsoccer.jpg" style="width:80%"><br>Free-to-play Futsal court</td>
   </tr>
   <tr>
     <td class="tg-norj"><span style="font-weight:500;color:#06667E"> </span> <a href="https://northbrookssec.moe.edu.sg/about-us/school-facilities/digital-greenwall"><span style="color:#06667E">Vertical Green Wall</span></a><a href="https://northbrookssec.moe.edu.sg/about-us/school-facilities/digital-greenwall"> </a><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.foyer%20full%20view.JPG.2.jpg" width="280" height="187"></td>
@@ -56,4 +56,4 @@ School Facilities
 
 
 
-<img src="/images/Attic.jpeg" style="width:80%">
+<img src="/images/streetsoccer.jpg" style="width:80%">
