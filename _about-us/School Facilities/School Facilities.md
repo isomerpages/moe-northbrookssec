@@ -48,7 +48,7 @@ School Facilities
     <td class="tg-norj"><span style="font-weight:500;color:#06667E">Futsal Court</span><br><img src="/images/streetsoccer.jpg" style="width:80%"><br>Free-to-play Futsal court</td>
   </tr>
   <tr>
-    <td class="tg-norj"><span style="font-weight:500;color:#06667E"> </span> <a href="https://northbrookssec.moe.edu.sg/about-us/school-facilities/digital-greenwall"><span style="color:#06667E">Vertical Green Wall</span></a><a href="https://northbrookssec.moe.edu.sg/about-us/school-facilities/digital-greenwall"> </a><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.foyer%20full%20view.JPG.2.jpg" width="280" height="187"></td>
+    <td class="tg-norj"><span style="font-weight:500;color:#06667E"> </span> <a href="/about-us/School-Facilities/Digital-Green-Wall/"><span style="color:#06667E">Vertical Green Wall</span></a><a href="https://northbrookssec.moe.edu.sg/about-us/school-facilities/digital-greenwall"> </a><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.foyer%20full%20view.JPG.2.jpg" width="280" height="187"></td>
     <td class="tg-7ew7"><a href="https://northbrookssec.moe.edu.sg/curriculum/it-cpa-n-ebs-department/elements-of-business-skills/elements-of-business-skills-ebs-room"><span style="color:#06667E">EBS Room</span></a><a href="https://northbrookssec.moe.edu.sg/curriculum/it-cpa-n-ebs-department/elements-of-business-skills/elements-of-business-skills-ebs-room"> </a><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.EBS.jpg.2.jpg" width="280" height="272"></td>
   </tr>
 </tbody>
