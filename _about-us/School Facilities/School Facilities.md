@@ -15,17 +15,41 @@ School Facilities
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-msq4{background-color:#e6c20c;color:#141d1c;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-842k{background-color:#FFF;color:#141d1c;text-align:center;vertical-align:top}
+.tg .tg-7ew7{background-color:#FFF;color:#06667E;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-k88s{background-color:#E6C20C;color:#141D1C;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-norj{background-color:#FFF;color:#06667E;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 622px">
+<colgroup>
+<col style="width: 311px">
+<col style="width: 311px">
+</colgroup>
 <thead>
   <tr>
-    <td class="tg-msq4">School Facilities</td>
+    <th class="tg-k88s" colspan="2">School Facilities</th>
   </tr>
 </thead>
+<tbody>
+  <tr>
+    <td class="tg-norj"><span style="font-weight:500;color:#06667E">Opus Magnum</span><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.IMG_9807.JPG.2.jpg" width="187" height="280"><br><br><span style="font-weight:400;color:#000">Showcase of students’ stained glass artwork</span><br></td>
+    <td class="tg-norj"><a href="https://northbrookssec.moe.edu.sg/about-us/school-facilities/champions-lodge" target="_blank" rel="noopener noreferrer"><span style="color:#06667E">Champion's Lodge</span></a><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.IMG_9805.JPG.2.jpg" alt="Image" width="187" height="280"><br><span style="font-weight:400;color:#000">A place for students to hang out and relax after school  </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-norj"><a href="https://northbrookssec.moe.edu.sg/about-us/school-facilities/arts-space" target="_blank" rel="noopener noreferrer"><span style="color:#06667E">Arts' Space</span></a><br><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/Arts%20Space_04.jpg" alt="Arts Space_04.jpg" width="231" height="183"><br><span style="font-weight:400;color:#000">Designated place for the N(T) students to bond and have fun after school</span><br></td>
+    <td class="tg-norj"><span style="font-weight:500;color:#06667E">Attic</span><br><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.attic.JPG.2.jpg" alt="Image" width="280" height="186"><br><span style="font-weight:400;color:#000">An open air classroom for art  </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-norj"><span style="font-weight:500;color:#06667E">Brooks </span><br><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.IMG_9816.JPG.2.jpg" alt="Image" width="187" height="280"><br><span style="font-weight:400;color:#000">Our very own Park within the school</span><br></td>
+    <td class="tg-842k"><span style="font-weight:bold">Rockwall</span><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.rockwall_2.JPG.2.jpg" alt="Image" width="187" height="280"># <br>4-storey high rock wall used by students during PE lessons and for Enrichment</td>
+  </tr>
+  <tr>
+    <td class="tg-norj"><span style="font-weight:500;color:#06667E">Running Track</span><br><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.IMG_9834.JPG.2.jpg" alt="Image" width="280" height="187"><br><span style="font-weight:400;color:#000">2 lane track around the field that provides students with synthetic running surface</span><br></td>
+    <td class="tg-norj"><span style="font-weight:500;color:#06667E">Futsal Court</span><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/streetsoccer.jpg" alt="Image" width="294" height="186"><br>Free-to-play Futsal court</td>
+  </tr>
+  <tr>
+    <td class="tg-norj"><span style="font-weight:500;color:#06667E"> </span> <a href="https://northbrookssec.moe.edu.sg/about-us/school-facilities/digital-greenwall"><span style="color:#06667E">Vertical Green Wall</span></a><a href="https://northbrookssec.moe.edu.sg/about-us/school-facilities/digital-greenwall"> </a><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.foyer%20full%20view.JPG.2.jpg" width="280" height="187"></td>
+    <td class="tg-7ew7"><a href="https://northbrookssec.moe.edu.sg/curriculum/it-cpa-n-ebs-department/elements-of-business-skills/elements-of-business-skills-ebs-room"><span style="color:#06667E">EBS Room</span></a><a href="https://northbrookssec.moe.edu.sg/curriculum/it-cpa-n-ebs-department/elements-of-business-skills/elements-of-business-skills-ebs-room"> </a><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.EBS.jpg.2.jpg" width="280" height="272"></td>
+  </tr>
+</tbody>
 </table>
-
-
-
-
-
