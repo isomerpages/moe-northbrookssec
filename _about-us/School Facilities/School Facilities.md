@@ -28,6 +28,4 @@ School Facilities
 
 
 
-| Opus Magnum | [Champion's Lodge](/about-us/School-Facilities/Champions-Lodge/) | 
-| -------- | -------- | 
-| Text     | Text     |
+
