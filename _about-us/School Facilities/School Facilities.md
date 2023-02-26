@@ -24,7 +24,3 @@ School Facilities
   </tr>
 </thead>
 </table>
-
-
-
-
