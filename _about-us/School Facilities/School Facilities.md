@@ -36,12 +36,12 @@ School Facilities
     <td class="tg-norj"><a href="/about-us/School-Facilities/Champions-Lodge/" target="_blank" rel="noopener noreferrer"><span style="color:#06667E">Champion's Lodge</span></a><br><img src="/images/CL.jpeg" style="width:90%"><br><span style="font-weight:400;color:#000">A place for students to hang out and relax after school  </span><br></td>
   </tr>
   <tr>
-    <td class="tg-norj"><a href="/about-us/School-Facilities/Arts-Space/" target="_blank" rel="noopener noreferrer"><span style="color:#06667E">Arts' Space</span></a><br><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/Arts%20Space_04.jpg" alt="Arts Space_04.jpg" width="231" height="183"><br><span style="font-weight:400;color:#000">Designated place for the N(T) students to bond and have fun after school</span><br></td>
+    <td class="tg-norj"><a href="/about-us/School-Facilities/Arts-Space/" target="_blank" rel="noopener noreferrer"><span style="color:#06667E">Arts' Space</span></a><br><br><img src="/images/Arts%20Space_04.jpg" style="width:80%"><br><span style="font-weight:400;color:#000">Designated place for the N(T) students to bond and have fun after school</span><br></td>
     <td class="tg-norj"><span style="font-weight:500;color:#06667E">Attic</span><br><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.attic.JPG.2.jpg" alt="Image" width="280" height="186"><br><span style="font-weight:400;color:#000">An open air classroom for art  </span><br></td>
   </tr>
   <tr>
     <td class="tg-norj"><span style="font-weight:500;color:#06667E">Brooks </span><br><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.IMG_9816.JPG.2.jpg" alt="Image" width="187" height="280"><br><span style="font-weight:400;color:#000">Our very own Park within the school</span><br></td>
-    <td class="tg-842k"><span style="font-weight:bold">Rockwall</span><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.rockwall_2.JPG.2.jpg" alt="Image" width="187" height="280"> <br>4-storey high rock wall used by students during PE lessons and for Enrichment</td>
+    <td class="tg-842k"><span style="font-weight:500;color:#06667E">Rockwall</span><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.rockwall_2.JPG.2.jpg" alt="Image" width="187" height="280"> <br>4-storey high rock wall used by students during PE lessons and for Enrichment</td>
   </tr>
   <tr>
     <td class="tg-norj"><span style="font-weight:500;color:#06667E">Running Track</span><br><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.IMG_9834.JPG.2.jpg" alt="Image" width="280" height="187"><br><span style="font-weight:400;color:#000">2 lane track around the field that provides students with synthetic running surface</span><br></td>
@@ -56,4 +56,4 @@ School Facilities
 
 
 
-<img src="/images/CL.jpeg" style="width:80%">
+<img src="/images/Arts%20Space_04.jpg" style="width:80%">
