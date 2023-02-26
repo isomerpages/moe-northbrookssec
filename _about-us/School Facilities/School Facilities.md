@@ -57,4 +57,4 @@ School Facilities
 
 
 
-[Back to Top](https://northbrookssec.moe.edu.sg/about-us/school-facilities#lo_main)
+[Back to Top](/about-us/School-Facilities/school-facilities/)
