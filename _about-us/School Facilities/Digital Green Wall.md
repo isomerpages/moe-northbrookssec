@@ -4,6 +4,7 @@ permalink: /about-us/School-Facilities/Digital-Green-Wall/
 description: ""
 third_nav_title: School Facilities
 ---
+![](/images/about_us.jpg)
 
 Digital Green Wall
 ==================
