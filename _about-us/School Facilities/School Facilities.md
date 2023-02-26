@@ -33,7 +33,7 @@ School Facilities
 <tbody>
   <tr>
     <td class="tg-norj"><span style="font-weight:500;color:#06667E">Opus Magnum</span><br><img src="/images/Opus.jpeg" style="width:90%"><br><br><span style="font-weight:400;color:#000">Showcase of students’ stained glass artwork</span><br></td>
-    <td class="tg-norj"><a href="https://northbrookssec.moe.edu.sg/about-us/school-facilities/champions-lodge" target="_blank" rel="noopener noreferrer"><span style="color:#06667E">Champion's Lodge</span></a><br><img src="/images/CL.jpeg" style="width:90%"><br><span style="font-weight:400;color:#000">A place for students to hang out and relax after school  </span><br></td>
+    <td class="tg-norj"><a href="/about-us/School-Facilities/Champions-Lodge/" target="_blank" rel="noopener noreferrer"><span style="color:#06667E">Champion's Lodge</span></a><br><img src="/images/CL.jpeg" style="width:90%"><br><span style="font-weight:400;color:#000">A place for students to hang out and relax after school  </span><br></td>
   </tr>
   <tr>
     <td class="tg-norj"><a href="https://northbrookssec.moe.edu.sg/about-us/school-facilities/arts-space" target="_blank" rel="noopener noreferrer"><span style="color:#06667E">Arts' Space</span></a><br><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/Arts%20Space_04.jpg" alt="Arts Space_04.jpg" width="231" height="183"><br><span style="font-weight:400;color:#000">Designated place for the N(T) students to bond and have fun after school</span><br></td>
