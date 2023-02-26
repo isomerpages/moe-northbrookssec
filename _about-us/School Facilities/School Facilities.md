@@ -28,9 +28,3 @@ School Facilities
 
 
 
-| Opus Magnum | Column 2 | 
-| -------- | -------- | 
-
-<img src="/images/Opus.jpeg" style="width:50%;float:left">
-
-
