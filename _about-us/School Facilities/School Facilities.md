@@ -37,7 +37,7 @@ School Facilities
   </tr>
   <tr>
     <td class="tg-norj"><a href="/about-us/School-Facilities/Arts-Space/" target="_blank" rel="noopener noreferrer"><span style="color:#06667E">Arts' Space</span></a><br><br><img src="/images/Arts%20Space_04.jpg" style="width:80%"><br><span style="font-weight:400;color:#000">Designated place for the N(T) students to bond and have fun after school</span><br></td>
-    <td class="tg-norj"><span style="font-weight:500;color:#06667E">Attic</span><br><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.attic.JPG.2.jpg" alt="Image" width="280" height="186"><br><span style="font-weight:400;color:#000">An open air classroom for art  </span><br></td>
+    <td class="tg-norj"><span style="font-weight:500;color:#06667E">Attic</span><br><br><img src="/images/Attic.jpeg" style="width:100%"><br><span style="font-weight:400;color:#000">An open air classroom for art  </span><br></td>
   </tr>
   <tr>
     <td class="tg-norj"><span style="font-weight:500;color:#06667E">Brooks </span><br><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/About%20Us/School%20Facilities/.tn.IMG_9816.JPG.2.jpg" alt="Image" width="187" height="280"><br><span style="font-weight:400;color:#000">Our very own Park within the school</span><br></td>
@@ -56,4 +56,4 @@ School Facilities
 
 
 
-<img src="/images/Arts%20Space_04.jpg" style="width:80%">
+<img src="/images/Attic.jpeg" style="width:80%">
