@@ -28,9 +28,8 @@ Based on Northbrooks Strategy Map for 2019 to 2023, the Aesthetics domain adopts
 ![](/images/Aesthetic%202022.png)
 
 
-
-The **3E Approach** is one of the school’s strategic objectives to “cultivate an appreciation for the Arts” under the Strategic Thrust 2 of Quality Programme for ChAMPS Development. It supports the eventual Student Outcome of “an expressive individual who displays an appreciation for the Arts”.  
+The <b>3E Approach</b> is one of the school’s strategic objectives to “cultivate an appreciation for the Arts” under the Strategic Thrust 2 of Quality Programme for ChAMPS Development. It supports the eventual Student Outcome of “an expressive individual who displays an appreciation for the Arts”.  
 
   
 
-_The 3E Approach is adapted from Donald J. Trefinger’s **Levels of Service (LoS) Approach to Programming for Talent Development -** suggesting 4 Levels of Service which guides in organising, carrying out and evaluating talent development programming for students._
+<i>The 3E Approach is adapted from Donald J. Trefinger’s <b>Levels of Service (LoS) Approach to Programming for Talent Development -</b> suggesting 4 Levels of Service which guides in organising, carrying out and evaluating talent development programming for students.</i>
