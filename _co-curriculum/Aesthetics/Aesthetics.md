@@ -4,9 +4,6 @@ permalink: /co-curriculum/Aesthetics/
 description: ""
 third_nav_title: Aesthetics
 ---
-
-
-
 Aesthetics
 ==========
 
