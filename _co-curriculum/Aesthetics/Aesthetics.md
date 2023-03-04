@@ -25,7 +25,6 @@ The Aesthetics Committee aims to <b>develop and cultivate an arts appreciation 
 Based on Northbrooks Strategy Map for 2019 to 2023, the Aesthetics domain adopts three approaches to its programming i.e., <b>Exposure, Engagement and Empowerment (3E Approach)</b>, as shown below.
 
 
-###### 3E Approach to Aesthetics (Exposure, Engagement and Empowerment)
 ![](/images/Aesthetic%202022.png)
 
 
