@@ -10,18 +10,12 @@ Aesthetics
 ==========
 
 ### Introduction
-------------
 
+Etymologically originating from the Greek word αἰσθητικός (aisthētikós), aesthetics carries the meaning “of or for perception by the senses”. Exploration of this field thus entails our students cognitively exploring their concept of self and simultaneously perceive and build relationships between said self and their environs.  
   
-
-Etymologically originating from the Greek word αἰσθητικός (aisthētikós), aesthetics carries the meaning “of or for perception by the senses”. Exploration of this field thus entails our students cognitively exploring their concept of self and simultaneously perceive and build relationships between said self and their environs.   
-
-  
-
 Through dance, drama, music, literary and visual arts, aesthetics also promotes appreciation and understanding of differing cultures, values, behaviours and attitudes that underpin society. This leads to the formulation of a contemplative practitioner, which should be our end goal.
 
 ### Arts Policy in Northbrooks Secondary School
--------------------------------------------
 
   
 
