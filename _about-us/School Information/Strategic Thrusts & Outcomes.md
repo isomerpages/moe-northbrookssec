@@ -11,7 +11,6 @@ Strategic Thrusts & Outcomes
 ============================
 
 ### Strategic Thrusts
------------------
 
 1.  Quality Academic Experience
     
@@ -25,7 +24,6 @@ Strategic Thrusts & Outcomes
   
 
 ### Students Outcomes
------------------
 
 1.  Confident Person
     
