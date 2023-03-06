@@ -31,14 +31,14 @@ Northbrooks Secondary School would like to thank the following partners in Educa
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ktyi"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/Partners/RP_Logo.gif" alt="Republic Polytechnic.jpg"><span style="font-weight:400;color:#000">#Republic Polytechnic</span></td>
-    <td class="tg-ktyi"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/Partners/PA%20Water%20Venture.jpg" alt="PA Water Venture.jpg" height="100"><span style="font-weight:400;color:#000">#PA Water Venture</span></td>
+    <td class="tg-ktyi"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/Partners/RP_Logo.gif" alt="Republic Polytechnic.jpg"><span style="font-weight:400;color:#000">Republic Polytechnic</span></td>
+    <td class="tg-ktyi"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/Partners/PA%20Water%20Venture.jpg" alt="PA Water Venture.jpg" height="100"><span style="font-weight:400;color:#000">PA Water Venture</span></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">OSports Pte Ltd</span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/Partners/CAAS.jpg" alt="Civil Aviation Authority of Singapore.jpg" width="172" height="73"><span style="font-weight:400;color:#000">#Civil Aviation Authority of Singapore</span></td>
-    <td class="tg-ktyi"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/Partners/Temasek%20Poly.jpg" alt="Temasek Polytechnic.jpg" width="133" height="91"><span style="font-weight:400;color:#000">#Temasek Polytechnic</span></td>
-    <td class="tg-ktyi"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/Partners/nanya_middle.jpg" alt="Nanya Middle School, Changsha, Hunan, China.jpg" width="112" height="113"><span style="font-weight:400;color:#000">#Nanya Middle School, ChangSha, Hunan, China</span></td>
+    <td class="tg-ktyi"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/Partners/CAAS.jpg" alt="Civil Aviation Authority of Singapore.jpg" width="172" height="73"><span style="font-weight:400;color:#000">Civil Aviation Authority of Singapore</span></td>
+    <td class="tg-ktyi"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/Partners/Temasek%20Poly.jpg" alt="Temasek Polytechnic.jpg" width="133" height="91"><span style="font-weight:400;color:#000">Temasek Polytechnic</span></td>
+    <td class="tg-ktyi"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/Partners/nanya_middle.jpg" alt="Nanya Middle School, Changsha, Hunan, China.jpg" width="112" height="113"><span style="font-weight:400;color:#000">Nanya Middle School, ChangSha, Hunan, China</span></td>
   </tr>
   <tr>
     <td class="tg-eokq" colspan="3"><span style="font-weight:500;color:#141D1C;background-color:#E6C20C">Community Partners</span></td>
