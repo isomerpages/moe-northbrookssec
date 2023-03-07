@@ -72,4 +72,4 @@ Fridays - 1.00pm-4.00pm
 [http://redsports.sg](http://redsports.sg/)  
 [http://www.schoolsports.sg](http://www.schoolsports.sg/)
 
-Note: Schoolsports link broken. 
+Note: Schoolsports link broken.
