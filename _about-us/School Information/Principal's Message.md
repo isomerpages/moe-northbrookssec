@@ -4,8 +4,6 @@ permalink: /about-us/School-Information/principal/
 description: ""
 third_nav_title: School Information
 ---
-
-
 ![](/images/about_us.jpg)
 
 Principal's Message
