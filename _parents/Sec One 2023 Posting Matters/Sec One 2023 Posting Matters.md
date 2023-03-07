@@ -20,7 +20,7 @@ Welcome to Northbrooks Secondary School! 
   
 We are sure that you and your child/ward are very excited to start this new chapter of his or her life and we are equally excited to welcome you into our Brooksians family.   
   
-To help you and your child transition into secondary school, we have compiled a list of answers to some of the questions that you may find useful. Please refer to [FAQ](https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Parents/FAQ.pdf) for more information.
+To help you and your child transition into secondary school, we have compiled a list of answers to some of the questions that you may find useful. Please refer to [FAQ](/files/FAQ.pdf) for more information.
 
   
 
