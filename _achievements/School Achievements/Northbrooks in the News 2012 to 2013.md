@@ -4,3 +4,7 @@ permalink: /achievements/School-Achievements/Northbrooks-in-the-News-2012-2013/
 description: ""
 third_nav_title: School Achievements
 ---
+![](/images/achievements.jpg)
+
+Northbrooks in the News 2012-2013
+=================================
