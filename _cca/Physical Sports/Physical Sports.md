@@ -9,7 +9,7 @@ third_nav_title: Physical Sports
 Physical Sports
 ===============
 
-### Core Focus
+### Core Business
 
 ##### Plan and develop and monitor policies and programmes on sports co-curricular activities:
 
