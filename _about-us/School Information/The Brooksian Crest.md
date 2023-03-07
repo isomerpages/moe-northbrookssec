@@ -10,7 +10,7 @@ third_nav_title: School Information
 The Brooksian Crest
 ===================
 
-<img src="/images/1234.png" style="width:40%">
+<img src="/images/1234.png" style="width:20%">
 
 
 Just as WATER
