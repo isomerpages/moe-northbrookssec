@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - School Achievements/Northbrooks in the News 2011.md
       - School Achievements/.keep
       - School Achievements.md
       - Student Achievements.md
