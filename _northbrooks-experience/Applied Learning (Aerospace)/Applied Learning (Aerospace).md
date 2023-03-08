@@ -21,7 +21,7 @@ The programme adopts an applied learning approach. It provides an avenue for han
 Tier 1: Broad-based programme for all students
 
 *   [Applied Learning Programme STEM (Science, Technology, Engineering and Mathematics) lessons for lower secondary students](/northbrooks-experience/Applied-Learning-Aerospace/Applied-Learning-Programme-STEM/)
-*   [Learning journeys for all levels](https://northbrookssec-moe-edu-sg.cwp-stg.sg/northbrooks-signature-experiences/applied-learning-aerospace/learning-journeys-for-all-levels)
+*   [Learning journeys for all levels](/northbrooks-experience/Applied-Learning-Aerospace/Learning-journeys-for-all-levels/)
 *   [Aerospace enrichment programmes](https://northbrookssec-moe-edu-sg.cwp-stg.sg/northbrooks-signature-experiences/applied-learning-aerospace/aerospace-enrichment-programmes)
 *   [Education career guidance programme on Aerospace](https://northbrookssec-moe-edu-sg.cwp-stg.sg/northbrooks-signature-experiences/applied-learning-aerospace/education-career-guidance-programme-on-aerospace)
 
