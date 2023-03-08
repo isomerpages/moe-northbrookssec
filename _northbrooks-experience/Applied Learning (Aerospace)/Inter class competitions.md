@@ -11,14 +11,17 @@ Inter-class competitions
 
 All Secondary 2 classes had to go through a Flight Simulation enrichment programme. 3 students from each class were selected to compete in an inter-class competition. The intent of the program is to expose the students to basic flying and to draw parallels between classroom teaching and the real world context. The program also interlinks basic aviation theories with maths and science theories.
 
-![](/images/InterClass.jpeg)
+
+<img src="/images/InterClass.jpeg" style="width:60%">
 
 Interclass Flight Simulation Competition
 ----------------------------------------
 
 #### On 21 March 2016
 
-![](/images/Interclass2.jpg)
+
+
+<img src="/images/Interclass2.jpg" style="width:60%">
 
 For 10 weeks in Term 1, all Sec 2 Express and Normal Academic students went through the ALP curriculum on Flight Simulation, which is Part 1 of the Sec 2 curriculum. At the end of this module on Flight Simulation, 4 students were selected from each class to represent their class in an inter-class competition. These students were selected based on Class Assessment and their passion towards learning. The competition was not open to the members of the Youth Flying Club CCA.
 
@@ -34,44 +37,45 @@ The following results are the results of the competition:
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-50jh{color:#505050;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-y44u{color:#505050;text-align:left;vertical-align:top}
-.tg .tg-te7m{color:#505050;text-align:left;vertical-align:middle}
+.tg .tg-wjik{background-color:#E6C20C;color:#141D1C;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-50jh">AWARDS</th>
-    <th class="tg-50jh">NAME</th>
-    <th class="tg-50jh">CLASS</th>
+    <th class="tg-wjik">AWARDS</th>
+    <th class="tg-wjik">NAME</th>
+    <th class="tg-wjik">CLASS</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-y44u">Champions  <br> </td>
-    <td class="tg-y44u">MUHAMMAD EFFIE MIRZAWYN B E<br>SOH GUO YI, GASPAR</td>
-    <td class="tg-te7m">2G</td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Champions  </span><br><span style="font-weight:400;color:#000"> </span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">MUHAMMAD EFFIE MIRZAWYN B E</span><br><span style="font-weight:400;color:#000">SOH GUO YI, GASPAR</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2G</span></td>
   </tr>
   <tr>
-    <td class="tg-te7m">Ist Runner-up</td>
-    <td class="tg-y44u">TAY ZHAO CHI LICIA<br>WONG YONG FU</td>
-    <td class="tg-te7m">2F</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">I</span> st <span style="color:#000;background-color:#FFF"> Runner-up</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">TAY ZHAO CHI LICIA</span><br><span style="font-weight:400;color:#000">WONG YONG FU</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2F</span></td>
   </tr>
   <tr>
-    <td class="tg-te7m">2nd Runner-up  </td>
-    <td class="tg-y44u">MIRA FRANCINE BERNAL<br>TAN CHING</td>
-    <td class="tg-te7m">2G</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2</span> nd <span style="color:#000;background-color:#FFF"> Runner-up  </span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">MIRA FRANCINE BERNAL</span> <br><span style="font-weight:400;color:#000">TAN CHING</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2G</span></td>
   </tr>
   <tr>
-    <td class="tg-te7m">Best Spot Landing</td>
-    <td class="tg-y44u">SU CHI HUEN, LENNON</td>
-    <td class="tg-te7m">2T</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Best Spot Landing</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">SU CHI HUEN, LENNON</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2T</span></td>
   </tr>
 </tbody>
 </table>
 
-**Module Content**
 
+
+<u><b>Module Content</b></u> <br>
 The main aim of the programme module is to expose the students to basic flying and to draw parallels between classroom teaching and the real world. The programme also interweaves basic aviation theories with mathematics and science theories. Some of the key learning components are:
 
 *   Introduction to basic aircraft parts/component
