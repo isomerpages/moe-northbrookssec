@@ -90,24 +90,24 @@ There is a need to tier student leaders into different categories so as to track
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wjik{background-color:#E6C20C;color:#141D1C;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-wjik">Internal Programmes</th>
-    <th class="tg-wjik">External Programmes</th>
+    <th class="tg-amwm">Internal Programmes</th>
+    <th class="tg-amwm">External Programmes</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Emerging Leaders Programme</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">N6 Student Leaders Conference</span></td>
+    <td class="tg-nrix">Emerging Leaders Programme</td>
+    <td class="tg-nrix">N6 Student Leaders Conference</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Pinnacle Leaders Programme</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">N6 Cluster Orienteering</span></td>
+    <td class="tg-nrix">Pinnacle Leaders Programme</td>
+    <td class="tg-nrix">N6 Cluster Orienteering</td>
   </tr>
 </tbody>
 </table>
