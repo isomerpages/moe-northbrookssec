@@ -28,7 +28,7 @@ Tier 1: Broad-based programme for all students
 ### Tier 2: Passion & Excellence in Aerospace
 
 
-*   [Advanced Elective Modules (AEM)](https://northbrookssec-moe-edu-sg.cwp-stg.sg/northbrooks-signature-experiences/applied-learning-aerospace/advanced-elective-modules-aem)
+*   [Advanced Elective Modules (AEM)](/northbrooks-experience/Applied-Learning-Aerospace/Advanced-Elective-Modules-AEM/)
 *   [Elective Modules (EM)](https://northbrookssec-moe-edu-sg.cwp-stg.sg/northbrooks-signature-experiences/applied-learning-aerospace/elective-modules-em)
 *   [Inter-class competitions](https://northbrookssec-moe-edu-sg.cwp-stg.sg/northbrooks-signature-experiences/applied-learning-aerospace/inter-class-competitions)
 *   [CCA - Youth Flying Club](https://northbrookssec-moe-edu-sg.cwp-stg.sg/co-curriculum/cca/clubs-n-societies/youth-flying-club)
