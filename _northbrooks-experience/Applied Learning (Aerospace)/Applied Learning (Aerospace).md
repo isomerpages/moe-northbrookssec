@@ -21,15 +21,15 @@ The programme adopts an applied learning approach. It provides an avenue for han
 
 ### Tier 1: Broad-based programme for all students
 
-*  [Applied Learning Programme STEM (Science, Technology, Engineering and Mathematics) lessons for lower secondary students](/northbrooks-experience/Applied-Learning-Aerospace/Applied-Learning-Programme-STEM/permalink/)
-*   [Learning journeys for all levels](/northbrooks-experience/Applied-Learning-Aerospace/Learning-journeys-for-all-levels/permalink/)
-*   [Aerospace Enrichment programmes](/northbrooks-experience/Applied-Learning-Aerospace/Aerospace-Enrichment-programmes/permalink/)
-* [Education career guidance programme on Aerospace](/northbrooks-experience/Applied-Learning-Aerospace/ECG-on-Aerospace/permalink/)
+*  [Applied Learning Programme STEM (Science, Technology, Engineering and Mathematics) lessons for lower secondary students](/northbrooks-experience/Applied-Learning-Aerospace/Applied-Learning-Programme-STEM/)
+*   [Learning journeys for all levels](/northbrooks-experience/Applied-Learning-Aerospace/Learning-journeys-for-all-levels/)
+*   [Aerospace Enrichment programmes](/northbrooks-experience/Applied-Learning-Aerospace/Aerospace-Enrichment-programmes/)
+* [Education career guidance programme on Aerospace](/northbrooks-experience/Applied-Learning-Aerospace/ECG-on-Aerospace/)
 
 ### Tier 2: Passion & Excellence in Aerospace
-* [Advanced Elective Modules (AEM)](/northbrooks-experience/Applied-Learning-Aerospace/Advanced-Elective-Modules-AEM/permalink/)
-*  [Elective Modules (EM)](/northbrooks-experience/Applied-Learning-Aerospace/Elective-Modules-EM/permalink/)
-* [Inter-class competitions](/northbrooks-experience/Applied-Learning-Aerospace/Inter-class-competitions/permalink/)
+* [Advanced Elective Modules (AEM)](/northbrooks-experience/Applied-Learning-Aerospace/Advanced-Elective-Modules-AEM/)
+*  [Elective Modules (EM)](/northbrooks-experience/Applied-Learning-Aerospace/Elective-Modules-EM/)
+* [Inter-class competitions](/northbrooks-experience/Applied-Learning-Aerospace/Inter-class-competitions/)
 * [CCA - Youth Flying Club](/Youth-Flying-Club/permalink/)
-* [Community Outreach Programmes](/northbrooks-experience/Applied-Learning-Aerospace/Community-Outreach-Programmes/permalink/)
-* [Youth Mission to Mars](/Youth-Mission-to-Mars-13-17-June/permalink/)
+* [Community Outreach Programmes](/northbrooks-experience/Applied-Learning-Aerospace/Community-Outreach-Programmes/)
+* [Youth Mission to Mars](/Youth-Mission-to-Mars-13-17-June/)
