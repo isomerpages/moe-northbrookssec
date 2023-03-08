@@ -56,7 +56,7 @@ The name Northbroks is derived from the Yuan Dynasty proverb yin shui si yuan. T
     <td class="tg-ktyi">• NUTRITION &amp; FOOD SCIENCE,<br>• LITERATURE(E),<br>• MALAY,<br>• MALAY N(A),<br>• MATHEMATICS,<br>• MATHEMATICS (SYLLABUS A),<br>• MATHEMATICS (SYLLABUS T),<br>• MUSIC<br>• PHYSICS,<br>• SCIENCE,<br>• SCIENCE (PHY, CHEM),<br>• SCIENCE (CHEM, BIO),<br>• SCIENCE (PHY, BIO),<br>• SCIENCE (SYLL T),<br>• SOCIAL STUDIES,<br><br><br></td>
   </tr>
   <tr>
-    <td class="tg-1547" colspan="2">Note:<br>The subjects below are offered to the current student cohort. They may change for subsequent intakes.Students taking Tamil Language will have to attend lessons at the nearest Tamil Language Centre after school. See the list of designated centres.</td>
+    <td class="tg-1547" colspan="2">Note:<br>• The subjects below are offered to the current student cohort. They may change for subsequent intakes.<br>• Students taking Tamil Language will have to attend lessons at the nearest Tamil Language Centre after school. See the list of designated centres.</td>
   </tr>
 </tbody>
 </table>
