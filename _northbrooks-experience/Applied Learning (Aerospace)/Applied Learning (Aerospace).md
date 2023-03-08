@@ -30,7 +30,7 @@ Tier 1: Broad-based programme for all students
 
 *   [Advanced Elective Modules (AEM)](/northbrooks-experience/Applied-Learning-Aerospace/Advanced-Elective-Modules-AEM/)
 *   [Elective Modules (EM)](/northbrooks-experience/Applied-Learning-Aerospace/Elective-Modules-EM/)
-*   [Inter-class competitions](https://northbrookssec-moe-edu-sg.cwp-stg.sg/northbrooks-signature-experiences/applied-learning-aerospace/inter-class-competitions)
+*   [Inter-class competitions](/northbrooks-experience/Applied-Learning-Aerospace/Inter-class-competitions/)
 *   [CCA - Youth Flying Club](https://northbrookssec-moe-edu-sg.cwp-stg.sg/co-curriculum/cca/clubs-n-societies/youth-flying-club)
 *   [Community Outreach Programmes](https://northbrookssec-moe-edu-sg.cwp-stg.sg/northbrooks-signature-experiences/applied-learning-aerospace/community-outreach-programmes)
 *   [Youth Mission to Mars](https://northbrookssec-moe-edu-sg.cwp-stg.sg/northbrooks-signature-experiences/applied-learning-aerospace/overseas-exchange-programme/youth-mission-to-mars-13-17-june)
