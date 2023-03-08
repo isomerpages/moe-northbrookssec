@@ -33,4 +33,4 @@ Tier 1: Broad-based programme for all students
 *   [Inter-class competitions](/northbrooks-experience/Applied-Learning-Aerospace/Inter-class-competitions/)
 *   [CCA - Youth Flying Club](/CCA/Clubs-and-Societies/Youth-Flying-Club/)
 *   [Community Outreach Programmes](/northbrooks-experience/Applied-Learning-Aerospace/Community-Outreach-Programmes/)
-*   [Youth Mission to Mars](https://northbrookssec-moe-edu-sg.cwp-stg.sg/northbrooks-signature-experiences/applied-learning-aerospace/overseas-exchange-programme/youth-mission-to-mars-13-17-june)
+*   [Youth Mission to Mars](/northbrooks-experience/Applied-Learning-Aerospace/Overseas-Exchange-Programme/)
