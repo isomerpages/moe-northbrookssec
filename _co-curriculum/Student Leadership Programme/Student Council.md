@@ -27,38 +27,38 @@ The Student Council Executive Committee charts the direction of the events of th
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ayh6{background-color:#E6C20C;color:#141D1C;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ayh6">Training</th>
-    <th class="tg-ayh6">External Platforms</th>
-    <th class="tg-ayh6">School Events</th>
+    <th class="tg-amwm">Training</th>
+    <th class="tg-amwm">External Platforms</th>
+    <th class="tg-amwm">School Events</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7yig">Facilitation Skills Workshop</td>
-    <td class="tg-7yig">Y-Lead Leadership Camp</td>
-    <td class="tg-7yig">Exam Well-Wishes</td>
+    <td class="tg-baqh">Facilitation Skills Workshop</td>
+    <td class="tg-baqh">Y-Lead Leadership Camp</td>
+    <td class="tg-baqh">Exam Well-Wishes</td>
   </tr>
   <tr>
-    <td class="tg-7yig">Events Management Workshop</td>
-    <td class="tg-7yig">HIHS Teen Conference</td>
-    <td class="tg-7yig">Student Leaders’ Investiture</td>
+    <td class="tg-baqh">Events Management Workshop</td>
+    <td class="tg-baqh">HIHS Teen Conference</td>
+    <td class="tg-baqh">Student Leaders’ Investiture</td>
   </tr>
   <tr>
-    <td class="tg-7yig" rowspan="3">Student Council Camp</td>
-    <td class="tg-7yig" rowspan="3">YCKSS Mandela Leadership Conference</td>
-    <td class="tg-7yig">Teachers’ Day Concert</td>
+    <td class="tg-baqh" rowspan="3">Student Council Camp</td>
+    <td class="tg-baqh" rowspan="3">YCKSS Mandela Leadership Conference</td>
+    <td class="tg-baqh">Teachers’ Day Concert</td>
   </tr>
   <tr>
-    <td class="tg-7yig">Student Leaders’ Conference<span style="background-color:transparent"> </span></td>
+    <td class="tg-baqh">Student Leaders’ Conference<span style="background-color:transparent"> </span></td>
   </tr>
   <tr>
-    <td class="tg-7yig"> <span style="background-color:transparent">Graduation Night</span></td>
+    <td class="tg-baqh"> <span style="background-color:transparent">Graduation Night</span></td>
   </tr>
 </tbody>
 </table>
