@@ -153,11 +153,11 @@ The Secondary 3 Leadership Camp under the LLP – ACE aims to help Brooksians de
 </tbody>
 </table>
 
-<u><I>Outdoor Appreciation (To be at Ease with Nature)
+<u><I>Outdoor Appreciation (To be at Ease with Nature)</i></u>
 
-Life-Long Learning Programme Outdoor Education \[Adventure, Character & Environment (A.C.E)\] –Sec 3 Level Camp
+<u><I>Life-Long Learning Programme Outdoor Education \[Adventure, Character & Environment (A.C.E)\] –Sec 3 Level Camp</i></u>
 
-The Secondary 3 Leadership Camp under the LLP – ACE aims to help Brooksians develop character, an appreciation for Singapore using the local environments though adventure. At the same time, the camp provides an authentic context and experience for learning. The adventure camp focuses on challenging our students to be outside of their comfort zone through getting them to stay and explore in unfamiliar surroundings and go through a series of activities to explore the different parts of Singapore. A series of reflective activities have been built into this programme to help build their critical thinking skills as well as develop their SEL competencies for leadership development through an appreciation of the outdoors.</i></u>
+<u><I>The Secondary 3 Leadership Camp under the LLP – ACE aims to help Brooksians develop character, an appreciation for Singapore using the local environments though adventure. At the same time, the camp provides an authentic context and experience for learning. The adventure camp focuses on challenging our students to be outside of their comfort zone through getting them to stay and explore in unfamiliar surroundings and go through a series of activities to explore the different parts of Singapore. A series of reflective activities have been built into this programme to help build their critical thinking skills as well as develop their SEL competencies for leadership development through an appreciation of the outdoors.</i></u>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
