@@ -28,4 +28,3 @@ Overseas Exchange Programme
 ## Youth Mission to Mars (13-17 June)
 
 
-### Click [here](/Youth-Mission-to-Mars-13-17-June/permalink/) for more
