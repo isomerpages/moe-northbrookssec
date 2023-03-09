@@ -43,3 +43,8 @@ Northbrooks believes that the outdoors provide a strong platform to build charac
 <b>Orienteering Race</b>  
 <b>\- Co-organiser of the race with Orienteering Federation Singapore.</b>  
 <b>\- Student Leaders involved in event management of the race.</b>
+
+
+<img src="/images/Cha5.jpg" style="width:50%;float:left">
+
+<img src="/images/Cha6.jpg" style="width:50%;float:left">
