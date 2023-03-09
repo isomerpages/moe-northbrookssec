@@ -78,33 +78,26 @@ Click below to access more information on the personal learning device (PLD)
 
 
 
-#### In-house Support: ICT Service Desk
-Located at the back of the Library  
+#### In-house Support: ICT Helpdesk
+Email: northbrooks_ict@moe.edu.sg  
+Tel: 6752 4311 (Please leave your contact details & the HOD/EdTech or ICT Manager will contact you) 
   
 
-###### Opening Hours
 
-Monday & Wednesday Afternoons - 3.00pm - 4.00pm
-
-Tuesday & Thursday Mornings - 7.30am - 8.30am
-
-Friday Afternoons - 12.45pm - 1.45pm
 
 #### Vendor Support: AsiaPac
-#### Help Desk Contact
 
-Tel: 6272 0088
-
+<b>Help Desk Contact</b> <br>
+Tel: 6272 0088 <br>
 Email: pdlpapple@asiapac.com.sg
 
   
 
-###### Help Desk Operating Hours
-
+<b>Help Desk Operating Hours</b> <br>
 Monday - Thursday: 8.30am - 5.30pm  
 Friday: 8.30am - 5.30pm  
 Closed on Saturday, Sunday & Public Holidays
 
   
-
-###### Website <br> [https://www.asiapac.com.sg/pld/apple](https://www.asiapac.com.sg/pld/apple) (for buying of accessories)
+Website  
+[https://www.asiapac.com.sg/pld/apple](https://www.asiapac.com.sg/pld/apple) (for buying of accessories)
