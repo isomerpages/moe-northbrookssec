@@ -94,11 +94,14 @@ Singapore students worked with other international students in teams of 5 on a m
     <td class="tg-jrax"><img src="/images/OEP16.jpg" style="width:70%"><br>Students working in teams going through hands-on STEM activities.</td>
   </tr>
   <tr>
-    <td class="tg-jrax"><img src="https://northbrookssec-moe-edu-sg-admin.cwp-stg.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Day3_7%20edit.jpg.2.jpg" alt="Students with their award tokens.jpg"><br>Students with their award tokens - 3rd in the commercials category</td>
-    <td class="tg-jrax"><img src="https://northbrookssec-moe-edu-sg-admin.cwp-stg.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Day3_6%20edit.jpg.2.jpg" alt="Students with certificate of participation.jpg"><br>Students with certificate of participation</td>
+    <td class="tg-jrax"><img src="/images/OEP17.jpg" style="width:100%"><br>Students with their award tokens - 3rd in the commercials category</td>
+    <td class="tg-jrax"><img src="/images/OEP18.jpg" style="width:80%"><br>Students with certificate of participation</td>
   </tr>
 </tbody>
 </table>
 
 
-<img src="/images/OEP15.jpg" style="width:80%">
+<i>Pei Ying doing a presentation for her group.</i>
+
+<img src="/images/OEP19.jpg" style="width:50%;float:left">
+
