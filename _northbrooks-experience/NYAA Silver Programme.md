@@ -294,8 +294,8 @@ Bronze: At least 20 hours of regular activities spread over a minimum period of 
 Silver: At least 40 hours of regular activities spread over a minimum period of 8 months.  
 Gold: At least 60 hours of regular activities spread over a minimum period of 12 months.
  
-2.<u><b> Outdoor Appreciation</b></u> <b>To be at Ease with Nature)</b>  
-Outdoor learning supports the development of confidence building as young people are placed in unfamiliar environments outside of the classroom. It also develops young people’s problem-solving skills, enhances teamwork, strengthens understanding of the natural environment and inculcates in young people a sense of stewardship for our environment.
+2.<u><b> Outdoor Appreciation</b></u> <b>(To be at Ease with Nature)</b>  
+Outdoor learning supports the development of confidence building as young people are placed in unfamiliar environments outside of the classroom. It also develops young people’s problem-solving skills, enhances teamwork, strengthens understanding of the natural environment and inculcates in young people a sense of stewardship for our environment. <br>
 <b>Objective:</b>  
 To be at ease with nature and develop stewardship for our environment. <br>
 <b>Conditions:</b>  
