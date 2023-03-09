@@ -11,7 +11,7 @@ National Orienteering Race (Schools) 2016
 
 #### On 25 July 2016
 
-![](/images/NOR1.png)
+<img src="/images/NOR1.png" style="width:60%">
 
 The inaugural National Orienteering Race (Schools) was organized by Northbrooks Secondary School in collaboration with Orienteering Federation Singapore on 16th July 2016. Republic Polytechnic generously opened up their premises as the venue sponsor and availed their students as route marshals.
 
