@@ -36,3 +36,5 @@ Northbrooks believes that the outdoors provide a strong platform to build charac
 <b>\- Teachers organize and provide platforms for leadership development.</b>
 
 <img src="/images/Cha3.jpg" style="width:50%;float:left">
+
+<img src="/images/Cha44.jpg" style="width:50%;float:left">
