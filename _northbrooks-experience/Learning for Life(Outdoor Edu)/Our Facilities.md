@@ -28,8 +28,9 @@ Our Facilities
 </thead>
 <tbody>
   <tr>
-    <td class="tg-jjsp"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Progs%20n%20Events/Learning%20for%20Life%20(outdoor)/Our%20Facilities/.tn.Abseil%20Station.jpg.2.jpg"><span style="font-weight:400;color:#000"> </span></td>
-    <td class="tg-jjsp"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Progs%20n%20Events/Learning%20for%20Life%20(outdoor)/Our%20Facilities/.tn.Rockwall.jpg.mid.jpg" width="158" height="392"></td>
+    <td class="tg-jjsp"><img src="/images/Fac1.jpg" style="width:100%"><span style="font-weight:400;color:#000"> </span></td>
+    <td class="tg-jjsp"><img src="/images/Fac2.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
+
