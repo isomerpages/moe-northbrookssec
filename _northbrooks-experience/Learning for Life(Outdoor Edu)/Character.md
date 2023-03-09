@@ -21,5 +21,5 @@ Northbrooks believes that the outdoors provide a strong platform to build charac
  
 
 <b>Outdoor Education Reflection Booklet</b>  
-<b>\- Students write down their reflections of the experience and how it has impacted them.</b> 
+<b>\- Students write down their reflections of the experience and how it has impacted them.</b> <br>
 <b>\- Teachers facilitate the session and align it with the socio-emotional competencies.</b>
