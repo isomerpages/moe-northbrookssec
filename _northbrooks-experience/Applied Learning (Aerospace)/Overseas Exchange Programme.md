@@ -78,8 +78,8 @@ Singapore students worked with other international students in teams of 5 on a m
     <td class="tg-jrax"><img src="/images/OEP8.jpg" style="width:80%"><br>Pei Ying learning to throw football. </td>
   </tr>
   <tr>
-    <td class="tg-jrax"><img src="https://northbrookssec-moe-edu-sg-admin.cwp-stg.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Day%202_5.jpg.2.jpg" alt="Visiting a farm.jpg"><br>Visiting a farm. </td>
-    <td class="tg-jrax"><img src="https://northbrookssec-moe-edu-sg-admin.cwp-stg.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Day%202_4.jpg.2.jpg" alt="Visiting a farm.jpg"><br>Visiting a farm.</td>
+    <td class="tg-jrax"><img src="/images/OEP9.jpg" style="width:100%"><br>Visiting a farm. </td>
+    <td class="tg-jrax"><img src="/images/OEP10.jpg" style="width:80%"><br>Visiting a farm.</td>
   </tr>
   <tr>
     <td class="tg-jrax"><img src="https://northbrookssec-moe-edu-sg-admin.cwp-stg.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Day%203_1%20edit.jpg.2.jpg" alt="Students working in teams.jpg"><br>Students working in teams going through hands-on STEM activities.</td>
@@ -101,4 +101,4 @@ Singapore students worked with other international students in teams of 5 on a m
 </table>
 
 
-<img src="/images/OEP8.jpg" style="width:80%">
+<img src="/images/OEP9.jpg" style="width:80%">
