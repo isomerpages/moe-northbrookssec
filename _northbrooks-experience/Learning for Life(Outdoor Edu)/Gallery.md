@@ -10,28 +10,28 @@ Gallery
 =======
 
 ### Outdoor Education in PE lessons
-*   **Rock Climbing and Belaying**
+*   <b>Rock Climbing and Belaying</b>
 
 ![](/images/Gallery1.png)
 ![](/images/Gallery2.png)
 
-*   **Abseiling**
+*   <b>Abseiling</b>
 ![](/images/Gallery3.png)
 
 
-*   **Orienteering**
+*   <b>Orienteering</b>
 ![](/images/Gallery4.png)
 
 
 ### Outdoor Education for Staff
 
-*   **Staff Rock Climbing Session**
+*   <b>Staff Rock Climbing Session</b>
 ![](/images/Gallery5.png)
 ### Outdoor Activities
 
-*   **Greendale Adventure Race 2015**
+*   <b>Greendale Adventure Race 2015</b>
 
 ![](/images/Gallery6.png)
 
-*   **Student Leaders – 4th Position**
+*   <b>Student Leaders – 4th Position</b>
 ![](/images/Gallery7.png)
