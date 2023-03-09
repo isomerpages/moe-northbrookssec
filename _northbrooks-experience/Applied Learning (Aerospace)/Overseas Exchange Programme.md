@@ -60,14 +60,14 @@ Singapore students worked with other international students in teams of 5 on a m
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-jrax"><img src="https://northbrookssec-moe-edu-sg-admin.cwp-stg.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Image%201%20edit.jpg.2.jpg" alt="Students discussion.jpg"><br>Students discussing their project with their teammates from United States and France.</th>
-    <th class="tg-jrax"><img src="https://northbrookssec-moe-edu-sg-admin.cwp-stg.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Image%204%20edit.jpg.2.jpg" alt="Sharing by Engineer.jpg"><br>Students listening to a sharing by a very experienced Engineer, Mr Jeff, who has worked on many space missions.</th>
+    <th class="tg-jrax"><img src="/images/OEP1.jpg" style="width:100%"><br>Students discussing their project with their teammates from United States and France.</th>
+    <th class="tg-jrax"><img src="/images/OEP2.jpg" style="width:75%"><br>Students listening to a sharing by a very experienced Engineer, Mr Jeff, who has worked on many space missions.</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-jrax"><img src="https://northbrookssec-moe-edu-sg-admin.cwp-stg.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Image%203%20edit.jpg.2.jpg" alt="Students discussion.jpg"><br>Students discussing their project with their teammates from United States and France. </td>
-    <td class="tg-jrax"><img src="https://northbrookssec-moe-edu-sg-admin.cwp-stg.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Image%205%20edit.jpg.2.jpg" alt="Visit to Space Mockup Facility Centre.jpg"><br>Visit to Space Mockup Facility Centre at NASA.</td>
+    <td class="tg-jrax"><img src="/images/OEP3.jpg" style="width:100%"><br>Students discussing their project with their teammates from United States and France. </td>
+    <td class="tg-jrax"><img src="/images/OEP4.jpg" style="width:80%"><br>Visit to Space Mockup Facility Centre at NASA.</td>
   </tr>
   <tr>
     <td class="tg-jrax"><span style="font-weight:400;color:#000"> </span><img src="https://northbrookssec-moe-edu-sg-admin.cwp-stg.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Image%204%20edit.jpg.2.jpg" alt="Project briefing.jpg"><br>Project briefing for all students taking part in the summit.</td>
@@ -99,3 +99,6 @@ Singapore students worked with other international students in teams of 5 on a m
   </tr>
 </tbody>
 </table>
+
+
+<img src="/images/OEP4.jpg" style="width:80%">
