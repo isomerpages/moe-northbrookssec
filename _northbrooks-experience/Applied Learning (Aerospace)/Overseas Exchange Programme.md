@@ -70,8 +70,8 @@ Singapore students worked with other international students in teams of 5 on a m
     <td class="tg-jrax"><img src="/images/OEP4.jpg" style="width:80%"><br>Visit to Space Mockup Facility Centre at NASA.</td>
   </tr>
   <tr>
-    <td class="tg-jrax"><span style="font-weight:400;color:#000"> </span><img src="https://northbrookssec-moe-edu-sg-admin.cwp-stg.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Image%204%20edit.jpg.2.jpg" alt="Project briefing.jpg"><br>Project briefing for all students taking part in the summit.</td>
-    <td class="tg-jrax"><img src="https://northbrookssec-moe-edu-sg-admin.cwp-stg.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Image%206%20edit.jpg.2.jpg" alt="Outside Houston Space Centre.jpg"><br>Outside Houston Space Centre.</td>
+    <td class="tg-jrax"><span style="font-weight:400;color:#000"> </span><img src="/images/OEP5.jpg" style="width:100%"><br>Project briefing for all students taking part in the summit.</td>
+    <td class="tg-jrax"><img src="/images/OEP6.jpg" style="width:80%"><br>Outside Houston Space Centre.</td>
   </tr>
   <tr>
     <td class="tg-jrax"><img src="https://northbrookssec-moe-edu-sg-admin.cwp-stg.sg/qql/slot/u162/Progs%20n%20Events/Applied%20Learning%20(Aerospace)/Aerospace%20Enrichment%20Programmes/Youth%20Mission%20to%20Mars/.tn.Mars%20Day2_2.jpg.2.jpg" alt="Students learning Line Dancing.jpg"><br>Students learning Line Dancing.</td>
@@ -101,4 +101,4 @@ Singapore students worked with other international students in teams of 5 on a m
 </table>
 
 
-<img src="/images/OEP4.jpg" style="width:80%">
+<img src="/images/OEP6.jpg" style="width:80%">
