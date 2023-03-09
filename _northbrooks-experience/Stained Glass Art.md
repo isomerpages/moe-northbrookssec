@@ -36,9 +36,9 @@ The Visual Arts Unit takes part actively in Singapore Youth Festival (SYF) Art E
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-jjsp"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/NBR%20Experience/stained%20glass%20art/Stain%20Glass%201.jpg" alt="Stain Glass 1.jpg" width="262" height="250"></th>
-    <th class="tg-jjsp"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/NBR%20Experience/stained%20glass%20art/Stain%20Glass%202.jpg" alt="Stain Glass 2.jpg" width="239" height="257"></th>
-    <th class="tg-jjsp"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/NBR%20Experience/stained%20glass%20art/Stain%20Glass%203.jpg" alt="Stain Glass 3.jpg" width="273" height="260"></th>
+    <th class="tg-jjsp"><img src="/images/Stain%20Glass%201.jpg" style="width:100%"></th>
+    <th class="tg-jjsp"><img src="/images/Stain%20Glass%202.jpg" style="width:100%"></th>
+    <th class="tg-jjsp"><img src="/images/Stain%20Glass%203.jpg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
