@@ -34,7 +34,3 @@ Northbrooks believes that the outdoors provide a strong platform to build charac
 <b>Outdoor Experience for external schools</b>  
 <b>\- Student leaders are trained to facilitate rock-climbing experience for students from other schools.</b>  
 <b>\- Teachers organize and provide platforms for leadership development.</b>
-
-
-
-
