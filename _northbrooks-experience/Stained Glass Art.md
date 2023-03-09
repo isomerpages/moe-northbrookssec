@@ -17,3 +17,35 @@ Each stained glass piece is positioned to be a special gift of love from concept
   
 
 The Visual Arts Unit takes part actively in Singapore Youth Festival (SYF) Art Exhibition. Our works will be available for viewing in a printed catalogue and E-catalogue. Here are some of our past entries. Please enjoy.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jrax{background-color:#FFF;border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-jjsp{background-color:#FFF;border-color:#ffffff;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 753px">
+<colgroup>
+<col style="width: 251px">
+<col style="width: 251px">
+<col style="width: 251px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-jjsp"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/NBR%20Experience/stained%20glass%20art/Stain%20Glass%201.jpg" alt="Stain Glass 1.jpg" width="262" height="250"></th>
+    <th class="tg-jjsp"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/NBR%20Experience/stained%20glass%20art/Stain%20Glass%202.jpg" alt="Stain Glass 2.jpg" width="239" height="257"></th>
+    <th class="tg-jjsp"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/NBR%20Experience/stained%20glass%20art/Stain%20Glass%203.jpg" alt="Stain Glass 3.jpg" width="273" height="260"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-jrax">Title: “The Return to Nature”<br>Medium: Fused Glass</td>
+    <td class="tg-jrax">Title: “The Progressing Singapore”<br>Medium: Fused Glass</td>
+    <td class="tg-jrax">Title: “Remembering where we started”<br>Medium: Fused Glass</td>
+  </tr>
+</tbody>
+</table>
