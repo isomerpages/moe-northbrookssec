@@ -17,19 +17,3 @@ Each stained glass piece is positioned to be a special gift of love from concept
   
 
 The Visual Arts Unit takes part actively in Singapore Youth Festival (SYF) Art Exhibition. Our works will be available for viewing in a printed catalogue and E-catalogue. Here are some of our past entries. Please enjoy.
-
-
-
-
-##### Title: “The Return to Nature” Medium: Fused Glass
-![](/images/Stain%20Glass%201.jpeg)
-
-
-
-
-##### Title: “The Progressing Singapore” Medium: Fused Glass 
-![](/images/Stain%20Glass%202.jpeg)
-
-
-##### Title: “Remembering where we started” Medium: Fused Glass
-![](/images/Stain%20Glass%203.jpeg)
