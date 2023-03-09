@@ -22,6 +22,12 @@ The student leaders from Northbrooks assisted in the running of the event in are
 ![](/images/NOR3.png)
 The Red Cross Youth cadets from Northbrooks assisted by providing first aid coverage for all participants on the race course.
 
+### Flag off!
+
+<img src="/images/Flagoff.jpg" style="width:60%">
+
+The race saw 318 participants from 25 different schools ranging from primary, secondary schools and junior colleges.
+
 ### Brooksians in Action
 
 ![](/images/NOR4.png)
