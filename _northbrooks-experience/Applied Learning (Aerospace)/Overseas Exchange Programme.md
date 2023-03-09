@@ -105,3 +105,33 @@ Singapore students worked with other international students in teams of 5 on a m
 
 <img src="/images/OEP19.jpg" style="width:50%;float:left">
 
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+### Reflections
+
+
+<b>Day 1</b>  
+
+"In my opinion, the first day set the tone as to what we could expect in the subsequent days. Visiting Houston's Space Centre was a dream come true. It was one of the most breath-taking places I have ever been to. If you are keen on space science and exploration, this is the place to go. We definitely had lots of fun, even though we did face some challenges during our discussion, especially in communicating with the US and French students. This is indeed an experience I will cherish forever. One of the important takeaways from this experience for me is that in order to complete the challenge we were tasked with, everyone’s effort, knowledge and cooperation were required to come up with ways to overcome problems. Without the cooperation of one another, we would not have been able to complete this challenge as efficiently."  Kristian Lenardt, 3 Graciousness 
+
+<b>Day 2</b>
+
+"We visited Alvin High School in Alvin, Texas where we were introduced to American Football. Some of us even got the opportunity to try catching, throwing or kicking the ball. After lunch, we had a short tour of the school. It was interesting to discover the similarities and differences between their school and ours. We also had a dance class that involved line dancing and a bit of hip-hop. After visiting Alvin High School, we visited a farm that grows fruits and vegetables. We also visited a livestock farm which had pigs, cows, lambs and goats. We had our dinner there and then headed back to the hotel. It was nice experiencing how students from other countries study or how their school functions. They treated us just like their own friends and ensured that we had a fun time and that we understood their accent."  Erlyn Nurviqa, 3 Integrity  
+
+<b>Day 3 & 4</b>
+
+“We learned more about living on Mars through enriching hands-on activities. These included creating a wastewater filtration system, building rovers to complete a given mission and creating heat and cold shields to live on Mars. We were required to build an efficient and strong structure for the rover so that it would be able to withstand the rigour of completing the obstacle course. While building the rover, my team faced many issues. We had to brainstorm, collaborate with our teammates and make decisions in creating a more reliable system. I enjoyed this activity the most as we had to challenge the process to come up with a solution.” Tan Yu Jie, 3 Graciousness 
+
+<b>Day 5</b>
+
+“Time really flies when we are having fun. It is already our last day at the Houston Space Centre. It was also our long-awaited final presentation day. Through the various group presentations, we learned about the various challenging aspects of living on Mars. Personally, I have learned a lot about Mars and the Houston Space Centre. It was a great experience and opportunity for all of us to understand the various cultural backgrounds of my teammates. I would like to thank everyone who made ‘Youth Mission To Mars’ an unforgettable experience, and the teachers for their guidance throughout our journey.” Nury Amily Bte Rosli, 3 Integrity
