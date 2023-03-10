@@ -87,3 +87,11 @@ Gai Tianrui (3E) took part in the National School Games Shooting Championship fi
 
 <b>On 14 Apr 2018</b>
 
+<img src="/images/Greendale.jpg" style="width:70%">
+
+The school Orienteering Team competed in the Annual Greendale Adventure Race. The students ran, cycled and navigated around Punggol for three hours with surprise checkpoints testing them in tent pitching, fire making and First Aid. 
+
+  
+
+Two teams have emerged as <b>CHAMPIONS</b> in the boys' category and mixed category. <br>
+The students displayed great resilience and grit to complete this race.
