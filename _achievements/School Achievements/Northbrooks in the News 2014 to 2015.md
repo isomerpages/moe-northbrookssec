@@ -85,3 +85,6 @@ Northbrooks has been awarded the <u><b>NAC Arts Education Award</b></u> (Spark
 Northbrooks Secondary School has been active in championing green efforts to educate our students on the 3Rs through learning experiences and programmes.  
   
 Here are some of the noteworthy highlights of the year.
+
+
+<img src="/images/AIS3.jpeg" style="width:65%">
