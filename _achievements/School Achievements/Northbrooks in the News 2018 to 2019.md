@@ -71,3 +71,5 @@ We also had Mdm Au who emerged <b>4th</b> in her the Women's 45-55 years old C
 <b>On 14 May 2018</b>
 
 <img src="/images/2018.jpg" style="width:70%">
+
+Northbrooks has been awarded the North West Outstanding School Partner Award <b>(Bronze)</b> for 2018. This is an award given by the North West Community Development Council that recognises the school contributions to the North West community.
