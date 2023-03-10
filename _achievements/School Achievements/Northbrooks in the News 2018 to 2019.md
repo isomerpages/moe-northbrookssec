@@ -43,3 +43,10 @@ During the recently concluded National Orienteering Race (Schools) (14 Jul 2018)
 <center> <u><b>Malaysia Orienteering Asia Cup (Perak, Malaysia)</b></u> </center>
 
 <b>On 16 May 2018</b>
+
+
+<img src="/images/SchAchievement.jpeg" style="width:270px;height:340px;margin-left:15px;" align = "right">
+
+
+12 Brooksians have been selected to represent our school at the Malaysia Orienteering Asia Cup @ Perak, Malaysia between 11 to 14 May 2018. These students were selected based on their orienteering and athletic ability. The event is an international World Ranking Event (WRE) in which orienteering athletes from around the world were present. Our Brooksians displayed great grit and resilience by enduring and overcoming challenging terrain and tricky checkpoints. Our Orienteering team has achieved great success at the event. <br>
+Women's Under 18 (4.6km):  
