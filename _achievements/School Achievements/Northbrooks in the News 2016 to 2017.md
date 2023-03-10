@@ -41,3 +41,6 @@ Northbrooks in the News 2016-2017
 <img src="/images/Sustained%20Lotus%20Award.jpg" style="width:70%">
 
 Congratulations! Northbrooks Secondary School has achieved the <b>Lotus Sustained Achievement Award</b> in the SEC-StarHub School Green Awards (SGA) 2017!
+
+
+<center> <u><b>16th Elementz Science Competition</b></u> <center>
