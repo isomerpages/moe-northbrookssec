@@ -28,4 +28,4 @@ Northbrooks in the News 2018-2019
 </table>
 
 
-**National Orienteering Race (Schools)**
+<center> <u><b>National Orienteering Race (Schools)</b></u> </center>
