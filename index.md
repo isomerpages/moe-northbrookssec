@@ -14,4 +14,5 @@ sections:
         - title: Achievements
           description: ""
           url: /achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/
+      background: /images/main.gif
 ---
