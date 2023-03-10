@@ -261,3 +261,37 @@ Our PE/Outdoor Education and Humanities team were invited to showcase their resp
 
 
 ### 2016
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-39y2{background-color:#E6C20C;color:#141D1C;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-39y2">NORTHBROOKS SCHOOL ACHIEVEMENTS 2016<br>Congratulations to the school!</td>
+  </tr>
+</thead>
+</table>
+
+
+<center> <u><b>Fun Bin from Northbrooks</b></u> </center>
+
+<b>On 29 November 2016</b>
+
+<img src="/images/PA%20Community%20Spirit%20(GRO)%20Merit%20Award.jpg" style="width:60%">
+
+
+Students of the Environmental Art Club painted 5 dustbins which were presented to the public at Canberra CC on 6 November. The school was presented with a token of appreciation from Sembawang Town Council. The dustbin with the basketball design will be permanently placed at the futsal court in Canberra CC, to encourage people to bin their rubbish.
+
+
+<center> <u><b>YFC and NT student Community work</b></u> </center>
+
+<b>On 03 November 2016</b>
+
+
+In the belief that every single person can and will leave an indelible mark of difference in the lives of others, Northbrooks’ YFC and NT students partnered Touch Community Services on Saturday, 22 October 2016, to raise funds for children and families from disadvantaged backgrounds. The project was themed “iCAN – mark a difference”. This is only one of several platforms which Northbrooks uses to groom champion Brooksians, Brooksians who will become caring and concerned citizens. Though the students experienced rejection from some residents when they approached them to make a donation, the students remained gracious and persevered, keeping their mission and purpose in mind. They managed to raise a total of $1247
