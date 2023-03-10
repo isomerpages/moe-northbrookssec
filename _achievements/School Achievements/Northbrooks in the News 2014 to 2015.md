@@ -207,3 +207,9 @@ As part of N3 Cluster, Northbrooks Secondary School was pleased to contribute se
 
 
 <b>Click</b> [<b>here</b>](/files/AIS9.pdf) <b>to view the larger image</b>
+
+
+<center> <u><b>YOUth Got Talent Singing Competition</b></u> </center>
+
+
+##### On 25 August 2014
