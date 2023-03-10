@@ -158,3 +158,7 @@ Click [here](https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achieve
 
 
 <center> <u><b>Chinese Singing Competition</b></u> </center>
+
+
+<b>On 9 July 2017</b>
+
