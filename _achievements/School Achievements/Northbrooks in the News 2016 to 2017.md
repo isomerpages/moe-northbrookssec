@@ -103,4 +103,11 @@ Synopsis of project: To investigate which natural ingredient will best keep ant
 	Group members: 1. Pothu Tejas (1G) <br>                                2\. Aryan Deshpande (1G) <br>                             3\. Shin Thant Te Aung (1G) <br>                             4\. Jeremy Tan Kong Keat (1G) <br>
 Teacher Mentor: Mr Quah Wai Kuan <br>
 Result: Bronze
-                             
+
+
+
+<u>Group 2 </u> <br>
+Title of project: Hydrodynamics - Resist Water! <br>
+Synopsis of project:  This project aims to find out which shapes has the least resistance moving in water. Keeping force and volume of water constant, students will measure the time needed for different shapes to move across. <br> Group Members: 1. Anselm Nair (1G) <br>                              2\. Teki Abhay Das (1G) <br>                                                                                     3\. Loh Chuan Kit (1G) <br>
+Teacher Mentor: Ms Wendy Lee <br>
+Result: Certificate of Commendation
