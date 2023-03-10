@@ -384,3 +384,25 @@ Despite the challenging nature of the competition, the students demonstrated men
 <b>On 7 March 2016</b>
 
 On 27th February, nine teams of Brooksians represented the school in the Greendale Secondary School Adventure Race. The students were from the Boys’ and Girls' Brigade, NPCC and the Student Council. Participants of the race had to navigate their way around the Punggol waterways and Lorong Halus over a distance of 30 kilometres. The participants were tested on several outdoor skills such as tent-pitching, outdoor cooking, navigation, knot-tying and mountain biking. The team consisting of our Student Councillors emerged <u><b>overall second position</b></u> in the race!
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jjsp{background-color:#FFF;border-color:#ffffff;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-jjsp" rowspan="2"><img src="/images/Greendale1.jpg" style="width:90%"></td>
+    <td class="tg-jjsp"><img src="/images/Greendale2.jpg" style="width:80%"></td>
+  </tr>
+  <tr>
+    <td class="tg-jjsp"><img src="/images/Greendale3.jpg" style="width:80%"></td>
+  </tr>
+</thead>
+</table>
+
