@@ -58,18 +58,20 @@ Congratulations! Northbrooks Secondary School has achieved the <b>Lotus Sustain
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-jrax"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/2016%202017/Award%20Ceremony%20Anselm.jpg" alt="Award Ceremony Anselm.jpg" width="322"></th>
-    <th class="tg-jrax"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/2016%202017/Award%20Ceremony%20Tejas.jpg" alt="Award Ceremony Tejas.jpg" width="329"></th>
+    <th class="tg-jrax"><img src="/images/Award%20Ceremony%20Anselm.jpg" style="width:100%"></th>
+    <th class="tg-jrax"><img src="/images/Award%20Ceremony%20Tejas.jpg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-jrax"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/2016%202017/Anselms%20group%20engaging%20visitors%20during%20display%201.jpg" alt="Anselms group engaging visitors during display 1.jpg" width="325"></td>
-    <td class="tg-jrax"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/2016%202017/Anselms%20group%20project%20display%201.jpg" alt="Anselms group project display 1.jpg" width="336"></td>
+    <td class="tg-jrax"><img src="/images/Anselms%20group%20engaging%20visitors%20during%20display%201.jpg" style="width:100%"></td>
+    <td class="tg-jrax"><img src="/images/Anselms%20group%20project%20display%201.jpg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-jrax"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/2016%202017/Tejas%20group%20during%20exhibition%20display%201.jpg" alt="Tejas group during exhibition display 1.jpg" width="439"></td>
-    <td class="tg-jrax"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/2016%202017/Group%20Photo%20during%20award%20ceremony%20Anselms%20group%201.jpg" alt="Group Photo during award ceremony Anselms group 1.jpg" width="284" height="261"></td>
+    <td class="tg-jrax"><img src="/images/Tejas%20group%20during%20exhibition%20display%201.jpg" style="width:100%"></td>
+    <td class="tg-jrax"><img src="/images/Group%20Photo%20during%20award%20ceremony%20Anselms%20group%201.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
+
+
