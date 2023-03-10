@@ -105,3 +105,15 @@ These efforts have been recognised at the SEC-Starhub School Green Awards (SGA) 
 
 ##### On 10 September 2015
 
+
+<img src="/images/Frisbee.jpg" style="width:220px;height:290px;margin-left:15px;" align = "right">
+
+During the <b>N6 Cluster Sports Fiesta</b> that was held on 28th August, Northbrooks sent two teams of students and one team of teachers to compete in the Ultimate Frisbee competition.  
+  
+
+One team of students emerged  <b>CHAMPIONS</b> and the other team of students came in <b>6th out of 10</b>! Our students were truly gracious champions as they also cheered for other schools when they were playing the game. Their team spirit, fortitude in competition and graciousness certainly embodied the school values and Champion mindset that we aspire for our students to achieve.
+
+The staff team came in 4th out of 7 teams.
+
+
+<center> <u><b>SG50 Inter-Cluster Ultimate Frisbee Competition</b></u> </center>
