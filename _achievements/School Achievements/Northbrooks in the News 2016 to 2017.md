@@ -295,3 +295,92 @@ Students of the Environmental Art Club painted 5 dustbins which were presented t
 
 
 In the belief that every single person can and will leave an indelible mark of difference in the lives of others, Northbrooks’ YFC and NT students partnered Touch Community Services on Saturday, 22 October 2016, to raise funds for children and families from disadvantaged backgrounds. The project was themed “iCAN – mark a difference”. This is only one of several platforms which Northbrooks uses to groom champion Brooksians, Brooksians who will become caring and concerned citizens. Though the students experienced rejection from some residents when they approached them to make a donation, the students remained gracious and persevered, keeping their mission and purpose in mind. They managed to raise a total of $1247
+
+
+<center> <u><b>PA Community Spirit (GRO) Merit Award</b></u> </center>
+
+<b>On 15 August 2016</b>
+
+<img src="/images/PA%20Community%20Spirit%20(GRO)%20Merit%20Award.jpg" style="width:60%">
+
+
+Northbrooks Secondary School (NBSS) has been an esteemed and valuable partner for Nee Soon East Grassroots Organisations. Northbrooks Secondary School was conferred with the PACS Awards 2016 - Community Partnership (GRO) Merit Award by People’s Association.
+
+
+<center> <u><b>National Junior College Shooting Club 11th Invitational Shoot</b></u> </center>
+
+
+<b>On 15 June 2016</b>
+
+<img src="/images/shooting.jpeg" style="width:160px;height:240px;margin-left:15px;" align = "right">
+
+The National Junior College Shooting Club held its 11th Invitational Shoot on Saturday, May 28th and Sunday, May 29th, 2016 at Yishun SAFRA Indoor Air Weapon Shooting Range. Gai Tianrui (Sec 1 Empathy) finished 2nd in the competition for C Division Air Rifle Category. He displayed FORTITUDE, FOCUS and DISCIPLINE during the competition.
+
+
+<center> <u><b>National Story Challenge 2016</b></u> </center>
+
+
+<b>On 15 March 2016</b>
+
+
+<img src="/images/NationalStory2016%20(2).jpg" style="width:60%">
+
+
+The <b>Finals</b> of the <b>National Story Challenge 2016</b> was held on Saturday, 12 March, and the team from Northbrooks was placed <u><b>Second in the Grand Finals</b></u>!
+
+  
+
+The competition requires teams of 3 student participants to create and dramatise an original story. Teams are given 15 minutes to prepare and enact their story based on a given topic (e.g. 'The Midnight Train'), and in the last 3 minutes, are given a condition which is unique to their team (e.g. 'There must be 3 rabbits in the story', or 'One of the characters must say "I'm pretty!" three times'). They are to then dramatise a 3-  to 4-minute story in front of judges. 
+
+  
+
+The students attended 3 drama workshops to help prepare them for the competition. 
+
+Despite the challenging nature of the competition, the students demonstrated mental resilience, spontaneity, creativity, teamwork and an impressive amount of confidence.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5">S/N</th>
+    <th class="tg-dgl5">Name</th>
+    <th class="tg-dgl5">Class</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi">1</td>
+    <td class="tg-ktyi">KRISTIAN LENARDT YEO CHUN WEN</td>
+    <td class="tg-ktyi">3G</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">2</td>
+    <td class="tg-ktyi">JOEY HO YU SI</td>
+    <td class="tg-ktyi">3I</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">3</td>
+    <td class="tg-ktyi">TAN YAO AN, JARREL</td>
+    <td class="tg-ktyi">3I</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">4</td>
+    <td class="tg-ktyi">RACHAEL HOH WEI HUI (Reserve)</td>
+    <td class="tg-ktyi">3E</td>
+  </tr>
+</tbody>
+</table>
+
+<center> <u><b>Greendale Secondary School Adventure Race</b></u> </center>
+
+<b>On 7 March 2016</b>
+
+On 27th February, nine teams of Brooksians represented the school in the Greendale Secondary School Adventure Race. The students were from the Boys’ and Girls' Brigade, NPCC and the Student Council. Participants of the race had to navigate their way around the Punggol waterways and Lorong Halus over a distance of 30 kilometres. The participants were tested on several outdoor skills such as tent-pitching, outdoor cooking, navigation, knot-tying and mountain biking. The team consisting of our Student Councillors emerged <u><b>overall second position</b><u> in the race!
