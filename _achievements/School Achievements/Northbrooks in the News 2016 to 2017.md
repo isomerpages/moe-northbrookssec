@@ -151,3 +151,7 @@ Result: Certificate of Commendation
 </thead>
 </table>
 
+
+In the boys' 10m air rifle final, Northbrooks Secondary's Gai Tianrui won with 243.3 points, ahead of Raffles Institution's (RI) Bryon Lim (239.5) and Ng Kang Qi (219.0) of Anglo-Chinese School (Independent).   
+  
+Click [here](https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/School%20Achievements/School%20sports_%20A%20shooter%20of%20high%20Callie-bre,%20Schools%20News%20&%20Top%20Stories%20-%20The%20Straits%20Times%20v2.pdf) to read the full article
