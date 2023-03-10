@@ -41,7 +41,7 @@ Special thanks to the following programmes that were part of the NWCDC activitie
 1\.  Recyclatron 2020 <br>
 2\.  Sec 1 Service Learning EOY PEA 2020 <br>
 3\.  WeCare,WeRecycle@NorthWest 2020 <br>
-4.  NWCDC Giraffe Fund 2020 for Community Outreach
+4\.  NWCDC Giraffe Fund 2020 for Community Outreach
 
 
 ### 2020
@@ -78,4 +78,4 @@ Special thanks to the following programmes that were part of the NWCDC activitie
 3\.  Bukit Panjang Eco CC LJ <br>
 4\.  Sky Greens LJ <br>
 5\.  NWCDC Mayor Network Session <br>
-6.  Clean & Green Carnival with NWCDC
+6\.  Clean & Green Carnival with NWCDC
