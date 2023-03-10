@@ -205,3 +205,56 @@ At the finals of the Chinese singing competition, Xing Kong Xia that took place 
 Congratulations to 2 of our students who received the Outstanding FamChamps Award. FamChamps is a values-driven student initiative to promote the holistic message of Family and raise future Family champions.
 
 <center> <u><b>Singapore Youth Festival 2017</b></u> </center>
+
+
+<b>On 2 July 2017</b>
+
+<img src="/images/SYF%201.jpg" style="width:70%">
+
+
+
+<img src="/images/SYF%202.jpg" style="width:70%">
+
+
+In the recent Singapore Youth Festival 2017, our students managed to receive one of the top 3 Judge's Choice Award for the Youth Got Talent competition.
+
+
+<center> <u><b>MOE ExCel Fest 2017</b></u> </center>
+
+
+<b>On 31 March 2017</b>
+
+Our PE/Outdoor Education and Humanities team were invited to showcase their respective projects (adventure Character Environment Programme and Germanopology) in the recently MOE ExCel Fest 2017. Our outdoor education students and staff were given the opportunity to share and communicate their ideas and experiences with other students and fellow educators in the  fraternity .
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jjsp{background-color:#FFF;border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-osp6{background-color:#FFF;border-color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-jjsp"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/2016%202017/WhatsApp%20Image%202017-03-30%20at%207.07.41%20PM.jpeg" alt="WhatsApp Image 2017-03-30 at 7.07.41 PM.jpeg" width="274"></th>
+    <th class="tg-osp6"><br><br><br>Sharing their ideas <br>and experiences.<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-osp6"><br><br><br><br>Our Humanities team at the <br>MOE ExCel Fest 2017<br></td>
+    <td class="tg-jjsp"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/2016%202017/WhatsApp%20Image%202017-04-03%20at%203.14.12%20PM.jpeg" alt="WhatsApp Image 2017-04-03 at 3.14.12 PM.jpeg" width="291"></td>
+  </tr>
+  <tr>
+    <td class="tg-jjsp"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/2016%202017/WhatsApp%20Image%202017-04-03%20at%203.14.10%20PM.jpeg" alt="WhatsApp Image 2017-04-03 at 3.14.10 PM.jpeg" width="305"></td>
+    <td class="tg-osp6"><br><br><br><br>Germanpoly created by our Humanities team.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-osp6"><br><br><br><br><br><br>Students demonstrating <br>what they have learned <br>through from the <br>Outdoor Education Programme.</td>
+    <td class="tg-jjsp"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/2016%202017/IMG_7568.jpg" alt="IMG_7568.jpg" width="271"></td>
+  </tr>
+</tbody>
+</table>
