@@ -111,3 +111,24 @@ Title of project: Hydrodynamics - Resist Water! <br>
 Synopsis of project:  This project aims to find out which shapes has the least resistance moving in water. Keeping force and volume of water constant, students will measure the time needed for different shapes to move across. <br> Group Members: 1. Anselm Nair (1G) <br>                              2\. Teki Abhay Das (1G) <br>                                                                                     3\. Loh Chuan Kit (1G) <br>
 Teacher Mentor: Ms Wendy Lee <br>
 Result: Certificate of Commendation
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8tog{border-color:#ffffff;color:#06667e;font-size:22px;font-weight:bold;text-align:center;text-decoration:underline;
+  vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-8tog">Brooksian wins C Div Boys' 10m Air Rifle Competition</td>
+  </tr>
+</thead>
+</table>
+
+
+<b>On 4 August 2017</b>
