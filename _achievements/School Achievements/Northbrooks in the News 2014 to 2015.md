@@ -213,3 +213,58 @@ As part of N3 Cluster, Northbrooks Secondary School was pleased to contribute se
 
 
 ##### On 25 August 2014
+
+
+<img src="/images/AIS10.jpeg" style="width:60%">
+
+Since 2009, T-Net Club (Teens Network Club) has been organizing YOUth Got Talent Singing Competition annually to allow youths in Singapore to showcase their talents and develop self-confidence through the competition. 
+
+This year, 2 students went for the audition. Our Brooksian, Ahmad Irfan, was 1 of the 10 finalists out of 100 over participants of the competition. On Saturday, 16 August 2014, he took part in the finals at Plaza Singapura. His charisma, popular song choice and a large amount of audience who clapped along won him the "Most Supporter Team" award.
+
+
+<img src="/images/AIS11.png" style="width:60%">
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5"><span style="color:#000">S/N</span></th>
+    <th class="tg-dgl5"><span style="color:#000">Name</span></th>
+    <th class="tg-dgl5"><span style="color:#000">Class</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">1</span></td>
+    <td class="tg-ktyi"><span style="color:#000">AHMAD IRFAN B AHMAD ZAIDI</span></td>
+    <td class="tg-ktyi"><span style="color:#000">3G</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">2</span></td>
+    <td class="tg-ktyi"><span style="color:#000">TANTI NUR MUTIARA BTE ZAINAL</span></td>
+    <td class="tg-ktyi"><span style="color:#000">1T</span></td>
+  </tr>
+</tbody>
+</table>
+
+
+<center> <u><b>People's Association Community Spirit Awards 2014</b></u> </center>
+
+
+<img src="/images/AIS12.jpg" style="width:190px;height:290px;margin-left:15px;" align = "right">
+
+##### On 5 August 2014
+
+
+On Friday, 1 August 2014, Northbrooks received the People’s Association Community Spirit Award for the  3rd consecutive year, in recognition of its partnership of, and contributions towards the community.
+
+<b>Click</b> [<b>here</b>](/files/AIS12.pdf) <b>to view the larger image</b>
