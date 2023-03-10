@@ -195,3 +195,13 @@ At the finals of the Chinese singing competition, Xing Kong Xia that took place 
 
 
 <center> <u><b>FamChamps Award</b></u> </center>
+
+
+
+<b>On 8 July 2017</b>
+
+<img src="/images/FamChamp.jpg" style="width:70%">
+
+Congratulations to 2 of our students who received the Outstanding FamChamps Award. FamChamps is a values-driven student initiative to promote the holistic message of Family and raise future Family champions.
+
+<center> <u><b>Singapore Youth Festival 2017</b></u> </center>
