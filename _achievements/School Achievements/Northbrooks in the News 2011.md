@@ -40,22 +40,22 @@ Northbrooks in the News 2011
   </tr>
   <tr>
     <td class="tg-axdk"><span style="font-weight:500;color:#06667E">23 September 2011</span></td>
-    <td class="tg-ktyi">The Straits Times &amp; Lian He Zao Bao<br><br><span style="color:#000">He left gang, thanks to his teachers</span><br><br><span style="color:#000">Northbrooks Secondary School's Special Pull-Out and Re-integration scheme. (</span><a href="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/NB%20in%20the%20News/2011%20NB%20in%20the%20News/2011%20NB%20in%20the%20News/Vester.jpg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#06667E">English</span></a><span style="text-decoration:underline;color:#000">/</span><a href="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/NB%20in%20the%20News/2011%20NB%20in%20the%20News/2011%20NB%20in%20the%20News/Vester_chinese.jpg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#06667E">Chinese</span></a><span style="color:#000">)</span></td>
+    <td class="tg-ktyi">The Straits Times &amp; Lian He Zao Bao<br><br><span style="color:#000">He left gang, thanks to his teachers</span><br><br><span style="color:#000">Northbrooks Secondary School's Special Pull-Out and Re-integration scheme. (</span><a href="/files/Vester.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#06667E">English</span></a><span style="text-decoration:underline;color:#000">/</span><a href="/files/Vester_chinese.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#06667E">Chinese</span></a><span style="color:#000">)</span></td>
     <td class="tg-ktyi"><span style="color:#000">Newspaper Reporter</span></td>
   </tr>
   <tr>
     <td class="tg-axdk"><span style="font-weight:500;color:#06667E">14-20 September 2011</span></td>
-    <td class="tg-ktyi"><span style="font-weight:bold;text-decoration:underline">ZB Comma</span><br><br><a href="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/NB%20in%20the%20News/2011%20NB%20in%20the%20News/2011%20NB%20in%20the%20News/Museum_Guide_Programme_14Sept20.jpg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#06667E">Learning Chinese Culture through Museum Guide Programme</span></a></td>
+    <td class="tg-ktyi"><span style="font-weight:bold;text-decoration:underline">ZB Comma</span><br><br><a href="/files/Museum_Guide_Programme_14Sept20.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#06667E">Learning Chinese Culture through Museum Guide Programme</span></a></td>
     <td class="tg-ktyi"><span style="color:#000">Cui Yu Shi, 3G3</span><br><span style="color:#000">Student Reporter </span></td>
   </tr>
   <tr>
     <td class="tg-axdk"><span style="font-weight:500;color:#06667E">4 -10 September 2011</span></td>
-    <td class="tg-ktyi"><span style="font-weight:bold;text-decoration:underline">ZB Comma</span><br><br><a href="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/NB%20in%20the%20News/2011%20NB%20in%20the%20News/2011%20NB%20in%20the%20News/Chicken_Dance_4Sept10.jpg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#06667E">Students &amp; Teachers Breaking the Chicken Dance Record</span></a></td>
+    <td class="tg-ktyi"><span style="font-weight:bold;text-decoration:underline">ZB Comma</span><br><br><a href="/files/Chicken_Dance_4Sept10.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#06667E">Students &amp; Teachers Breaking the Chicken Dance Record</span></a></td>
     <td class="tg-ktyi"><span style="color:#000">Cui Yu Shi, 3G3</span><br><span style="color:#000">Student Reporter </span></td>
   </tr>
   <tr>
     <td class="tg-axdk"><span style="font-weight:500;color:#06667E">7 February 2011</span></td>
-    <td class="tg-ktyi"><span style="font-weight:bold;text-decoration:underline">The New Paper</span><br><br><a href="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/NB%20in%20the%20News/2011%20NB%20in%20the%20News/2011%20NB%20in%20the%20News/CNY.jpg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#06667E">School bring CNY cheer to residents</span></a></td>
+    <td class="tg-ktyi"><span style="font-weight:bold;text-decoration:underline">The New Paper</span><br><br><a href="/files/CNY.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#06667E">School bring CNY cheer to residents</span></a></td>
     <td class="tg-ktyi"><span style="color:#000">Newspaper Reporter</span></td>
   </tr>
 </tbody>
