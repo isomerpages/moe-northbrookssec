@@ -69,3 +69,5 @@ We also had Mdm Au who emerged <b>4th</b> in her the Women's 45-55 years old C
 
 
 <b>On 14 May 2018</b>
+
+<img src="/images/2018.jpg" style="width:70%">
