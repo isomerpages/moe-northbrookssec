@@ -162,3 +162,8 @@ Click [here](https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achieve
 
 <b>On 9 July 2017</b>
 
+<img src="/images/Sch.png" style="width:200px;height:550px;margin-left:15px;" align = "right">
+
+At the finals of the Chinese singing competition, Xing Kong Xia that took place on 12 Aug 2018. Our students, Tan Ching won an accomplishment award after she has made it into the top 5.  She was affirmed by the judges for her ability. She had an amazing cheering team that supported her throughout this competition
+
+<img src="/images/Sch2.jpeg" style="width:65%;float:left">
