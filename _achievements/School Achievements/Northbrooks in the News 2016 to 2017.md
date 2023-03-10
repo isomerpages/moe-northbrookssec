@@ -132,3 +132,22 @@ Result: Certificate of Commendation
 
 
 <b>On 4 August 2017</b>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jjsp{background-color:#FFF;border-color:#ffffff;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-jjsp"><img src="/images/Shooter%202.jpeg" style="width:100%"></td>
+    <td class="tg-jjsp"><img src="/images/Shooter%201.jpeg" style="width:60%"></td>
+  </tr>
+</thead>
+</table>
+
