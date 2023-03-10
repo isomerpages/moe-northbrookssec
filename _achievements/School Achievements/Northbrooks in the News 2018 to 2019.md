@@ -64,3 +64,8 @@ Men's Under 18 (5.4km): <br>
 5.  <b>Jun Xiang (3T)</b>
 
 We also had Mdm Au who emerged <b>4th</b> in her the Women's 45-55 years old Category!
+
+<center> <u><b>North West Outstanding School Partner Award (Bronze)</b></u> </center>
+
+
+<b>On 14 May 2018</b>
