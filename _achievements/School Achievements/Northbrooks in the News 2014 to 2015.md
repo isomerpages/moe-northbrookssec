@@ -170,3 +170,12 @@ Four of our student councillors have been training hard under the tutelage of Ms
 
 ##### On 27 May 2015
 
+<img src="/images/AIS7.jpg" style="width:200px;height:240px;margin-left:15px;" align = "right">
+
+
+The Good Neighbour Award Ceremony 2015 was held on 23 May 2015, Saturday. Eleazar Zyrille Magundayao from Sec 1Empathy received the <b>Good Neighbour Award – National Award (Student Category).</b>  She has demonstrated exemplary neighbourly spirit.  Her kind deeds for her neighbours are a great inspiration for others to emulate (the full story is appended in Annex A). During this Award Ceremony, 14 National Recipients (Open and Student Category) was honoured, including Zyrille.  There will also be a week-long exhibition where the Good Neighbour Award 2015 recipients and their inspiring stories will be showcased at the HDB Community Week 2015 exhibition, from 24 May to 31 May 2015 at the HDB Hub Mall at Toa Payoh.
+
+
+<img src="/images/AIS8.png" style="width:80%">
+
+### 2014
