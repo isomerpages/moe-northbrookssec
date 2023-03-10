@@ -206,4 +206,4 @@ The Good Neighbour Award Ceremony 2015 was held on 23 May 2015, Saturday. Eleaza
 As part of N3 Cluster, Northbrooks Secondary School was pleased to contribute several artworks created by our students for an Art community outreach project in collaboration with Asiamalls Management Pte Ltd. The students were invited to paint on A2-sized canvases, to illustrate what the national spirit means to them. Artworks by Brooksians are among the 184 beautiful art pieces on display in the impressive three-dimensional art installation, hung from the skylight in the atrium of Hougang Mall. The massive art installation was aimed at creating for shoppers a unique experience in which they would be able to enjoy and appreciate artwork by students. The exhibits will be on display in the mall until mid-November 2014.
 
 
-<b>Click</b> [<b>here</b>](https://northbrookssec-moe-edu-sg-admin.cwp-stg.sg/qql/slot/u162/Achievements/2014-2015%20Sch%20Achievements/NE_Forte_17_Sep.jpg) <b>to view the larger image</b>
+<b>Click</b> [<b>here</b>](/files/AIS9.pdf) <b>to view the larger image</b>
