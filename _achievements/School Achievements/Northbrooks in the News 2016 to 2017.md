@@ -239,22 +239,23 @@ Our PE/Outdoor Education and Humanities team were invited to showcase their resp
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-jjsp"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/2016%202017/WhatsApp%20Image%202017-03-30%20at%207.07.41%20PM.jpeg" alt="WhatsApp Image 2017-03-30 at 7.07.41 PM.jpeg" width="274"></th>
+    <th class="tg-jjsp"><img src="/images/MOE1.jpeg" style="width:100%"></th>
     <th class="tg-osp6"><br><br><br>Sharing their ideas <br>and experiences.<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-osp6"><br><br><br><br>Our Humanities team at the <br>MOE ExCel Fest 2017<br></td>
-    <td class="tg-jjsp"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/2016%202017/WhatsApp%20Image%202017-04-03%20at%203.14.12%20PM.jpeg" alt="WhatsApp Image 2017-04-03 at 3.14.12 PM.jpeg" width="291"></td>
+    <td class="tg-jjsp"><img src="/images/MOE2.jpeg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-jjsp"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/2016%202017/WhatsApp%20Image%202017-04-03%20at%203.14.10%20PM.jpeg" alt="WhatsApp Image 2017-04-03 at 3.14.10 PM.jpeg" width="305"></td>
+    <td class="tg-jjsp"><img src="/images/MOE3.jpeg" style="width:100%"></td>
     <td class="tg-osp6"><br><br><br><br>Germanpoly created by our Humanities team.<br></td>
   </tr>
   <tr>
     <td class="tg-osp6"><br><br><br><br><br><br>Students demonstrating <br>what they have learned <br>through from the <br>Outdoor Education Programme.</td>
-    <td class="tg-jjsp"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Achievements/2016%202017/IMG_7568.jpg" alt="IMG_7568.jpg" width="271"></td>
+    <td class="tg-jjsp"><img src="/images/MOE4.jpeg" style="width:70%"></td>
   </tr>
 </tbody>
 </table>
+
