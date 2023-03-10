@@ -117,3 +117,6 @@ The staff team came in 4th out of 7 teams.
 
 
 <center> <u><b>SG50 Inter-Cluster Ultimate Frisbee Competition</b></u> </center>
+
+
+##### On 28 May 2015
