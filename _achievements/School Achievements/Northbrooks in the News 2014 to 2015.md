@@ -35,8 +35,53 @@ Northbrooks in the News 2014-2015
 </table>
 
 
-#### On 30 November 2015
+##### On 30 November 2015
 
 Northbrooks Secondary School has been awarded the Aviation in Schools Initiative Award (AIS) by Civil Aviation Authority of Singapore (CAAS) for developing long-term plans to involve students and teachers in aviation.
 
 This award is in recognition of the efforts taken to build a niche in Aerospace and an environment where students are constantly exposed to aviation for enrichment and career guidance. The school has also worked closely with CAAS to expose our students to aerospace not just in terms of curriculum, but also through learning journeys, workshops, enrichment programmes and other activities.
+
+
+<img src="/images/AIS1.jpg" style="width:39%;float:left">
+
+<img src="/images/AIS2.jpeg" style="width:50%;float:left">
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+<center> <u><b>NAC Arts Education Award (Spark)</b></u> </center>
+
+##### On 23 October 2015
+
+<img src="/images/NAC%20Arts%20Education%20Award%20(Spark).jpg" style="width:35%">
+
+Northbrooks has been awarded the <u><b>NAC Arts Education Award</b></u> (Spark), (Nov 2015 – Nov 2019). The NAC Arts Education Award (NAEA) is a national arts award conferred by the National Arts Council to encourage schools to provide holistic arts education for their students; it also provides schools with a framework to guide the development of good arts education practices and programmes.
+
+
+<center> <b>School Green Awards & 3R Awards</b> </center>
+
+##### On 19 October 2015
+
+Northbrooks Secondary School has been active in championing green efforts to educate our students on the 3Rs through learning experiences and programmes.  
+  
+Here are some of the noteworthy highlights of the year.
