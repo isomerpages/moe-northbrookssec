@@ -73,3 +73,17 @@ We also had Mdm Au who emerged <b>4th</b> in her the Women's 45-55 years old C
 <img src="/images/2018.jpg" style="width:70%">
 
 Northbrooks has been awarded the North West Outstanding School Partner Award <b>(Bronze)</b> for 2018. This is an award given by the North West Community Development Council that recognises the school contributions to the North West community.
+
+
+<center> <u><b>National School Games Shooting Championship</b></u> </center>
+
+<b>On 20 April 2018</b>
+
+<img src="/images/Shooting.jpg" style="width:70%">
+
+Gai Tianrui (3E) took part in the National School Games Shooting Championship finals on 20 April 2018. He displayed grit and determination throughout the gruelling shoot-off under intense pressure. He finished <b>4th</b> overall out of 24.
+
+<center> <u><b>Annual Greendale Adventure Race</b></u> </center>
+
+<b>On 14 Apr 2018</b>
+
