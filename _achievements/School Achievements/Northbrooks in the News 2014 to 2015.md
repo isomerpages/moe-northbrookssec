@@ -120,3 +120,9 @@ The staff team came in 4th out of 7 teams.
 
 
 ##### On 28 May 2015
+
+
+<img src="/images/AIS5.png" style="width:65%">
+
+Ministry of Education's Physical Education and Sports Education Branch organized an Inter-cluster Ultimate Frisbee Competition (Youth Celebrate! Jubilee Cup) for schools on 25th May 2015.  Our cluster, N6 emerged as overall SECOND position in the North Zone! The champion team would represent the zone in the national competition against the 3 other zones.
+
