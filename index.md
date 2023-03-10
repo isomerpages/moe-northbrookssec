@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/NBSS MainPage.gif
+      background: /images/Northbrooks main.gif
       key_highlights:
         - title: News & Announcements
           description: ""
