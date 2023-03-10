@@ -63,3 +63,6 @@ Special thanks to the following programmes that were part of the NWCDC activitie
   </tr>
 </thead>
 </table>
+
+
+<center> <u><b>NorthWest CDC Gold Partner Award</b></u> </center>
