@@ -66,3 +66,6 @@ Special thanks to the following programmes that were part of the NWCDC activitie
 <center> <u><b>NorthWest CDC Gold Partner Award</b></u> </center>
 
 ###### On 28 April 2020
+
+
+<img src="/images/2020.jpeg" style="width:70%">
