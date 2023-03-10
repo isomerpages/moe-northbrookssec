@@ -88,3 +88,14 @@ Here are some of the noteworthy highlights of the year.
 
 
 <img src="/images/AIS3.jpeg" style="width:65%">
+
+
+In October 2014, Lower Secondary students learned how to make recycled flowers from plastic bags in a Values-In-Action project entitled ‘Tribute to Our Unsung Heroes’. These carnation bouquets and some handwritten messages were presented to our non-teaching and cleaning staff to show our appreciation towards them.
+
+
+<img src="/images/AIS4.jpeg" style="width:65%">
+
+
+The Secondary 2 students designed games booths from recycled materials as part of their post-examination activities in May 2015. Students were invited to try out the games to win prizes.  
+  
+These efforts have been recognised at the SEC-Starhub School Green Awards (SGA) and 3R Awards this year, with Northbrooks being awarded the <b>Lotus Sustained Achievement Award</b> and the <b>Gold Award</b> respectively!
