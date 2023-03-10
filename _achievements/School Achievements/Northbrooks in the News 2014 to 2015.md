@@ -179,3 +179,31 @@ The Good Neighbour Award Ceremony 2015 was held on 23 May 2015, Saturday. Eleaza
 <img src="/images/AIS8.png" style="width:80%">
 
 ### 2014
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ru42{background-color:#E6C20C;color:#141D1C;font-size:20px;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-ru42"><span style="color:#141D1C">NORTHBROOKS SCHOOL ACHIEVEMENTS 2014</span><br><span style="color:#141D1C">Congratulations to the school!</span></td>
+  </tr>
+</thead>
+</table>
+
+<center> <u><b>N3 Cluster Aesthetics Collaboration with Hougang Mall</b></u> </center>
+
+<img src="/images/AIS9.jpg" style="width:90px;height:100px;margin-left:15px;" align = "right">
+
+##### On 19 September 2014
+
+
+As part of N3 Cluster, Northbrooks Secondary School was pleased to contribute several artworks created by our students for an Art community outreach project in collaboration with Asiamalls Management Pte Ltd. The students were invited to paint on A2-sized canvases, to illustrate what the national spirit means to them. Artworks by Brooksians are among the 184 beautiful art pieces on display in the impressive three-dimensional art installation, hung from the skylight in the atrium of Hougang Mall. The massive art installation was aimed at creating for shoppers a unique experience in which they would be able to enjoy and appreciate artwork by students. The exhibits will be on display in the mall until mid-November 2014.
+
+
+<b>Click</b> [<b>here</b>](https://northbrookssec-moe-edu-sg-admin.cwp-stg.sg/qql/slot/u162/Achievements/2014-2015%20Sch%20Achievements/NE_Forte_17_Sep.jpg) <b>to view the larger image</b>
