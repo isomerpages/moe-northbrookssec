@@ -99,3 +99,9 @@ In October 2014, Lower Secondary students learned how to make recycled flowers f
 The Secondary 2 students designed games booths from recycled materials as part of their post-examination activities in May 2015. Students were invited to try out the games to win prizes.  
   
 These efforts have been recognised at the SEC-Starhub School Green Awards (SGA) and 3R Awards this year, with Northbrooks being awarded the <b>Lotus Sustained Achievement Award</b> and the <b>Gold Award</b> respectively!
+
+
+<center> <u><b>N6 Cluster Frisbee Competition</b></u> </center>
+
+##### On 10 September 2015
+
