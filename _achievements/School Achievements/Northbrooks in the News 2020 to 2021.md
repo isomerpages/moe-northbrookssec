@@ -30,8 +30,6 @@ Northbrooks in the News 2020-2021
 
 <center> <u><b>NorthWest CDC Gold Partner Award</b></u> </center>
 
-
-
 ###### On 15 April 2021
 
 
@@ -66,3 +64,5 @@ Special thanks to the following programmes that were part of the NWCDC activitie
 
 
 <center> <u><b>NorthWest CDC Gold Partner Award</b></u> </center>
+
+###### On 28 April 2020
