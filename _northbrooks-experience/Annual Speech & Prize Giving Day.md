@@ -8,9 +8,9 @@ description: ""
 Annual Speech & Prize Giving
 ============================
 
-#### <center>You can now watch the event on our [Youtube](https://www.youtube.com/watch?v=YzCwITMu6QU)! </center>
+ #### You can now watch the event on our [Youtube](https://www.youtube.com/watch?v=YzCwITMu6QU)! 
 
 ![](/images/Annual.jpeg)
 
   
-#### <center>For more information, do refer to the programme booklet below.</center>
+<b>For more information, do refer to the programme booklet below.</b>
