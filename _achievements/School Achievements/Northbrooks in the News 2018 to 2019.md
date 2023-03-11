@@ -54,14 +54,14 @@ Women's Under 18 (4.6km): <br>
 2\.  From Indonesia      
 3\.  From Malaysia  
 4\.  <b>Justine (3G)</b>  
-5.  <b>Rachael (2E)</b>
+5\.  <b>Rachael (2E)</b>
 
 Men's Under 18 (5.4km): <br>
 1\.  <b>Edwin Huang (3E)</b>  
 2\.  From Malaysia  
 3\.  From Taiwan  
 4\.  <b>Azhad (3I)</b>  
-5.  <b>Jun Xiang (3T)</b>
+5\.  <b>Jun Xiang (3T)</b>
 
 We also had Mdm Au who emerged <b>4th</b> in her the Women's 45-55 years old Category!
 
