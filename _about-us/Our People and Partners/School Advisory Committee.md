@@ -50,7 +50,7 @@ School Advisory Committee
   <tr>
     <td class="tg-baqh"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Sch%20Advisory%20Committee%20Members/Melvin.jpg" alt="Image" width="149" height="149"><br><br><span style="font-weight:400;font-style:normal">Mr Ang Pin Chean Melvin</span><br></td>
     <td class="tg-baqh"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Sch%20Advisory%20Committee%20Members/Dennis.jpg" alt="Image" width="149" height="149"><br><br><span style="font-weight:400;font-style:normal">Mr Chee Kwang How Dennis</span><br></td>
-    <td class="tg-baqh"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Sch%20Advisory%20Committee%20Members/Dinesh.jpg" alt="Image" width="149" height="149"><br><br><span style="font-weight:400;font-style:normal">Mr Dinesh Vasu Dash</span><br></td>
+    <td class="tg-baqh"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Sch%20Advisory%20Committee%20Members/Dinesh.jpg" alt="Image" width="100" height="135"><br><br><span style="font-weight:400;font-style:normal">Mr Dinesh Vasu Dash</span><br></td>
   </tr>
   <tr>
     <td class="tg-baqh"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Sch%20Advisory%20Committee%20Members/Andy.jpg" alt="Image" width="149" height="149"><br><br><span style="font-weight:400;font-style:normal">Dato’ Kuek Kien Joo Andy</span><br></td>
