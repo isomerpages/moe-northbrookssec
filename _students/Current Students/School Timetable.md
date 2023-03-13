@@ -9,21 +9,15 @@ third_nav_title: Current Students
 School Timetable
 ================
 
-2022 Semester 1 Timetable (w.e.f 21 Feb 2022)
----------------------------------------------
-
 2023 Semester 1 Timetable
 -------------------------
-
   
 
 [2023 Sec 1 Sem 1 Timetable](https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/People/Students/Timetable/Sem%201%202023/2023%20Sec%201%20Sem%201%20Timetable.pdf)  
 
   
-
 [2023 Sec 2 Sem 1 Timetable](https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/People/Students/Timetable/Sem%201%202023/2023%20Sem%201_Sec%202.pdf)  
 
-  
 
 [2023 Sec 3G Sem 1.pdf](https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/People/Students/Timetable/Sem%201%202023/2023%20Sem%201_Sec%203G.pdf)  
 
@@ -39,6 +33,5 @@ School Timetable
 
 [2023 Sec 3D Sem 1.pdf](https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/People/Students/Timetable/Sem%201%202023/2023%20Sem%201_Sec%203D.pdf)  
 
-  
 
 [2023 Sec 4 & 5 Sem 1 Timetable](https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/People/Students/Timetable/Sem%201%202023/2023%20Sem%201_Sec%204_5.pdf)
