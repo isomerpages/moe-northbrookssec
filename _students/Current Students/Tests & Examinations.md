@@ -8,7 +8,7 @@ third_nav_title: Current Students
 
 Tests & Examinations
 ====================
-### EOY Examination Timetable
+### EOY 2022 Examination Timetable
 -------------------------
 
 [Sec 1 Exp.pdf](/files/Sec%201%20Exp.pdf)
