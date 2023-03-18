@@ -24,31 +24,31 @@ The class leaders undergo workshops to build class cohesion and develop conflict
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-wvsv{background-color:#E6C20C;color:#141D1C;font-size:20px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-amwm">Training</th>
-    <th class="tg-amwm">School Events</th>
+    <th class="tg-wvsv">Training</th>
+    <th class="tg-wvsv">School Events</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-nrix">Roles and Structure Workshop</td>
-    <td class="tg-nrix">Parent-Teachers’ Conference</td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Roles and Structure Workshop</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Parent-Teachers’ Conference</span></td>
   </tr>
   <tr>
-    <td class="tg-nrix">Class Cohesion Workshop</td>
-    <td class="tg-nrix">Student Leaders’ Investiture</td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Class Cohesion Workshop</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Student Leaders’ Investiture</span></td>
   </tr>
   <tr>
-    <td class="tg-nrix" rowspan="2">Review and Dialogue Session</td>
-    <td class="tg-nrix">Teachers’ Day Concert</td>
+    <td class="tg-f4yw" rowspan="2"><span style="color:#000;background-color:#FFF">Review and Dialogue Session</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Teachers’ Day Concert</span></td>
   </tr>
   <tr>
-    <td class="tg-nrix">Student Leaders’ Conference</td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Student Leaders’ Conference</span></td>
   </tr>
 </tbody>
 </table>
