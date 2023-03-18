@@ -26,36 +26,36 @@ The CCA leaders’ teachers work synergistically with the CCA teachers to harnes
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-wvsv{background-color:#E6C20C;color:#141D1C;font-size:20px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-amwm">Training</th>
-    <th class="tg-amwm">External Platforms</th>
-    <th class="tg-amwm">School Events</th>
+    <th class="tg-wvsv">Training</th>
+    <th class="tg-wvsv">External Platforms</th>
+    <th class="tg-wvsv">School Events</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-baqh">Facilitation Skills Workshop</td>
-    <td class="tg-baqh">Y-Lead Leadership Camp</td>
-    <td class="tg-baqh">Student Leaders’ Investiture</td>
+    <td class="tg-7yig">Facilitation Skills Workshop</td>
+    <td class="tg-7yig">Y-Lead Leadership Camp</td>
+    <td class="tg-7yig">Student Leaders’ Investiture</td>
   </tr>
   <tr>
-    <td class="tg-baqh">ActiveSG Youth Sports Leaders Camp</td>
-    <td class="tg-baqh">Temasek Leadership Challenge</td>
-    <td class="tg-baqh">Teachers’ Day Concert<span style="background-color:transparent"> </span></td>
+    <td class="tg-7yig">ActiveSG Youth Sports Leaders Camp</td>
+    <td class="tg-7yig">Temasek Leadership Challenge</td>
+    <td class="tg-7yig">Teachers’ Day Concert<span style="background-color:transparent"> </span></td>
   </tr>
   <tr>
-    <td class="tg-baqh">Uniformed Groups National Camp</td>
-    <td class="tg-baqh" rowspan="2">Global Youth Leaders’ Summit</td>
-    <td class="tg-baqh">Student Leaders’ Conference</td>
+    <td class="tg-7yig">Uniformed Groups National Camp</td>
+    <td class="tg-7yig" rowspan="2">Global Youth Leaders’ Summit</td>
+    <td class="tg-7yig">Student Leaders’ Conference</td>
   </tr>
   <tr>
-    <td class="tg-baqh">Visual and Performing Arts Camp</td>
-    <td class="tg-baqh">School Tour</td>
+    <td class="tg-7yig">Visual and Performing Arts Camp</td>
+    <td class="tg-7yig">School Tour</td>
   </tr>
 </tbody>
 </table>
