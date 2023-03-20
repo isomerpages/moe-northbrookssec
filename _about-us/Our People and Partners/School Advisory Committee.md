@@ -27,7 +27,7 @@ School Advisory Committee
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-amwm" colspan="3">Patron</th>
+		<th class="tg-amwm" colspan="3"><h2>Patron</h2></th>
   </tr>
 </thead>
 <tbody>
