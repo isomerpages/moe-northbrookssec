@@ -37,7 +37,7 @@ School Advisory Committee
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-amwm" colspan="3">School Advisory Committee </td>
+    <td class="tg-amwm" colspan="3"><h2>School Advisory Committee</h2></td>
   </tr>
   <tr>
     <td class="tg-baqh"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Sch%20Advisory%20Committee%20Members/Lawrence%20Yip.jpg" alt="Image" width="149" height="149"><br><br><span style="font-weight:400;font-style:normal">Mr Lawrence Yip Wai Hon</span><br></td>
@@ -45,7 +45,7 @@ School Advisory Committee
     <td class="tg-baqh"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Sch%20Advisory%20Committee%20Members/Jayadev.jpg" alt="Image" width="149" height="149"><br><br><span style="font-weight:400;font-style:normal">Mr Jayadev S/O Kesavan Narayanan Unnithan</span><br></td>
   </tr>
   <tr>
-    <td class="tg-amwm" colspan="3">Members </td>
+    <td class="tg-amwm" colspan="3"><h2>Members</h2></td>
   </tr>
   <tr>
     <td class="tg-baqh"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Sch%20Advisory%20Committee%20Members/Melvin.jpg" alt="Image" width="149" height="149"><br><br><span style="font-weight:400;font-style:normal">Mr Ang Pin Chean Melvin</span><br></td>
