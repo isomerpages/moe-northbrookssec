@@ -4,6 +4,10 @@ permalink: /about-us/Our-People-and-Partners/school-advisory-committee/
 description: ""
 third_nav_title: Our People and Partners
 ---
+
+<img src="/images/about_us.jpg">
+
+
 School Advisory Committee
 =========================
 
