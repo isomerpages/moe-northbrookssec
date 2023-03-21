@@ -17,8 +17,8 @@ Northbrooks believes that every student will build strong bonds, develop resilie
 *   All secondary two students to go through either dragon boat or kayaking activity in the Sport Elective Programme.
 *   All secondary three students go through rock-climbing, abseiling and advanced orienteering activities during the PE Lessons.
 
-<b>Outdoor Activities in PE Lessons</b> <br>
-<b>\- Rock-Climbing, Abseiling, Orienteering</b>
+Outdoor Activities in PE Lessons
+* Rock-Climbing, Abseiling, Orienteering
 
 
 
@@ -36,20 +36,21 @@ Northbrooks believes that every student will build strong bonds, develop resilie
 <center> <i>Orienteering</i> </center>
 
 
-<b>Sports Carnival</b> <br> <b>\- Inter- Class Rock-Climbing Competition</b>
+Sports Carnival
+* Inter- Class Rock-Climbing Competition
 
 ![](/images/Adventure4.png)
 
-<b>Sport Education Program</b> <br>
-<b>\- Orienteering Program</b>
+Sport Education Program
+* Orienteering Program
 
 ![](/images/Adventure5.png)
 
-<b>Sport Education Program</b> <br>
-<b>\- Kayaking Orientation Program</b>
+Sport Education Program
+* Kayaking Orientation Program
 
 ![](/images/Adventure6.png)
 
-<b>PA Paddlefest Programme</b> <br>
-<b>\- Dragon boat activity</b>
+PA Paddlefest Programme
+* Dragon boat activity
 ![](/images/Adventure7.png)
