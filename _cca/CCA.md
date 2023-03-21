@@ -51,17 +51,18 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
 </thead>
 <tbody>
   <tr>
-    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/badminton.jpg" alt="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Badminton/" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Badminton/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Badminton</span></a></td>
-    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Basketball.jpg" alt="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Basketball/" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Basketball/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Basketball</span></a></td>
-    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Bowling.jpg" alt="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Bowling/" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Bowling/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Bowling</span></a></td>
+    <td class="tg-wk8r"><a href="https://staging.d1ogoujxhze821.amplifyapp.com/images/badminton.jpg"><img style="width:85%" src="/images/badminton.jpg"></a><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Badminton/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Badminton</span></a></td>
+    <td class="tg-wk8r"><a href="https://staging.d1ogoujxhze821.amplifyapp.com/images/Basketball.jpg"><img style="width:85%" src="/images/Basketball.jpg"></a><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Basketball/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Basketball</span></a></td>
+    <td class="tg-wk8r"><a href="https://staging.d1ogoujxhze821.amplifyapp.com/images/Bowling.jpg"><img style="width:85%" src="/images/Bowling.jpg"></a><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Bowling/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Bowling</span></a></td>
   </tr>
   <tr>
-    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Floorball.jpg" alt="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Floorball/" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Floorball/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Floorball</span></a></td>
-    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Odac.jpg" alt="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Outdoor-Adventure-Club/" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Outdoor-Adventure-Club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;font-style:normal;text-decoration:underline">Outdoor Adventure Club</span></a></td>
+    <td class="tg-wk8r"><a href="https://staging.d1ogoujxhze821.amplifyapp.com/images/Floorball.jpg"><img style="width:85%" src="/images/Floorball.jpg"></a><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Floorball/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Floorball</span></a></td>
+    <td class="tg-wk8r"><a href="https://staging.d1ogoujxhze821.amplifyapp.com/images/Odac.jpg"><img style="width:85%" src="/images/Odac.jpg"></a><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Outdoor-Adventure-Club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;font-style:normal;text-decoration:underline">Outdoor Adventure Club</span></a></td>
     <td class="tg-oe15"></td>
   </tr>
 </tbody>
 </table>
+<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -82,37 +83,45 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
 </thead>
 <tbody>
   <tr>
-    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Yfc.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/Youth-Flying-Club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Youth Flying Club</span></a><br></td>
-    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Infocomm%20club.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/Infocomm-Club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Infocomm Club</span></a></td>
-    <td class="tg-8jgo"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Ava.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/AVA-club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">AVA Club</span></a></td>
-    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Eac.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/Environmental-Art-Club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Environment Art Club</span></a></td>
+    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Yfc.jpg" alt="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/Youth-Flying-Club/" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/Youth-Flying-Club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Youth Flying Club</span></a><br></td>
+    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Infocomm%20club.jpg" alt="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/Infocomm-Club/" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/Infocomm-Club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Infocomm Club</span></a></td>
+    <td class="tg-8jgo"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Ava.jpg" alt="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/AVA-club/" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/AVA-club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">AVA Club</span></a></td>
+    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Eac.jpg" alt="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/Environmental-Art-Club/" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/Environmental-Art-Club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Environment Art Club</span></a></td>
   </tr>
 </tbody>
 </table>
-
+<br>
 
 
 	
 	
 	
-### <center> Uniformed Groups </center>
-
-
-| [Boys' Brigade](/CCA/Uniformed-Groups/Boys-Brigade/) | [National Cadet Corp (Air)](/CCA/Uniformed-Groups/National-Cadet-Corps-Air/) | [National Police Cadet Corp](/CCA/Uniformed-Groups/National-Police-Cadet-Corps/) | [Red Cross Youth](/CCA/Uniformed-Groups/Red-Cross-Youth/)
-| -------- | -------- | -------- |-------- |
-||||
-
-
-
-<img src="/images/Bb.jpg" style="width:25%;float:left">
-
-<img src="/images/Ncc.jpg" style="width:25%;float:left">
-
-<img src="/images/Npcc.jpg" style="width:25%;float:left">
-
-<img src="/images/Rcy.jpg" style="width:25%;float:left">
-
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-wk8r{background-color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-gdg2{background-color:#34696d;border-color:#ffffff;color:#efefef;font-family:"Arial Black", Gadget, sans-serif !important;
+  text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gdg2" colspan="4"><span style="font-weight:bold;font-style:normal">Uniformed Groups</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Bb.jpg" alt="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Uniformed-Groups/Boys-Brigade/" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Uniformed-Groups/Boys-Brigade/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Boys’ Brigade</span></a><br></td>
+    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Ncc.jpg" alt="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Uniformed-Groups/National-Cadet-Corps-Air/" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Uniformed-Groups/National-Cadet-Corps-Air/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">National Cadet Corp (Air)</span></a></td>
+    <td class="tg-8jgo"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Npcc.jpg" alt="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Uniformed-Groups/National-Police-Cadet-Corps/" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Uniformed-Groups/National-Police-Cadet-Corps/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">National Police Cadet Corp</span></a></td>
+    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Rcy.jpg" alt="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Uniformed-Groups/Red-Cross-Youth/" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Uniformed-Groups/Red-Cross-Youth/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Red Cross Youth</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 
 ### <center> Visual & Performing Arts </center>
