@@ -33,10 +33,62 @@ Every CCA a Champion CCA, Impacting the Community
 Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more information
 
 
-<table><thead><tr><th colspan="3">Sports &amp; Games</th></tr></thead><tbody><tr><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/badminton.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Badminton/" target="_blank" rel="noopener noreferrer">Badminton</a></td><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Basketball.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Basketball/" target="_blank" rel="noopener noreferrer">Basketball</a></td><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Bowling.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Bowling/" target="_blank" rel="noopener noreferrer">Bowling</a></td></tr><tr><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Floorball.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Floorball/" target="_blank" rel="noopener noreferrer">Floorball</a></td><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Odac.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Outdoor-Adventure-Club/" target="_blank" rel="noopener noreferrer">Outdoor Adventure Club</a></td><td></td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-q1lq{background-color:#e6c20c;border-color:#ffffff;color:#333;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-wk8r{background-color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-q1lq" colspan="3">Sports &amp; Games</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/badminton.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Badminton/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Badminton</span></a></td>
+    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Basketball.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Basketball/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Basketball</span></a></td>
+    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Bowling.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Bowling/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Bowling</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Floorball.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Floorball/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Floorball</span></a></td>
+    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Odac.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Outdoor-Adventure-Club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;font-style:normal;text-decoration:underline">Outdoor Adventure Club</span></a></td>
+    <td class="tg-oe15"></td>
+  </tr>
+</tbody>
+</table>
 
-<table><thead><tr><th colspan="4">Clubs &amp; Societies</th></tr></thead><tbody><tr><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Yfc.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/Youth-Flying-Club/" target="_blank" rel="noopener noreferrer">Youth Flying Club</a><br></td><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Infocomm%20club.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/Infocomm-Club/" target="_blank" rel="noopener noreferrer">Infocomm Club</a></td><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Ava.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/AVA-club/" target="_blank" rel="noopener noreferrer">AVA Club</a></td><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Eac.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/Environmental-Art-Club/" target="_blank" rel="noopener noreferrer">Environment Art Club</a></td></tr></tbody></table>
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-wk8r{background-color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-s3zw{background-color:#f8a102;border-color:#ffffff;color:#333;font-family:"Arial Black", Gadget, sans-serif !important;
+  text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s3zw" colspan="4"><span style="font-weight:bold;font-style:normal">Clubs &amp; Societies</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Yfc.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/Youth-Flying-Club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Youth Flying Club</span></a><br></td>
+    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Infocomm%20club.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/Infocomm-Club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Infocomm Club</span></a></td>
+    <td class="tg-8jgo"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Ava.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/AVA-club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">AVA Club</span></a></td>
+    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Eac.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/Environmental-Art-Club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Environment Art Club</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 
 
