@@ -20,9 +20,8 @@ Co-Curricular Activities
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-zv4m"><br><img src="/images/NCC01.jpg" style="width:80%"><br>NCC Air students building their own glider</td>
+    <td class="tg-zv4m"><br><img src="/images/NCC01.jpg" style="width:80%"><br>                               NCC Air students building their own glider</td>
     <td class="tg-zv4m"><br><img src="/images/CCA%201.jpg" style="width:100%"><br>YFC students practicing his flying on simulator</td>
   </tr>
 </thead>
 </table>
-
