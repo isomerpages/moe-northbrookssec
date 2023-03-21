@@ -35,20 +35,7 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
 
 <table><thead><tr><th colspan="3">Sports &amp; Games</th></tr></thead><tbody><tr><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/badminton.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Badminton/" target="_blank" rel="noopener noreferrer">Badminton</a></td><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Basketball.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Basketball/" target="_blank" rel="noopener noreferrer">Basketball</a></td><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Bowling.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Bowling/" target="_blank" rel="noopener noreferrer">Bowling</a></td></tr><tr><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Floorball.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Floorball/" target="_blank" rel="noopener noreferrer">Floorball</a></td><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Odac.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Outdoor-Adventure-Club/" target="_blank" rel="noopener noreferrer">Outdoor Adventure Club</a></td><td></td></tr></tbody></table>
 
-### <center> Clubs & Societies </center>
-
-
-| [Youth Flying Club](/CCA/Clubs-and-Societies/Youth-Flying-Club/) | [Infocomm Club](/CCA/Clubs-and-Societies/Infocomm-Club/) | [AVA Club](/CCA/Clubs-and-Societies/AVA-club/) | [Environment Art Club](/CCA/Clubs-and-Societies/Environmental-Art-Club/)
-| -------- | -------- | -------- |-------- |
-||||
-
-<img src="/images/Yfc.jpg" style="width:25%;float:left">
-
-<img src="/images/Infocomm%20club.jpg" style="width:25%;float:left">
-
-<img src="/images/Ava.jpg" style="width:25%;float:left">
-
-<img src="/images/Eac.jpg" style="width:25%;float:left">
+<table><thead><tr><th colspan="4">Clubs &amp; Societies</th></tr></thead><tbody><tr><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Yfc.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/Youth-Flying-Club/" target="_blank" rel="noopener noreferrer">Youth Flying Club</a><br></td><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Infocomm%20club.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/Infocomm-Club/" target="_blank" rel="noopener noreferrer">Infocomm Club</a></td><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Ava.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/AVA-club/" target="_blank" rel="noopener noreferrer">AVA Club</a></td><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Eac.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Clubs-and-Societies/Environmental-Art-Club/" target="_blank" rel="noopener noreferrer">Environment Art Club</a></td></tr></tbody></table>
 
 
 
