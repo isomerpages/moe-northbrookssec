@@ -3,7 +3,7 @@ url: https://www.open.gov.sg
 favicon: /images/northbrookslogo Small.jpeg
 colors:
   primary-color: "#1501a1"
-  secondary-color: "#4372d6"
+  secondary-color: "#fe7b09"
   media-colors:
     - title: media-color-one
       color: "#49759a"
