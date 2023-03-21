@@ -122,25 +122,36 @@ Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more in
   </tr>
 </tbody>
 </table>
+<br>
 
-
-### <center> Visual & Performing Arts </center>
-
-
-| [Concert Band](/CCA/Visual-and-Performing-Arts/Concert-Band/) | [Drama Club](/CCA/Visual-and-Performing-Arts/Drama-Club/) | [Guitar Ensemble](/CCA/Visual-and-Performing-Arts/Guitar-Ensemble/) | [Guzheng Ensemble](/CCA/Visual-and-Performing-Arts/Guzheng-Ensemble/)
-| -------- | -------- | -------- |-------- |
-||||
-
-
-<img src="/images/Concert.jpg" style="width:25%;float:left">
-
-<img src="/images/Drama.jpg" style="width:25%;float:left">
-
-<img src="/images/Guitar.jpg" style="width:25%;float:left">
-
-<img src="/images/Guzheng.jpg" style="width:25%;float:left">
-
-
-[<center>Modern Dance</center>](/CCA/Visual-and-Performing-Arts/Modern-Dance/)
-
-<img src="/images/MD.jpg" style="width:30%">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-wk8r{background-color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-ixfl{background-color:#343434;border-color:#ffffff;color:#efefef;font-family:"Arial Black", Gadget, sans-serif !important;
+  text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ixfl" colspan="3"><span style="font-weight:bold;font-style:normal">Visual and Performing Arts</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Concert.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Visual-and-Performing-Arts/Concert-Band/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Concert Band</span></a></td>
+    <td class="tg-wk8r"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Drama.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Visual-and-Performing-Arts/Drama-Club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Drama Club</span></a></td>
+    <td class="tg-8jgo"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Guitar.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Visual-and-Performing-Arts/Guitar-Ensemble/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Guitar Ensemble</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-8jgo"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Guzheng.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Visual-and-Performing-Arts/Guzheng-Ensemble/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;font-style:normal;text-decoration:underline">Guzheng Ensemble</span></a></td>
+    <td class="tg-8jgo"><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/MD.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Visual-and-Performing-Arts/Modern-Dance/" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;font-style:normal;text-decoration:underline">Modern Dance</span></a><br></td>
+    <td class="tg-zv4m"></td>
+  </tr>
+</tbody>
+</table>
