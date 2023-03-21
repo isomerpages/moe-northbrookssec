@@ -4,19 +4,11 @@ permalink: /curriculum/ITCPA-and-EBS-Department/Elements-of-Business-Skills-EBS-
 description: ""
 third_nav_title: IT, CPA & EBS Department
 ---
-
 ![](/images/curriculum.jpg)
 
 Elements of Business Skills (EBS) Room
 ----------------
-
 ##### Northbrooks’ Elements of Business Skills (EBS) Room -  Textbook coming alive for Upper Secondary NT Students
-
-
-
-
-![](/images/ebs.png)
-
 
 
 The EBS Room will be an exciting learning station to showcase the service industries (retail, hospitality and travel & tourism) introduced in the EBS syllabus. The room will feature 6 sections namely;  
@@ -27,8 +19,6 @@ The EBS Room will be an exciting learning station to showcase the service indust
 (4) Singapore’s Visitor Centre  
 (5) Students’ work display  
 (6) Students’ group discussion tables
-
-
 
 ##### Impact of the EBS Room
 
