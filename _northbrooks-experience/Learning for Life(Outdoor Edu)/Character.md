@@ -20,9 +20,9 @@ Northbrooks believes that the outdoors provide a strong platform to build charac
 
  
 
-<b>Outdoor Education Reflection Booklet</b>  
-<b>\- Students write down their reflections of the experience and how it has impacted them.</b> <br>
-<b>\- Teachers facilitate the session and align it with the socio-emotional competencies.</b>
+Outdoor Education Reflection Booklet
+* Students write down their reflections of the experience and how it has impacted them.
+* Teachers facilitate the session and align it with the socio-emotional competencies.
 
 
 <img src="/images/Cha1.jpg" style="width:50%;float:left">
@@ -31,18 +31,20 @@ Northbrooks believes that the outdoors provide a strong platform to build charac
 
 
 
-<b>Outdoor Experience for external schools</b>  
-<b>\- Student leaders are trained to facilitate rock-climbing experience for students from other schools.</b>  
-<b>\- Teachers organize and provide platforms for leadership development.</b>
+Outdoor Experience for external schools
+* Student leaders are trained to facilitate rock-climbing experience for students from other schools.
+* Teachers organize and provide platforms for leadership development.
 
 <img src="/images/Cha3.jpg" style="width:50%;float:left">
 
 <img src="/images/Cha44.jpg" style="width:50%;float:left">
 
 
-<b>Orienteering Race</b>  
-<b>\- Co-organiser of the race with Orienteering Federation Singapore.</b>  
-<b>\- Student Leaders involved in event management of the race.</b>
+Orienteering Race 
+
+* Co-organiser of the race with Orienteering Federation Singapore.
+
+* Student Leaders involved in event management of the race.
 
 
 <img src="/images/Cha5.jpg" style="width:50%;float:left">
