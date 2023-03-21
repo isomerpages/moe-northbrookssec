@@ -33,30 +33,7 @@ Every CCA a Champion CCA, Impacting the Community
 Click [here](/files/2023%20CCA%20Deployment_As%20of%203%20Jan.pdf) for more information
 
 
-
-
-### <center> Sports & Games </center>
-
-
-| [Badminton](/CCA/Sports-and-Games/Badminton/)| [Basketball](/CCA/Sports-and-Games/Basketball/) | [Bowling](/CCA/Sports-and-Games/Bowling/) | [Floorball](/CCA/Sports-and-Games/Floorball/)
-| -------- | -------- | -------- |-------- |
-||||
-
-
-<img src="/images/badminton.jpg" style="width:25%;float:left">
-
-<img src="/images/Basketball.jpg" style="width:25%;float:left">
-
-<img src="/images/Bowling.jpg" style="width:25%;float:left">
-
-<img src="/images/Floorball.jpg" style="width:25%;float:left">
-
-
-
-
-[<center>Outdoor Adventure Club</center>](/CCA/Sports-and-Games/Outdoor-Adventure-Club/)
-
-<img src="/images/Odac.jpg" style="width:30%">
+<table><thead><tr><th colspan="3">Sports &amp; Games</th></tr></thead><tbody><tr><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/badminton.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Badminton/" target="_blank" rel="noopener noreferrer">Badminton</a></td><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Basketball.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Basketball/" target="_blank" rel="noopener noreferrer">Basketball</a></td><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Bowling.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Bowling/" target="_blank" rel="noopener noreferrer">Bowling</a></td></tr><tr><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Floorball.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Floorball/" target="_blank" rel="noopener noreferrer">Floorball</a></td><td><img src="https://staging.d1ogoujxhze821.amplifyapp.com/images/Odac.jpg" alt="Image" width="260" height="194"><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/Sports-and-Games/Outdoor-Adventure-Club/" target="_blank" rel="noopener noreferrer">Outdoor Adventure Club</a></td><td></td></tr></tbody></table>
 
 ### <center> Clubs & Societies </center>
 
