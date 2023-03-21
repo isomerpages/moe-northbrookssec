@@ -38,41 +38,41 @@ Not an ordinary art club. In the Environmental Art Club, you choose your project
 
 ### CCA / Level Leaders
 
-##### 2018
+#### 2018
 
 President – Lim Zhi Xian  
 Vice-president – Ngow Wei Qi  
   
 
-##### 2019
+#### 2019
 
 President – Yee Mon Oo  
 Vice-president – Nyu Kang Yi  
   
 
-##### 2020
+#### 2020
 
 President – Gwendolyn Neo Su Ping  
 Vice-president - Eesha
 
 ### Achievements
 
-##### 2020
+#### 2020
 
 To be announced.  
   
 
-##### 2019
+#### 2019
 
 Go Green Fund Award - Merit  
   
 
-##### 2018
+#### 2018
 
 Go Green Fund Award - Gold  
   
 
-##### 2017
+#### 2017
 
 National Youth Business Challenge – Silver
 
@@ -125,32 +125,3 @@ EAC has given me the opportunity to improve my leadership skills and allowed me 
 To me, EAC is full of talented people from many walks of life!
 
 -----
-
-
-Green Living at Nee Soon East 2014
-==================================
-
-#### On 4 September 2014
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-8jgo"><img src="/images/Green1.jpg" style="width:100%"><br><span style="font-weight:400;color:#000">A resident having fun trying out one of the game booths created by Interactors using recycled materials.</span></th>
-    <th class="tg-8jgo"><img src="/images/Green2.jpg" style="width:100%"><br><span style="font-weight:400;color:#000"> Rotarian of Pandan Valley participating in the community wall mural painting with an Interactor.</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-8jgo"><img src="/images/Green3.jpg" style="width:100%"><br><span style="font-weight:400;color:#000">MP Mr Patrick Tay browsing Project Kaleidoscope, an Interact Green Club project sponsored by the Rotary Club of Pandan Valley.</span></td>
-    <td class="tg-8jgo"><img src="/images/Green4.jpg" style="width:100%"><br><span style="font-weight:400;color:#000">The opening ceremony of the community wall mural by MP Mr Patrick Tay Teck Guan, BBM. , Nee Soon East GRC.</span></td>
-  </tr>
-</tbody>
-</table>
