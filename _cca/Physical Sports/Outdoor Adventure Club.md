@@ -42,7 +42,7 @@ Fridays, 2.30pm - 5.30pm
 
   
 
-### <u>Competitions</u>
+### Competitions
 
 National Orienteering Race <br>
 Greendale Orienteering Race <br>
