@@ -109,14 +109,6 @@ Singapore students worked with other international students in teams of 5 on a m
 
 <br>
 
-<br>
-
-<br>
-
-<br>
-
-<br>
-
 ### Reflections
 
 
