@@ -34,5 +34,3 @@ Throughout the course of this 360 e-Tour, not only will you be able to have a 36
 ![](/images/Water%20Learning%20Tour%20tags.png)
 
 Click [here](https://kuula.co/share/collection/7YFMS?fs=1&vr=1&zoom=1&sd=1&initload=0&autorotate=-0.16&thumbs=-1&margin=7&alpha=0.60&info=0&logo=1&logosize=69) to begin the e-Tour.
-
-![](/images/Water%20Learning%20Tour%20QR.png)
