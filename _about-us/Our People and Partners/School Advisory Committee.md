@@ -23,9 +23,9 @@ School Advisory Committee
 </style>
 <table style="undefined;table-layout: fixed; width: 528px" class="tg">
 <colgroup>
-<col style="width: 172px">
 <col style="width: 169px">
-<col style="width: 187px">
+<col style="width: 169px">
+<col style="width: 169px">
 </colgroup>
 <thead>
   <tr>
@@ -35,16 +35,16 @@ School Advisory Committee
 <tbody>
   <tr>
     <td class="tg-0lax"></td>
-    <td class="tg-baqh"><img height="111" width="149" alt="Image" src="/images/Chandroo.jpg"><br><br><span style="font-weight:400;font-style:normal">Dr. T. Chandroo</span><br></td>
+    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Chandroo.jpg"><br><br><span style="font-weight:400;font-style:normal">Dr. T. Chandroo</span><br></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td colspan="3" class="tg-amwm"><h2>School Advisory Committee</h2></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Lawrence%20Yip.jpg"><br><br><span style="font-weight:400;font-style:normal">Mr Lawrence Yip Wai Hon</span><br></td>
+    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Lawrence%20Yip.jpg"><br><span style="font-weight:400;font-style:normal">Mr Lawrence <br>Yip Wai Hon</span></td>
     <td class="tg-0lax"></td>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Jayadev.jpg"><br><br><span style="font-weight:400;font-style:normal">Mr Jayadev S/O Kesavan Narayanan Unnithan</span><br></td>
+    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Jayadev.jpg"><span style="font-weight:400;font-style:normal">Mr Jayadev S/O Kesavan Narayanan Unnithan</span><br></td>
   </tr>
   <tr>
     <td colspan="3" class="tg-amwm"><h2>Members</h2></td>
