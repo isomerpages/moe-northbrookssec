@@ -19,10 +19,10 @@ The Craft and Technology (C&T) department comprise of the Visual Art, Design & 
 <u>Subjects offered:</u>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-5f5j{background-color:#FCE573;color:#222;text-align:left;vertical-align:top}
 .tg .tg-k5ew{background-color:#FDF69E;color:#222;text-align:left;vertical-align:top}
 .tg .tg-axtm{background-color:#FDF69E;color:#222;text-align:center;vertical-align:middle}
