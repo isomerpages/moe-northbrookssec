@@ -35,29 +35,29 @@ School Advisory Committee
 <tbody>
   <tr>
     <td class="tg-0lax"></td>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Chandroo.jpg"><br><span style="font-weight:400;font-style:normal">Dr. T. Chandroo</span><br></td>
+    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Chandroo.jpg"><span style="font-weight:400;font-style:normal">Dr. T. Chandroo</span><br></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td colspan="3" class="tg-amwm"><h2>School Advisory Committee</h2></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Lawrence%20Yip.jpg"><br><span style="font-weight:400;font-style:normal">Mr Lawrence Yip Wai Hon</span></td>
+    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Lawrence%20Yip.jpg"><span style="font-weight:400;font-style:normal">Mr Lawrence Yip Wai Hon</span></td>
     <td class="tg-0lax"></td>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Jayadev.jpg"><span style="font-weight:400;font-style:normal"><br>Mr Jayadev S/O Kesavan Narayanan Unnithan</span><br></td>
+    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Jayadev.jpg"><span style="font-weight:400;font-style:normal">Mr Jayadev S/O Kesavan Narayanan Unnithan</span><br></td>
   </tr>
   <tr>
     <td colspan="3" class="tg-amwm"><h2>Members</h2></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Melvin.jpg"><br><span style="font-weight:400;font-style:normal">Mr Ang Pin Chean Melvin</span><br></td>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Dennis.jpg"><br><span style="font-weight:400;font-style:normal">Mr Chee Kwang How Dennis</span><br></td>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Dinesh.jpg"><br><span style="font-weight:400;font-style:normal">Mr Dinesh Vasu Dash</span><br></td>
+    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Melvin.jpg"><span style="font-weight:400;font-style:normal">Mr Ang Pin Chean Melvin</span><br></td>
+    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Dennis.jpg"><span style="font-weight:400;font-style:normal">Mr Chee Kwang How Dennis</span><br></td>
+    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Dinesh.jpg"><span style="font-weight:400;font-style:normal">Mr Dinesh Vasu Dash</span><br></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Andy.jpg"><br><span style="font-weight:400;font-style:normal">Dato’ Kuek Kien Joo Andy</span><br></td>
+    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Andy.jpg"><span style="font-weight:400;font-style:normal">Dato’ Kuek Kien Joo Andy</span><br></td>
     <td class="tg-0lax"></td>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Saddiq.jpg"><br><span style="font-weight:400;font-style:normal">Mr Mohamad Saddiq Bin Mohamad Sa’id</span><br></td>
+    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Saddiq.jpg"><span style="font-weight:400;font-style:normal">Mr Mohamad Saddiq Bin Mohamad Sa’id</span><br></td>
   </tr>
 </tbody>
 </table></center>
