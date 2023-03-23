@@ -35,7 +35,7 @@ School Advisory Committee
 <tbody>
   <tr>
     <td class="tg-0lax"></td>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Chandroo.jpg"><br><br><span style="font-weight:400;font-style:normal">Dr. T. Chandroo</span><br></td>
+    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Chandroo.jpg"><br><span style="font-weight:400;font-style:normal">Dr. T. Chandroo</span><br></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
