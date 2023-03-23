@@ -70,6 +70,7 @@ The Craft and Technology (C&T) department comprise of the Visual Art, Design & 
 ### **Signature C&T Programmes and Activities**
 **Secondary One Visual Art-Stained Glass**  
 
+
 Brooksians are introduced to the art of Stained Glass making. They will learn the basic principles of designing and making a Stained Glass piece as part of their Visual Art class.  As an art form, it provides an authentic platform for nurturing Habits of Mind. They will work in teams to develop fortitude and resilience and learn to value each other’s strengths. Based on a theme-specified, students exercise their creativity to develop intricate stained glass art pieces.
 
 **Lower Secondary FCE Projects**
