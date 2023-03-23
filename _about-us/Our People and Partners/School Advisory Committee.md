@@ -35,22 +35,22 @@ School Advisory Committee
 <tbody>
   <tr>
     <td class="tg-0lax"></td>
-    <td class="tg-baqh"><img height="111" width="149" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Sch%20Advisory%20Committee%20Members/Chandroo.jpg"><br><br><span style="font-weight:400;font-style:normal">Dr. T. Chandroo</span><br></td>
+    <td class="tg-baqh"><img height="111" width="149" alt="Image" src="/images/Chandroo.jpg"><br><br><span style="font-weight:400;font-style:normal">Dr. T. Chandroo</span><br></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td colspan="3" class="tg-amwm"><h2>School Advisory Committee</h2></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Sch%20Advisory%20Committee%20Members/Lawrence%20Yip.jpg"><br><br><span style="font-weight:400;font-style:normal">Mr Lawrence Yip Wai Hon</span><br></td>
+    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Lawrence%20Yip.jpg"><br><br><span style="font-weight:400;font-style:normal">Mr Lawrence Yip Wai Hon</span><br></td>
     <td class="tg-0lax"></td>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Sch%20Advisory%20Committee%20Members/Jayadev.jpg"><br><br><span style="font-weight:400;font-style:normal">Mr Jayadev S/O Kesavan Narayanan Unnithan</span><br></td>
+    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Jayadev.jpg"><br><br><span style="font-weight:400;font-style:normal">Mr Jayadev S/O Kesavan Narayanan Unnithan</span><br></td>
   </tr>
   <tr>
     <td colspan="3" class="tg-amwm"><h2>Members</h2></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Sch%20Advisory%20Committee%20Members/Melvin.jpg"><br><br><span style="font-weight:400;font-style:normal">Mr Ang Pin Chean Melvin</span><br></td>
+    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Melvin.jpg"><br><br><span style="font-weight:400;font-style:normal">Mr Ang Pin Chean Melvin</span><br></td>
     <td class="tg-baqh"><img height="149" width="149" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Sch%20Advisory%20Committee%20Members/Dennis.jpg"><br><br><span style="font-weight:400;font-style:normal">Mr Chee Kwang How Dennis</span><br></td>
     <td class="tg-baqh"><img height="149" width="149" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Sch%20Advisory%20Committee%20Members/Dinesh.jpg"><br><br><span style="font-weight:400;font-style:normal">Mr Dinesh Vasu Dash</span><br></td>
   </tr>
