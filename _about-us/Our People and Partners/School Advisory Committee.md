@@ -51,13 +51,13 @@ School Advisory Committee
   </tr>
   <tr>
     <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Melvin.jpg"><br><br><span style="font-weight:400;font-style:normal">Mr Ang Pin Chean Melvin</span><br></td>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Sch%20Advisory%20Committee%20Members/Dennis.jpg"><br><br><span style="font-weight:400;font-style:normal">Mr Chee Kwang How Dennis</span><br></td>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Sch%20Advisory%20Committee%20Members/Dinesh.jpg"><br><br><span style="font-weight:400;font-style:normal">Mr Dinesh Vasu Dash</span><br></td>
+    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Dennis.jpg"><br><br><span style="font-weight:400;font-style:normal">Mr Chee Kwang How Dennis</span><br></td>
+    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Dinesh.jpg"><br><br><span style="font-weight:400;font-style:normal">Mr Dinesh Vasu Dash</span><br></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Sch%20Advisory%20Committee%20Members/Andy.jpg"><br><br><span style="font-weight:400;font-style:normal">Dato’ Kuek Kien Joo Andy</span><br></td>
+    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Andy.jpg"><br><br><span style="font-weight:400;font-style:normal">Dato’ Kuek Kien Joo Andy</span><br></td>
     <td class="tg-0lax"></td>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Sch%20Advisory%20Committee%20Members/Saddiq.jpg"><br><br><span style="font-weight:400;font-style:normal">Mr Mohamad Saddiq Bin Mohamad Sa’id</span><br></td>
+    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Saddiq.jpg"><br><br><span style="font-weight:400;font-style:normal">Mr Mohamad Saddiq Bin Mohamad Sa’id</span><br></td>
   </tr>
 </tbody>
 </table></center>
