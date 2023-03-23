@@ -66,3 +66,50 @@ To empower Brooksians to develop a passion for learning, strong moral values and
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-emrd{background-color:#E6C20C;border-color:#ffffff;color:#141D1C;font-family:Arial, Helvetica, sans-serif !important;
+  font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-4ghy{background-color:#FFF;border-color:#ffffff;color:#484848;font-family:Arial, Helvetica, sans-serif !important;
+  font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-xvx1{background-color:#FFF;border-color:#ffffff;color:#484848;font-family:Arial, Helvetica, sans-serif !important;
+  font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-emrd" colspan="2"><span style="font-weight:500;font-style:inherit;color:#141D1C;background-color:#E6C20C">Our Values</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-4ghy"><span style="font-weight:bold;background-color:#FFF">Graciousness</span></td>
+    <td class="tg-xvx1"><span style="background-color:#FFF">• Polite</span><br><span style="background-color:#FFF">• Forgiving</span><br><span style="background-color:#FFF">• Grateful</span><br><span style="background-color:#FFF">• Civic-minded</span><br><span style="background-color:#FFF">• Care to serve</span><br><span style="background-color:#FFF">• Brings joy to others</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4ghy"><span style="font-weight:bold;background-color:#FFF">Integrity</span></td>
+    <td class="tg-xvx1"><span style="background-color:#FFF">• Trustworthy</span><br><span style="background-color:#FFF">• Upright</span><br><span style="background-color:#FFF">• Have moral courage</span><br><span style="background-color:#FFF">• Honest</span><br><span style="background-color:#FFF">• Responsible</span><br><span style="background-color:#FFF">• Respect for self, authority, property and opinions</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4ghy"><span style="font-weight:bold;background-color:#FFF">Fortitude</span></td>
+    <td class="tg-xvx1"><span style="background-color:#FFF">• Persevere</span><br><span style="background-color:#FFF">• Determined</span><br><span style="background-color:#FFF">• Overcome obstacles</span><br><span style="background-color:#FFF">• Endurance</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4ghy"><span style="font-weight:bold;background-color:#FFF">Teamwork</span></td>
+    <td class="tg-xvx1"><span style="background-color:#FFF">• Work well together towards a common goal</span><br><span style="background-color:#FFF">• Sense of pride and loyalty amongst members</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4ghy"><span style="font-weight:bold;background-color:#FFF">Empathy</span></td>
+    <td class="tg-xvx1"><span style="background-color:#FFF">• Caring</span><br><span style="background-color:#FFF">• Kind</span><br><span style="background-color:#FFF">• Sensitive to others feelings</span><br><span style="background-color:#FFF">• Understanding</span><br><span style="background-color:#FFF">• Considerate</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4ghy"><span style="font-weight:bold;background-color:#FFF">Discipline</span></td>
+    <td class="tg-xvx1"><span style="background-color:#FFF">• Self motivated</span><br><span style="background-color:#FFF">• Self directed</span><br><span style="background-color:#FFF">• Focused</span><br><span style="background-color:#FFF">• Enthusiastic</span></td>
+  </tr>
+</tbody>
+</table>
