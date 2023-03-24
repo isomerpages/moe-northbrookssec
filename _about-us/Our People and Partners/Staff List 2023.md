@@ -30,7 +30,7 @@ Staff List 2023
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06"></td>
+    <td class="tg-zr06">                      </td>
     <td class="tg-dgl5">Salutation</td>
     <td class="tg-dgl5">Name</td>
     <td class="tg-dgl5">Designation</td>
