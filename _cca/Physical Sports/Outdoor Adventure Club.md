@@ -70,8 +70,8 @@ Singapore National Games (Adventure Race @ Sentosa)
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-8jgo"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/CCA/Sports%20N%20Games/ODAC/2021/ODAC%204.jpg" alt="ODAC 4.jpg" width="116" height="277"></th>
-    <th class="tg-8jgo"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/CCA/Sports%20N%20Games/ODAC/2021/ODAC%205.jpg" alt="ODAC 5.jpg" width="121" height="277"></th>
+    <th class="tg-8jgo"><img src="/images/2019odac.jpeg" style="width:100%"></th>
+    <th class="tg-8jgo"><img src="/images/2019odac2.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
