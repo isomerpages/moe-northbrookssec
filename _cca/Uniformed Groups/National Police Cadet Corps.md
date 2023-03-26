@@ -82,14 +82,8 @@ Unit Overall Proficiency Award - Bronze
 Unit Overall Proficiency Award - Silver
 
 ### CCA Experiences by Students
-<div>
 
-<div style="float: right">
-
-![](/images/NPCC1.png)
-
-</div><div>
-
+<img src="/images/NPCC1.png" style="width:150px;height:240px;margin-left:15px;" align = "right">
 	
 <b>Student Name</b>: Nursyahirah Bte Salimi  
 <b>Student Class</b>(<b>Class</b> / <b>Year</b>): 4T 2019  
@@ -98,7 +92,7 @@ Unit Overall Proficiency Award - Silver
 <b>Student’s Experience:</b>  
 It's been a brilliant 4 years being in NPCC and all the activities that i couldn't believe doing made it viable in this CCA. NPCC has provided me opportunities to grow and develop into a better individual.
 
-</div></div>
+
 
 --- 
 
