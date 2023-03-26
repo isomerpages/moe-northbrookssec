@@ -45,12 +45,12 @@ Northbrooks Youth Flying Club (NYFC) was set up in January 2003 with the aim of 
 <thead>
   <tr>
     <th class="tg-8jgo"><img src="/images/fly3.png" style="width:80%"><br>Cadets are indulged in a session of powered paper planes, in partnership with Airbus Asia</th>
-    <th class="tg-8jgo"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/CCA/Clubs%20n%20societies/youth%20flying%20club/2021/Prat%20engine%20Ok.jpg" alt="Prat engine Ok.jpg" width="117" height="187"><br>Cadets enthralled by the Pratt &amp; Whitney Engine during the Unmanned Systems Asia Exhibition </th>
+    <th class="tg-8jgo"><img src="/images/Prat%20engine%20Ok.jpg" style="width:80%"><br>Cadets enthralled by the Pratt &amp; Whitney Engine during the Unmanned Systems Asia Exhibition </th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-8jgo"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/CCA/Clubs%20n%20societies/youth%20flying%20club/2021/YFC5.jpg" alt="YFC5.jpg" width="120" height="188"><br>Sec 1 cadets on a learning journey on dismantling a simple piston engine at Singapore Polytechnic</td>
+    <td class="tg-8jgo"><img src="/images/YFC5.jpg" style="width:80%"><br>Sec 1 cadets on a learning journey on dismantling a simple piston engine at Singapore Polytechnic</td>
     <td class="tg-8jgo"><img src="/images/fly6.png" style="width:100%"><br>Learning instrumental control in flight simulation</td>
   </tr>
 </tbody>
