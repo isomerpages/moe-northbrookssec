@@ -618,4 +618,5 @@ Boeing Sim Rides 2015
 
 On 31 Jan 2015, four of our students were selected to experience the Boeing Simulator Rides at Boeing Training & Flight Services as part of winning the National Air Race Competition 2014. The Students had a rare and a  unique opportunity to fly a real flight simulator – Boeing 787 Dreamliner – exactly the same as that which the pilots use for flight training.
 
-![](/images/FLY2.png)
+
+<img src="/images/FLY2.png" style="width:70%">
