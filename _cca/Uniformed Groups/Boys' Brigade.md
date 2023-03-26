@@ -62,12 +62,13 @@ Taken from the King James Version of Hebrews 6:19: “<b>Which hope we have as a
 </thead>
 <tbody>
   <tr>
-    <td class="tg-jjsp"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Uniformed%20Groups/Boys%20Brigade/2021/2021_BB_1883.gif" alt="2021_BB_1883.gif"></td>
-    <td class="tg-jjsp"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Uniformed%20Groups/Boys%20Brigade/2021/2021_BB_1926.png" alt="2021_BB_1926.png"></td>
-    <td class="tg-jjsp"><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/CCA/Uniformed%20Groups/Boys%20Brigade/2021/2021_BB_current.png" alt="2021_BB_current.png"></td>
+    <td class="tg-jjsp"><img src="/images/2021_BB_1883.gif" style="width:100%"></td>
+    <td class="tg-jjsp"><img src="/images/2021_BB_1926.png" style="width:100%"></td>
+    <td class="tg-jjsp"><img src="/images/2021_BB_current.png" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
+
 
 
 The BB emblem is an anchor as inspired by the same Bible verse.
