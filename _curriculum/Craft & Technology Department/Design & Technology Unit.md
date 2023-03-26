@@ -18,30 +18,28 @@ The D&T Unit in Northbrooks Secondary School aims to develop passionate, innova
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-auud{background-color:#FDF69E;color:#505050;text-align:left;vertical-align:top}
-.tg .tg-1z39{background-color:#FCE573;color:#505050;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-un07{background-color:#104366;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-hoi2{background-color:#FCE573;color:#505050;text-align:left;vertical-align:top}
-.tg .tg-9jjg{background-color:#FDF69E;color:#505050;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-3tkj{background-color:#E6C20C;color:#141D1C;font-size:20px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-un07"><span style="color:#FFF">Levels</span></th>
-    <th class="tg-un07"><span style="color:#FFF">Programme</span></th>
-    <th class="tg-un07"><span style="color:#FFF"> Activities</span></th>
+    <th class="tg-3tkj">Levels</th>
+    <th class="tg-3tkj">Programme</th>
+    <th class="tg-3tkj"> Activities</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hoi2"><span style="color:#000"> </span>Lower Seondary</td>
-    <td class="tg-1z39">Focus: <span style="color:#000">Building student's confidence in Ideation and Sketching.</span><br>Approach: <span style="color:#000">Through the use of templates and teacher's demonstration of the design task.</span></td>
-    <td class="tg-hoi2"><span style="color:#000">Sec 1 - Mobile Phone Holder </span><br><span style="color:#000">Sec 2 - Tape Dispenser</span><br></td>
+    <td class="tg-9hzb"><span style="color:#000"> </span>Lower Seondary</td>
+    <td class="tg-ktyi"><span style="font-weight:bold">Focus:</span> <span style="color:#000">Building student's confidence in Ideation and Sketching.</span><br><span style="color:#000"> </span><br><span style="font-weight:bold">Approach:</span> <span style="color:#000">Through the use of templates and teacher's demonstration of the design task.</span><br><span style="color:#000"> </span></td>
+    <td class="tg-ktyi"><span style="color:#000">Sec 1 - Mobile Phone Holder</span><br><span style="color:#000"> </span><br><span style="color:#000">Sec 2 - Tape Dispenser</span></td>
   </tr>
   <tr>
-    <td class="tg-9jjg"><span style="color:#000">Upper Secondary</span></td>
-    <td class="tg-9jjg">Focus: <span style="color:#000">Building on student's critical problem solving skills through Design Thinking.</span><br>Approach<span style="color:#000">: Through structured and guided  D&amp;T programme.</span></td>
-    <td class="tg-auud"><span style="color:#000">Sec 3 - Accessories Holder/ Family Communication Board.</span><br><span style="color:#000">Sec 4/5 - Coursework</span></td>
+    <td class="tg-9hzb"><span style="color:#000">Upper Secondary</span></td>
+    <td class="tg-ktyi"><span style="font-weight:bold">Focus:</span> <span style="color:#000">Building on student's critical problem solving skills through Design Thinking.</span><br><span style="color:#000"> </span><br><span style="font-weight:bold">Approach</span><span style="font-weight:bold;color:#000">:</span><br><span style="color:#000">Through structured and guided  D&amp;T programme.</span></td>
+    <td class="tg-ktyi"><span style="color:#000">Sec 3 - Accessories Holder/ Family Communication Board.</span><br><span style="color:#000"> </span><br><span style="color:#000">Sec 4/5 - Coursework</span></td>
   </tr>
 </tbody>
 </table>
