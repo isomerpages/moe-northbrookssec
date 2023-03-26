@@ -19,50 +19,49 @@ The Craft and Technology (C&T) department comprise of the Visual Art, Design & 
 <u>Subjects offered:</u>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-5f5j{background-color:#FCE573;color:#222;text-align:left;vertical-align:top}
-.tg .tg-k5ew{background-color:#FDF69E;color:#222;text-align:left;vertical-align:top}
-.tg .tg-axtm{background-color:#FDF69E;color:#222;text-align:center;vertical-align:middle}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-m5dr{background-color:#E6C20C;color:#141D1C;font-size:20px;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-5f5j" rowspan="2">Lower Secondary</th>
-    <th class="tg-5f5j" colspan="3">Upper Secondary</th>
+    <th class="tg-m5dr" rowspan="2"><span style="color:#141D1C;background-color:#E6C20C">Lower Secondary</span></th>
+    <th class="tg-m5dr" colspan="3"><span style="color:#141D1C;background-color:#E6C20C">Upper Secondary</span></th>
   </tr>
   <tr>
-    <th class="tg-k5ew">Express Course</th>
-    <th class="tg-k5ew">Normal (Academic) Course</th>
-    <th class="tg-k5ew">Normal (Technical) Course</th>
+    <th class="tg-f4yw"><span style="color:#000;background-color:#FFF">Express Course</span></th>
+    <th class="tg-f4yw"><span style="color:#000;background-color:#FFF">Normal</span> <br><span style="color:#000;background-color:#FFF">(Academic)</span> <br><span style="color:#000;background-color:#FFF">Course</span></th>
+    <th class="tg-f4yw"><span style="color:#000;background-color:#FFF">Normal</span> <br><span style="color:#000;background-color:#FFF">(Technical)</span> <br><span style="color:#000;background-color:#FFF">Course</span><br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-5f5j">Art</td>
-    <td class="tg-5f5j">Art</td>
-    <td class="tg-5f5j">Art</td>
-    <td class="tg-5f5j">Art</td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Art</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Art</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Art</span><br></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Art</span><br></td>
   </tr>
   <tr>
-    <td class="tg-k5ew">D&amp;T</td>
-    <td class="tg-k5ew">D&amp;T</td>
-    <td class="tg-k5ew">D&amp;T</td>
-    <td class="tg-k5ew">D&amp;T</td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> D&amp;T</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">D&amp;T</span><br></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">D&amp;T</span><br></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">D&amp;T </span></td>
   </tr>
   <tr>
-    <td class="tg-5f5j">FCE</td>
-    <td class="tg-5f5j">NFS</td>
-    <td class="tg-5f5j">NFS</td>
-    <td class="tg-5f5j">NFS</td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">FCE</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">NFS</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">NFS</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">NFS </span></td>
   </tr>
   <tr>
-    <td class="tg-k5ew">Music</td>
-    <td class="tg-k5ew">O-level Music</td>
-    <td class="tg-k5ew">O-level Music</td>
-    <td class="tg-axtm"><span style="color:#222;background-color:#FDF69E">-</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Music</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">O-level</span><br><span style="color:#000;background-color:#FFF">Music</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">O-level </span><br><span style="color:#000;background-color:#FFF">Music</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">-</span></td>
   </tr>
 </tbody>
 </table>
