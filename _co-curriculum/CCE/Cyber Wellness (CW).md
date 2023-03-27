@@ -30,43 +30,45 @@ The key messages to students are to:
 Cyber Wellness education is usually conducted through CCE lessons during curriculum time, key Student Development Experiences (SDEs) beyond the classroom, school-based initiatives, teachable moments during other subject lessons, and learning opportunities beyond school.
 
 The Cyber Wellness curriculum is organised into 5 topics:
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-5f5j{background-color:#FCE573;color:#222;text-align:left;vertical-align:top}
-.tg .tg-k5ew{background-color:#FDF69E;color:#222;text-align:left;vertical-align:top}
-.tg .tg-kbmg{background-color:#FCE573;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-qv16{font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-kbmg">Topics</th>
-    <th class="tg-kbmg">What your child will learn about</th>
+    <th class="tg-qv16">Topics</th>
+    <th class="tg-qv16">What your child will learn about</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-k5ew">Cyber use</td>
-    <td class="tg-k5ew">Maintaining a healthy balance of online and offline activities</td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000">Cyber use</span></td>
+    <td class="tg-baqh">• Maintaining a healthy balance of online and offline activities</td>
   </tr>
   <tr>
-    <td class="tg-5f5j">Cyber identity</td>
-    <td class="tg-5f5j">Developing a healthy online identity<br>Appropriate online expression</td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000">Cyber identity</span></td>
+    <td class="tg-baqh">• Developing a healthy online identity<br>• Appropriate online expression</td>
   </tr>
   <tr>
-    <td class="tg-k5ew">Cyber relationships</td>
-    <td class="tg-k5ew">Netiquette<br>Cyber bullying<br>Developing safe, respectful and meaningful online relationships</td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000">Cyber relationships</span></td>
+    <td class="tg-baqh">• Netiquette<br>• Cyber bullying<br>• Developing safe, respectful and meaningful online relationships</td>
   </tr>
   <tr>
-    <td class="tg-5f5j">Cyber Citizenship</td>
-    <td class="tg-5f5j">Understanding the cyber world<br>Handling online content and behaviour<br>Having a positive presence in the cyber community</td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000">Cyber Citizenship</span></td>
+    <td class="tg-baqh">• Understanding the cyber world<br>• Handling online content and behaviour<br>• Having a positive presence in the cyber community</td>
   </tr>
   <tr>
-    <td class="tg-k5ew">Cyber Ethics</td>
-    <td class="tg-k5ew">Creating and sharing of online content in a responsible manner<br>Respecting copyright</td>
+    <td class="tg-baqh"><span style="font-weight:400;color:#000">Cyber Ethics</span></td>
+    <td class="tg-baqh">• Creating and sharing of online content in a responsible manner<br>• Respecting copyright</td>
   </tr>
 </tbody>
 </table>
+
+
