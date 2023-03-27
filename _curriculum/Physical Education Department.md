@@ -3,8 +3,6 @@ title: Physical Education Department
 permalink: /curriculum/Physical-Education-Department/
 description: ""
 ---
-
-
 ![](/images/curriculum.jpg)
 
 Physical Education Department
@@ -33,49 +31,62 @@ The Physical Education (PE) department oversees the delivery of lessons in physi
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-qia3{background-color:#FDF69E;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-lvru{background-color:#FDF69E;color:#222;text-align:center;vertical-align:top}
-.tg .tg-gfyy{background-color:#FCE573;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-j03j{background-color:#104366;color:#FFF;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
-.tg .tg-s8if{background-color:#FCE573;color:#222;text-align:center;vertical-align:top}
+.tg .tg-t6wr{background-color:#E6C20C;color:#141D1C;font-size:20px;font-weight:bold;text-align:center;text-decoration:underline;
+  vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-j03j">Level</th>
-    <th class="tg-j03j">Physical Health Fitness</th>
-    <th class="tg-j03j">Sports and Games</th>
-    <th class="tg-j03j">Outdoor Education</th>
+    <td class="tg-t6wr">Level</td>
+    <td class="tg-t6wr">Physical Health Fitness</td>
+    <td class="tg-t6wr">Sports and Games</td>
+    <td class="tg-t6wr">Outdoor Education</td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td class="tg-qia3">Sec 1</td>
-    <td class="tg-lvru" rowspan="5"><br><br><br><br><br><br><br>Cross Country Preparations,<br>NAPFA Test,<br><br>Running Techniques</td>
-    <td class="tg-lvru">Badminton<br>Netball</td>
-    <td class="tg-lvru">Orienteering<br>First Aid</td>
-  </tr>
-  <tr>
-    <td class="tg-gfyy">Sec 2</td>
-    <td class="tg-s8if">Basketball<br>Softball</td>
-    <td class="tg-s8if">Tent<br>Pitching<br>Outdoor<br>Cooking</td>
-  </tr>
-  <tr>
-    <td class="tg-qia3">Sec 3</td>
-    <td class="tg-lvru">Volleyball<br> Ultimate<br>Frisbee</td>
-    <td class="tg-lvru">Rock Climbing <br>Abseiling</td>
-  </tr>
-  <tr>
-    <td class="tg-gfyy">Sec 4</td>
-    <td class="tg-s8if">Football <br>Tchoukball</td>
-    <td class="tg-s8if" rowspan="2">Mountain<br>Biking</td>
-  </tr>
-  <tr>
-    <td class="tg-qia3">Sec 5</td>
-    <td class="tg-lvru">Inventing <br>Games</td>
-  </tr>
-</tbody>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k4dt{background-color:#ffffff;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ok3k{background-color:#ffffff;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-k4dt"><span style="font-weight:bold;color:#222">Sec 1</span></td>
+    <td class="tg-ok3k" rowspan="5"><br><br><br><br><br><br><span style="color:#222">Cross Country Preparations,</span><br><span style="color:#222">NAPFA Test,</span><br><br><span style="color:#222">Running Techniques</span></td>
+    <td class="tg-ok3k"><span style="color:#222">Badminton</span><br><span style="color:#222">Netball</span></td>
+    <td class="tg-ok3k"><span style="color:#222">Orienteering</span><br><span style="color:#222">First Aid</span></td>
+  </tr>
+  <tr>
+    <td class="tg-k4dt"><span style="font-weight:bold;color:#222">Sec 2</span></td>
+    <td class="tg-ok3k"><span style="color:#222">Basketball</span><br><span style="color:#222">Softball</span></td>
+    <td class="tg-ok3k"><span style="color:#222">Tent</span><br><span style="color:#222">Pitching</span><br><span style="color:#222">Outdoor</span><br><span style="color:#222">Cooking</span></td>
+  </tr>
+  <tr>
+    <td class="tg-k4dt"><span style="font-weight:bold;color:#222">Sec 3</span></td>
+    <td class="tg-ok3k"><span style="color:#222">Volleyball</span><br><span style="color:#222">Ultimate</span><br><span style="color:#222">Frisbee</span></td>
+    <td class="tg-ok3k"><span style="color:#222">Rock Climbing</span> <br><span style="color:#222">Abseiling</span></td>
+  </tr>
+  <tr>
+    <td class="tg-k4dt"><span style="font-weight:bold;color:#222">Sec 4</span></td>
+    <td class="tg-ok3k"><span style="color:#222">Football</span> <br><span style="color:#222">Tchoukball</span></td>
+    <td class="tg-ok3k" rowspan="2"><span style="color:#222">Mountain</span><br><span style="color:#222">Biking</span></td>
+  </tr>
+  <tr>
+    <td class="tg-k4dt"><span style="font-weight:bold;color:#222">Sec 5</span></td>
+    <td class="tg-ok3k"><span style="color:#222">Inventing</span> <br><span style="color:#222">Games</span></td>
+  </tr>
+</thead>
+</table>
+
+
+
 
 ### Signature PE Programmes and Activities
 --------------------------------------
