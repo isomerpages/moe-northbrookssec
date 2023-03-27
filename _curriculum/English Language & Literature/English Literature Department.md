@@ -4,7 +4,6 @@ permalink: /curriculum/English-Language-Department/English-Literature-Department
 description: ""
 third_nav_title: English Language & Literature
 ---
-
 English Literature Department
 =============================
 
