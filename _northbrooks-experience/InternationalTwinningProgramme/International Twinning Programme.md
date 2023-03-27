@@ -208,6 +208,8 @@ International Twinning Programme
 </tbody>
 </table>
 
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -225,20 +227,20 @@ International Twinning Programme
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/cbe351d68_16341.JPG" width="400" height="300"></td>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/11c8ace6e_16342.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="/images/Day61.jpg" style="width:100%"></td>
+    <td class="tg-0lax"><img src="/images/Day62.jpg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/be9d9fdff_16343.JPG" width="400" height="300"></td>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/98510e2a6_16344.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="/images/Day63.jpg" style="width:100%"></td>
+    <td class="tg-0lax"><img src="/images/Day64.jpg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/3f099dc7a_16345.JPG" width="400" height="300"></td>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/ddbd61b82_16346.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="/images/Day65.jpg" style="width:100%"></td>
+    <td class="tg-0lax"><img src="/images/Day66.jpg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/f02d65e9e_16347.JPG" width="400" height="300"></td>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/895ea9fa3_16348.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="/images/Day67.jpg" style="width:100%"></td>
+    <td class="tg-0lax"><img src="/images/Day68.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
