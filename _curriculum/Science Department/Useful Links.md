@@ -15,43 +15,37 @@ Useful Links
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-auud{background-color:#FDF69E;color:#505050;text-align:left;vertical-align:top}
-.tg .tg-1vm2{background-color:#FCE573;color:#20248D;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-un07{background-color:#104366;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-hoi2{background-color:#FCE573;color:#505050;text-align:left;vertical-align:top}
-.tg .tg-9n0n{background-color:#FDF69E;color:#20248D;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-33jp{background-color:#FFF;color:#06667E;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-3tkj{background-color:#E6C20C;color:#141D1C;font-size:20px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-un07"><span style="color:#FFF">Science Web Links</span></th>
-    <th class="tg-un07"><span style="color:#FFF">Description</span></th>
+    <th class="tg-3tkj">Science Web Links</th>
+    <th class="tg-3tkj">Description</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-1vm2"><a href="https://www.hhmi.org/coolscience" target="_blank" rel="noopener noreferrer">Cool Science for Cool Kids</a><br></td>
-    <td class="tg-hoi2"><span style="color:#000">Science website hosted by the Howard Hughes Medical Institute.</span></td>
+    <td class="tg-33jp"><a href="https://www.hhmi.org/coolscience"><span style="color:#06667E">Cool Science for Cool Kids</span></a><br></td>
+    <td class="tg-ktyi"><span style="color:#000">Science website hosted by the Howard Hughes Medical Institute.</span></td>
   </tr>
   <tr>
-    <td class="tg-9n0n"><a href="https://www.sciencemadesimple.com/" target="_blank" rel="noopener noreferrer">Science Made Simple</a>                  </td>
-    <td class="tg-auud"><span style="color:#000">Lots of science experiments and project ideas for kids. Supervision advised for some of them.</span></td>
+    <td class="tg-33jp"><a href="https://www.sciencemadesimple.com/"><span style="color:#06667E">Science Made Simple</span></a><span style="font-weight:400;color:#000">                   </span></td>
+    <td class="tg-ktyi"><span style="color:#000">Lots of science experiments and project ideas for kids. Supervision advised for some of them.</span></td>
   </tr>
   <tr>
-    <td class="tg-1vm2"><a href="https://www.windows2universe.org/" target="_blank" rel="noopener noreferrer">Windows to the Universe</a><br><br></td>
-    <td class="tg-hoi2"><span style="color:#000">Science website dealing with a range of topics, including planets and the solar system.</span></td>
+    <td class="tg-33jp"><a href="https://www.windows2universe.org/"><span style="color:#06667E">Windows to the Universe</span></a><br><br></td>
+    <td class="tg-ktyi"><span style="color:#000">Science website dealing with a range of topics, including planets and the solar system.</span></td>
   </tr>
   <tr>
-    <td class="tg-9n0n"><a href="https://www.discoverychannelasia.com/"><span style="text-decoration:none;color:#20248D">Discovery Channel Website</span></a><br></td>
-    <td class="tg-auud"><span style="color:#000">Discovery Channel Website</span></td>
+    <td class="tg-33jp"><a href="https://www.nationalgeographic.com/"><span style="color:#06667E">National Geographic Website</span></a><br></td>
+    <td class="tg-ktyi"><span style="color:#000">A website for the National Geographic Society</span></td>
   </tr>
   <tr>
-    <td class="tg-1vm2"><a href="https://www.nationalgeographic.com/" target="_blank" rel="noopener noreferrer">National Geographic Website</a><br></td>
-    <td class="tg-hoi2"><span style="color:#000">A website for the National Geographic Society</span></td>
-  </tr>
-  <tr>
-    <td class="tg-9n0n"><a href="https://kids.nationalgeographic.com/" target="_blank" rel="noopener noreferrer">National Geographic.com Kid</a><br></td>
-    <td class="tg-auud"> </td>
+    <td class="tg-33jp"><a href="https://kids.nationalgeographic.com/"><span style="color:#06667E">National Geographic.com Kid</span></a><br></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000"> </span></td>
   </tr>
 </tbody>
 </table>
