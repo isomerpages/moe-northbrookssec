@@ -56,7 +56,7 @@ The experience was both immersive and enriching as it allowed students to develo
 
 ### [SEC 4 GEOGRAPHICAL INQUIRY IN CHINATOWN](/sec-4-geographical-inquiry-in-chinatown/)
 
-### [SOCIAL STUDIES (LS) LEARNING JOURNEY](/Social-Studies-LS-Learning-Journey/permalink/)
+### [SOCIAL STUDIES (LS) LEARNING JOURNEY](/social-studies-ls-learning-journey/)
 
 ### [GEOGRAPHY ROCKS!](/Geography-Rocks/permalink/)
 
