@@ -60,15 +60,12 @@ Chinese Language Unit
 
 ##### **Morning Reading and Newspaper in Education Programme**
 
+<img src="/images/chinese5.png" style="width:220px;height:440px;margin-left:15px;" align = "right">
 
 
-<div>
 
-<div style="float: right">
 
-![](/images/chinese5.png)
 
-</div><div>
 
 我们的华文课程目标之一，是培养学生独立的阅读能力，希望学生最终能够自己 阅读一份华文报。这能够最直接让学生认识到，华文与日常的生活息息相关。
 
