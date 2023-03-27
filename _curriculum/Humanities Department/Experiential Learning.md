@@ -58,7 +58,7 @@ The experience was both immersive and enriching as it allowed students to develo
 
 ### [SOCIAL STUDIES (LS) LEARNING JOURNEY](/social-studies-ls-learning-journey/)
 
-### [GEOGRAPHY ROCKS!](/Geography-Rocks/permalink/)
+### [GEOGRAPHY ROCKS!](/geography-rocks/)
 
 ### [HUMANITIES TRAIL](/Humanities-Trail/permalink/)
 
