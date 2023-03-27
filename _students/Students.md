@@ -33,7 +33,7 @@ Students
   </tr>
   <tr>
     <td class="tg-33jp"><a href="https://northbrookssec-moe-edu-sg.cwp-stg.sg/co-curriculum/cce/sexuality-education-programme"><span style="color:#06667E">Sexuality Education</span></a></td>
-    <td class="tg-v41w"><a href="https://northbrookssec-moe-edu-sg-admin.cwp.sg/co-curriculum/cce/sexuality-education-programme"><span style="color:#06667E">Northbrooks Sexuality Education Programme</span></a><br><br></td>
+    <td class="tg-v41w"><a href="/co-curriculum/cce/sexuality-education-programme/"><span style="color:#06667E">Northbrooks Sexuality Education Programme</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-33jp"><a href="http://www.moe.gov.sg/education/admissions/jae/"><span style="color:#06667E">MOE Joint Admissions Exercise (JAE) Website</span></a><br><a href="http://www.moe.gov.sg/education/admissions/jae/"><span style="color:#06667E">http://www.moe.gov.sg/education/admissions/jae/</span></a></td>
