@@ -49,7 +49,7 @@ The vice-principal, teachers and students had a fruitful and meaningful stay in 
 
 **1)** http://www1.yaliedu.com/html/news/1165.html
 
-**2)**http://www1.yaliedu.com/html/news/1326.html
+**2)** http://www1.yaliedu.com/html/news/1326.html
 
 **3)** http://www1.yaliedu.com/html/news/1336.html
 
