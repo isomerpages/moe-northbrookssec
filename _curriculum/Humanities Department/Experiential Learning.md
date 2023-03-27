@@ -64,7 +64,7 @@ The experience was both immersive and enriching as it allowed students to develo
 
 ### [HUMANITIES QUIZ](/humanities-quiz/)
 
-### [NT BATTLE BOX @ FORT CANNING HILL](/NT-Battle-Box-at-Fort-Canning-Hill/permalink/)
+### [NT BATTLE BOX @ FORT CANNING HILL](/nt-battle-box-at-fort-canning-hill/)
 
 ### [INTERACTIVE HERITAGE TRAIL](/Interactive-Heritage-Trail/permalink/)
 
