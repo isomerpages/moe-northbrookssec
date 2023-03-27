@@ -17,14 +17,8 @@ Chinese Language Unit
 ##### **Water Learning Programme@ Lower Seletar Reservoir**
 ![](/images/chineselanguageunit.png)
 
+<img src="/images/chineselanguage2.png" style="width:200px;height:350px;margin-left:15px;" align = "right">
 
-<div>
-
-<div style="float: right">
-
-![](/images/chineselanguage2.png)
-
-</div><div>
 
 为了推广母语在生活中的使用，以及让学生了解水资源对新加坡的重要性，思源中学母语部于2013年着手推行“实里达蓄水池水资源学习之旅”计划，让学生到实里达蓄水池下段进行户外学习。因反应热烈，接下来的数年间，这项活动逐渐从中一快捷华文班推广到所有中一班级，也顺势推出了英文及马来文为媒介语的配套，让所有中一学生都能参与学习。
 
@@ -34,7 +28,6 @@ Chinese Language Unit
 
 这些年来，已有过千名学生体验了这新加坡第一个以母语为媒介语的水资源学习之旅。接下来，思源中学母语部计划将此活动与资讯科技做更紧密的结合，推出更丰富有趣的水资源学习之旅
 
-</div></div>
 
 ### 南雅-思源交流活动
 ---------
