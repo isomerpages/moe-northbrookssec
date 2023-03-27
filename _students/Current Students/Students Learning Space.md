@@ -24,38 +24,41 @@ Click [here](/files/sls.pdf) for instructions on how to activate the student's a
 ### Login Issues?
 ----------------------------
 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-oj76{background-color:#FCE573;border-color:inherit;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-7t0u{background-color:#FCE573;border-color:inherit;color:#222;text-align:left;vertical-align:top}
-.tg .tg-hwvi{background-color:#104366;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-h21v{background-color:#FDF69E;border-color:inherit;color:#222;text-align:left;vertical-align:top}
+.tg .tg-m5dr{background-color:#E6C20C;color:#141D1C;font-size:20px;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-hwvi"><span style="font-weight:bold;color:#FFF;background-color:#104366">Forgot Your Username?</span></th>
-    <th class="tg-hwvi"><span style="font-weight:bold;color:#FFF;background-color:#104366">Forgot Password?</span></th>
-    <th class="tg-hwvi"><span style="font-weight:bold;color:#FFF;background-color:#104366">Account Locked?</span></th>
+    <th class="tg-m5dr"><span style="color:#141D1C;background-color:#E6C20C">Forgot Your Username?</span></th>
+    <th class="tg-m5dr"><span style="color:#141D1C;background-color:#E6C20C">Forgot Password?</span></th>
+    <th class="tg-m5dr"><span style="color:#141D1C;background-color:#E6C20C">Account Locked?</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-h21v"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/People/Students/forgot_username.png" alt="Image" width="300" height="300"><br></td>
-    <td class="tg-h21v"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/People/Students/forgot_password.png" width="300" height="300"><br></td>
-    <td class="tg-h21v"><img src="https://northbrookssec-moe-edu-sg-admin.cwp.sg/qql/slot/u162/People/Students/account_locked.png" alt="Image" width="300" height="300"></td>
+    <td class="tg-7yig"><img src="/images/SLS1.png" style="width:100%"></td>
+    <td class="tg-7yig"><img src="/images/SLS2.png" style="width:100%"></td>
+    <td class="tg-7yig"><img src="/images/SLS3.png" style="width:70%"></td>
   </tr>
   <tr>
-    <td class="tg-oj76"><span style="color:#222;background-color:#FCE573">The student's SLS username comprises the first 5 characters of his/her name, followed by the last 5 characters of his/her NRIC/FIN/BC ID. </span><br><br><span style="color:#222;background-color:#FCE573">(eg TOMCO4567Z)</span><br><br><br><br><br><br></td>
-    <td class="tg-7t0u"><br><span style="color:black;background-color:transparent">1. Click "Forget Password" to self-reset. (Student need to have their email address entered into their SLS account first)</span><br><br>2. Inform Form Teacher<br><br><br><br><br><br></td>
-    <td class="tg-7t0u"><br>1. Fill up the form below<br><a href="https://form.gov.sg/#!/5f7e72e0c1120900110ea449" target="_blank" rel="noopener noreferrer">https://go.gov.sg/northbrooksresetpassword</a><br><br><br><span style="color:black">2. Contact the School </span>Helpline(65) 81283047<br>(Mon-Fri: 8 am to 4pm)<br><br><br>3. Contact SLS Helpdesk<br>(<span style="background-color:transparent">65) 6702 6513</span><br>helpdesk@sls.ufinity.com<br>(*see below for the operating hours)</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">The student's SLS username comprises the first 5 characters of his/her name, followed by the last 5 characters of his/her NRIC/FIN/BC ID. </span><br><br><span style="color:#000;background-color:#FFF">(eg TOMCO4567Z)</span><br><br><br><br><br><br></td>
+    <td class="tg-ktyi"><span style="color:black;background-color:transparent">Click "Forget Password" to self-reset. (Student need to have their email address entered into their SLS account first)</span><br><br><br>Inform Form Teacher<br><br><br><br><br><br></td>
+    <td class="tg-ktyi"><br>Fill up the form below<a href="https://northbrookssec-moe-edu-sg.cwp-stg.sg/students/current-students/goog_1360109335"><span style="color:#06667E">https</span></a><a href="https://northbrookssec-moe-edu-sg.cwp-stg.sg/students/current-students/goog_1360109335"><span style="color:black;background-color:transparent">://</span></a><a href="http://go.gov.sg/northbrooksresetpassword"><span style="color:#06667E">go.gov.sg/northbrooksresetpassword</span></a><br><br><br><span style="color:black">Contact the School </span>Helpline(65) 81283047<br>(Mon-Fri: 8 am to 4pm)<br><br><br>Contact SLS Helpdesk<br>(<span style="background-color:transparent">65) 6702 6513</span><br>helpdesk@sls.ufinity.com<br>(*see below for the operating hours)</td>
   </tr>
 </tbody>
 </table>
+
+
 
 You may also refer to the [login troubleshooting tips](https://static.learning.moe.edu.sg/sls-user-guide/vle/logintroubleshooting/index.html).
 
