@@ -60,28 +60,16 @@ Music soothes the soul and makes a child whole! In our General Music Programme (
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-zv4m" rowspan="2"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Departments/Music/.tn.Picture%2002.jpg.mid.jpg" alt="Ukulele on iPad.jpg" width="297" height="445"><br><span style="background-color:transparent">Students learning how to play the ukulele on the iPad.</span></td>
-    <td class="tg-zv4m"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Departments/Music/.tn.Picture%2001.jpg.2.jpg" alt="Guitar Module.jpg" width="271" height="186"><br><span style="background-color:transparent">Besides learning as a class, students also get an opportunity to do peer teaching when learning how to play the guitar.</span></td>
+    <td class="tg-zv4m" rowspan="2"><img src="/images/Music1.jpg" style="width:100%"><br><span style="background-color:transparent">Students learning how to play the ukulele on the iPad.</span></td>
+    <td class="tg-zv4m"><img src="/images/Music2.jpg" style="width:50%"><br><span style="background-color:transparent">Besides learning as a class, students also get an opportunity to do peer teaching when learning how to play the guitar.</span></td>
   </tr>
   <tr>
-    <td class="tg-zv4m"><img src="https://northbrookssec-moe-edu-sg.cwp-stg.sg/qql/slot/u162/Departments/Music/.tn.Picture%2003.jpg.2.jpg" alt="iBand Module.jpg" width="265" height="182"><br><span style="background-color:transparent">Students practising in their respective iBand to put up class performance.</span></td>
+    <td class="tg-zv4m"><img src="/images/Music3.jpg" style="width:50%"><br><span style="background-color:transparent">Students practising in their respective iBand to put up class performance.</span></td>
   </tr>
 </thead>
 </table>
 
-
-
-![](/images/Music1.jpg)
-
-Students learning how to play the ukulele on the iPad. 
-
-![](/images/Music2.jpg)
-
-Besides learning as a class, students also get an opportunity to do peer teaching when learning how to play the guitar. 
-
-
-![](/images/Music3.jpg)
-Students practising in their respective iBand to put up class performance. 
+ 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
