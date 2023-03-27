@@ -13,6 +13,8 @@ Music soothes the soul and makes a child whole! In our General Music Programme (
 
 #### Our Music Curriculum
 
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -35,15 +37,15 @@ Music soothes the soul and makes a child whole! In our General Music Programme (
 <tbody>
   <tr>
     <td class="tg-9jjg" rowspan="3">Secondary 1 (Exp/NA/NT)</td>
-    <td class="tg-auud"><span style="color:#000">Singing Module</span><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/Departments/Music/.tn.Singing.jpg.2.jpg" alt="Singing Module.jpg" width="85" height="81"></td>
+    <td class="tg-auud"><span style="color:#000">Singing Module</span><br><img src="/images/Singing.jpeg" style="width:100%"></td>
     <td class="tg-auud"><span style="color:#000">Many people can sing but through the singing module, students are more aware of how to project their voices effectively and how to produce a better singing voice.</span></td>
   </tr>
   <tr>
-    <td class="tg-hoi2"><span style="color:#000"> Guitar Module</span><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/Departments/Music/.tn.Guitar.jpg.2.jpg" alt="Guitar Module.jpg" width="89" height="89"></td>
+    <td class="tg-hoi2"><span style="color:#000"> Guitar Module</span><br><img src="/images/Guitar.jpeg" style="width:100%"></td>
     <td class="tg-hoi2"><span style="color:#000">Students are taught basic primary chords and strumming patterns. At the end of the module, students will be able to play a few popular tunes on their own.</span></td>
   </tr>
   <tr>
-    <td class="tg-auud"><span style="color:#000">iBand Module (Level 1)</span><br><img src="https://northbrookssec.moe.edu.sg/qql/slot/u162/Departments/Music/.tn.IBand.jpg.2.jpg" alt="iBand Module (Level 1).jpg" width="190" height="129"></td>
+    <td class="tg-auud"><span style="color:#000">iBand Module (Level 1)</span><br><img src="/images/iband.jpeg" style="width:100%"></td>
     <td class="tg-auud"><span style="color:#000">iBand. As the name suggests, students will be given an opportunity to play in a pop band setting using iPads. Students learn the skills of playing the drums, ukulele and keyboard on the iPad and they get to form iBands (small ‘rock/pop bands’) in the class. At the end of the module, students get a chance to perform in front of their class.</span></td>
   </tr>
 </tbody>
