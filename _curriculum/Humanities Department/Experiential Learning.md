@@ -60,7 +60,7 @@ The experience was both immersive and enriching as it allowed students to develo
 
 ### [GEOGRAPHY ROCKS!](/geography-rocks/)
 
-### [HUMANITIES TRAIL](/Humanities-Trail/permalink/)
+### [HUMANITIES TRAIL](/humanities-trail/)
 
 ### [HUMANITIES QUIZ](/Humanities-Quiz/permalink/)
 
