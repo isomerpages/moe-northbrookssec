@@ -54,7 +54,7 @@ The experience was both immersive and enriching as it allowed students to develo
 
 ### [SEC 1 GEOGRAPHICAL INQUIRY AT LOWER SELETAR RESERVOIR](/sec-1-geographical-inquiry-at-lower-seletar-reservoir/)
 
-### [SEC 4 GEOGRAPHICAL INQUIRY IN CHINATOWN](/Sec-4-Geographical-Inquiry-in-Chinatown/permalink/)
+### [SEC 4 GEOGRAPHICAL INQUIRY IN CHINATOWN](/sec-4-geographical-inquiry-in-chinatown/)
 
 ### [SOCIAL STUDIES (LS) LEARNING JOURNEY](/Social-Studies-LS-Learning-Journey/permalink/)
 
