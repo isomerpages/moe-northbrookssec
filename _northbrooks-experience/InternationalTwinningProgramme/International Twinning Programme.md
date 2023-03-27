@@ -100,6 +100,8 @@ International Twinning Programme
 </tbody>
 </table>
 
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -117,11 +119,12 @@ International Twinning Programme
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/904d66f02_16311.jpg" width="400" height="300"></td>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/c72101d9a_16312.jpg" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="/images/Day3_1.jpg" style="width:100%"></td>
+    <td class="tg-0lax"><img src="/images/Day%203_2.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
+
 
 
 <style type="text/css">
@@ -141,11 +144,11 @@ International Twinning Programme
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/0aa3d4cd9_16313.JPG" width="400" height="300"></td>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/7fc3525a3_16320.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="/images/Day41.jpg" style="width:100%"></td>
+    <td class="tg-0lax"><img src="/images/Day42.jpg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/e10b3b9d6_16321.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="/images/Day43.jpg" style="width:100%"></td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
