@@ -126,7 +126,6 @@ International Twinning Programme
 </table>
 
 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -154,6 +153,7 @@ International Twinning Programme
 </tbody>
 </table>
 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -171,40 +171,39 @@ International Twinning Programme
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/e5bc32887_16322.JPG" width="400" height="300"></td>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/978584fb7_16323.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="/images/P1.jpg" style="width:100%"></td>
+    <td class="tg-0lax"><img src="/images/P2.jpg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/e791e8a11_16324.JPG" width="400" height="300"></td>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/e845a8482_16325.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="/images/P3.jpg" style="width:100%"></td>
+    <td class="tg-0lax"><img src="/images/P2.jpg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/a913a0962_16326.JPG" width="400" height="300"></td>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/bd81e5986_16327.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="/images/P4.jpg" style="width:100%"></td>
+    <td class="tg-0lax"><img src="/images/P5.jpg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/9d9239aa9_16328.JPG" width="400" height="300"></td>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/d6acd5042_16329.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="/images/P6.jpg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/7f3dfead2_16330.JPG" width="400" height="300"></td>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/0449793c6_16331.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="/images/P7.jpg" style="width:100%"></td>
+    <td class="tg-0lax"><img src="/images/P8.jpg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/1171ac834_16332.JPG" width="400" height="300"></td>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/9d9231ed7_16333.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="/images/P9.jpg" style="width:100%"></td>
+    <td class="tg-0lax"><img src="/images/P10.jpg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/26be78490_16334.JPG" width="400" height="300"></td>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/65227a362_16335.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="/images/P11.jpg" style="width:100%"></td>
+    <td class="tg-0lax"><img src="/images/P12.jpg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/4a0b89960_16336.JPG" width="400" height="300"></td>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/88b5ebc41_16337.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="/images/P13.jpg" style="width:100%"></td>
+    <td class="tg-0lax"><img src="/images/P14.jpg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/db01417e7_16338.JPG" width="400" height="300"></td>
-    <td class="tg-0lax"><img src="https://northbrookssec.moe.edu.sg/qql/slot/catalog/pc17/29fda3c18_16339.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="/images/P15.jpg" style="width:100%"></td>
+    <td class="tg-0lax"><img src="/images/P1.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
