@@ -32,4 +32,4 @@ This was an opportunity to arouse the interest in the Humanities and also encour
 ### Click on the link below for Past Competitions
 --- 
 
-[Past Competitions](/Past-Competitions/permalink/)
+[Past Competitions](/past-competitions/)
