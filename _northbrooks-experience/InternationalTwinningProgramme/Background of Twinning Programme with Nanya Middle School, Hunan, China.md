@@ -53,7 +53,7 @@ The vice-principal, teachers and students had a fruitful and meaningful stay in 
 
 **3)** http://www1.yaliedu.com/html/news/1336.html
 
-**Northbrook s in China news!** **Click** [here](/achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/permalink/) **to view the articles**
+**Northbrooks in China news!** **Click** [here](/achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/permalink/) **to view the articles**
 
 #### Twinning Programme 2009
 
