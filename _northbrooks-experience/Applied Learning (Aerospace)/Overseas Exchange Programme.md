@@ -101,7 +101,7 @@ Singapore students worked with other international students in teams of 5 on a m
 </table>
 
 
-<i>Pei Ying doing a presentation for her group.</i>
+
 
 <img src="/images/OEP19.jpg" style="width:50%;float:left">
 
@@ -116,6 +116,11 @@ Singapore students worked with other international students in teams of 5 on a m
 <br>
 
 <br>
+
+<br>
+
+<i>Pei Ying doing a presentation for her group.</i>
+
 
 
 
