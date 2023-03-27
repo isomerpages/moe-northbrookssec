@@ -22,19 +22,23 @@ In their post-GI reflection, students reflected that the experience has taught t
 
 
 
-
-
-
-![](/images/ExperiementalLearning1.png)
-
-Approaching residents to complete their survey form
-
-
-
-![](/images/experimentallearning2.jpg)
-
-Interviewing residents at Tiong Bahru Market
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1htl{border-color:#ffffff;font-size:16px;font-style:italic;text-align:center;vertical-align:top}
+.tg .tg-zobv{border-color:#ffffff;font-size:16px;font-style:italic;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-1htl"><img src="/images/experimentallearning1.jpg" style="width:100%"><br>Approaching residents to complete their<br>survey form</td>
+    <td class="tg-zobv"><br><img src="/images/experimentallearning2.jpg" style="width:100%"><br>Interviewing residents at Tiong Bahru Market</td>
+  </tr>
+</thead>
+</table>
 
 
 
