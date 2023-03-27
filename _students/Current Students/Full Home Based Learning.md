@@ -8,3 +8,5 @@ third_nav_title: Current Students
 
 Full Home-Based Learning
 ========================
+
+[Students Learning Space (SLS)](https://northbrookssec-moe-edu-sg-admin.cwp.sg/people/students/students-learning-space)
