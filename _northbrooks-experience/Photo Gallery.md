@@ -3,6 +3,8 @@ title: Photo Gallery
 permalink: /northbrooks-experience/Photo-Gallery/
 description: ""
 ---
+![](/images/northbrooks%20experience.jpg)
+
 Photo Gallery
 =============
 
