@@ -101,25 +101,29 @@ Singapore students worked with other international students in teams of 5 on a m
 </table>
 
 
-
-
-<img src="/images/OEP19.jpg" style="width:50%;float:left">
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<i>Pei Ying doing a presentation for her group.</i>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 406px">
+<colgroup>
+<col style="width: 406px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-zv4m"><img src="/images/OEP19.jpg" style="width:80%"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zv4m">Pei Ying doing a presentation for her group.</td>
+  </tr>
+</tbody>
+</table>
 
 
 
