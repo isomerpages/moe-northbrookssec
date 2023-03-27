@@ -11,3 +11,7 @@ Annual Speech & Prize Giving
 You can now watch the event on our [Youtube](https://www.youtube.com/watch?v=YzCwITMu6QU)! 
 
 ![](/images/Annual.jpeg)
+
+
+
+<b>For more information, do refer to the programme booklet below.</b>
