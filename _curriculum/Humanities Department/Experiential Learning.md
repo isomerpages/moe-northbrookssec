@@ -68,4 +68,4 @@ The experience was both immersive and enriching as it allowed students to develo
 
 ### [INTERACTIVE HERITAGE TRAIL](/interactive-heritage-trail/)
 
-### [OVERSEAS LEARNING JOURNEY](/Overseas-Learning-Journey/permalink/)
+### [OVERSEAS LEARNING JOURNEY](/overseas-learning-journey/)
