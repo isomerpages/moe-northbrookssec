@@ -64,3 +64,36 @@ The name Northbroks is derived from the Yuan Dynasty proverb yin shui si yuan. T
   </tr>
 </tbody>
 </table>
+
+### Replacing first part with chatgpt code
+
+<style> .tg {border-collapse:collapse;border-spacing:0;} .tg td{border-color:black;border-style:solid;border-width:1px; overflow:hidden;padding:10px 5px;word-break:normal;} .tg th{border-color:black;border-style:solid;border-width:1px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;} .tg .tg-baqh{text-align:center;vertical-align:top} .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top} .tg .tg-0lax{text-align:left;vertical-align:top} </style><table class="tg">
+<thead>
+  <tr>
+    <th class="tg-nk84"><span style="color:#0F4468">Principal:</span></th>
+    <th class="tg-zr06" colspan="2"><span style="color:#000;background-color:#FFF">MR DAVID LAU</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-04i4">Vice Principal 1:<br>Vice Principal 2:<br>Vice Principal (Administration):</td>
+    <td class="tg-ktyi" colspan="2"><span style="font-weight:400;color:#000">MDM POH SHI HUI</span><br><span style="font-weight:400;color:#000">MS GOH PEISHI</span><br><span style="font-weight:400;color:#000">MR SAHRIL BIN YAHYA</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nk84"><span style="color:#0F4468">Type of School:</span></td>
+    <td class="tg-zr06" colspan="2"><span style="color:#000;background-color:#FFF">GOVERNMENT SCHOOL/ MIXED SCHOOL/ SINGLE SESSION</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nk84">Mother Tongue:</td>
+    <td class="tg-zr06" colspan="2"><span style="color:#000;background-color:#FFF">CHINESE/ MALAY/ TAMIL</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nk84" rowspan="2"><span style="color:#0F4468">Subjects Offered:</span><br><span style="font-weight:500;color:#141D1C;background-color:#E6C20C">  </span><br><span style="font-weight:500;color:#141D1C;background-color:#E6C20C"> </span></td>
+    <td class="tg-ktyi">• ADDITIONAL MATHEMATICS,<br>• ART,<br>• BASIC CHINESE,<br>• BASIC MALAY,<br>• BIOLOGY,<br>• CHEMISTRY,<br>• CHINESE,<br>• CHINESE B,<br>• CHINESE N(A),<br>• CIVICS &amp; MORAL EDUCATION,<br>• COMBINED HUMANITIES (S,L),<br>• COMBINED HUMANITIES (S,G),<br>• COMBINED HUMANITIES (S,H),<br>• COMPUTER APPLICATIONS,<br>• DESIGN &amp; TECHNOLOGY,<br>• ELEMENTS OF BUSINESS SKILLS,<br>• ENGLISH LANGUAGE,<br>• ENGLISH LANGUAGE (SYLL A),<br>• ENGLISH LANGUAGE (SYLL T),<br><span style="color:#000;background-color:#FFF">                             </span><br></td>
+    <td class="tg-ktyi">• NUTRITION &amp; FOOD SCIENCE,<br>• LITERATURE(E),<br>• MALAY,<br>• MALAY N(A),<br>• MATHEMATICS,<br>• MATHEMATICS (SYLLABUS A),<br>• MATHEMATICS (SYLLABUS T),<br>• MUSIC<br>• PHYSICS,<br>• SCIENCE,<br>• SCIENCE (PHY, CHEM),<br>• SCIENCE (CHEM, BIO),<br>• SCIENCE (PHY, BIO),<br>• SCIENCE (SYLL T),<br>• SOCIAL STUDIES,<br><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-1547" colspan="2">Note:<br>• The subjects below are offered to the current student cohort. They may change for subsequent intakes.<br>• Students taking Tamil Language will have to attend lessons at the nearest Tamil Language Centre after school. See the list of designated centres.</td>
+  </tr>
+</tbody>
+</table>
