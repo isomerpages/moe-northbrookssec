@@ -13,9 +13,9 @@ Northbrooks Secondary School would like to thank the following partners in Educa
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-m5dr{background-color:#E6C20C;color:#141D1C;font-size:20px;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
@@ -66,4 +66,3 @@ Northbrooks Secondary School would like to thank the following partners in Educa
   </tr>
 </tbody>
 </table>
-
