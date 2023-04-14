@@ -14,9 +14,9 @@ Thank you for your interest in Northbrooks Secondary School.
 ### About DSA
 
 
-The Direct School Admission (DSA) is an opportunity for Primary 6 students to directly apply for admission into participating secondary schools based on their talents and achievement which might not have been demonstrated at the Primary School Leaving Examination (PSLE).   
+The Direct School Admission (DSA) is an opportunity for Primary 6 students to directly apply for admission into participating secondary schools based on their talents and achievement which might not have been demonstrated at the Primary School Leaving Examination (PSLE).&nbsp;  
   
-<b>Northbrooks Secondary School</b> offers DSA in the following areas in 2022: <br> 
+<b>Northbrooks Secondary School</b>&nbsp;offers DSA in the following areas in 2022: <br> 
 1\.  Aerospace <br>
 2\.  Outdoor Adventure <br>
 3\.  Leadership <br>
@@ -24,7 +24,7 @@ The Direct School Admission (DSA) is an opportunity for Primary 6 students to di
 5\.  Guzheng Ensemble <br>
 6\.  Modern Dance <br>
 7\.  Concert Band <br>
-8\.  Badminton 
+8\.  Badminton&nbsp;
 
   
 
@@ -32,9 +32,9 @@ The Direct School Admission (DSA) is an opportunity for Primary 6 students to di
 
   
 
-The school offers a variety of enrichment programmes to widen the students' learning experiences for greater development in cognitive, physical and aesthetics domains.   
+The school offers a variety of enrichment programmes to widen the students' learning experiences for greater development in cognitive, physical and aesthetics domains.&nbsp;  
   
-The school's distinctive Applied Learning Programme (ALP) in Aerospace provides our students an edge when applying for Aerospace-related courses in ITE and the Polytechnics, which in turn opens a career pathway for them in the rapidly growing Aerospace industry. All Lower Secondary students are equipped with basic knowledge in general Aerospace topics and essential Science Technology Engineering Mathematics (STEM) skills. Students who demonstrate passion in this field of study would be further engaged/stretched in related external competitions and programmes.   
+The school's distinctive Applied Learning Programme (ALP) in Aerospace provides our students an edge when applying for Aerospace-related courses in ITE and the Polytechnics, which in turn opens a career pathway for them in the rapidly growing Aerospace industry. All Lower Secondary students are equipped with basic knowledge in general Aerospace topics and essential Science Technology Engineering Mathematics (STEM) skills. Students who demonstrate passion in this field of study would be further engaged/stretched in related external competitions and programmes.&nbsp;  
   
 Our Learning for Life Programme (LLP) in Outdoor Education is known as A.C.E. and stands for Adventure, Character, Environment. The programme aims to develop character, inculcate values of grit and resilience and build leadership traits in all students as they learn adventure skills such as orienteering, rock climbing and abseiling as well as cultivate an appreciation for the outdoors and the environment during PE lessons and Level Camps. Students who excel at the various adventure skills may have the opportunity to participate at a higher challenge level in various outdoor competitions.
 
@@ -114,7 +114,7 @@ Our Learning for Life Programme (LLP) in Outdoor Education is known as A.C.E. an
 
 ### Application Process
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11 am to 1 June 2022, 3 pm. For more details, please refer to MOE DSA-Sec website – www.moe.gov.sg/dsa-sec.   
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11 am to 1 June 2022, 3 pm. For more details, please refer to MOE DSA-Sec website – www.moe.gov.sg/dsa-sec.&nbsp;  
   
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
 
