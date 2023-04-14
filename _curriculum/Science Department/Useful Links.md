@@ -9,16 +9,9 @@ third_nav_title: Science Department
 Useful Links
 ============
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-33jp{background-color:#FFF;color:#06667E;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-3tkj{background-color:#E6C20C;color:#141D1C;font-size:20px;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
+<style type="text/css"> .tg {border-collapse:collapse;border-spacing:0;} .tg td{border-color:black;border-style:solid;border-width:1px; /\* Remove font-family and font-size \*/ overflow:hidden;padding:10px 5px;word-break:normal;} .tg th{border-color:black;border-style:solid;border-width:1px; /\* Remove font-family and font-size \*/ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;} .tg .tg-33jp{background-color:#FFF;color:#06667E; /\* Remove font-weight and text-decoration \*/ text-align:left;vertical-align:top} .tg .tg-3tkj{background-color:#E6C20C;color:#141D1C; /\* Remove font-size, font-family, and font-weight \*/ text-align:left;vertical-align:top} .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top} </style>
+
+
 <table class="tg">
 <thead>
   <tr>
