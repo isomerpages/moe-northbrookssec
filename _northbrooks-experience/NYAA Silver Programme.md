@@ -232,30 +232,41 @@ The NYAA Award Co-ordinator for the school will verify the results of each stude
 
 There are three levels of the National Youth Achievement Award Scheme
 
-<style type="text/css"> .tg {border-collapse:collapse;border-spacing:0;} .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal;} .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;} .tg .tg-5qz7{background-color:#E6C20C;color:#141D1C;font-size:20px;font-weight:bold;text-align:left;text-decoration:underline; vertical-align:top} .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle} </style>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ort3{background-color:#E6C20C;border-color:inherit;color:#141D1C;font-weight:bold;text-align:left;text-decoration:underline;
+  vertical-align:top}
+.tg .tg-bhdq{background-color:#E6C20C;color:#141D1C;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-q0wz{background-color:#FFF;color:#484848;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
+</style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-5qz7">Level of Award<br></th>
-    <th class="tg-5qz7">Age Group<br></th>
-    <th class="tg-5qz7">Minimum Period of Participation<br></th>
+    <th class="tg-ort3"><span style="font-weight:bold;text-decoration:underline;color:#141D1C;background-color:#E6C20C">Level of Award</span><br></th>
+    <th class="tg-bhdq"><span style="font-weight:bold;text-decoration:underline;color:#141D1C;background-color:#E6C20C">Age Group</span><br></th>
+    <th class="tg-bhdq"><span style="font-weight:bold;text-decoration:underline;color:#141D1C;background-color:#E6C20C">Minimum Period of Participation</span><br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Bronze</span><br></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">13 years to under 30 years old</span><br></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">6 months</span><br></td>
+    <td class="tg-q0wz"><span style="font-weight:inherit;font-style:inherit;color:#000;background-color:#FFF">Bronze</span><br></td>
+    <td class="tg-06je"><span style="font-weight:inherit;font-style:inherit;color:#000;background-color:#FFF">13 years to under 30 years old</span><br></td>
+    <td class="tg-06je"><span style="font-weight:inherit;font-style:inherit;color:#000;background-color:#FFF">6 months</span><br></td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Silver</span><br></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">15 years to under 30 years old</span><br></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">12 months</span><br></td>
+    <td class="tg-06je"><span style="font-weight:inherit;font-style:inherit;color:#000;background-color:#FFF">Silver</span><br></td>
+    <td class="tg-06je"><span style="font-weight:inherit;font-style:inherit;color:#000;background-color:#FFF">15 years to under 30 years old</span><br></td>
+    <td class="tg-06je"><span style="font-weight:inherit;font-style:inherit;color:#000;background-color:#FFF">12 months</span><br></td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Gold</span><br></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">16 years to under 30 years old</span><br></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">18 months</span></td>
+    <td class="tg-06je"><span style="font-weight:inherit;font-style:inherit;color:#000;background-color:#FFF">Gold</span><br></td>
+    <td class="tg-06je"><span style="font-weight:inherit;font-style:inherit;color:#000;background-color:#FFF">16 years to under 30 years old</span><br></td>
+    <td class="tg-06je"><span style="font-weight:inherit;font-style:inherit;color:#000;background-color:#FFF">18 months</span></td>
   </tr>
 </tbody>
 </table>
