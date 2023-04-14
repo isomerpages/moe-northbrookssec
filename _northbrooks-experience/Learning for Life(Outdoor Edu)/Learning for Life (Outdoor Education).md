@@ -14,17 +14,17 @@ Learning for Life (Outdoor Education)
 
 **LLP Student Outcomes**
 
-A **Confident Person** who has acquired skills for safe participation and conduct of various outdoor activities/pursuits. He knows himself, is adaptable and resilient. He thinks independently and critically to develop himself and ensures personal safety and the safety of others.  
+A&nbsp;**Confident Person**&nbsp;who&nbsp;has acquired skills for safe participation&nbsp;and conduct of various outdoor activities/pursuits. He knows himself, is adaptable and resilient. He thinks independently and critically to develop himself and ensures personal safety and the safety of others.  
 
-An **Active Contributor** who seeks to develop a champion learning mind set and demonstrates the school values, and the SEL competencies to work effectively in teams and exercise initiative to achieve desired goals.  
+An&nbsp;**Active Contributor**&nbsp;who seeks to develop a champion learning&nbsp;mind set&nbsp;and demonstrates the school values, and the SEL competencies to work effectively in teams and exercise initiative to achieve desired goals.  
 
-A **Concerned Citizen** who is able to connect and care for the community and environment. He has strong civic consciousness and takes an active role to lead and improve the environment and the lives of others around him.  
+A&nbsp;**Concerned Citizen**&nbsp;who&nbsp;is able to connect and care for the community&nbsp;and environment. He has strong civic consciousness and takes an active role to lead and improve the environment and the lives of others around him.&nbsp;&nbsp;
 
 **Newspaper article in 2016**
 
   
 
-##### Click [here](/achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/permalink/) to view the article
+##### Click [here](/achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/permalink/)&nbsp;to view the article
 
 ### The Outdoor Education Team
 --------------------------
