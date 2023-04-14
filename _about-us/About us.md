@@ -19,17 +19,7 @@ The name Northbroks is derived from the Yuan Dynasty proverb yin shui si yuan. T
 ### School Information
 
 
-<style type="text/css">
-.tg {border-collapse: collapse; border-spacing: 0;}
-.tg td {border-color: black; border-style: solid; border-width: 1px;
-  overflow: hidden; padding: 10px 5px; word-break: normal;}
-.tg th {border-color: black; border-style: solid; border-width: 1px;
-  font-weight: normal; overflow: hidden; padding: 10px 5px; word-break: normal;}
-.tg .tg-hj3n {background-color: #E6C20C; color: #141D1C; font-weight: bold; text-align: left; vertical-align: middle;}
-.tg .tg-8rcp {background-color: #FFF; font-weight: bold; text-align: left; vertical-align: middle;}
-.tg .tg-dgl5 {background-color: #FFF; font-weight: bold; text-align: left; vertical-align: top;}
-.tg .tg-ktyi {background-color: #FFF; text-align: left; vertical-align: top;}
-</style><table class="tg">
+<style type="text/css"> .tg {border-collapse:collapse;border-spacing:0;} .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal;} .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;} .tg .tg-33jp{background-color:#FFF;color:#06667E;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top} .tg .tg-3tkj{background-color:#E6C20C;color:#141D1C;font-size:20px;font-weight:bold;text-align:left;vertical-align:top} .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top} </style><table class="tg">
 <thead>
   <tr>
     <th class="tg-nk84"><span style="color:#0F4468">Principal:</span></th>
