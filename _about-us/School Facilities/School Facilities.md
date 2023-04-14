@@ -9,17 +9,7 @@ third_nav_title: School Facilities
 School Facilities
 =================
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-842k{background-color:#FFF;color:#141d1c;text-align:center;vertical-align:top}
-.tg .tg-7ew7{background-color:#FFF;color:#06667E;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
-.tg .tg-k88s{background-color:#E6C20C;color:#141D1C;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-norj{background-color:#FFF;color:#06667E;font-weight:bold;text-align:center;vertical-align:top}
-</style>
+<style type="text/css"> .tg {border-collapse:collapse;border-spacing:0;} .tg td{border-color:black;border-style:solid;border-width:1px; /\* Remove font-family and font-size \*/ overflow:hidden;padding:10px 5px;word-break:normal;} .tg th{border-color:black;border-style:solid;border-width:1px; /\* Remove font-family and font-size \*/ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;} .tg .tg-842k{background-color:#FFF;color:#141d1c;text-align:center;vertical-align:top} .tg .tg-7ew7{background-color:#FFF; /\* Remove font-weight \*/ color:#06667E;text-align:center;text-decoration:underline;vertical-align:top} .tg .tg-k88s{background-color:#E6C20C;color:#141D1C; /\* Remove font-weight \*/ text-align:left;vertical-align:top} .tg .tg-norj{background-color:#FFF; /\* Remove font-weight \*/ color:#06667E;text-align:center;vertical-align:top} </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 622px">
 <colgroup>
 <col style="width: 311px">
