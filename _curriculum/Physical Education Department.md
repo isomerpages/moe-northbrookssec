@@ -14,26 +14,18 @@ Physical Education Department
 ![](/images/PE.gif)
 
 
-The Physical Education (PE) department oversees the delivery of lessons in physical health & fitness, sports and games as well as Outdoor Education. The Northbrooks PE curriculum is designed in relation to our subject’s national syllabus and policies such as 21CC and Singapore Teaching Practice (STP). We envision every Brooksian to be a physically active individual who leads a healthy lifestyle. In addition, it is our hope that every Brooksian graduate will possess values of sportsmanship and resilience to impact the community.
+The Physical Education (PE) department oversees the delivery of lessons in physical health &amp; fitness, sports and games as well as Outdoor Education. The Northbrooks PE curriculum is designed in relation to our subject’s national syllabus and policies such as 21CC and Singapore Teaching Practice (STP). We envision every Brooksian to be a physically active individual who leads a healthy lifestyle. In addition, it is our hope that every Brooksian graduate will possess values of sportsmanship and resilience to impact the community.
 
 ### Physical Education Framework
 ----------------------------
 *   Brooksians will undergo quality PE lessons to hone their decision-making in games and build confidence and values of sportsmanship in intra-class games
-*   Brooksians will be able to apply their skills learnt during PE lessons in Inter-Class Games and build class spirit and camaraderie 
+*   Brooksians will be able to apply their skills learnt during PE lessons in Inter-Class Games and build class spirit and camaraderie&nbsp;
 *   Brooksians will be prepared in outdoor skills and apply them in the level camps in outdoor settings
 *   Brooksians who desire a higher level of challenge will be afforded opportunities to embark on expeditions and competitions to test their skills at the highest level
 
 ##### Skills and Activities offered:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-t6wr{background-color:#E6C20C;color:#141D1C;font-size:20px;font-weight:bold;text-align:center;text-decoration:underline;
-  vertical-align:top}
-</style>
+<style type="text/css"> .tg {border-collapse:collapse;border-spacing:0;} .tg td{border-color:black;border-style:solid;border-width:1px; /\* Remove font-family and font-size \*/ overflow:hidden;padding:10px 5px;word-break:normal;} .tg th{border-color:black;border-style:solid;border-width:1px; /\* Remove font-family and font-size \*/ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;} .tg .tg-t6wr{background-color:#E6C20C;color:#141D1C; /\* Remove font-size, font-family, font-weight, and text-decoration \*/ text-align:center;vertical-align:top} </style>
 <table class="tg">
 <thead>
   <tr>
@@ -95,7 +87,7 @@ The Physical Education (PE) department oversees the delivery of lessons in physi
 
 ##### Cross Country
 
-Brooksians participate in our annual Cross Country race in the outdoor setting of MacRitchie reservoir. Students train regularly during the PE lessons in school and at Yishun Park to be ready for this exciting event. This event offers exposure to an authentic outdoor setting and also promotes the appreciation of our environment in this nature reserve. The classes often cheer and encourage their peers to build class and school spirit during this event. 
+Brooksians participate in our annual Cross Country race in the outdoor setting of MacRitchie reservoir. Students train regularly during the PE lessons in school and at Yishun Park to be ready for this exciting event. This event offers exposure to an authentic outdoor setting and also promotes the appreciation of our environment in this nature reserve. The classes often cheer and encourage their peers to build class and school spirit during this event.&nbsp;
 
   
 
@@ -113,7 +105,7 @@ Brooksians are introduced to several new sports under the SEP such as Bowling, A
 
 ##### Post Exam Activities
 
-Brooksians are often exposed to the activity of Orienteering during Post-Exam Activities period. They are brought to many parks around Singapore, such as Sembawang, Bishan and Jurong Lake Park to experience navigating in those new settings. 
+Brooksians are often exposed to the activity of Orienteering during Post-Exam Activities period. They are brought to many parks around Singapore, such as Sembawang, Bishan and Jurong Lake Park to experience navigating in those new settings.&nbsp;
 
   
 
