@@ -17,7 +17,7 @@ The objectives of the National Youth Achievement Award (NYAA) Silver Programme a
 
 	*   service learning (Touching Lives, Making a Difference)
 	*   outdoor appreciation (To be at Ease with Nature), and
-	*   healthy living (Physical & Mental Wellness),  
+	*   healthy living (Physical &amp; Mental Wellness),  
     so that they may be exceptional individuals who can contribute to society and the nation.
 
 *   To encourage Brooksians to develop personal qualities of:
@@ -34,7 +34,7 @@ The objectives of the National Youth Achievement Award (NYAA) Silver Programme a
 
 The NYAA Silver Award may be awarded to any youths, who is at least 15 years of age, with a minimum participation period of 12 months and has completed the necessary sections under the NYAA Silver scheme as laid out in Appendix A.
 
-####  Award Co-ordinator
+#### &nbsp;Award Co-ordinator
 
 The Award Co-ordinator for Northbrooks Secondary School NYAA Silver programme is the Subject Head Co-Curricular Activities. He plans and oversees the NYAA programme for the school. The award co-ordinator works with the different departments and committees to create a meaningful NYAA Silver programme for the students. His key role is to co-ordinate the participants and teachers, ensuring the participants gain maximum benefit from every aspect of the Award Scheme, and that they complete their programme.
 
@@ -114,7 +114,7 @@ The Service Learning programme for Secondary 3 students provides students with t
 
 <u><i>Outdoor Appreciation (To be at Ease with Nature)</i></u>
 
-Life-Long Learning Programme Outdoor Education \[Adventure, Character & Environment (A.C.E)\] –Sec 3 Level Camp
+Life-Long Learning Programme Outdoor Education \[Adventure, Character &amp; Environment (A.C.E)\] –Sec 3 Level Camp
 
 The Secondary 3 Leadership Camp under the LLP – ACE aims to help Brooksians develop character, an appreciation for Singapore using the local environments though adventure. At the same time, the camp provides an authentic context and experience for learning. The adventure camp focuses on challenging our students to be outside of their comfort zone through getting them to stay and explore in unfamiliar surroundings and go through a series of activities to explore the different parts of Singapore. A series of reflective activities have been built into this programme to help build their critical thinking skills as well as develop their SEL competencies for leadership development through an appreciation of the outdoors.
 
@@ -153,23 +153,13 @@ The Secondary 3 Leadership Camp under the LLP – ACE aims to help Brooksians de
 </tbody>
 </table>
 
-<u><I>Outdoor Appreciation (To be at Ease with Nature)</i></u>
+<u><i>Outdoor Appreciation (To be at Ease with Nature)</i></u>
 
-<u><I>Life-Long Learning Programme Outdoor Education \[Adventure, Character & Environment (A.C.E)\] –Sec 3 Level Camp</i></u>
+<u><i>Life-Long Learning Programme Outdoor Education \[Adventure, Character &amp; Environment (A.C.E)\] –Sec 3 Level Camp</i></u>
 
-<u><I>The Secondary 3 Leadership Camp under the LLP – ACE aims to help Brooksians develop character, an appreciation for Singapore using the local environments though adventure. At the same time, the camp provides an authentic context and experience for learning. The adventure camp focuses on challenging our students to be outside of their comfort zone through getting them to stay and explore in unfamiliar surroundings and go through a series of activities to explore the different parts of Singapore. A series of reflective activities have been built into this programme to help build their critical thinking skills as well as develop their SEL competencies for leadership development through an appreciation of the outdoors.</i></u>
+<u><i>The Secondary 3 Leadership Camp under the LLP – ACE aims to help Brooksians develop character, an appreciation for Singapore using the local environments though adventure. At the same time, the camp provides an authentic context and experience for learning. The adventure camp focuses on challenging our students to be outside of their comfort zone through getting them to stay and explore in unfamiliar surroundings and go through a series of activities to explore the different parts of Singapore. A series of reflective activities have been built into this programme to help build their critical thinking skills as well as develop their SEL competencies for leadership development through an appreciation of the outdoors.</i></u>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ayh6{background-color:#E6C20C;color:#141D1C;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-</style>
+<style type="text/css"> .tg {border-collapse:collapse;border-spacing:0;} .tg td{border-color:black;border-style:solid;border-width:1px;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal;} .tg th{border-color:black;border-style:solid;border-width:1px;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;} .tg .tg-ayh6{background-color:#E6C20C;color:#141D1C;font-weight:bold;text-align:center;vertical-align:top} .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top} .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle} .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle} </style>
 <table class="tg">
 <thead>
   <tr>
@@ -242,16 +232,7 @@ The NYAA Award Co-ordinator for the school will verify the results of each stude
 
 There are three levels of the National Youth Achievement Award Scheme
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-5qz7{background-color:#E6C20C;color:#141D1C;font-size:20px;font-weight:bold;text-align:left;text-decoration:underline;
-  vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
+<style type="text/css"> .tg {border-collapse:collapse;border-spacing:0;} .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal;} .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;} .tg .tg-5qz7{background-color:#E6C20C;color:#141D1C;font-size:20px;font-weight:bold;text-align:left;text-decoration:underline; vertical-align:top} .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle} </style>
 <table class="tg">
 <thead>
   <tr>
@@ -282,9 +263,9 @@ There are three levels of the National Youth Achievement Award Scheme
 The National Youth Achievement Award (NYAA) Youth Leadership Development Programme is an exciting self-development programme for young people between the ages of 13 and 30 years old. It is a holistic, balanced and non-competitive programme of voluntary leisure time activities, designed to provide our young people with a platform to develop personal qualities and skills to make a difference to themselves, their communities and the world. The new NYAA programme is designed in line with the Ministry of Education’s Levels of Attainment, focusing on effort and merit of the individual.  
   
 
-To qualify for the Award, participants are required to complete a balanced programme of non-competitive activities grouped under <u><b>three sections</b></u>:
+To qualify for the Award, participants are required to complete a balanced programme of non-competitive activities grouped under&nbsp;<u><b>three sections</b></u>:
 
-1. <u><b>Service Learning</b></u> <b>(Touching Lives, Making a Difference)</b>  
+1.&nbsp;<u><b>Service Learning</b></u>&nbsp;<b>(Touching Lives, Making a Difference)</b>  
 This component recognizes young people’s development as socially responsible citizens who understand the issues faced by the community and explore how they can contribute actively to find a solution. They can choose to undertake a Values-In-Action project or any community service projects of their interest.
 
 <b>Objective:</b>  
@@ -294,7 +275,7 @@ Bronze: At least 20 hours of regular activities spread over a minimum period of 
 Silver: At least 40 hours of regular activities spread over a minimum period of 8 months.  
 Gold: At least 60 hours of regular activities spread over a minimum period of 12 months.
  
-2.<u><b> Outdoor Appreciation</b></u> <b>(To be at Ease with Nature)</b>  
+2.<u><b> Outdoor Appreciation</b></u>&nbsp;<b>(To be at Ease with Nature)</b>  
 Outdoor learning supports the development of confidence building as young people are placed in unfamiliar environments outside of the classroom. It also develops young people’s problem-solving skills, enhances teamwork, strengthens understanding of the natural environment and inculcates in young people a sense of stewardship for our environment. <br>
 <b>Objective:</b>  
 To be at ease with nature and develop stewardship for our environment. <br>
@@ -303,10 +284,10 @@ Bronze: At least 15 hours of outdoor activities with a specific learning goal.
 Silver: At least 24 hours of outdoor activities with a specific learning goal.  
 Gold: At least 36 hours of outdoor activities with a specific learning goal. <br>
 <b>Types of Expeditions:</b>  
-Canoeing, Cave, Cycling, Jungle, River, Sailing, Trekking & Mountain <br>
-<b>Explorations</b> \- Involves less journeying and where a greater proportion of time is spent on approved, first hand investigations of other activities. Explorations must take the form of a journey and involve some hours of traveling time.
+Canoeing, Cave, Cycling, Jungle, River, Sailing, Trekking &amp; Mountain <br>
+<b>Explorations</b>&nbsp;\- Involves less journeying and where a greater proportion of time is spent on approved, first hand investigations of other activities. Explorations must take the form of a journey and involve some hours of traveling time.
 
-3.<u><b>Healthy Living</b></u> <b>(Physical & Mental Wellness)</b>  
+3.<u><b>Healthy Living</b></u>&nbsp;<b>(Physical &amp; Mental Wellness)</b>  
 Healthy living aims to develop and maintain a healthy lifestyle that allows us to get through our daily activities. It also hopes to develop a healthy body and mind. Our behavior has a significant impact on our wellness and adapting healthy habits with a balanced diet and exercise while avoiding destructive habits such as tobacco, drugs and alcohol will improve both our physical and emotional well-being. <br>
 <b>Objective:</b>  
 To develop physical and mental wellness through healthy living <br>
@@ -318,7 +299,7 @@ Bronze: At least 24 hours of regular activities spread over a period of 6 months
 For the NYAA Gold Level, participants are required to undertake the fourth component:
 
  
-4.<u><b>Community Leadership Initiative</b></u> <b>(Creating an Impact, Delivering Change)</b>  
+4.<u><b>Community Leadership Initiative</b></u>&nbsp;<b>(Creating an Impact, Delivering Change)</b>  
 This component challenges participants to take on leadership roles in their own community service projects. Participants are to identify a need in our community and through the understanding of cultural differences, find solutions to contribute effectively to bring about a positive outcome. Participants will have the opportunity to showcase their leadership skills as they work in partnership with people from various backgrounds to undertake a community project that will not only broaden their horizons but also trains them into culturally sensitive, service-oriented and holistic leaders. The newly remodelled section hopes to see more student/youth-initiated activities that bring positive and meaningful contributions to the community, be it on the national or international level. <br>
 <b>Objective:</b>  
 To build leadership skills while serving the needs of the community. <br>
