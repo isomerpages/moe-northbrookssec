@@ -1,0 +1,16 @@
+collections:
+  people:
+    output: true
+    order:
+      - PSG/.keep
+      - PSG/Essential Parenting.md
+      - Staff List 2022.md
+      - Staff CSR.md
+      - Staff Masterpiece.md
+      - Our Stories/.keep
+      - Our Stories/Faces of Northbrooks.md
+      - Our Stories/Good Stories.md
+      - Parents/.keep
+      - Parents/Parents.md
+      - Alumni/.keep
+      - Alumni/Education and Career Guidance.md

@@ -1,0 +1,32 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Craft & Technology Department/.keep
+      - Craft & Technology Department/Craft & Technology Department.md
+      - Craft & Technology Department/Design & Technology Unit.md
+      - Craft & Technology Department/Nutrition & Food Science Unit.md
+      - Craft & Technology Department/Visual Arts Unit.md
+      - Craft & Technology Department/Music Unit.md
+      - English Language & Literature/.keep
+      - English Language & Literature/English Language & Literature Department.md
+      - English Language & Literature/English Literature Department.md
+      - Humanities Department/.keep
+      - Humanities Department/Humanities Department.md
+      - Humanities Department/Experiential Learning.md
+      - Humanities Department/External Competitions.md
+      - IT, CPA & EBS Department/.keep
+      - IT, CPA & EBS Department/IT, CPA & EBS Department.md
+      - IT, CPA & EBS Department/Elements of Business Skills.md
+      - IT, CPA & EBS Department/Elements of Business Skills (EBS) Room.md
+      - IT, CPA & EBS Department/Computer Applications.md
+      - Mathematics Department.md
+      - Mother Tongue Department/.keep
+      - Mother Tongue Department/Mother Tongue Department.md
+      - Mother Tongue Department/Malay Language Unit.md
+      - Mother Tongue Department/Chinese Language Unit.md
+      - Physical Education Department.md
+      - Science Department/.keep
+      - Science Department/Science Department.md
+      - Science Department/Vertical Green Wall.md
+      - Science Department/Useful Links.md

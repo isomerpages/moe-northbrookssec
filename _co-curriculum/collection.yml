@@ -1,0 +1,20 @@
+collections:
+  co-curriculum:
+    output: true
+    order:
+      - CCE/.keep
+      - CCE/CCE.md
+      - CCE/Cyber Wellness (CW).md
+      - CCE/Education and Career Guidance (ECG).md
+      - CCE/Sexuality Education Programme.md
+      - CCE/Values In Action.md
+      - CCE/Mindfulness@Northbrooks.md
+      - Student Leadership Programme/.keep
+      - Student Leadership Programme/Student Leadership Programme.md
+      - Student Leadership Programme/Student Council.md
+      - Student Leadership Programme/Co Curricular Activities Leaders.md
+      - Student Leadership Programme/Class Leaders.md
+      - Student Leadership Programme/Student Leaders' Investiture.md
+      - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Arts Enrichment Programme.md
