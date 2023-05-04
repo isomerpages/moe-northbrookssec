@@ -16,7 +16,7 @@ Thank you for your interest in Northbrooks Secondary School.
 
 The Direct School Admission (DSA) is an opportunity for Primary 6 students to directly apply for admission into participating secondary schools based on their talents and achievement which might not have been demonstrated at the Primary School Leaving Examination (PSLE).&nbsp;  
   
-<b>Northbrooks Secondary School</b>&nbsp;offers DSA in the following areas in 2022: <br> 
+<b>Northbrooks Secondary School</b>&nbsp;offers DSA in the following areas in 2023: <br> 
 1\.  Aerospace <br>
 2\.  Outdoor Adventure <br>
 3\.  Leadership <br>
@@ -70,42 +70,52 @@ Our Learning for Life Programme (LLP) in Outdoor Education is known as A.C.E. an
   <tr>
     <td class="tg-dgl5">Aerospace</td>
     <td class="tg-ktyi">Demonstration of<br>1.  Positive attitude and conduct<br>2.  Strong interest in Aerospace and STEAM fields<br>3.  Highly motivated and resilient when faced with an unfamiliar setting <br>4.  Good content knowledge on basic physics of flight and STEAM concepts<br>5.  Demonstration of skills in the areas of critical thinking and reasoning, problem solving, adaptability and teamwork<br>6.  Demonstration of skills related to Aerospace</td>
-    <td class="tg-ktyi">1. Online Test (Multiple Choice Questions) on Theory of Flight and Aerodynamics<br><br>2. Interview via video conferencing<br><br><span style="font-style:italic">*During the interview, applicants are encouraged to share their STEAM related projects done in their primary schools through portfolio.</span><br></td>
+    <td class="tg-ktyi">1.  Multiple Choice Questions on Theory of Flight and Aerodynamics<br><br>2. Interview<br><br><span style="font-style:italic">*During the interview, applicants are encouraged to share their STEAM related projects done in their primary schools through portfolio.</span><br></td>
   </tr>
   <tr>
     <td class="tg-dgl5">Outdoor Adventure</td>
     <td class="tg-ktyi">Demonstration of <br>1.  Positive attitude and conduct<br>2.  Leadership skills<br>3.  Good physical fitness<br>Prior experiences in outdoor adventure-related activities</td>
-    <td class="tg-ktyi">Interview </td>
+    <td class="tg-ktyi"> 
+1.&nbsp;&nbsp;Applicants are preferred to have assumed leadership roles in CCA, or as class monitor or school prefect in Primary 5 and 6. <br>
+2.  	Applicants must have obtained at least a ‘Silver’ award in Primary 4 or 6.<br>
+		3. Interview </td>
   </tr>
   <tr>
     <td class="tg-dgl5">Leadership</td>
-    <td class="tg-ktyi">Demonstration of <br>1.  Positive attitude and conduct<br>2.  Leadership skills<br>Prior experiences in leadership-related activities</td>
+    <td class="tg-ktyi">Demonstration of <br>1.  Positive attitude and conduct.<br>2.  Leadership skills.<br>Prior experiences in leadership-related activities</td>
     <td class="tg-ktyi">1. Interview<br>2. Leadership Challenge<br><span style="font-style:italic">*Both interview and Leadership Challenge will be conducted in person</span></td>
   </tr>
   <tr>
     <td class="tg-dgl5">Floorball (Boys)</td>
-    <td class="tg-ktyi">Demonstration of <br>1.  Positive attitude and conduct<br>2.  Good physical fitness<br>Prior experiences in Floorball/Hockey competitions</td>
+    <td class="tg-ktyi">Demonstration of <br>1.  Positive attitude and conduct.<br>2.  Good physical fitness.<br>Prior experiences in Floorball/Hockey competitions</td>
     <td class="tg-ktyi">1. Sports Trial<br>2. Interview<br></td>
   </tr>
   <tr>
     <td class="tg-dgl5">Guzheng Ensemble </td>
     <td class="tg-ktyi">Demonstration of<br>1.  Positive attitude and conduct.<br>2.  Good performance skills and techniques in Guzheng<br>3.  Participated in performances/ events in or outside school<br>4.  Demonstrate high level of commitment and self-motivation<br></td>
-    <td class="tg-ktyi">1.  Submission of any existing video recording of a performance. If a video recording is submitted, applicants must ensure that he/she is in the video frame and that the recording is not edited.<br>Applicants who do not have any existing videos will not be required to make a new video to support this application.<br>Details on video submission will be sent to applicants via email<br>2. Audition – Students might be required to demonstrate skills pertaining to musicality (pitching and rhythm) during the audition. This will not require an instrument.<br>3. Interview</td>
+    <td class="tg-ktyi">1.  Submission of any existing video recording of a performance. If a video recording is submitted, applicants must ensure that he/she is in the video frame and that the recording is not edited.<br>Applicants who do not have any existing videos will not be required to make a new video to support this application.<br>Details on video submission will be sent to applicants via email<br>2. Live Audition <br>3. Interview</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Modern Dance</td>
     <td class="tg-ktyi">Demonstration of<br>1.  Positive attitude and conduct<br>2.  Demonstration of good performance skills and techniques in Dance<br>3.  Participated in performances/ events in or outside school<br>4.  Demonstrate high level of commitment and self-motivation</td>
-    <td class="tg-ktyi">1.  Submission of any existing video recording of a dance performance (Not longer than 3 minutes). If a video recording is submitted, applicants must ensure that he/she is in the video frame and that the recording is not edited.<br>Applicants who do not have any existing videos will not be required to make a new video to support this application.<br>Details on video submission will be sent to applicants via email.<br>2.  Interview</td>
+    <td class="tg-ktyi">1.  Submission of any existing video recording of a dance performance (Not longer than 3 minutes). If a video recording is submitted, applicants must ensure that he/she is in the video frame and that the recording is not edited.<br>Applicants who do not have any existing videos will not be required to make a new video to support this application.<br>Details on video submission will be sent to applicants via email.<br>2. Live Audition <br>3. Interview</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Concert Band</td>
     <td class="tg-ktyi">Demonstration of <br>1.  Positive attitude and conduct<br>2.  Demonstration of good performance skills and techniques in playing of a musical instrument<br>3.  Participated in performances/ events in or outside school<br>4.  Demonstrate high level of commitment and self-motivation</td>
-    <td class="tg-ktyi">1.  Submission of any existing video recording of a dance performance (Not longer than 3 minutes). If a video recording is submitted, applicants must ensure that he/she is in the video frame and that the recording is not edited.<br>Applicants who do not have any existing videos will not be required to make a new video to support this application.<br>Details on video submission will be sent to applicants via email.<br>2.  Audition – Students might be required to demonstrate skills pertaining to musicality (pitching and rhythm) during the audition. This will not require an instrument.<br>3.  Interview</td>
+    <td class="tg-ktyi">1.  Submission of any existing video recording of a dance performance (Not longer than 3 minutes). If a video recording is submitted, applicants must ensure that he/she is in the video frame and that the recording is not edited.<br>Applicants who do not have any existing videos will not be required to make a new video to support this application.<br>Details on video submission will be sent to applicants via email.<br>2. Live Audition <br>3.  Interview</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Badminton</td>
     <td class="tg-ktyi">Demonstration of <br>1.  Positive attitude and conduct<br>2.  Good physical fitness<br></td>
-    <td class="tg-ktyi">1.  Submission of a 11-points game video played between the applicant and their opponent. The video should showcase the following skills:<br>-  Lobbing<br>-  Service<br>-  Netting<br>-  Smash<br>-  Footwork<br>-  Ability to strategically place the shuttle to score a point<br><span style="font-style:italic">*The video should capture the applicant’s full body movement as well as the shuttle’s projectile. Please refer to this video (</span><span style="font-weight:bold;font-style:italic">https://tinyurl.com/NorthbrooksBadmintonDSAVideo</span><span style="font-style:italic">)for reference on the acceptable video camera angle.</span><br><br>Details on video submission will be sent to applicants via email<br>2.  Interview</td>
+    <td class="tg-ktyi">1. Applicants will be assessed via drills and mini-games set by the coach/ Teacher-in-charge. Some of the skills that may be evaluated are: <br>
+- Lobbing,<br>
+- Service,<br>
+- Netting,<br>
+-	Smash,<br>
+-	Footwork Assessment. <br>
+Ability to strategically place the shuttle to score a point.
+<br>2.  Interview.</td>
   </tr>
 </tbody>
 </table>
@@ -114,13 +124,13 @@ Our Learning for Life Programme (LLP) in Outdoor Education is known as A.C.E. an
 
 ### Application Process
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11 am to 1 June 2022, 3 pm. For more details, please refer to MOE DSA-Sec website – www.moe.gov.sg/dsa-sec.&nbsp;  
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from **4 May 2023 to 31 May 2023.** For more details, please refer to MOE DSA-Sec website – www.moe.gov.sg/dsa-sec.&nbsp;  
   
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
 
 ### Outcome
 
-Applicants will be notified of the outcome of the application via a letter by Monday, 12 September 2022. The letter will indicate whether the applicant has been given a Confirmed Offer, put on the Waiting List or Unsuccessful.
+Applicants will be notified of the outcome of the application via a letter by **Monday, 11 September 2023**. The letter will indicate whether the applicant has been given a Confirmed Offer, put on the Waiting List or Unsuccessful.
 
 ### Key Dates
 
@@ -142,23 +152,23 @@ Applicants will be notified of the outcome of the application via a letter by Mo
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7yig">5 May 2022 – 1 June 2022</td>
+    <td class="tg-7yig">4 May 2023 – 31 May 2023</td>
     <td class="tg-7yig">DSA Application period</td>
   </tr>
   <tr>
-    <td class="tg-7yig">27 June 2022 – 12 September 2022 </td>
+    <td class="tg-7yig">26 June 2023 – 11 September 2023 </td>
     <td class="tg-7yig">Selection and Interview period</td>
   </tr>
   <tr>
-    <td class="tg-7yig">By 12 September 2022</td>
+    <td class="tg-7yig">By 11 September 2023</td>
     <td class="tg-7yig">Release of Outcome of DSA Application</td>
   </tr>
   <tr>
-    <td class="tg-7yig">31 October 2022 – 4 November 2022</td>
+    <td class="tg-7yig">23 October 2023 –27 October 2023</td>
     <td class="tg-7yig">School Preference Submission by Applicants who have received at least one DSA-Sec offer</td>
   </tr>
   <tr>
-    <td class="tg-7yig">Late November 2022</td>
+    <td class="tg-7yig">Mid November 2023</td>
     <td class="tg-7yig">DSA-Sec Allocation Results Release</td>
   </tr>
 </tbody>
