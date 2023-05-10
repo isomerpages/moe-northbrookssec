@@ -124,13 +124,13 @@ Ability to strategically place the shuttle to score a point.
 
 ### Application Process
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from **4 May 2023 to 31 May 2023.** For more details, please refer to MOE DSA-Sec website – www.moe.gov.sg/dsa-sec.&nbsp;  
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from **Thursday, 4 May 2023 11.00am to Wednesday, 31 May 2023 3.00pm.** For more details, please refer to MOE DSA-Sec website – www.moe.gov.sg/dsa-sec.&nbsp;  
   
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
 
 ### Outcome
 
-Applicants will be notified of the outcome of the application via a letter by **Monday, 11 September 2023**. The letter will indicate whether the applicant has been given a Confirmed Offer, put on the Waiting List or Unsuccessful.
+Applicants will be notified of the outcome of the application via a letter by **late November 2023 (between Wednesday, 22 November and Friday, 24 November 2023).**. The letter will indicate whether the applicant has been given a Confirmed Offer, put on the Waiting List or Unsuccessful.
 
 ### Key Dates
 
@@ -168,7 +168,7 @@ Applicants will be notified of the outcome of the application via a letter by **
     <td class="tg-7yig">School Preference Submission by Applicants who have received at least one DSA-Sec offer</td>
   </tr>
   <tr>
-    <td class="tg-7yig">Mid November 2023</td>
+    <td class="tg-7yig">Late November 2023 (between Wednesday, 22 November and Friday, 24 November 2023).</td>
     <td class="tg-7yig">DSA-Sec Allocation Results Release</td>
   </tr>
 </tbody>
