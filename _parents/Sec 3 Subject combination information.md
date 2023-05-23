@@ -13,37 +13,31 @@ Please refer to the following set of slides that was shared during the Subject c
 
 ### 2023 Subject Talk information slides
 ------------------------------------
-[2022 Subject Talk ](/files/2022%20Subject%20Talk.pdf)
 
-[Sec 2 PTC: Briefing by ECG Counsellor ](/files/Sec%202%20Parents%20PTC%20NBRSS_26052022%20Resource%20Links.pdf)
+[2023 Parent Seminar](/files/2023%20parent%20seminar.pdf)
+
 
 ### Sec 3 Express (2023) Subject Information
  ----------------------------------------
-[D&T SUBJECT INFO](/files/DT.pdf)
 
-[HUMANITIES SUBJECT INFO](/files/2022%20HUMANITIES%20EXP%20SEC%202%20SUBJECT%20INFO.pdf)
+* [ADDITIONAL MATHEMATICS SUBJECT INFO](/files/2023%20amath%20exp%20sec%202%20subject%20info.pdf)
 
-[NFS_Art_Music SUBJECT INFO ](/files/2022%20NFS_Art_Music%20EXP%20SEC%202%20SUBJECT%20INFO.pdf)
+* [CRAFT & TECHNOLOGY (C&T) SUBJECT INFO](/files/2023%20c&t%20exp%20sec%202%20subject%20info.pdf)
 
-[AMATH SUBJECT INFO](/files/2022%20AMATH%20EXP%20SEC%202%20SUBJECT%20INFO.pdf)
+* [HUMANITIES SUBJECT INFO](/files/2023%20humanities%20exp%20sec%202%20subject%20info.pdf)
 
-[SCIENCE SUBJECT INFO](/files/2022%20SCIENCE%20EXP%20SEC%202%20SUBJECT%20INFO.pdf)
+* [SCIENCE SUBJECT INFO](/files/2023%20science%20exp%20sec%202%20subject%20info.pdf)
 
 ### Sec 3 Normal Academic (2023) Subject Information
 ------------------------------------------------
-[SCIENCE SUBJECT INFO](/files/NA%20SCIENCE.pdf)
 
-[NFS_Art_Music SUBJECT INFO](/files/NA%20Art.pdf)
-
-[HUMANITIES SUBJECT INFO](/files/NS%20Humanities.pdf)
-
-[D&T SUBJECT INFO](/files/NA%20D&T.pdf)
+* [CRAFT & TECHNOLOGY (C&T) SUBJECT INFO](/files/2023%20c&t%20na%20sec%202%20subject%20info.pdf)
+* [HUMANITIES SUBJECT INFO](/files/2023%20humanities%20na%20sec%202%20subject%20info.pdf)
+* [SCIENCE SUBJECT INFO](/files/2023%20science%20na%20sec%202%20subject%20info.pdf)
 
 ### Sec 3 Normal Technical (2023) Subject Information
 -------------------------------------------------
 
-[D&T SUBJECT INFO](/files/NT%20D&T.pdf)
-
-[EBS SUBJECT INFO](/files/NT%20EBS.pdf)
-
-[NFS_Art SUBJECT INFO](/files/NT%20Art.pdf)
+* [CRAFT & TECHNOLOGY (C&T) SUBJECT INFO](/files/2023%20c&t%20nt%20sec%202%20subject%20info.pdf)
+* [ELEMENTS OF BUSINESS SKILLS (EBS) SUBJECT INFO](/files/2023%20ebs%20%20nt%20sec%202%20subject%20info.pdf)
+* [SCIENCE SUBJECT INFO](/files/2023%20science%20nt%20sec%202%20subject%20info.pdf)
