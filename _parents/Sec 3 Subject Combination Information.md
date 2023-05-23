@@ -14,7 +14,6 @@ Please refer to the following set of slides that was shared during the Parent Se
 [2023 Sec 2 Parents’ Seminar Slides](/files/2023%20parent%20seminar.pdf)
 
 ### Sec 3 Express (2023) Subject Information
- ----------------------------------------
 
 * [ADDITIONAL MATHEMATICS SUBJECT INFO](/files/2023%20amath%20exp%20sec%202%20subject%20info.pdf)
 
@@ -25,14 +24,12 @@ Please refer to the following set of slides that was shared during the Parent Se
 * [SCIENCE SUBJECT INFO](/files/2023%20science%20exp%20sec%202%20subject%20info.pdf)
 
 ### Sec 3 Normal Academic (2023) Subject Information
-------------------------------------------------
 
 * [CRAFT & TECHNOLOGY (C&T) SUBJECT INFO](/files/2023%20c&t%20na%20sec%202%20subject%20info.pdf)
 * [HUMANITIES SUBJECT INFO](/files/2023%20humanities%20na%20sec%202%20subject%20info.pdf)
 * [SCIENCE SUBJECT INFO](/files/2023%20science%20na%20sec%202%20subject%20info.pdf)
 
 ### Sec 3 Normal Technical (2023) Subject Information
--------------------------------------------------
 
 * [CRAFT & TECHNOLOGY (C&T) SUBJECT INFO](/files/2023%20c&t%20nt%20sec%202%20subject%20info.pdf)
 * [ELEMENTS OF BUSINESS SKILLS (EBS) SUBJECT INFO](/files/2023%20ebs%20%20nt%20sec%202%20subject%20info.pdf)
