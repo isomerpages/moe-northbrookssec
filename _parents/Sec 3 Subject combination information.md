@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Parentsbanner.jpg)
 
-Sec 3 Subject combination information
+Sec 3 Subject Combination Information
 =====================================
 
 Dear Parents,   
