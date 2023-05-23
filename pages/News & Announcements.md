@@ -5,9 +5,9 @@ description: ""
 ---
 # News &amp; Announcements
 
-### Sec 3 Subject Information 
+### Sec 3 Subject Combination Information 
 
-Click&nbsp; <b>[HERE](https://www.northbrookssec.moe.edu.sg/parents/Sec-3-Subject-combination-information/)</b>&nbsp;to read more about our Sec 3 Subject Information
+Click&nbsp; <b>[HERE](https://www.northbrookssec.moe.edu.sg/parents/Sec-3-Subject-combination-information/)</b>&nbsp;to read more about our Sec 3 Subject Combination Information
 
 ### DSA 2023 Information 
 
