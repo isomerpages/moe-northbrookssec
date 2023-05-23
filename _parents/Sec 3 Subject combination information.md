@@ -9,12 +9,9 @@ Sec 3 Subject Combination Information
 =====================================
 
 Dear Parents,   
-Please refer to the following set of slides that was shared during the Subject combination briefing.   
+Please refer to the following set of slides that was shared during the Subject Information briefing.   
 
-### 2023 Subject Talk information slides
-------------------------------------
-
-[2023 Parent Seminar](/files/2023%20parent%20seminar.pdf)
+[2023 Sec 2 Parents’ Seminar Slides](/files/2023%20parent%20seminar.pdf)
 
 
 ### Sec 3 Express (2023) Subject Information
