@@ -5,6 +5,10 @@ description: ""
 ---
 # News &amp; Announcements
 
+### Sec 3 Subject Information 
+
+Click&nbsp; <b>[HERE](https://www.northbrookssec.moe.edu.sg/parents/Sec-3-Subject-combination-information/)</b>&nbsp;to read more about our Sec 3 Subject Information
+
 ### DSA 2023 Information 
 
 Click&nbsp; <b>[HERE](https://www.northbrookssec.moe.edu.sg/about-us/Admissions/DSA-at-Northbrooks/)</b>&nbsp;to read more about our DSA 2023 Information!
@@ -17,4 +21,4 @@ Click&nbsp;[<b>HERE</b>](/parents/Sec-One-2023-Posting-Matters/Sec-One-2023-Post
 
 ### 2023 Semester 1 Timetable
 
-Click&nbsp;[<b>HERE</b>](/files/2022%20Sem%202Timetable.pdf) to find out more on your scheduled timetable in the upcoming 2023!
+Click&nbsp;[<b>HERE</b>](/files/2022%20Sem%202Timetable.pdf) to find out more on the scheduled timetable in the upcoming 2023!
