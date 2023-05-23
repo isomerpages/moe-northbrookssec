@@ -11,7 +11,7 @@ Sec 3 Subject combination information
 Dear Parents,   
 Please refer to the following set of slides that was shared during the Subject combination briefing.   
 
-### 2022 Subject Talk information slides
+### 2023 Subject Talk information slides
 ------------------------------------
 [2022 Subject Talk ](/files/2022%20Subject%20Talk.pdf)
 
