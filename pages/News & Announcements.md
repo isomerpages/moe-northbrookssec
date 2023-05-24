@@ -18,6 +18,8 @@ Click&nbsp; <b>[HERE](https://www.northbrookssec.moe.edu.sg/about-us/Admissions/
 
 Click&nbsp;[<b>HERE</b>](/parents/Sec-One-2023-Posting-Matters/Sec-One-2023-Posting-Matters/)&nbsp;to read more about our Secondary 1 Posting in 2023!
 
+### 2023 Semester 2 Timetable
+Click&nbsp;[<b>HERE</b>]([Test](/files/blank%20test.pdf)) for Semester 2 Timetable.
 
 ### 2023 Semester 1 Timetable
 
