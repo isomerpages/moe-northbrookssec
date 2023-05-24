@@ -11,7 +11,7 @@ Sec 3 Subject Combination Information
 Dear Parents,   
 Please refer to the following set of slides that was shared during the Parent Seminar on 24 May 2023.   
 
-[2023 Sec 2 Parents’ Seminar Slides](/files/2023%20parent%20seminar.pdf)
+[2023 Sec 2 Parent Seminar](/files/2023%20sec%202%20parent%20seminar%20for%20website%20with%20ecg.pdf)
 
 ### Sec 3 Express (2023) Subject Information
 
