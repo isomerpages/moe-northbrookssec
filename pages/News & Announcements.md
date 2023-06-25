@@ -20,5 +20,3 @@ Click&nbsp; <b>[HERE](https://www.northbrookssec.moe.edu.sg/about-us/Admissions/
 ### 2023 Secondary 1 Posting Matters
 
 Click&nbsp;[<b>HERE</b>](/parents/Sec-One-2023-Posting-Matters/Sec-One-2023-Posting-Matters/)&nbsp;to read more about our Secondary 1 Posting in 2023!
-
-
