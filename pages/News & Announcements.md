@@ -6,7 +6,7 @@ description: ""
 # News &amp; Announcements
 
 ### 2023 Semester 2 Timetable
-Click&nbsp;<b>[HERE](https://staging.d1ogoujxhze821.amplifyapp.com/students/Current-Students/School-Timetable/)</b> for Semester 2 Timetable.
+Click&nbsp;<b>[HERE](https://www.northbrookssec.moe.edu.sg/students/Current-Students/School-Timetable/)</b> for Semester 2 Timetable.
 
 ### 2023 Sec 3 Subject Combination Information 
 
