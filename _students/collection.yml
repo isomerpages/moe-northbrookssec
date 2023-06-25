@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - Current Students/Students.md
+      - Current Students/Students Useful Links.md
       - Current Students/.keep
       - Current Students/Full Home Based Learning.md
       - Current Students/Students Learning Space.md
