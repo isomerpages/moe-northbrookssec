@@ -5,6 +5,9 @@ description: ""
 ---
 # News &amp; Announcements
 
+### 2023 Semester 2 Timetable
+Click&nbsp;[<b>HERE</b>]([Test](/files/blank%20test.pdf)) for Semester 2 Timetable.
+
 ### Sec 3 Subject Combination Information 
 
 Click&nbsp; <b>[HERE](https://www.northbrookssec.moe.edu.sg/parents/sec-3-subject-combination-information/)</b>&nbsp;to read more about our Sec 3 Subject Combination Information
@@ -18,9 +21,4 @@ Click&nbsp; <b>[HERE](https://www.northbrookssec.moe.edu.sg/about-us/Admissions/
 
 Click&nbsp;[<b>HERE</b>](/parents/Sec-One-2023-Posting-Matters/Sec-One-2023-Posting-Matters/)&nbsp;to read more about our Secondary 1 Posting in 2023!
 
-### 2023 Semester 2 Timetable
-Click&nbsp;[<b>HERE</b>]([Test](/files/blank%20test.pdf)) for Semester 2 Timetable.
 
-### 2023 Semester 1 Timetable
-
-Click&nbsp;[<b>HERE</b>](/files/2022%20Sem%202Timetable.pdf) to find out more on the scheduled timetable in the upcoming 2023!
