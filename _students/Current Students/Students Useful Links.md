@@ -1,11 +1,12 @@
 ---
-title: Students
-permalink: /students/students/
+title: Students Useful Links
+permalink: /students/studentsusefullinks/
 description: ""
+third_nav_title: Current Students
 ---
 ![](/images/Parentsbanner.jpg)
 
-Students
+Students Useful Links
 ========
 
 <style type="text/css">
