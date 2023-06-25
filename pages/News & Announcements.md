@@ -10,7 +10,7 @@ Click&nbsp;<b>[HERE](https://www.northbrookssec.moe.edu.sg/students/Current-Stud
 
 ### 2023 Sec 3 Subject Combination Information 
 
-Click&nbsp; <b>[HERE](https://www.northbrookssec.moe.edu.sg/parents/sec-3-subject-combination-information/)</b>&nbsp;to read more about our Sec 3 Subject Combination Information
+Click&nbsp; <b>[HERE](https://www.northbrookssec.moe.edu.sg/parents/sec-3-subject-combination-information/)</b>&nbsp;to read more about our Sec 3 Subject Combination Information.
 
 ### 2023 DSA Information 
 
