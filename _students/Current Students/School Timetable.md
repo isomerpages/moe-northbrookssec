@@ -10,7 +10,7 @@ School Timetable
 ================
 ### 2023 Semester 2 Timetable
 
-[2023 Sec 1 Sem 2 Timetable](/files/2023%20sem%202%20tt_sec%201.pdf)
+[2023 Sec 1 Sem 2 Timetable](/files/2023%20sem%202%20tt_sec%201_updated.pdf)
 
 [2023 Sec 2 Sem 2 Timetable](/files/2023%20sem%202%20tt_sec%202.pdf)
 
