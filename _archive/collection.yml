@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Publications/Publications.md
       - Publications/.keep
       - InternationalTwinningProgramme/Background of Twinning Programme with
         Nanya Middle School, Hunan, China.md
