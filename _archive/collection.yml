@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - COVID19 Vaccination.md
       - Full Home Based Learning.md
       - Partners in Education.md
       - Video Gallery.md
