@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Arts Enrichment Programme.md
       - Student Leaders' Investiture.md
       - COVID19 Vaccination.md
       - Full Home Based Learning.md
