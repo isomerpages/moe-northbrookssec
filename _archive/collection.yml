@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Photo Gallery.md
       - Publications/Quest@Northbrooks.md
       - Publications/Yearbooks.md
       - Publications/Newsletters.md
