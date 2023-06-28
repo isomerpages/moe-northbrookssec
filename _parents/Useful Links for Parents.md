@@ -21,7 +21,7 @@ Useful Links for Parents
     <td class="tg-06je"><span style="font-weight:inherit;font-style:inherit;color:#000;background-color:#FFF">For parents who wish to apply leave of absence for their child.</span></td>
   </tr>
   <tr>
-    <td class="tg-fhlp"><a href="https://staging.d1ogoujxhze821.amplifyapp.com/northbrooks-experience/DSA-at-Northbrooks/permalink/"><span style="text-decoration:underline;color:#4372D6">Direct School Admission (DSA)</span></a></td>
+    <td class="tg-fhlp"><a href="https://www.northbrookssec.moe.edu.sg/about-us/Admissions/DSA-at-Northbrooks/"><span style="text-decoration:underline;color:#4372D6">Direct School Admission (DSA)</span></a></td>
     <td class="tg-06je"><span style="font-weight:inherit;font-style:inherit;color:#000;background-color:#FFF">The Direct School Admission (DSA) is an opportunity for Primary 6 students to directly apply for admission into participating secondary schools based on their talents and achievement which might not have been demonstrated at the Primary School Leaving Examination (PSLE).</span></td>
   </tr>
   <tr>
@@ -29,11 +29,11 @@ Useful Links for Parents
     <td class="tg-v41w"><a href="https://staging.d1ogoujxhze821.amplifyapp.com/files/Additional%20Slides%20to%20Print%20as%20Handouts.pdf"><span style="font-weight:inherit;font-style:inherit;color:#06667E">Handouts.pdf</span></a><br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/files/Additional%20Slides%20to%20share%20on%20cyber%20bullying.pdf"><span style="font-weight:inherit;font-style:inherit;color:#06667E">Slides on Cyber Bullying.pdf</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-fhlp"><a href="https://staging.d1ogoujxhze821.amplifyapp.com/co-curriculum/CCE/Sexuality-Education-Programme/"><span style="text-decoration:underline;color:#4372D6">Sexuality Education</span></a></td>
+    <td class="tg-fhlp"><a href="https://www.northbrookssec.moe.edu.sg/co-curriculum/cce/sexuality-education-programme/"><span style="text-decoration:underline;color:#4372D6">Sexuality Education</span></a></td>
     <td class="tg-06je"><span style="background-color:#FFF">• Information on Sexuality Education Programme in Northbrooks Secondary School</span><br><span style="background-color:#FFF">• Opt-out form</span></td>
   </tr>
   <tr>
-    <td class="tg-fhlp"><a href="https://staging.d1ogoujxhze821.amplifyapp.com/CCA/CCA/"><span style="text-decoration:underline;color:#4372D6">CCA Information &amp; Teachers-in-charge</span></a></td>
+    <td class="tg-fhlp"><a href="https://www.northbrookssec.moe.edu.sg/CCA/CCA/"><span style="text-decoration:underline;color:#4372D6">CCA Information &amp; Teachers-in-charge</span></a></td>
     <td class="tg-06je"><span style="font-weight:inherit;font-style:inherit;color:#000;background-color:#FFF">CCA Schedule, Venues and Teacher-in-charge</span></td>
   </tr>
 </tbody>
