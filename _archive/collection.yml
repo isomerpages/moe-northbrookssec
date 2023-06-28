@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Publications/Newsletters.md
       - Publications/Publications.md
       - Publications/.keep
       - InternationalTwinningProgramme/Background of Twinning Programme with
