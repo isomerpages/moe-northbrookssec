@@ -12,9 +12,7 @@ The Physical Education (PE) department oversees the delivery of lessons in physi
 
 #### Physical Education Framework
 
-|  |  ![PE Framework](/images/pe%20framework.png) |  |
-| -------- | -------- | -------- |
-
+![PE Framework](/images/pe%20framework.png)
 
 * Brooksians will undergo quality PE lessons to hone their decision-making in games and build confidence and values of sportsmanship in intra-class games. 
 * Brooksians will be able to apply their skills learnt during PE lessons in Inter-Class Games and build class spirit and camaraderie. 
