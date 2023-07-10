@@ -6,37 +6,22 @@ third_nav_title: Learning for Life(Outdoor Edu)
 ---
 ![](/images/northbrooks%20experience.jpg)
 
-National Orienteering Race (Schools) 2016
+National Orienteering Race (Schools)
 =========================================
 
-#### On 25 July 2016
+Northbrooks Secondary School has been organising the National Orienteering Race (Schools) since 2016 in partnership with Orienteering Federation Singapore. The race has served as a platform for students to apply their navigational skills acquired in the PE syllabus in a fun and competitive setting.  
+ 
 
-<img src="/images/NOR1.png" style="width:60%">
+In partnership with external organisations, we have hosted the race at local polytechnics and Passion Wave outlets. The race has seen a large number of participants from primary, secondary schools and junior colleges. The school leverages this race as a platform for Brooksians to impact the national community and develop event organisational skills. 
 
-The inaugural National Orienteering Race (Schools) was organized by Northbrooks Secondary School in collaboration with Orienteering Federation Singapore on 16th July 2016. Republic Polytechnic generously opened up their premises as the venue sponsor and availed their students as route marshals.
+![Student Leaders involved in race registration](/images/orienteering1.jpg)
+Student Leaders involved in race registration
 
-### Student Leaders’ Involvement
-![](/images/NOR2.png)
-The student leaders from Northbrooks assisted in the running of the event in areas such as registration and being route marshals.
+![Planning their routes before starting the race ](/images/orienteering2.jpg)
+Planning their routes before starting the race
 
-![](/images/NOR3.png)
-The Red Cross Youth cadets from Northbrooks assisted by providing first aid coverage for all participants on the race course.
+![Finding Checkpoints ](/images/orienteering3.jpg)
+Finding Checkpoints
 
-### Flag off!
-
-<img src="/images/Flagoff.jpg" style="width:60%">
-
-The race saw 318 participants from 25 different schools ranging from primary, secondary schools and junior colleges.
-
-### Brooksians in Action
-
-![](/images/NOR4.png)
-The Red Cross Youth cadets from Northbrooks participated actively in the race and gave their best to find the checkpoints in the shortest time possible!
-
-### Happy faces!
-![](/images/NOR5.png)
-The was an inflated maze which served as a post-race activity for the participants to try and they enjoyed it greatly!
-
-### Prize Presentation
-![](/images/NOR6.png)
-The student leaders were emcees for the prize presentation ceremony and our Principal, Mrs Chong gave out the prizes as the Guest of Honour.
+![Northbrooks at Passion Wave Jurong Lake ](/images/orienteering4.jpg)
+Northbrooks at Passion Wave Jurong Lake
