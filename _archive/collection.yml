@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - LLP/Character.md
       - LLP/Adventure.md
       - LLP/Gallery.md
       - LLP/.keep
