@@ -17,6 +17,8 @@ The Learning for Life Programme (LLP) committee oversees the delivery of lessons
 
 ##### Outdoor Education Framework
 
+![LLP OE Framework](/images/llp%20oe%20framework.jpg)
+
 * Brooksians will undergo quality Physical Education (PE) lessons to hone their decision-making and build confidence and values of teamwork in belaying practice and cycling lessons. 
 * Brooksians will be prepared in outdoor skills and apply them in the level camps in outdoor settings. 
 
