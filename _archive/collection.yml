@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - LLP/Adventure.md
       - LLP/Gallery.md
       - LLP/.keep
       - Arts Enrichment Programme.md
