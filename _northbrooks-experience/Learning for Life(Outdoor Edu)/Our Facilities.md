@@ -10,8 +10,8 @@ Our Facilities
 ==============
 
 
-| | ![](/images/abseil.jpg) |
+| ![Rock Wall](/images/rock%20wall.jpg)|  ![](/images/abseiling.jpg) |
 | -------- | -------- | 
-| Rock Wall     | Abseil Station     | 
-
-
+| Rock Wall     | Abseiling Activity |
+| ![](/images/abseil.jpg)| ![](/images/cycling.jpg) |
+| Abseil Station  | Cycling Activity | 
