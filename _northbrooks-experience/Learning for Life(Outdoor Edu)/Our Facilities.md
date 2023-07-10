@@ -8,10 +8,14 @@ third_nav_title: Learning for Life(Outdoor Edu)
 
 Our Facilities
 ==============
+![Rock Wall](/images/rock%20wall.jpg)
+Rock Wall
 
+![](/images/abseil.jpg)
+Abseil Station
 
-| ![Rock Wall](/images/rock%20wall.jpg)|  ![](/images/abseiling.jpg) |
-| -------- | -------- | 
-| Rock Wall     | Abseiling Activity |
-| ![](/images/abseil.jpg)| ![](/images/cycling.jpg) |
-| Abseil Station  | Cycling Activity | 
+![](/images/abseiling.jpg)
+Abseiling Activity
+
+![](/images/cycling.jpg)
+Cycling Activity
