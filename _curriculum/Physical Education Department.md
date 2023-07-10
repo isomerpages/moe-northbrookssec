@@ -11,7 +11,7 @@ Physical Education Department
 The Physical Education (PE) department oversees the delivery of lessons in physical health and fitness, sports and games as well as Outdoor Education. The Northbrooks PE curriculum is designed in relation to our subject’s national syllabus and policies such as 21st Century Competencies and the Singapore Teaching Practice (STP). We envision every Brooksian to be a physically active individual who leads a healthy lifestyle. In addition, it is our hope that every Brooksian graduate will possess values of sportsmanship and resilience to impact the community.
 
 #### Physical Education Framework
-
+![PE Framework](/images/pe%20framework.png)
 
 
 * Brooksians will undergo quality PE lessons to hone their decision-making in games and build confidence and values of sportsmanship in intra-class games. 
