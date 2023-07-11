@@ -76,4 +76,4 @@ Click below to access more information on the personal learning device (PLD)
 #### In-house Support: ICT Helpdesk
 NBrSS Student Helpdesk Form: https://go.gov.sg/northbrooksstudenticthelpdesk<br>
 Email: northbrooks_ict@moe.edu.sg <br>
-Tel: 6752 4311 
+Tel: 6752 4311
