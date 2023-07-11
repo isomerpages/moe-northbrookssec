@@ -2,7 +2,6 @@
 title: Student Leaders' Investiture
 permalink: /co-curriculum/Student-Leadership-Programme/Student-Leaders-Investiture/
 description: ""
-third_nav_title: Student Leadership Programme
 ---
 ![](/images/cca.jpg)
 
@@ -17,7 +16,7 @@ Student Leaders' Investiture
 
 ### <center>Student Councillors 2020</center>
 ------------------------
-#####  <center>Sec 2:</center>
+##### &nbsp;<center>Sec 2:</center>
 
 ##### <center>Sec 3:</center>
 

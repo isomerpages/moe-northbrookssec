@@ -16,14 +16,13 @@ National Police Cadet Corp
 1\. Mr Alex Ang Kok Wee (Advisor) <br>
 2\. Ms Jane Lee (Teacher-in-charge) <br>
 3\. Mr Ariff Bin Abdul Aziz (2 Teacher-in-charge) <br>
-4\. Ms Kiew Kai Ling, Sarah <br>
-5\. Miss Sarah Ng Shu Qi
+4\. Miss Sarah Ng Shu Qi
 
 ### Training Day / Time
 
 Wednesdays, 3.30pm - 6.30pm  
 
-### Mission & Vision
+### Mission &amp; Vision
 
 The MISSION of the National Police Cadet Corps is to develop our members to be active community leaders by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe.  
   
@@ -33,7 +32,7 @@ In accordance with NPCC mission and observing our objectives, we hope our cadets
 
 ### Objectives
 
-*   will be developed into leaders with character & values
+*   will be developed into leaders with character &amp; values
 *   grow into confident and resilient members of society
 *   be aware on the role of the Singapore Police Force (SPF) and adopt SPF’s tradition of high standards of performance, commitment, duty and service, to seek to excel and to face up to challenge
 
@@ -83,24 +82,24 @@ Unit Overall Proficiency Award - Silver
 
 ### CCA Experiences by Students
 
-<img src="/images/NPCC1.png" style="width:150px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/NPCC1.png" style="width:150px;height:240px;margin-left:15px;" align="right">
 	
 <b>Student Name</b>: Nursyahirah Bte Salimi  
-<b>Student Class</b>(<b>Class</b> / <b>Year</b>): 4T 2019  
+<b>Student Class</b>(<b>Class</b>&nbsp;/&nbsp;<b>Year</b>): 4T 2019  
 <b>Student role in CCA</b>: Sec 2 IC
 
 <b>Student’s Experience:</b>  
-It's been a brilliant 4 years being in NPCC and all the activities that i couldn't believe doing made it viable in this CCA. NPCC has provided me opportunities to grow and develop into a better individual.
+It's been a&nbsp;brilliant 4&nbsp;years being in NPCC and all the&nbsp;activities&nbsp;that i&nbsp;couldn't&nbsp;believe&nbsp;doing made it&nbsp;viable in this&nbsp;CCA. NPCC has provided me opportunities to grow and&nbsp;develop into a better individual.
 
 
 
 --- 
 
-<img src="/images/NPCC2.png" style="width:150px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/NPCC2.png" style="width:150px;height:240px;margin-left:15px;" align="right">
 	
 <b>Student Name</b>: Lim Yue Feng Austin <br>
-<b>Student Class (Class / Year):</b> 4F 2018 <br>
-<b>Student role in CCA:</b> Chairperson 
+<b>Student Class (Class / Year):</b>&nbsp;4F 2018 <br>
+<b>Student role in CCA:</b>&nbsp;Chairperson&nbsp;
 
   
 

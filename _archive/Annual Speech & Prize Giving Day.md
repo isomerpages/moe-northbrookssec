@@ -5,10 +5,10 @@ description: ""
 ---
 ![](/images/northbrooks%20experience.jpg)
 
-Annual Speech & Prize Giving
+Annual Speech &amp; Prize Giving
 ============================
 
-You can now watch the event on our [Youtube](https://www.youtube.com/watch?v=YzCwITMu6QU)! 
+You can now watch the event on our&nbsp;[Youtube](https://www.youtube.com/watch?v=YzCwITMu6QU)! 
 
 ![](/images/Annual.jpeg)
 

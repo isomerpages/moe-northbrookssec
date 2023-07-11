@@ -2,7 +2,7 @@
 title: Gallery
 permalink: /northbrooks-experience/Learning-for-Life-Outdoor-Edu/Gallery/
 description: ""
-third_nav_title: Learning for Life(Outdoor Edu)
+third_nav_title: LLP
 ---
 ![](/images/northbrooks%20experience.jpg)
 

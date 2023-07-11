@@ -10,58 +10,45 @@ Learning for Life (Outdoor Education)
 =====================================
 
 ### Outdoor Education: A.C.E. Programme (A.C.E - Adventure, Character, Environment)
--------------------------------------------------------------------------------
+----------------------------------------
+##### LLP Student Outcomes
 
-**LLP Student Outcomes**
+The Learning for Life Programme (LLP) committee oversees the delivery of lessons in Outdoor Education (OE) and provides opportunities for stretch programmes across three tiers. The Northbrooks OE curriculum’s design aligns with our subject’s national syllabus and policies such as 21st Century Competencies and the Singapore Teaching Practice (STP). Our vision is for every Brooksian to be a physically active individual who is an advocate for the environment. In addition, it is our hope that every Brooksian graduate will possess values of adaptability and resilience to impact the community.  
 
-A&nbsp;**Confident Person**&nbsp;who&nbsp;has acquired skills for safe participation&nbsp;and conduct of various outdoor activities/pursuits. He knows himself, is adaptable and resilient. He thinks independently and critically to develop himself and ensures personal safety and the safety of others.  
+##### Outdoor Education Framework
 
-An&nbsp;**Active Contributor**&nbsp;who seeks to develop a champion learning&nbsp;mind set&nbsp;and demonstrates the school values, and the SEL competencies to work effectively in teams and exercise initiative to achieve desired goals.  
+![LLP OE Framework](/images/llp%20oe%20framework.jpg)
 
-A&nbsp;**Concerned Citizen**&nbsp;who&nbsp;is able to connect and care for the community&nbsp;and environment. He has strong civic consciousness and takes an active role to lead and improve the environment and the lives of others around him.&nbsp;&nbsp;
+* Brooksians will undergo quality Physical Education (PE) lessons to hone their decision-making and build confidence and values of teamwork in belaying practice and cycling lessons. 
+* Brooksians will be prepared in outdoor skills and apply them in the level camps in outdoor settings. 
 
-**Newspaper article in 2016**
+* Brooksians who desire a higher level of challenge will be afforded opportunities to embark on expeditions and competitions to test their skills at the highest level. 
 
-  
+#### LLP Student Outcomes
 
-##### Click [here](/achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/permalink/)&nbsp;to view the article
+A  **Confident Person**  who has acquired skills for safe participation and conduct of various outdoor activities/pursuits. Brooksians develop self-awareness, is adaptable and resilient. They are able to think independently and critically to develop themself and ensures personal safety and the safety of others. 
 
-### The Outdoor Education Team
---------------------------
+An  **Active Contributor** who seeks to develop a champion learning mind set and demonstrates the school values, and the SEL competencies to work effectively in teams and exercise initiative to achieve desired goals. 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-6pgw{background-color:#ffffff;border-color:#ffffff;color:#505050;text-align:center;vertical-align:top}
-.tg .tg-a7ya{background-color:#ffffff;border-color:#ffffff;color:#505050;text-align:left;vertical-align:top}
-.tg .tg-2oep{background-color:#ffffff;border-color:#ffffff;color:#505050;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-a7ya"><img src="/images/OET1.jpeg" style="width:80%"></th>
-    <th class="tg-2oep"><span style="font-weight:bold;font-style:inherit">From Left to Right:</span><br><br><span style="font-weight:normal;color:#505050">Mr Timothy Chong</span><br><br><span style="font-weight:normal;color:#505050">Mr Alex Ang</span><br><br><span style="font-weight:normal;color:#505050">Ms Siti Nadiah</span><br><br><span style="font-weight:normal;color:#505050">Mr Sanjay Radakrishna</span><br><br><br><span style="font-weight:bold;font-style:inherit">Not in picture:</span><br><br><span style="font-weight:normal;color:#505050">HOD PE/CCA: Mr Taufiq Bin Sanusi</span><br><br><span style="font-weight:normal;color:#505050">SH CCA: Mr Paul Tham</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-a7ya"><span style="font-weight:bold;font-style:inherit">Mr Alex Ang</span><br><br>• <span style="font-style:inherit">Qualifications:</span><br>    ○ SMF Wall Supervisor, Climbing Level Two<br>    ○ SCF Kayaking Two Star Award<br>    ○ University of Alberta Wilderness Certification<br>    ○ MOE – OBS Outdoor Adventure Facilities Instructor<br><br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span>I<span style="font-style:inherit">nterests:</span><br>    ○ Adventure Racing (SAFRA, Ace Adventure and overseas races)<br>    ○ Kayaking expeditions in Canada and New Zealand<br>    ○ Natural Rock - Climbing in Krabi, Australia and New Zealand <br></td>
-    <td class="tg-6pgw"><img src="/images/OET2.jpeg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-a7ya"><span style="font-weight:bold;color:#505050">Ms Siti Nadiah</span><br><br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span><span style="font-style:inherit">Qualifications:</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">    ○ </span>SMF Wall Supervisor, Climbing Level Two, Abseiling Level Two<br><span style="font-weight:400;font-style:normal;text-decoration:none">    ○ </span>SCF Kayaking Two Star Award, ACA Coastal Kayaking Day-Trip Leader<br><span style="font-weight:400;font-style:normal;text-decoration:none">    ○ </span>MOE – OBS Outdoor Adventure Facilities Instructor<br><br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span><span style="font-style:inherit">Interests:</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">    ○ </span>Climbs Weekly<br><span style="font-weight:400;font-style:normal;text-decoration:none">    ○ </span>Obstacle Course Races (SAFRA Race, Spartan Race)<br><span style="font-weight:400;font-style:normal;text-decoration:none">    ○ </span>Trekking India, Nepal, Indonesia, Malaysia<br></td>
-    <td class="tg-a7ya"><img src="/images/OET3.jpeg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-a7ya"><span style="font-weight:bold;color:#505050">Mr Sanjay Radakrishna</span><br><br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span><span style="font-style:inherit">Qualifications:</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">&nbsp;&nbsp;&nbsp;&nbsp;○ </span>SMF Wall Supervisor, SNCS Climbing Level Three, SNCS Abseiling Level Three<br><span style="font-weight:400;font-style:normal;text-decoration:none">&nbsp;&nbsp;&nbsp;&nbsp;○ </span>SCF Kayaking Two Star Award, ACA Coastal Kayaking Day-Trip Leader<br><span style="font-weight:400;font-style:normal;text-decoration:none">&nbsp;&nbsp;&nbsp;&nbsp;○ </span>MOE – OBS Outdoor Adventure Facilities Instructor<br><br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span><span style="font-style:inherit">Interests:</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">&nbsp;&nbsp;&nbsp;&nbsp;○ </span>Trekking expeditions to Nepal, Tanzania, Kenya, Indonesia and Malaysia<br><span style="font-weight:400;font-style:normal;text-decoration:none">&nbsp;&nbsp;&nbsp;&nbsp;○ </span>Adventure Racing (SAFRA AVventura, Sabah Adventure Challenge)<br><span style="font-weight:400;font-style:normal;text-decoration:none">&nbsp;&nbsp;&nbsp;&nbsp;○ </span>Vertical Races (National Vertical Marathon, Swissotel Vertical Marathon)<br><span style="font-weight:400;font-style:normal;text-decoration:none">&nbsp;&nbsp;&nbsp;&nbsp;○ </span>Volunteer for relief efforts during Nepal Earthquake</td>
-    <td class="tg-6pgw"><img src="/images/OET4.jpeg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-a7ya"><span style="font-weight:bold;color:#505050">Mr Timothy Chong</span><br><br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span><span style="font-style:inherit">Qualifications:</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">&nbsp;&nbsp;&nbsp;&nbsp;○ </span>SCF Kayaking One Star Award<br><span style="font-weight:400;font-style:normal;text-decoration:none">&nbsp;&nbsp;&nbsp;&nbsp;○ </span>SNCS Climbing Level One<br><br><span style="font-weight:400;font-style:normal;text-decoration:none">• </span><span style="font-style:inherit">Interests:</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">&nbsp;&nbsp;&nbsp;&nbsp;○ </span>Captain of NTU Kayaking Team<br><span style="font-weight:400;font-style:normal;text-decoration:none">&nbsp;&nbsp;&nbsp;&nbsp;○ </span>National kayaking marathons<br><span style="font-weight:400;font-style:normal;text-decoration:none">&nbsp;&nbsp;&nbsp;&nbsp;○ </span>National kayaking sprint races</td>
-    <td class="tg-6pgw"><img src="/images/OET5.jpeg" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
+A  **Concerned Citizen** who is able to connect and care for the community and environment. He has strong civic consciousness and takes an active role to lead and improve the environment and the lives of others around him.
+
+### Signature OE Programmes and Activities 
+----------------------------------------
+
+#### OE in PE Lessons
+
+Students undergo a series of modular activities in their three-year outdoor education curriculum. In Secondary One, they acquire navigational skills through orienteering in the school as well as the neighbourhood parks. They participate in activities such as tent-pitching and outdoor cooking as part of our Environmental Education focus in Secondary Two. Finally, our Brooksians undergo a 5-week cycling module to prepare for their outdoor adventure level camp in Secondary Three. Students also experience a unique rock-climbing and abseiling module that is conducted at the school’s facilities conducted by the PE teachers. 
+
+####  Level Camps
+
+Brooksians participate in annual level camps from Secondary One to Three across various locations. Through activities such as Kayaking, Cycling and Trekking, they learn to care for the environment and develop positive character traits.  
+
+In Secondary One, our Brooksians participate in activities based in and around the school’s campus. In Secondary Two, they are exposed to activities held at a local campsite. In Secondary Three, they embark on an outdoor adventure camp at Pulau Ubin or an overseas campsite to experience outdoors in a novel setting.  
+ 
+#### Post Exam Activities
+
+Brooksians are exposed to the activity of Orienteering during the Post-Exam period. They are brought to parks around Singapore, such as Sembawang, Bishan and Jurong Lake Park to experience navigating in those new settings.  
+
+#### External Competitions and Learning Journeys
+
+Brooksians who desire greater challenge in outdoor adventure skills are given the opportunity to go for external learning journeys and expeditions such as trekking, kayaking and cycling expeditions. Students who are identified to be competent in Orienteering are also afforded the chance to represent the school and country in overseas competitions such as the Asian Junior Youth Orienteering Championships.

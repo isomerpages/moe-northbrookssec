@@ -1,0 +1,27 @@
+collections:
+  archive:
+    output: true
+    order:
+      - LLP/Environment.md
+      - LLP/Character.md
+      - LLP/Adventure.md
+      - LLP/Gallery.md
+      - LLP/.keep
+      - Arts Enrichment Programme.md
+      - Student Leaders' Investiture.md
+      - COVID19 Vaccination.md
+      - Full Home Based Learning.md
+      - Partners in Education.md
+      - Video Gallery.md
+      - Photo Gallery.md
+      - Publications/Quest@Northbrooks.md
+      - Publications/Yearbooks.md
+      - Publications/Newsletters.md
+      - Publications/Publications.md
+      - Publications/.keep
+      - InternationalTwinningProgramme/Background of Twinning Programme with
+        Nanya Middle School, Hunan, China.md
+      - InternationalTwinningProgramme/International Twinning Programme.md
+      - InternationalTwinningProgramme/.keep
+      - Annual Speech & Prize Giving Day.md
+      - Brooksian Cheer.md

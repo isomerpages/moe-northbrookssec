@@ -33,11 +33,11 @@ Students Useful Links
     <td class="tg-ktyi"><span style="color:#000">An online platform that allows students to access curriculum-aligned resources.</span><br><br><span style="color:#000">Click </span><a href="https://northbrookssec.moe.edu.sg/people/students/students-learning-space"><span style="color:#06667E">here</span></a><span style="color:#000"> to find out more.</span></td>
   </tr>
   <tr>
-    <td class="tg-33jp"><a href="https://northbrookssec-moe-edu-sg.cwp-stg.sg/co-curriculum/cce/sexuality-education-programme"><span style="color:#06667E">Sexuality Education</span></a></td>
+    <td class="tg-33jp"><a href="https://www.northbrookssec.moe.edu.sg/co-curriculum/cce/sexuality-education-programme/"><span style="color:#06667E">Sexuality Education</span></a></td>
     <td class="tg-v41w"><a href="/co-curriculum/cce/sexuality-education-programme/"><span style="color:#06667E">Northbrooks Sexuality Education Programme</span></a><br><br></td>
   </tr>
   <tr>
-    <td class="tg-33jp"><a href="http://www.moe.gov.sg/education/admissions/jae/"><span style="color:#06667E">MOE Joint Admissions Exercise (JAE) Website</span></a><br><a href="http://www.moe.gov.sg/education/admissions/jae/"><span style="color:#06667E">http://www.moe.gov.sg/education/admissions/jae/</span></a></td>
+    <td class="tg-33jp"><a href="http://www.moe.gov.sg/education/admissions/jae/"><span style="color:#06667E">MOE Joint Admissions Exercise (JAE) Website</span></a><br><a href="https://www.moe.gov.sg/post-secondary/admissions/jae"></a></td>
     <td class="tg-ktyi"><span style="color:#000">The Joint Admissions Exercise (JAE) is conducted annually by the Ministry of Education (MOE) to allow Singapore-Cambridge GCE ‘O’ Level certificate holders to apply for admission to courses offered by Junior Colleges (JC), Millennia Institute (MI), Polytechnics (Poly) and Institute of Technical Education</span></td>
   </tr>
   <tr>

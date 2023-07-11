@@ -9,7 +9,7 @@ third_nav_title: InternationalTwinningProgramme
 International Twinning Programme
 ================================
 
-### Objectives  of Twinning
+### Objectives&nbsp; of Twinning
 
 *   To provide opportunities for our students and teachers to be exposed to the social environment, culture and education system of the People’s Republic of China.
 *   To enhance ties and understanding among two nations through Interactions with foreign students and teachers in exchange programmes.

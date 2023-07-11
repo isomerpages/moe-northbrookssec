@@ -267,13 +267,13 @@ Staff List 2023
   </tr>
   <tr>
     <td class="tg-dgl5" rowspan="3">1 Fortitude<br><br><br><br><br></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mr</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mohamed Finosh Khan Bin Ishak Philips</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Han Jili</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Form Teacher</span></td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Toh Qianyu</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mr</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Janson Yong Kiam Ham</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Form Teacher</span></td>
   </tr>
   <tr>
@@ -324,6 +324,13 @@ Staff List 2023
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Nuraida Bte Ajmaain</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Form Teacher</span></td>
   </tr>
+	  <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"></span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Lim Wan Yee</span></td>
+			  <td class="tg-zr06"><span style="color:#000;background-color:#FFF">KP Advisor</span></td>
+  </tr>
+	
   <tr>
     <td class="tg-dgl5" rowspan="3">1 Discipline</td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms</span></td>
@@ -539,10 +546,16 @@ Staff List 2023
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Kesavan s/o Thangam</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Form Teacher</span></td>
   </tr>
+	  <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mr</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ariff Bin Abdul Aziz</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Form Teacher</span></td>
+  </tr>
   <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"></span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Aryssa Ngoh Hui Yi</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">KP Advisor</span></td>
+		    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">KP Advisor</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
@@ -670,20 +683,14 @@ Staff List 2023
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mr</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Choo Chiau Guan Henry</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mathematics Teacher</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mdm</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Azlina Binte Jamaludin </span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Malay Language Teacher</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Joanna Ho Ming Yi</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Science Teacher</span></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Koh Peony</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Science Teacher</span></td>
   </tr>
   <tr>
@@ -710,6 +717,12 @@ Staff List 2023
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Liow Kum Wah</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Chinese Language Teacher</span></td>
   </tr>
+		  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mr</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mohamed Finosh Khan Bin Ishak</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Art Teacher</span></td>
+  </tr>
   <tr>
     <td class="tg-zr06"></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mdm</span></td>
@@ -719,19 +732,7 @@ Staff List 2023
   <tr>
     <td class="tg-zr06"></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mdm</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Nur Fadillah Binte Fauzan</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Malay Language Teacher</span></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mdm</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Nuruljannah Bte Jumaa't</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Malay Language Teacher</span></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mr</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Omar Bin Ismail</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Malay Language Teacher</span></td>
   </tr>
   <tr>
@@ -782,12 +783,7 @@ Staff List 2023
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Wendy Hia</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">D&amp;T Teacher</span></td>
   </tr>
-  <tr>
-    <td class="tg-zr06"></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mr</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Yong Kiam Ham (Janson)</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mathematics Teacher</span></td>
-  </tr>
+
   <tr>
     <td class="tg-zr06"></td>
     <td class="tg-zr06"></td>
@@ -836,7 +832,7 @@ Staff List 2023
   <tr>
     <td class="tg-zr06"></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Siti Nabila Huda Bte Jasmi</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Licy Lee</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Student Health Advisor (SHA)</span></td>
   </tr>
   <tr>
@@ -866,12 +862,7 @@ Staff List 2023
     <td class="tg-dgl5">Name</td>
     <td class="tg-dgl5">Designation</td>
   </tr>
-  <tr>
-    <td class="tg-zr06"></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mr</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Hamran Bin Mohd Zain</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Operation Manager (OM)</span></td>
-  </tr>
+ 
   <tr>
     <td class="tg-zr06"></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mr</span></td>

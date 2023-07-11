@@ -14,7 +14,7 @@ Bowling
 1\.  Mr Alex Ang Kok Wee (Advisor) <br>
 2\.  Mr Ramthan Bin Ab Wahid (Teacher-in-charge) <br>
 3\.  Ms Lau Shu Wei (2 Teacher-in-charge) <br>
-4\.  Mdm Sharmila d/o Sivalingam
+4\.  Ms Han Jili
 
 ### Training Day / Time
 

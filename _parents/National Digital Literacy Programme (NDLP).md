@@ -12,7 +12,7 @@ National Digital Literacy Programme (NDLP)
 #### PDLP - Briefing for Sec 1 Parents/Guardian 2022
 
 
-Click below to access more information Briefing for Sec 1 Parents/Guardian 2022
+Click below to access more information&nbsp;Briefing for Sec 1 Parents/Guardian 2022
 
 *   [PDLP Briefing for Sec 1 Parents/Guardian 2022](/files/PDLP_%20Briefing%20for%20Sec%201%20Parents%202022%20_school%20website.pdf)
 *   [Parent Handbook I on Learning with a PLD](/files/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)
@@ -24,29 +24,29 @@ Click below to access more information Briefing for Sec 1 Parents/Guardian 2022
 #### Digital Learning @ Northbrooks
 
 #### Activation of Device Management Application (DMA) Parent Portal
-Dear Parent/Guardian, 
+Dear Parent/Guardian,&nbsp;
 
-As communicated earlier, your child’s/ward’s Personal Learning Device (PLD) has been installed with a DMA to ensure that he/she uses the PLD for learning in a safer digital learning environment. The DMA Parent Portal will be made available from 1 November 2021 to allow you to monitor your child’s/ward’s PLD activities.
+As communicated earlier, your child’s/ward’s Personal Learning Device (PLD) has been installed with a DMA to ensure that he/she uses the PLD for learning in a safer digital learning environment. The DMA Parent Portal will be made available from&nbsp;1 November 2021&nbsp;to allow you to monitor your child’s/ward’s PLD activities.
 
 You will receive an activation e-mail via the e-mail address that you have provided to the school. If the activation e-mail is not found in your Inbox, please check the ‘Junk Folder’ or ‘Spam Folder’ for the e-mail notification.
 
-Please refer to the DMA Parent Guide (under Resources) for details on how to set up your account and use to the Parent Portal.
+Please refer to the DMA Parent Guide (under&nbsp;Resources) for details on how to set up your account and use to the Parent Portal.
 
-Should you encounter technical issues with the DMA or wish to share with us any feedback on the DMA, please contact the DMA Administrator, Ms Salihah Binte Jalil at northbrooks_ict@moe.edu.sg.
-
-
+Should you encounter technical issues with the DMA or wish to share with us any feedback on the DMA, please&nbsp;contact the DMA Administrator, Ms Salihah Binte Jalil&nbsp;at&nbsp;northbrooks_ict@moe.edu.sg.
 
 
 
 
 
-<img src="/images/QR3.png" style="width:170px;height:220px;margin-left:15px;" align = "right">
+
+
+<img src="/images/QR3.png" style="width:170px;height:220px;margin-left:15px;" align="right">
 
 
 
 
 Should you wish to reconsider the After-school DMA Option, please refer to the information on DMA Settings  
-below (under Resources) & fill-up the form [here](https://go.gov.sg/northbrooksafterschdmaoption) to change the After-school DMA Option.
+below&nbsp;(under&nbsp;Resources)&nbsp;&amp; fill-up the form&nbsp;[here](https://go.gov.sg/northbrooksafterschdmaoption)&nbsp;to change the After-school DMA Option.
 
 
 
@@ -56,7 +56,7 @@ Click below to access more information on the personal learning device (PLD)
 
 *  [Parent Handbook (I) on 1-to-1 Learning](https://drive.google.com/file/d/1PBDppnB2jLrxFrgxU0GYDF8-lwl0CIpU/view)
 *    [Parent Handbook (II) on Learning with a PLD](https://northbrookssec.moe.edu.sg/qql/slot/u162/People/Parents/NDLP/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)
-*   [Harnessing Technology for Teaching & Learning](https://drive.google.com/file/d/1qvo5DkQ5z8yFpS93_V3ShzddJABi_-zJ/view)
+*   [Harnessing Technology for Teaching &amp; Learning](https://drive.google.com/file/d/1qvo5DkQ5z8yFpS93_V3ShzddJABi_-zJ/view)
 *  [Students' Voices (1 to 1 device)](https://drive.google.com/file/d/1Cy7QVtRmDMA-p36-eu9E3Q2_IC0sIOJ0/view)
 *    **Information on Device Management Application (DMA) Settings**
 
@@ -72,32 +72,8 @@ Click below to access more information on the personal learning device (PLD)
 
       - [DMA Parent Guide v2.0 - Option B (iPadOS)](/files/ipad2.pdf)
 
-*   Student iCON Forget Password: [https://](https://northbrookssec-moe-edu-sg-admin.cwp.sg/people/students/goog_1360109335)[go.gov.sg/northbrooksresetpassword](http://go.gov.sg/northbrooksresetpassword)
-
-
-
-
 
 #### In-house Support: ICT Helpdesk
-Email: northbrooks_ict@moe.edu.sg  
-Tel: 6752 4311 (Please leave your contact details & the HOD/EdTech or ICT Manager will contact you) 
-  
-
-
-
-#### Vendor Support: AsiaPac
-
-<b>Help Desk Contact</b> <br>
-Tel: 6272 0088 <br>
-Email: pdlpapple@asiapac.com.sg
-
-  
-
-<b>Help Desk Operating Hours</b> <br>
-Monday - Thursday: 8.30am - 5.30pm  
-Friday: 8.30am - 5.30pm  
-Closed on Saturday, Sunday & Public Holidays
-
-  
-Website  
-[https://www.asiapac.com.sg/pld/apple](https://www.asiapac.com.sg/pld/apple) (for buying of accessories)
+NBrSS Student Helpdesk Form: https://go.gov.sg/northbrooksstudenticthelpdesk<br>
+Email: northbrooks_ict@moe.edu.sg <br>
+Tel: 6752 4311
