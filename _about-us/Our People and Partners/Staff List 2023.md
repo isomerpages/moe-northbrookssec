@@ -503,7 +503,7 @@ Staff List 2023
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Form Teacher</span></td>
   </tr>
   <tr>
-		    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mr</span></td>
+		    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Tan Wei Ling</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Form Teacher</span></td>
 </tr>
