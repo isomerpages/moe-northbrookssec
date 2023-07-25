@@ -5,6 +5,9 @@ description: ""
 ---
 # News &amp; Announcements
 
+### 2023 4NA/NT Preliminary Examination Timetable
+Click&nbsp;<b>[HERE](https://www.northbrookssec.moe.edu.sg/students/Current-Students/Tests-and-Examinations/)</b> for the 4NA/NT Preliminary Examination Timetable.
+
 ### 2023 Semester 2 Timetable
 Click&nbsp;<b>[HERE](https://www.northbrookssec.moe.edu.sg/students/Current-Students/School-Timetable/)</b> for Semester 2 Timetable.
 
