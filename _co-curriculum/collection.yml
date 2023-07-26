@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Aesthetics.md
-      - CCE/Brooksian Core Value (BCV) Award.md
       - CCE/.keep
       - CCE/CCE.md
+      - CCE/Brooksian Core Value (BCV) Award.md
       - CCE/Cyber Wellness (CW).md
       - CCE/Education and Career Guidance (ECG).md
       - CCE/Sexuality Education Programme.md
