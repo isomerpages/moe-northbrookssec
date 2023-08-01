@@ -267,13 +267,13 @@ Staff List 2023
   </tr>
   <tr>
     <td class="tg-dgl5" rowspan="3">1 Fortitude<br><br><br><br><br></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Han Jili</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mr </span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Janson Yong Kiam Ham</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Form Teacher</span></td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mr</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Janson Yong Kiam Ham</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Han Jili</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Form Teacher</span></td>
   </tr>
   <tr>
@@ -444,6 +444,11 @@ Staff List 2023
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Wendy Lee Chien Wuan</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Form Teacher</span></td>
   </tr>
+	<tr>
+		    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Gina Teo Shun Ying</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Form Teacher</span></td>
+  </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mr</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ang Kok Wee Alex</span></td>
@@ -492,13 +497,17 @@ Staff List 2023
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">KP Advisor</span></td>
   </tr>
   <tr>
-    <td class="tg-dgl5" rowspan="2">3 Fortitude<br><br><br></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mr</span></td>
+    <td class="tg-dgl5" rowspan="3">3 Fortitude<br><br><br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Joel Tan Yi Liang</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Form Teacher</span></td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mr</span></td>
+		    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Tan Wei Ling</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Form Teacher</span></td>
+</tr>
+    <tr><td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mr</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Timothy Chong</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">KP Advisor</span></td>
   </tr>
@@ -809,13 +818,19 @@ Staff List 2023
     <td class="tg-zr06"></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Chelsea Koh Wen Jie</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Allied Educator (Counselling)</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">School Counsellor </span></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mdm</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Phoon Hwee Lee</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Allied Educator (Learning and Behavioural Support)</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Lead Special Educational Needs (SEN) Officer</span></td>
+  </tr>
+	  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mdm</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Grace Chow Weng Xi </span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Special Educational Needs (SEN) Officer</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
