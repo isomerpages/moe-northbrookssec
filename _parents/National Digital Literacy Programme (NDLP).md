@@ -65,12 +65,8 @@ Click below to access more information on the personal learning device (PLD)
      - [Options for DMA Settings After School Hours](/files/Options%20for%20DMA%20Settings%20After%20School%20Hours.pdf)
 
      - [Privacy and Data Security](/files/Privacy%20and%20Data%20Security.pdf)
+*    **[DMA Resources for Parents](https://go.gov.sg/dmaparentguide-mg)**
 
-     - [DMA Parent Guide v2.0 - Default (iPadOS)](/files/iPadOS.pdf)
-
-     - [DMA Parent Guide v2.0 - Option A (iPadOS)](/files/ipad.pdf)
-
-      - [DMA Parent Guide v2.0 - Option B (iPadOS)](/files/ipad2.pdf)
 
 
 #### In-house Support: ICT Helpdesk
