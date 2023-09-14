@@ -6,12 +6,8 @@ description: ""
 # News &amp; Announcements
 
 
-### 2023 Brooksian Core Value (BCV) Award
-Click&nbsp;<b>[HERE](https://www.northbrookssec.moe.edu.sg/co-curriculum/cce/bcvaward/)</b> for more information.
-
-
-### 2023 4NA/NT Preliminary Examination Timetable
-Click&nbsp;<b>[HERE](https://www.northbrookssec.moe.edu.sg/students/Current-Students/Tests-and-Examinations/)</b> for the 4NA/NT Preliminary Examination Timetable.
+### 2023 EOY Examination Timetable
+Click&nbsp;<b>[HERE](https://www.northbrookssec.moe.edu.sg/students/Current-Students/Tests-and-Examinations/)</b> for EOY Examination Timetable.
 
 ### 2023 Semester 2 Timetable
 Click&nbsp;<b>[HERE](https://www.northbrookssec.moe.edu.sg/students/Current-Students/School-Timetable/)</b> for Semester 2 Timetable.
@@ -23,8 +19,3 @@ Click&nbsp; <b>[HERE](https://www.northbrookssec.moe.edu.sg/parents/sec-3-subjec
 ### 2023 DSA Information 
 
 Click&nbsp; <b>[HERE](https://www.northbrookssec.moe.edu.sg/about-us/Admissions/DSA-at-Northbrooks/)</b>&nbsp;to read more about our DSA 2023 Information!
-
-
-### 2023 Secondary 1 Posting Matters
-
-Click&nbsp;[<b>HERE</b>](/parents/Sec-One-2023-Posting-Matters/Sec-One-2023-Posting-Matters/)&nbsp;to read more about our Secondary 1 Posting in 2023!
