@@ -74,9 +74,8 @@ Some sec 1 NA and NT students will be eligible to take more demanding subjects t
 
 ### Step 2c: Sales of Books and Uniform
 -----------------------------------------------------
-##### For Walk-in purchase / Self Collection for online purchase
 
-###### Uniform Supplier (Beau Voix)
+Click [here](/files/Sec%201%20Posting%20Matters/sales%20of%20books%20and%20uniforms.pdf) for more information
 
 
 
