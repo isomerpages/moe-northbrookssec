@@ -6,10 +6,10 @@ third_nav_title: Sec One 2024 Posting Matters
 ---
 ![](/images/Parentsbanner.jpg)
 
-Sec One 2023 Posting Matters
+Sec One 2024 Posting Matters
 ============================
 
-### Welcome all Parents/Guardians and 2023 Sec 1 students to Northbrooks Secondary School
+### Welcome all Parents/Guardians and 2024 Sec 1 students to Northbrooks Secondary School
 
 
 <img src="/images/cover%20picture.jpg" style="width:60%">
