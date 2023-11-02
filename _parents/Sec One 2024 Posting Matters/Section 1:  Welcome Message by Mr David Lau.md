@@ -9,7 +9,7 @@ third_nav_title: Sec One 2024 Posting Matters
 Section 1: Welcome Message by Mr David Lau
 ==========================================
 
-Dear Parents and Sec One students (2023 intake)
+Dear Parents and Sec One students (2024 intake)
 
   
 
