@@ -11,15 +11,6 @@ Section 2: Administrative Matters - What you need to do
 
 All incoming Secondary 1 students who have been posted to Northbrooks Secondary School are officially enrolled in the school from the day of posting. There is no need for registration to confirm your child/ward’s enrolment.
 
-[Step 2a:&nbsp;RIASEC Survey](/parents/Sec-One-2023-Posting-Matters/Section-2-Administrative-Matters-What-you-need-to-do/)  
-[Step 2b: Subject Based Banding](/parents/Sec-One-2023-Posting-Matters/Section-2-Administrative-Matters-What-you-need-to-do/)  
-[Step 2c: Sales of Books, PE Attire, Shoes and Uniform](/parents/Sec-One-2023-Posting-Matters/Section-2-Administrative-Matters-What-you-need-to-do/)  
-[Step 2d: Health Promotion Board (HPB) Digital Letter](/parents/Sec-One-2023-Posting-Matters/Section-2-Administrative-Matters-What-you-need-to-do/)&nbsp;  
-[Step 2e: MOE Financial Assistance Scheme (FAS)](/parents/Sec-One-2023-Posting-Matters/Section-2-Administrative-Matters-What-you-need-to-do/)  
-[Step 2f: Applications for Higher Mother Tongue, Foreign / 3rd Languages and exemption in Mother Tongue Language](/parents/Sec-One-2023-Posting-Matters/Section-2-Administrative-Matters-What-you-need-to-do/)  
-[Step 2g: Medical Appeal Exercises and Transfer Cases](/parents/Sec-One-2023-Posting-Matters/Section-2-Administrative-Matters-What-you-need-to-do/)  
-[Step 2h: Art &amp; Music Elective Programmes (AEP/MEP) Matters](/parents/Sec-One-2023-Posting-Matters/Section-2-Administrative-Matters-What-you-need-to-do/)
-
 Books and uniform/PE attire are available for purchase online. If you choose to visit the school for purchases of books and uniform/PE attire, please take note of the following:  
 
 *   No parking is allowed in school as the carpark is for season parking only.  
@@ -81,123 +72,14 @@ Some sec 1 NA and NT students will be eligible to take more demanding subjects t
 
 
 
-### Step 2c: Sales of Books, PE Attire, Shoes and Uniform
+### Step 2c: Sales of Books and Uniform
 -----------------------------------------------------
+##### For Walk-in purchase / Self Collection for online purchase
 
-##### **Sales of books/PE Attire/Shoes**
-
-  
-<b>Mode of Order:</b>
-
-*   Online Purchase for Home Delivery at $13.00 (Delivery between 27/12 to 03/01).&nbsp;Online orders cut off on 25/12.
-*   There will be no self-collection for Online Purchase.
-*   Walk-In by stream based on the schedule below.
+###### Uniform Supplier (Beau Voix)
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-k88s{background-color:#E6C20C;color:#141D1C;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-k88s">Operating Hours</th>
-    <th class="tg-k88s">Operating Dates</th>
-    <th class="tg-k88s">Stream</th>
-    <th class="tg-k88s">Remarks</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi" rowspan="3">9.00 am to 3.00 pm<br>(Mon – Fri)<br> <br>Closed on Sat, Sun,Eve of PH and PH<br>Closed on 30 Dec 2022</td>
-    <td class="tg-ktyi">22/12</td>
-    <td class="tg-ktyi">Express</td>
-    <td class="tg-ktyi" rowspan="2">Walk-in Purchases<br>MOE FAS collection</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">23/12</td>
-    <td class="tg-ktyi">NA/NT</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">27/12 to 29/12</td>
-    <td class="tg-ktyi">All streams</td>
-    <td class="tg-ktyi"><span style="background-color:transparent">Walk-in Purchases</span><br><br>MOE FAS collection</td>
-  </tr>
-</tbody>
-</table>
 
-
-<b>Mode of Payment:</b>
-
-
-*   Online Purchase via PayNow and Credit Card (VISA/Mastercard) for Home Delivery.
-*   Self-Collection ([www.cascoedusupply.com.sg](http://www.cascoedusupply.com.sg/)) - Username: NSS, Password&nbsp; 2413
-*   Walk-in Purchase via Cash, PayNow, NTUC Care Fund (e-vouchers).
-
-
-<b>Booklists:</b>&nbsp;
-
-[<b>Sec 1 EXP booklist</b>](/files/NSS%20Sec%201EXP%20%20Booklist%202023.pdf) <br>
-[<b>Sec 1 NA booklist</b>](/files/NSS%20Sec%201%20NA%20Booklist%202023.pdf) <br>
-[<b>Sec 1 NT booklist</b>](/files/NSS%20Sec%201NT%20Booklist%202023.pdf)
-  
-<b>Bookshop contact number:</b>&nbsp;67540201
-
-
-##### **In-school sale of uniform**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-k88s{background-color:#E6C20C;color:#141D1C;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-k88s">Operating Hours</th>
-    <th class="tg-k88s">Operating Dates</th>
-    <th class="tg-k88s">Stream</th>
-    <th class="tg-k88s">Remarks</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi" rowspan="3">9.00 am to 3.00 pm<br>(Mon – Fri)<br> <br>Closed on Sat, Sun,Eve of PH and PH<br>Closed on 30 Dec 2022</td>
-    <td class="tg-ktyi">22/12</td>
-    <td class="tg-ktyi">Express</td>
-    <td class="tg-ktyi" rowspan="2">Walk-in Purchases<br>MOE FAS collection</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">23/12</td>
-    <td class="tg-ktyi">NA/NT</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">27/12 to 29/12</td>
-    <td class="tg-ktyi">All streams</td>
-    <td class="tg-ktyi"><span style="background-color:transparent">Walk-in Purchases</span><br><br>MOE FAS collection</td>
-  </tr>
-</tbody>
-</table>
-
-
-<b>Mode of Payment:</b>&nbsp;
-
-*   Online Purchase via PayNow and Credit Card (VISA/Mastercard) for Home Delivery at $7 per delivery trip.
-*   [https://beauvoix.com/product-category/secondary/nbs/](https://beauvoix.com/product-category/secondary/nbs/)  
-    
-*   No self-collection for Online Purchases.
-*   Walk-in Purchase via Cash, PayNow, NTUC Care Fund (e-vouchers), CDAC Vouchers.
-
-Sec 1 students are allowed to wear their primary school uniform if their new uniforms are not ready during this transition period.
 
 ### Step 2d: Health Promotion Board (HPB) Digital Letter&nbsp;
 -----------------------------------------------------
