@@ -50,18 +50,7 @@ Please click&nbsp;[here](https://form.gov.sg/63929178df16190012907484)&nbsp;or s
 <br>
 
 <br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
+&nbsp; 
 
 ### Step 2b: Subject Based Banding
 ------------------------------
