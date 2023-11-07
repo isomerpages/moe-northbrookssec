@@ -3,18 +3,12 @@ title: "Section 3: What you need to know"
 permalink: /parents/Sec-One-2023-Posting-Matters/section-3-what-you-need-to-know/
 description: ""
 third_nav_title: Sec One 2023 Posting Matters
+variant: markdown
 ---
 ![](/images/Parentsbanner.jpg)
 
 Section 3:&nbsp;What you need to know
 ================================
-
-[1\. Sec One First Day and Orientation](/parents/Sec-One-2023-Posting-Matters/section-3-what-you-need-to-know/)  
-[2\. Full Subject-Based Banding (FSBB)](/parents/Sec-One-2023-Posting-Matters/section-3-what-you-need-to-know/)  
-[3\. Personalised Digital Learning Programme (PDLP)](/parents/Sec-One-2023-Posting-Matters/section-3-what-you-need-to-know/)  
-[4\. Blended Learning (BL)](/parents/Sec-One-2023-Posting-Matters/section-3-what-you-need-to-know/)  
-[5\. Parents Support Group (PSG)](/parents/Sec-One-2023-Posting-Matters/section-3-what-you-need-to-know/)&nbsp;  
-[6\. Primary to Secondary School Transition](/parents/Sec-One-2023-Posting-Matters/section-3-what-you-need-to-know/)
 
 
 ### 1.&nbsp; Sec One First Day and Orientation
@@ -138,4 +132,4 @@ Please email to Ms Hui Hui, PSG Chairperson at&nbsp;[eehuihui8080@gmail.com](mai
 
 <center> <i>Click on the image for more information</i> </center>
 
-[Return to <b>Main Menu: Sec 1 Registration 2024 Intake</b>](/parents/sec-one-2024-Posting-Matters/sec-one-2024-posting-matters/)
+[Return to <b>Main Menu: Sec 1 Registration 2023 Intake</b>](/parents/sec-one-2023-Posting-Matters/sec-one-2024-posting-matters/)
