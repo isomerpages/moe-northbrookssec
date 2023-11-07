@@ -3,14 +3,12 @@ title: "Section 4: Others"
 permalink: /parents/Sec-One-2023-Posting-Matters/Section-4-Others/
 description: ""
 third_nav_title: Sec One 2023 Posting Matters
+variant: markdown
 ---
 ![](/images/Parentsbanner.jpg)
 
 Section 4: Others
 =================
-
-1.&nbsp;[eTour @ Northbrooks](/parents/Sec-One-2023-Posting-Matters/Section-4-Others/)  
-2.&nbsp;[Northbrooks Social Media](/parents/Sec-One-2023-Posting-Matters/Section-4-Others/)
 
 ### eTour @ Northbrooks
 
