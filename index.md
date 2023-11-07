@@ -15,12 +15,4 @@ sections:
           description: ""
           url: /achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/
       background: /images/homepageeee northbrooks.gif
-  - infobar:
-      title: Year End Books and Uniform Sales Information
-      id: infobar
-      button: Click here for more information
-      url: sd
-  - resources:
-      title: Resources
-      id: resources
 ---
