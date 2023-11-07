@@ -3,13 +3,14 @@ title: "Section 1:  Welcome Message by Mr David Lau"
 permalink: /parents/Sec-One-2023-Posting-Matters/Section-1-Welcome-Message-by-Mr-David-Lau/
 description: ""
 third_nav_title: Sec One 2024 Posting Matters
+variant: markdown
 ---
 ![](/images/Parentsbanner.jpg)
 
 Section 1: Welcome Message by Mr David Lau
 ==========================================
 
-Dear Parents and Sec One students (2024 intake)
+Dear Parents and Sec One students (2023 intake)
 
   
 
@@ -25,9 +26,9 @@ In fostering the culture of Care and Growth at Northbrooks Secondary, our team o
 
   
 
-I wish everyone a wonderful and fulfilling year in 2024.
+I wish everyone a wonderful and fulfilling year in 2023.
 
 
 
 
-[Return to <b>Main Menu: Sec 1 Registration 2024 Intake</b>](/parents/sec-one-2024-Posting-Matters/sec-one-2024-posting-matters/)
+[Return to <b>Main Menu: Sec 1 Registration 2023 Intake</b>](/parents/sec-one-2023-Posting-Matters/sec-one-2024-posting-matters/)
