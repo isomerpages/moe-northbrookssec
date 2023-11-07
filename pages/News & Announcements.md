@@ -2,8 +2,14 @@
 title: News & Announcements
 permalink: /News-and-Announcements/
 description: ""
+variant: markdown
 ---
 # News &amp; Announcements
+
+
+### Sales of Books and Uniforms
+Click&nbsp;<b>[HERE](/files/Sec%201%20Posting%20Matters/sales%20of%20books%20and%20uniforms.pdf)</b> for more information
+
 
 
 ### 2023 EOY Examination Timetable
