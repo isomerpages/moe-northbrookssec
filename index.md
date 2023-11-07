@@ -20,4 +20,7 @@ sections:
       id: infobar
       button: Click here for more information
       url: sd
+  - resources:
+      title: Resources
+      id: resources
 ---
