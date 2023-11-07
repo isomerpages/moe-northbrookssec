@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Current Students/Sales of Books and Uniforms.md
       - Current Students/.keep
       - Current Students/School Timetable.md
       - Current Students/Tests & Examinations.md
