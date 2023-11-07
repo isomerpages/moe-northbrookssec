@@ -3,6 +3,7 @@ title: "Section 2: Administrative Matters What you need to do"
 permalink: /parents/Sec-One-2023-Posting-Matters/Section-2-Administrative-Matters-What-you-need-to-do/
 description: ""
 third_nav_title: Sec One 2024 Posting Matters
+variant: markdown
 ---
 ![](/images/Parentsbanner.jpg)
 
@@ -176,4 +177,4 @@ If you are seeking a transfer due to other reasons, you may check the preferred 
 </center>
 
 
-[Return to <b>Main Menu: Sec 1 Registration 2024 Intake</b>](/parents/sec-one-2024-Posting-Matters/sec-one-2024-posting-matters/)
+[Return to <b>Main Menu: Sec 1 Registration 2023 Intake</b>](/parents/sec-one-2023-Posting-Matters/sec-one-2024-posting-matters/)
