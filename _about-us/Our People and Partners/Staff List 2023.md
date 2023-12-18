@@ -40,7 +40,7 @@ Staff List 2023
   <tr>
     <td class="tg-zr06"></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mr</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Yip Kok Hoong</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Daniel Yip Kok Hoong</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Vice-Principal</span></td>
   </tr>
   <tr>
