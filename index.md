@@ -15,4 +15,9 @@ sections:
           description: ""
           url: /achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/
       background: /images/homepageeee northbrooks.gif
+  - infobar:
+      title: Sec One 2024 Posting Matters
+      id: infobar
+      button: Click here
+      url: /parents/sec-one-2024-posting-matters/sec-one-2024-posting-matters/
 ---
