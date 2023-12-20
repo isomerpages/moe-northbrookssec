@@ -21,4 +21,5 @@ sections:
       button: Click here
       url: /parents/sec-one-2024-posting-matters/sec-one-2024-posting-matters/
       image: /images/Sec12024Posting.png
+      alt: Welcome to Northbrooks!
 ---
