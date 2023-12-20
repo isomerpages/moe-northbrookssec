@@ -3,6 +3,7 @@ title: Staff List 2023
 permalink: /about-us/Our-People-and-Partners/Staff-List-2023/
 description: ""
 third_nav_title: Our People and Partners
+variant: markdown
 ---
 ![](/images/about_us.jpg)
 
@@ -32,14 +33,14 @@ Staff List 2023
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mdm</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Poh Shi Hui</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Goh Peishi</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Vice-Principal</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Goh Peishi</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mr</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Daniel Yip Kok Hoong</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Vice-Principal</span></td>
   </tr>
   <tr>
@@ -884,6 +885,12 @@ Staff List 2023
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ganesh Letchmanan</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Operation Manager (OM)</span></td>
   </tr>
+	  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mr</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Terence Ten Teck Hong</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Operation Manager (OM)</span></td>
+  </tr>
   <tr>
     <td class="tg-zr06"></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mdm</span></td>
@@ -990,12 +997,6 @@ Staff List 2023
     <td class="tg-zr06"></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mr</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mohd Fauzi Bin Samawi</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Desktop Engineer (DE)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Nur Selina</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Desktop Engineer (DE)</span></td>
   </tr>
   <tr>
