@@ -2,19 +2,6 @@
 title: News & Announcements
 permalink: /News-and-Announcements/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# News &amp; Announcements
-
-
-### Year End Sales of Books and Uniforms
-Click&nbsp;<b>[HERE](/files/Sec%201%20Posting%20Matters/sales%20of%20books%20and%20uniforms.pdf)</b> for more information
-
-
-### 2023 Sec 3 Subject Combination Information 
-
-Click&nbsp; <b>[HERE](https://www.northbrookssec.moe.edu.sg/parents/sec-3-subject-combination-information/)</b>&nbsp;to read more about our Sec 3 Subject Combination Information.
-
-### 2023 DSA Information 
-
-Click&nbsp; <b>[HERE](https://www.northbrookssec.moe.edu.sg/about-us/Admissions/DSA-at-Northbrooks/)</b>&nbsp;to read more about our DSA 2023 Information!
+<h1>News &amp; Announcements</h1><h3>Sec One 2024 Posting Matters</h3><p></p><p>Click&nbsp;<a href="/parents/sec-one-2024-posting-matters/sec-one-2024-posting-matters/" rel="noopener noreferrer nofollow" target="_blank">HERE</a><strong><a href="/files/Sec%201%20Posting%20Matters/sales%20of%20books%20and%20uniforms.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a></strong>for more information</p><p></p><h3>Year End Sales of Books and Uniforms</h3><p>Click&nbsp;<strong><a href="/files/Sec%201%20Posting%20Matters/sales%20of%20books%20and%20uniforms.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong> for more information</p><h3>2023 Sec 3 Subject Combination Information</h3><p>Click&nbsp; <strong><a href="https://www.northbrookssec.moe.edu.sg/parents/sec-3-subject-combination-information/" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;to read more about our Sec 3 Subject Combination Information.</p><h3>2023 DSA Information</h3><p>Click&nbsp; <strong><a href="https://www.northbrookssec.moe.edu.sg/about-us/Admissions/DSA-at-Northbrooks/" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;to read more about our DSA 2023 Information!</p>
