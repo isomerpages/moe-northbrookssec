@@ -2,6 +2,7 @@
 title: Parent Support Group (PSG)
 permalink: /parents/parent-support-group/
 description: ""
+variant: markdown
 ---
 ![](/images/Parentsbanner.jpg)
 
@@ -15,17 +16,17 @@ Parent Support Group (PSG)
 From L to R : Mdm Martha Ng, Mdm Stella Ng, Mdm Vivien Tay, Mr Desmond Soh, Mdm Yasmin, Mdm Wati, Mrs Kerine Goe 
 
 
-Dear Parents,   
+Dear Parents,&nbsp;  
 
 #### “To share the responsibility and work in partnership with our school to develop our children’s potential.”
 
 
-<img src="/images/PSG.jpeg" style="width:200px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/PSG.jpeg" style="width:200px;height:240px;margin-left:15px;" align="right">
 
 	
 	
 In line with this vision, we set the following objectives:
-1.  **To play an active role in our programmes**
+1.  **To play an active role in our&nbsp;programmes**
 2.  **To establish a bridge between school management and faculty with parents.**
 3.  **To provide appreciation and recognition for parents and school staff who are active and supportive in PSG activities/programmes**
 We sincerely welcome you to join us as a member and if possible, volunteer a little of your time and expertise to help make the educational experience for our children better. Membership is free and all you need is to have a child who is a student at Northbrooks Secondary School.  
@@ -49,7 +50,7 @@ Jesse Jackson, American Civil Rights Activist, once said: “Your children need 
 
 Yours sincerely,  
 
-Mr Henry Ng  
+Mr&nbsp;Henry Ng  
 HOD  
 Internal Partners
 
@@ -60,7 +61,7 @@ Internal Partners
 
 
 
-<img src="/images/Dads%20for%20life%20.png" style="width:400px;height:240px;margin-left:15px;" align = "left">
+<img src="/images/Dads%20for%20life%20.png" style="width:400px;height:240px;margin-left:15px;" align="left">
 
 
 Dad's for Life(DFL) is a national fathers movement that seeks to inspire, mobilise and involve fathers to become good influencers in the children's lives... for life!
@@ -88,4 +89,3 @@ PSG Member Mr Oh Sze Hou (right) forming the interview panel for Sec 4/5 Edusave
 ECHA was introduced by MOE in 2012 to recognise students who have demonstrated exemplary character and outstanding personal qualities through their daily behaviour.
 
 BCV is given to students who displayed the school values :GIFTED
-![](/images/ECHA%20BCV%20award%202019.jpeg)
