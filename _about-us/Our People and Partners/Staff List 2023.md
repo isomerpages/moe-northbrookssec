@@ -7,7 +7,7 @@ variant: markdown
 ---
 ![](/images/about_us.jpg)
 
-Staff List 2023
+Staff List 2024
 ===============
 
 
