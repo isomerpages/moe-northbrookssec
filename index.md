@@ -15,11 +15,15 @@ sections:
           description: ""
           url: /achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/
       background: /images/homepageeee northbrooks.gif
-  - infopic:
-      title: Sec One 2024 Posting Matters
-      id: infopic
+  - infobar:
+      title: 2024 Semester 1 Timetable
+      id: infobar
+      button: Click here
+      url: https://www.northbrookssec.moe.edu.sg/students/Current-Students/School-Timetable/
+  - infobar:
+      title: 2024 Sec One Posting Matters
+      subtitle: Add informational text
+      id: infobar
       button: Click here
       url: /parents/sec-one-2024-posting-matters/sec-one-2024-posting-matters/
-      image: /images/Sec12024Posting.png
-      alt: Welcome to Northbrooks!
 ---
