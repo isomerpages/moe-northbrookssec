@@ -19,7 +19,7 @@ sections:
       title: 2024 Semester 1 Timetable
       id: infobar
       button: Click here
-      url: https://www.northbrookssec.moe.edu.sg/students/Current-Students/School-Timetable/
+      url: /students/Current-Students/School-Timetable/
   - infobar:
       title: 2024 Sec One Posting Matters
       subtitle: Add informational text
