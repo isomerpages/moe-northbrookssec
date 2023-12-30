@@ -22,7 +22,6 @@ sections:
       url: /students/Current-Students/School-Timetable/
   - infobar:
       title: 2024 Sec One Posting Matters
-      subtitle: Add informational text
       id: infobar
       button: Click here
       url: /parents/sec-one-2024-posting-matters/sec-one-2024-posting-matters/
