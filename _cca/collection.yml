@@ -1,0 +1,31 @@
+collections:
+  cca:
+    output: true
+    order:
+      - CCA.md
+      - Physical Sports/.keep
+      - Physical Sports/Physical Sports.md
+      - Physical Sports/Badminton.md
+      - Physical Sports/Basketball.md
+      - Physical Sports/Bowling.md
+      - Physical Sports/Floorball.md
+      - Physical Sports/Outdoor Adventure Club.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Clubs & Societies.md
+      - Clubs & Societies/AVA Club.md
+      - Clubs & Societies/Environmental Art Club.md
+      - Clubs & Societies/Infocomm Club.md
+      - Clubs & Societies/Youth Flying Club.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups.md
+      - Uniformed Groups/Boys' Brigade.md
+      - Uniformed Groups/National Cadet Corps (Air).md
+      - Uniformed Groups/National Police Cadet Corps.md
+      - Uniformed Groups/Red Cross Youth.md
+      - Visual & Performing Arts/.keep
+      - Visual & Performing Arts/Visual & Performing Arts.md
+      - Visual & Performing Arts/Concert Band.md
+      - Visual & Performing Arts/Drama Club.md
+      - Visual & Performing Arts/Guitar Ensemble.md
+      - Visual & Performing Arts/Guzheng Ensemble.md
+      - Visual & Performing Arts/Modern Dance.md

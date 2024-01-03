@@ -1,0 +1,23 @@
+logo: /images/Logo.svg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Curriculum
+    collection: curriculum
+  - title: Co-Curriculum
+    url: /CCA/CCA/
+    sublinks:
+      - title: CCA
+        url: /CCA/CCA/
+      - title: CCE
+        url: /co-curriculum/CCE/CCE/
+      - title: Student Leadership Programme
+        url: /co-curriculum/Student-Leadership-Programme/Student-Leadership-Programme/
+      - title: Aesthetics
+        url: /co-curriculum/Aesthetics/
+  - title: Northbrooks Experience
+    collection: northbrooks-experience
+  - title: Parents
+    collection: parents
+  - title: Students
+    collection: students
