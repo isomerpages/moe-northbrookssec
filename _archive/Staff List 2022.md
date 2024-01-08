@@ -1,6 +1,6 @@
 ---
 title: Staff List 2022
-permalink: /people/staff-list-2022/permalink
+permalink: /people/staff-list-2022/permalink/
 description: ""
 ---
 Staff List 2022
@@ -62,7 +62,7 @@ Staff List 2022
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">5</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Mr</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Anbalahan s/o Muthusamy</span></td>
-    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">HOD/SMT, Sec 4F </span></td>
+    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">HOD/SMT, Sec 4F&nbsp;</span></td>
   </tr>
   <tr>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">6</span></td>
@@ -98,7 +98,7 @@ Staff List 2022
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">11</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Ms</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Loo Min Yan Vanessa</span></td>
-    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">HOD/Maths, Sec 3I</span></td>
+    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">HOD/Maths,&nbsp;Sec 3I</span></td>
   </tr>
   <tr>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">12</span></td>
@@ -109,8 +109,8 @@ Staff List 2022
   <tr>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">13</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Mr</span></td>
-    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Ng Cheong York </span></td>
-    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">YH/ LS </span></td>
+    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Ng Cheong York&nbsp;</span></td>
+    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">YH/ LS&nbsp;</span></td>
   </tr>
   <tr>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">14</span></td>
@@ -133,7 +133,7 @@ Staff List 2022
   <tr>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">17</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Ms</span></td>
-    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Chan Eunice Grace    </span></td>
+    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Chan Eunice Grace&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">SH/Bio</span></td>
   </tr>
   <tr>
@@ -194,13 +194,13 @@ Staff List 2022
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">27</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Ms</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Tay Liyan</span></td>
-    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">SH/Maths, Sec 4T </span></td>
+    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">SH/Maths, Sec 4T&nbsp;</span></td>
   </tr>
   <tr>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">28</span></td>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Mr</span></td>
-    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Tham Chun Kit </span></td>
-    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">SH/PE &amp; CCA, Sec 4D </span></td>
+    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Tham Chun Kit&nbsp;</span></td>
+    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">SH/PE &amp; CCA, Sec 4D&nbsp;</span></td>
   </tr>
   <tr>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">29</span></td>
@@ -209,24 +209,24 @@ Staff List 2022
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">SH/SL &amp; OE (Ag), Sec 4G FT</span></td>
   </tr>
   <tr>
-    <td class="tg-gfyy" colspan="4">LT &amp; ST </td>
+    <td class="tg-gfyy" colspan="4">LT &amp; ST&nbsp;</td>
   </tr>
   <tr>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">30</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Mrs</span></td>
-    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Goh-Ang Sor Pui </span></td>
-    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">LT/CL, Sec 3G</span></td>
+    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Goh-Ang Sor Pui&nbsp;</span></td>
+    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">LT/CL,&nbsp;Sec 3G</span></td>
   </tr>
   <tr>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">31</span></td>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Mrs</span></td>
-    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Sasidharan Indra Devi </span></td>
+    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Sasidharan Indra Devi&nbsp;</span></td>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">LT/Hist, Sec 4I</span></td>
   </tr>
   <tr>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">32</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Ms</span></td>
-    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Chow Cai Yun Celine    </span></td>
+    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Chow Cai Yun Celine&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">ST/Chem, Sec 1I FT</span></td>
   </tr>
   <tr>
@@ -238,17 +238,17 @@ Staff List 2022
   <tr>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">34</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Mdm</span></td>
-    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Nuraida Bte Ajmaain        </span></td>
+    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Nuraida Bte Ajmaain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">ST/CCE, Sec 4T FT</span></td>
   </tr>
   <tr>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">35</span></td>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Mdm</span></td>
-    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Zuraidah Abdul Karim     </span></td>
+    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Zuraidah Abdul Karim&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">ST/ML, Sec 1G FT</span></td>
   </tr>
   <tr>
-    <td class="tg-qia3" colspan="4">Teacher<span style="color:#222;background-color:#FDF69E"> </span></td>
+    <td class="tg-qia3" colspan="4">Teacher<span style="color:#222;background-color:#FDF69E">&nbsp;</span></td>
   </tr>
   <tr>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">36</span></td>
@@ -283,7 +283,7 @@ Staff List 2022
   <tr>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">41</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Ms</span></td>
-    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Ho Shu Chun Isabel     </span></td>
+    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Ho Shu Chun Isabel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Sec 1T2 FT</span></td>
   </tr>
   <tr>
@@ -397,7 +397,7 @@ Staff List 2022
   <tr>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">60</span></td>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Mr</span></td>
-    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Omar Bin Ismail </span></td>
+    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Omar Bin Ismail&nbsp;</span></td>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">CAJT/ML</span></td>
   </tr>
   <tr>
@@ -494,7 +494,7 @@ Staff List 2022
     <td class="tg-py7v" colspan="4">NON TEACHING STAFF</td>
   </tr>
   <tr>
-    <td class="tg-qia3" colspan="4">Allied Educator (AED)  </td>
+    <td class="tg-qia3" colspan="4">Allied Educator (AED)&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">76</span></td>
@@ -506,18 +506,18 @@ Staff List 2022
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">77</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Mdm</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Phoon Hwee Lee</span></td>
-    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">AED(LBS) (Learning and Behavioural Support) </span><br></td>
+    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">AED(LBS)&nbsp;(Learning and Behavioural Support)&nbsp;</span><br></td>
   </tr>
   <tr>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">78</span></td>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Mdm</span></td>
-    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Siti Nadiah Bte M Toha </span></td>
+    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Siti Nadiah Bte M Toha&nbsp;</span></td>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">AED (T&amp;L) (Teaching &amp; Learning, Sec 3D FT</span></td>
   </tr>
   <tr>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">79</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Mr</span></td>
-    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Tok Boon Hwee Alex </span></td>
+    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Tok Boon Hwee Alex&nbsp;</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">AED (T&amp;L) (Teaching &amp; Learning), Sec 4D FT</span></td>
   </tr>
   <tr>
@@ -568,7 +568,7 @@ Staff List 2022
   <tr>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">87</span></td>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Ms</span></td>
-    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Salihah Binte Jalil </span></td>
+    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Salihah Binte Jalil&nbsp;</span></td>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Information &amp; Communications Technology (ICT) Manager</span></td>
   </tr>
   <tr>
@@ -605,7 +605,7 @@ Staff List 2022
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">93</span></td>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Ms</span></td>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Yap Hwee Hoon (Mon, Wed &amp; alt Fri)</span></td>
-    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Education and Career Guidance (ECG)   Counsellor</span></td>
+    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Education and Career Guidance (ECG)&nbsp; &nbsp;Counsellor</span></td>
   </tr>
   <tr>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">94</span></td>
@@ -647,7 +647,7 @@ Staff List 2022
     <td class="tg-qia3" colspan="4">OTHER PERSONNEL</td>
   </tr>
   <tr>
-    <td class="tg-gfyy" colspan="4">Flexi </td>
+    <td class="tg-gfyy" colspan="4">Flexi&nbsp;</td>
   </tr>
   <tr>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">100</span></td>
@@ -670,14 +670,14 @@ Staff List 2022
   <tr>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">103</span></td>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Ms</span></td>
-    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Judy Chua </span></td>
-    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">FAJ(SC) (School Counsellor) </span></td>
+    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Judy Chua&nbsp;</span></td>
+    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">FAJ(SC) (School Counsellor)&nbsp;</span></td>
   </tr>
   <tr>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">104</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Ms</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Mary Charles</span></td>
-    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">FAJT (Science)  </span></td>
+    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">FAJT (Science)&nbsp;&nbsp;</span></td>
   </tr>
   <tr>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">105</span></td>
@@ -688,7 +688,7 @@ Staff List 2022
   <tr>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">106</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Mdm</span></td>
-    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Mok Yan Yin Agnes </span></td>
+    <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">Mok Yan Yin Agnes&nbsp;</span></td>
     <td class="tg-4k6w"><span style="color:#222;background-color:#FDF69E">FAJT (Chem)</span></td>
   </tr>
   <tr>
@@ -706,7 +706,7 @@ Staff List 2022
   <tr>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">109</span></td>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Ms</span></td>
-    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573"> Sangeeta d/o Tamilarasan</span></td>
+    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">&nbsp;Sangeeta d/o Tamilarasan</span></td>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">FAJT (Eng)</span><br></td>
   </tr>
   <tr>
@@ -748,7 +748,7 @@ Staff List 2022
   <tr>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">115</span></td>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Mr</span></td>
-    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Loganathan  Balasubaramaniam</span></td>
+    <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">Loganathan&nbsp; Balasubaramaniam</span></td>
     <td class="tg-c0uh"><span style="color:#222;background-color:#FCE573">DE</span></td>
   </tr>
   <tr>

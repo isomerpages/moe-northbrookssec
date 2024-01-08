@@ -2,6 +2,7 @@
 title: CCA
 permalink: /CCA/CCA/
 description: ""
+variant: markdown
 ---
 ![](/images/cca.jpg)
 
@@ -48,7 +49,7 @@ Every CCA a Champion CCA, Impacting the Community
 </thead>
 <tbody>
   <tr>
-    <td class="tg-wk8r"><a href="/CCA/Sports-and-Games/Badminton/"><img style="width:85%" src="/images/badminton.jpg"></a><a href="/Sports-and-Games/Badminton/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;text-decoration:underline">Badminton</span></a></td>
+    <td class="tg-wk8r"><a href="/CCA/Sports-and-Games/Badminton/"><img style="width:85%" src="/images/badminton.jpg"></a><a href="/CCA/Sports-and-Games/Badminton/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;text-decoration:underline">Badminton</span></a></td>
     <td class="tg-wk8r"><a href="/CCA/Sports-and-Games/Basketball/"><img style="width:85%" src="/images/Basketball.jpg"></a><a href="/CCA/Sports-and-Games/Basketball/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;text-decoration:underline">Basketball</span></a></td>
     <td class="tg-wk8r"><a href="/CCA/Sports-and-Games/Bowling/"><img style="width:85%" src="/images/Bowling.jpg"></a><a href="/CCA/Sports-and-Games/Bowling/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;text-decoration:underline">Bowling</span></a></td>
   </tr>
