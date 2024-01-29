@@ -1,5 +1,5 @@
 title: Northbrooks Secondary School
-url: https://www.open.gov.sg
+url: https://northbrookssec.moe.edu.sg
 favicon: /images/northbrookslogo Small.jpeg
 colors:
   primary-color: "#1537a2"
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: year-end-books-and-uniform-sales-information
+google_analytics_ga4: ""
