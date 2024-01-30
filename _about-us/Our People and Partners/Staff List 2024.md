@@ -2166,7 +2166,7 @@ variant: tiptap
 <p>Ahmad Tarmizi Bin Ishak</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Education Workshop Instructor (EWI)</p>
+<p>STEM Instructor (Workshop)</p>
 </td>
 </tr>
 <tr>
@@ -2180,7 +2180,7 @@ variant: tiptap
 <p>Shahrin Bin Mansor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Education Workshop Instructor (EWI)</p>
+<p>STEM Instructor (Workshop)</p>
 </td>
 </tr>
 <tr>
@@ -2194,7 +2194,7 @@ variant: tiptap
 <p>Joyce Cheah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer (TSO)</p>
+<p>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
@@ -2208,7 +2208,7 @@ variant: tiptap
 <p>Qamarul Huda Binte Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer (TSO)</p>
+<p>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
