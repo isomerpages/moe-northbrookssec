@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Teachers.md
-      - Frequently Asked Questions.md
       - Privacy Statement.md
