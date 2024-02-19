@@ -2,7 +2,6 @@ collections:
   archive:
     output: true
     order:
-      - Tour @ Northbrooks.md
       - Staff List 2022.md
       - "Care & Learning Behavioural Support Team: Working Time and Venue.md"
       - LLP/Environment.md
