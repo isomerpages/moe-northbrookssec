@@ -343,6 +343,20 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fariza Begum Binte Mohamed Zabir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/PE &amp; CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -879,7 +893,7 @@ variant: tiptap
 <p>Loh Mew Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p>KP Advisor</p>
 </td>
 </tr>
 <tr>
@@ -1750,7 +1764,7 @@ variant: tiptap
 <p>Paik Poh Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Computer Application Teacher</p>
+<p>Computer Applications Teacher</p>
 </td>
 </tr>
 <tr>
@@ -1765,20 +1779,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mathematics &amp; Physics Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ramesh s/o Ramalingam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PE Teacher</p>
 </td>
 </tr>
 <tr>
@@ -1887,10 +1887,10 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yee Nam Siong</p>
+<p>Timothy Swee Wei Qiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chemistry Teacher</p>
+<p>Science Teacher</p>
 </td>
 </tr>
 <tr>
@@ -1898,13 +1898,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chen Songjie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chinese Language Teacher</p>
 </td>
 </tr>
 <tr>
