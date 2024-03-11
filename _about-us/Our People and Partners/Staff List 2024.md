@@ -1750,7 +1750,7 @@ variant: tiptap
 <p>Paik Poh Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Computer Application Teacher</p>
+<p>Computer Applications Teacher</p>
 </td>
 </tr>
 <tr>
