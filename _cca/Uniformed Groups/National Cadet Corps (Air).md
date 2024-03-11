@@ -17,7 +17,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20Website%202.png">
 </div>
 <h3>Training Day / Time</h3>
-<p>Wednesdays, 3.00pm - 6.00pm</p>
+<p>Wednesdays, 3.30pm - 6.00pm</p>
 <p>Northbrooks Secondary School NCC (Air) unit aims to develop disciplined
 and responsible cadets who possess strong leadership qualities and values
 such as integrity, teamwork and fortitude. This is done through various
@@ -30,7 +30,7 @@ activities such as:</p>
 <p>Individual Field Craft,&nbsp;</p>
 </li>
 <li>
-<p>orienteering,</p>
+<p>Flight Experience programme,</p>
 </li>
 <li>
 <p>Wings programme,</p>
@@ -101,14 +101,34 @@ by conducting VIA activities.</p>
 <p>Aeromodelling programme (Junior Cadets, Senior Cadets, Cadet Leaders)</p>
 </li>
 </ul>
-<h3>Achievements:</h3>
+<h4>Achievements:<br><br>2023</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Unit Recognition – Distinction</p>
+</li>
+<li>
+<p>Air Competition (Paper Glider – Longest Time Aloft) - Third</p>
+</li>
+</ul>
+<h4>2022</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Unit Recognition – Accomplishment</p>
+</li>
+</ul>
+<h4>2021</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Unit Recognition – Accomplishment</p>
+</li>
+</ul>
 <h4>2019</h4>
 <ul>
 <li>
-<p>Unit Recognition - Acoomplishment</p>
+<p>Unit Recognition - Accomplishment</p>
 </li>
 <li>
-<p>Air COmpetition (Catapult Launched Glider) - Third &nbsp;</p>
+<p>Air Competition (Catapult Launched Glider) - Third &nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/NCC1.jpeg">
 </div>
