@@ -4,4 +4,124 @@ permalink: /about-us/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/about_us.jpg"></div><h1>About Us</h1><h3>The Beginning</h3><p>Northbrooks Secondary School started at the dawn of a new millennium on 2 January 2000 with eight Secondary 1 classes. Built at a cost of over S$23 million, the School is fully-equipped with IT facilities and is set amidst in the beautiful natural surroundings of Yishun Park.</p><p>The School is united in its desire to do its very best for its pupils and to prepare them for the future knowledge-based workplace. Besides developing their capacity to learn, the School will also focus on building the character of its pupils and helping them to develop compassion for others.</p><p>The name Northbrooks is derived from the Yuan Dynasty proverb yin shui si yuan. This is one of the core moral values inculcated in all Brooksians: to always remember their roots and to be grateful to their family, teachers, friends and country for the success they achieve in life.</p><h3>School Information</h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Principal:</p></th><th rowspan="1" colspan="2"><p>MR DAVID LAU YAN BOON</p></th></tr><tr><td rowspan="1" colspan="1"><p>Vice Principal 1:<br>Vice Principal 2:<br>Vice Principal (Administration):</p></td><td rowspan="1" colspan="2"><p>MS GOH PEISHI<br>MR DANIEL YIP KOK HOONG<br>MR SAHRIL BIN YAHYA</p></td></tr><tr><td rowspan="1" colspan="1"><p>Type of School:</p></td><td rowspan="1" colspan="2"><p>GOVERNMENT SCHOOL/ MIXED SCHOOL/ SINGLE SESSION</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mother Tongue:</p></td><td rowspan="1" colspan="2"><p>CHINESE/ MALAY/ TAMIL</p></td></tr><tr><td rowspan="2" colspan="1"><p>Subjects Offered:<br><br></p></td><td rowspan="1" colspan="1"><p>• ADDITIONAL MATHEMATICS,<br>• ART,<br>• BASIC CHINESE,<br>• BASIC MALAY,<br>• BIOLOGY,<br>• CHEMISTRY,<br>• CHINESE,<br>• CHINESE B,<br>• CHINESE N(A),<br>• CIVICS &amp; MORAL EDUCATION,<br>• COMBINED HUMANITIES (S,L),<br>• COMBINED HUMANITIES (S,G),<br>• COMBINED HUMANITIES (S,H),<br>• COMPUTER APPLICATIONS,<br>• DESIGN &amp; TECHNOLOGY,<br>• ELEMENTS OF BUSINESS SKILLS,<br>• ENGLISH LANGUAGE,<br>• ENGLISH LANGUAGE (SYLL A),<br>• ENGLISH LANGUAGE (SYLL T),<br><br></p></td><td rowspan="1" colspan="1"><p>• NUTRITION &amp; FOOD SCIENCE,<br>• LITERATURE(E),<br>• MALAY,<br>• MALAY N(A),<br>• MATHEMATICS,<br>• MATHEMATICS (SYLLABUS A),<br>• MATHEMATICS (SYLLABUS T),<br>• MUSIC<br>• PHYSICS,<br>• SCIENCE,<br>• SCIENCE (PHY, CHEM),<br>• SCIENCE (CHEM, BIO),<br>• SCIENCE (PHY, BIO),<br>• SCIENCE (SYLL T),<br>• SOCIAL STUDIES,<br><br><br></p></td></tr><tr><td rowspan="1" colspan="2"><p>Note:<br>• The subjects below are offered to the current student cohort. They may change for subsequent intakes.<br>• Students taking Tamil Language will have to attend lessons at the nearest Tamil Language Centre after school. See the list of designated centres.</p></td></tr></tbody></table><p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/about_us.jpg">
+</div>
+<h1>About Us</h1>
+<h3>The Beginning</h3>
+<p>Northbrooks Secondary School started at the dawn of a new millennium on
+2 January 2000 with eight Secondary 1 classes. Built at a cost of over
+S$23 million, the School is fully-equipped with IT facilities and is set
+amidst in the beautiful natural surroundings of Yishun Park.m kmkm</p>
+<p>The School is united in its desire to do its very best for its pupils
+and to prepare them for the future knowledge-based workplace. Besides developing
+their capacity to learn, the School will also focus on building the character
+of its pupils and helping them to develop compassion for others.</p>
+<p>The name Northbrooks is derived from the Yuan Dynasty proverb yin shui
+si yuan. This is one of the core moral values inculcated in all Brooksians:
+to always remember their roots and to be grateful to their family, teachers,
+friends and country for the success they achieve in life.</p>
+<h3>School Information</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Principal:</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>MR DAVID LAU YAN BOON</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Principal 1:
+<br>Vice Principal 2:
+<br>Vice Principal (Administration):</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>MS GOH PEISHI
+<br>MR DANIEL YIP KOK HOONG
+<br>MR SAHRIL BIN YAHYA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Type of School:</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>GOVERNMENT SCHOOL/ MIXED SCHOOL/ SINGLE SESSION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue:</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>CHINESE/ MALAY/ TAMIL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Subjects Offered:
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• ADDITIONAL MATHEMATICS,
+<br>• ART,
+<br>• BASIC CHINESE,
+<br>• BASIC MALAY,
+<br>• BIOLOGY,
+<br>• CHEMISTRY,
+<br>• CHINESE,
+<br>• CHINESE B,
+<br>• CHINESE N(A),
+<br>• CIVICS &amp; MORAL EDUCATION,
+<br>• COMBINED HUMANITIES (S,L),
+<br>• COMBINED HUMANITIES (S,G),
+<br>• COMBINED HUMANITIES (S,H),
+<br>• COMPUTER APPLICATIONS,
+<br>• DESIGN &amp; TECHNOLOGY,
+<br>• ELEMENTS OF BUSINESS SKILLS,
+<br>• ENGLISH LANGUAGE,
+<br>• ENGLISH LANGUAGE (SYLL A),
+<br>• ENGLISH LANGUAGE (SYLL T),
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• NUTRITION &amp; FOOD SCIENCE,
+<br>• LITERATURE(E),
+<br>• MALAY,
+<br>• MALAY N(A),
+<br>• MATHEMATICS,
+<br>• MATHEMATICS (SYLLABUS A),
+<br>• MATHEMATICS (SYLLABUS T),
+<br>• MUSIC
+<br>• PHYSICS,
+<br>• SCIENCE,
+<br>• SCIENCE (PHY, CHEM),
+<br>• SCIENCE (CHEM, BIO),
+<br>• SCIENCE (PHY, BIO),
+<br>• SCIENCE (SYLL T),
+<br>• SOCIAL STUDIES,
+<br>
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Note:
+<br>• The subjects below are offered to the current student cohort. They may
+change for subsequent intakes.
+<br>• Students taking Tamil Language will have to attend lessons at the nearest
+Tamil Language Centre after school. See the list of designated centres.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
