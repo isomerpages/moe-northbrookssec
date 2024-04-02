@@ -3,10 +3,12 @@ title: Infocomm Club
 permalink: /CCA/Clubs-and-Societies/Infocomm-Club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ![](/images/cca.jpg)
 
 Infocomm Club
+![](/images/Template_B___CCA_Posters__Draft_.png)
 =============
 ### Teacher-in-Charge
 
@@ -42,16 +44,16 @@ Activities in Infocomm Clubs are aligned with MOE’s Co-Curricular Activities (
 
 #### 2017  
 
-*   Schools Digital Media Awards (SDMA) - <b>Merit Award</b>
-<img src="/images/infocomm2.png" style="width:240px;height:200px;margin-left:15px;" align = "right">
+*   Schools Digital Media Awards (SDMA) -&nbsp;<b>Merit Award</b>
+<img src="/images/infocomm2.png" style="width:240px;height:200px;margin-left:15px;" align="right">
 
 #### 2014
 
-*   Singapore Heartbeat Photo Contest - <b>3rd Placing</b>
+*   Singapore Heartbeat Photo Contest -&nbsp;<b>3rd Placing</b>
 
 #### 2013
 
-*   Schools Digital Media Awards (SDMA) - <b>Merit Award</b>  
+*   Schools Digital Media Awards (SDMA) -&nbsp;<b>Merit Award</b>  
     (Secondary/Pre-University Category)
 
 #### 2011
