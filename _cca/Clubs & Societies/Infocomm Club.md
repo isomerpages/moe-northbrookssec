@@ -7,8 +7,8 @@ variant: markdown
 ---
 ![](/images/cca.jpg)
 
-Infocomm Club
-![](/images/Template_B___CCA_Posters__Draft_.png)
+# Infocomm Club
+
 =============
 ### Teacher-in-Charge
 
