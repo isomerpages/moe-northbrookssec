@@ -15,7 +15,7 @@ variant: tiptap
 <br>3. Ms Nik Chia Ji Ling (2 Teacher-in-charge)
 <br>4. Mrs Diana G. Annuar
 <br>5. Mr Joel Tan Yi Liang</p>
-<h3>Training Day / Time</h3>
+<h3>Training Day &amp; Time</h3>
 <p>Wednesdays, 3.30pm - 5.00pm
 <br>
 </p>
