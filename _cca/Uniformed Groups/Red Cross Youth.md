@@ -197,7 +197,7 @@ for learning, strong moral values and a keen sense of duty and community.</p>
 <p>Health Law</p>
 </li>
 </ul>
-<h3>Inter-unit/ UG activities</h3>
+<h3>Inter-Unit &amp; Unit Activities</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Combined UG Adventure Camp</p>
