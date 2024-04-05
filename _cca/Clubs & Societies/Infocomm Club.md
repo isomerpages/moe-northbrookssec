@@ -67,7 +67,7 @@ a common goal (Fortitude, Teamwork, Empathy, Discipline)</p>
 <h4>2013</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Schools Digital Media Awards (SDMA) -&nbsp;<strong>Merit Award</strong>
+<p>Schools Digital Media Awards (SDMA) -&nbsp;<strong>Merit Award</strong> 
 <br>(Secondary/Pre-University Category)</p>
 </li>
 </ul>
