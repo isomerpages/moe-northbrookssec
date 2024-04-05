@@ -5,10 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca.jpg">
-</div>
-<h1>National Cadet Corp (Air)</h1>
+<h1>National Cadet Corps (Air)</h1>
 <p>1. Mr Alex Ang Kok Wee (Advisor)
 <br>2. Mr Toh Chin Hwee (Teacher-in-charge)
 <br>3. Mr Wu Yueshen (2 Teacher-in-charge)
@@ -132,45 +129,6 @@ by conducting VIA activities.</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/NCC1.jpeg">
 </div>
-</li>
-</ul>
-<h4>2018</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Unit Recognition - Accomplishment</p>
-</li>
-</ul>
-<h4>2017</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Best Unit Competition - Silver</p>
-</li>
-</ul>
-<h4>2016</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Best Unit Competition - Silver</p>
-</li>
-</ul>
-<h4>2015</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Best Unit Competition - Silver</p>
-</li>
-<li>
-<p>NCC Mini League Results 2015 - 1st place for the Soccer Team</p>
-</li>
-</ul>
-<h4>2014</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Best Unit Competition - Silver</p>
-</li>
-</ul>
-<h4>2013</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Best Unit Competiton - Gold</p>
 </li>
 </ul>
 <h3>Links:</h3>
