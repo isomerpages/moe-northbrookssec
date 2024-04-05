@@ -14,7 +14,7 @@ variant: tiptap
 <br>2. Mr Ariff Bin Abdul Aziz (Teacher-in-charge)
 <br>3. Ms Jane Lee Mun Sum (2 Teacher-in-charge)
 <br>4. Mr Muralee s/o Sreedran</p>
-<h3>Training Day / Time</h3>
+<h3>Training Day &amp; Time</h3>
 <p>Wednesdays, 3.30pm - 6.30pm</p>
 <h3>Mission &amp; Vision</h3>
 <p>The MISSION of the National Police Cadet Corps is to develop our members
