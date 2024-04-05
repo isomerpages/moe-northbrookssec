@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Physical Sports
 variant: tiptap
 ---
-<h1>Bowling</h1>
-<h3>Teacher-in-Charge</h3>
+<h3>Teachers-in-Charge</h3>
 <p>1. Mr Alex Ang Kok Wee (Advisor)
 <br>2. Mr Ramthan Bin Ab Wahid (Teacher-in-charge)
 <br>3. Ms Lim Xin Yi (2 Teacher-in-charge)
