@@ -87,7 +87,7 @@ CCAs)</p>
 (Senior Band/ Team B) received the Certificate of Accomplishment Concert
 Bands (Secondary School Level) Category</p>
 <h4>2019</h4>
-<p><strong><u>SYF Arts Presentation</u></strong>: Northbrooks Concert Band
-received the Certificate of Accomplishment Concert Bands (Secondary School
-Level) Category</p>
-<p>udging (Bronze)</p>
+<p><strong><u>SYF Arts Presentation: </u></strong>Northbrooks Concert Band
+received a Certificate of Accomplishment in the Concert Bands (Secondary
+School Level) Category.</p>
+<p></p>
