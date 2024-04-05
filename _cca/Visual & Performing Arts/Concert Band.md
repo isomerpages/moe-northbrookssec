@@ -15,7 +15,7 @@ variant: tiptap
 <br>3. Ms Chee Yuan Leng (2 Teacher-in-charge)
 <br>4. Ms Lim Shu Qing, Carine
 <br>5. Mdm Nuraida Bte Ajmaain</p>
-<h3>Training Day / Time</h3>
+<h3>Training Day &amp; Time</h3>
 <p>Mondays
 <br>3:30 to 6:30 p.m.</p>
 <p>Thursdays
