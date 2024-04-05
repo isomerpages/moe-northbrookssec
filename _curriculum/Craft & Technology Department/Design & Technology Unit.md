@@ -3,46 +3,64 @@ title: Design & Technology Unit
 permalink: /curriculum/Craft-and-Technology-Department/Design-and-technology-unit/
 description: ""
 third_nav_title: Craft & Technology Department
+variant: tiptap
 ---
-![](/images/curriculum.jpg)
-
-Design & Technology Unit
-========================
-
-The D&T Unit in Northbrooks Secondary School aims to develop passionate, innovative and self-directed learners through a progressive 4-year experiential-based programme to widen their learning of design.
-
-#### The programme for each level is as follows:
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-3tkj{background-color:#E6C20C;color:#141D1C;font-size:20px;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-3tkj">Levels</th>
-    <th class="tg-3tkj">Programme</th>
-    <th class="tg-3tkj"> Activities</th>
-  </tr>
-</thead>
+<p>The D&amp;T Unit&nbsp;aims to develop passionate, innovative and self-directed
+learners through a progressive 4-year experiential-based programme to widen
+their learning of design.</p>
+<h4>The programme for each level is as follows:</h4>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-9hzb"><span style="color:#000"> </span>Lower Seondary</td>
-    <td class="tg-ktyi"><span style="font-weight:bold">Focus:</span> <span style="color:#000">Building student's confidence in Ideation and Sketching.</span><br><span style="color:#000"> </span><br><span style="font-weight:bold">Approach:</span> <span style="color:#000">Through the use of templates and teacher's demonstration of the design task.</span><br><span style="color:#000"> </span></td>
-    <td class="tg-ktyi"><span style="color:#000">Sec 1 - Mobile Phone Holder</span><br><span style="color:#000"> </span><br><span style="color:#000">Sec 2 - Tape Dispenser</span></td>
-  </tr>
-  <tr>
-    <td class="tg-9hzb"><span style="color:#000">Upper Secondary</span></td>
-    <td class="tg-ktyi"><span style="font-weight:bold">Focus:</span> <span style="color:#000">Building on student's critical problem solving skills through Design Thinking.</span><br><span style="color:#000"> </span><br><span style="font-weight:bold">Approach</span><span style="font-weight:bold;color:#000">:</span><br><span style="color:#000">Through structured and guided  D&amp;T programme.</span></td>
-    <td class="tg-ktyi"><span style="color:#000">Sec 3 - Accessories Holder/ Family Communication Board.</span><br><span style="color:#000"> </span><br><span style="color:#000">Sec 4/5 - Coursework</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Levels</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Activities</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lower Seondary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Focus:</strong> Building student's confidence in Ideation and Sketching.
+<br>
+<br><strong>Approach:</strong> Through the use of templates and teacher's demonstration
+of the design task.
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 - Mobile Phone Holder
+<br>
+<br>Sec 2 - Tape Dispenser</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Focus:</strong> Building on student's critical problem solving
+skills through Design Thinking.
+<br>
+<br><strong>Approach:</strong>
+<br>Through structured and guided D&amp;T programme.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3 - Accessories Holder/ Family Communication Board.
+<br>
+<br>Sec 4/5 - Coursework</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-#### Here are some of our Lower and Upper Secondary students' projects over the years:
-![](/images/DandT.gif)
+<h4>Here are some of our Lower and Upper Secondary students' projects over the years:</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DandT.gif">
+</div>
+<p></p>
