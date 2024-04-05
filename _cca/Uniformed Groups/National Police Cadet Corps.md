@@ -39,7 +39,7 @@ tradition of high standards of performance, commitment, duty and service,
 to seek to excel and to face up to challenge</p>
 </li>
 </ul>
-<h3>Key Programmes </h3>
+<h3>Key Programmes</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Campcraft and drills</p>
