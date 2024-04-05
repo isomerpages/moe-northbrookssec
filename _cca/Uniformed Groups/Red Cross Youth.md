@@ -14,7 +14,7 @@ variant: tiptap
 <br>2. Mr Timothy Ting (Teacher-in-charge)
 <br>3. Mr Muhammad Bin Parjo (2 Teacher-in-charge)
 <br>4. Ms Yang Tianxi</p>
-<h3>Training Day / Time</h3>
+<h3>Training Day &amp; Time</h3>
 <p>Wednesday, 3.30pm - 6.30pm</p>
 <h3>Objectives</h3>
 <p>Red Cross Youth (Singapore) seeks to:</p>
