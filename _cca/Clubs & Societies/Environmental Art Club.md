@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
-<h1>Environmental Art Club</h1>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/artclub.png">
 </div>
@@ -13,7 +13,7 @@ variant: tiptap
 <p>1.&nbsp;Mr Alex Ang Kok Wee (Advisor)
 <br>2.&nbsp;Ms Siti Liana Bt Hashim (Teacher-in-charge)
 <br>3.&nbsp;Mrs Celine Goh&nbsp;(2 Teacher-in-charge)</p>
-<h3>Training Day / Time</h3>
+<h3>Training Day &amp; Time</h3>
 <p>Mondays, 3.30pm - 5.30pm</p>
 <p>Not an ordinary art club. In the Environmental Art Club, you choose your
 projects through learning and applying. You become environmental ambassadors.</p>
@@ -93,7 +93,7 @@ and a chance at making good memories.</p>
 <hr>
 <p><strong>Student’s Experience</strong>
 </p>
-<p>Since the start of secondary 1, this CCA has been a fun and creative space
+<p>Since the start of Secondary 1, this CCA has been a fun and creative space
 for me to express myself. It has been a positive experience for me as well
 as in making great friends in this process.</p>
 <p>EAC has given me the opportunity to improve my leadership skills and allowed
