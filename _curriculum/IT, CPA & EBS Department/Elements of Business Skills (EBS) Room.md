@@ -5,7 +5,6 @@ description: ""
 third_nav_title: IT, CPA & EBS Department
 variant: tiptap
 ---
-<h2>Elements of Business Skills (EBS) Room</h2>
 <h5>Northbrooks’ Elements of Business Skills (EBS) Room - Textbook coming alive for Upper Secondary NT Students</h5>
 <p>The EBS Room will be an exciting learning station to showcase the service
 industries (retail, hospitality and travel &amp; tourism) introduced in
