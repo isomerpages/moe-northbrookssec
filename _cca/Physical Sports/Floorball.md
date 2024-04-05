@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Physical Sports
 variant: tiptap
 ---
-<h1>Floorball</h1>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/floorball.jpeg">
 </div>
@@ -85,85 +85,6 @@ a common goal (Fortitude, Teamwork, Empathy, Discipline)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/floorball2.png">
 </div>
-<h4>2015</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>National Floorball 'C' Division Championships - Top 10</p>
-</li>
-</ul>
-<h4>2014</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>National Schools Floorball Championship: 2nd Round (9th / 10th)</p>
-</li>
-</ul>
-<h4>2013</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>National Schools Floorball Championship: 2nd Round (11th / 12th)</p>
-</li>
-</ul>
-<h4>2012</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Top 4 placing in the National Schools Floorball Championship</p>
-</li>
-</ul>
-<h4>2011</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Top 6 placing in the National Schools Floorball Championship</p>
-</li>
-</ul>
-<h4>2010</h4>
-<ul>
-<li>
-<p>4th placing in the Tampines West CDC U19 Floorball Tournament (Girls)</p>
-</li>
-<li>
-<p>2th placing in the Tampines West CDC U19 Floorball Tournament (Boys)</p>
-</li>
-</ul>
-<h4>2007</h4>
-<ul>
-<li>
-<p>4th placing in the National Interschool Floorball Championship</p>
-</li>
-<li>
-<p>3rd placing in the Singapore Polytechnic Floorball Competition</p>
-</li>
-<li>
-<p>2nd placing in the Singapore River Raft Race Floorball Competitition</p>
-</li>
-</ul>
-<p>Congratulations to the 'B' Boys floorball team for receiving Northzone
-Colour Awards for the first time in 2007. On top of that, 3 of our Brooksian
-floorball players received individual Northzone Colour Awards for their
-outstanding contributions:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Syazni Ramlee&nbsp;</p>
-</li>
-<li>
-<p>Amir Mustaffa</p>
-</li>
-<li>
-<p>Iskandar Shah</p>
-</li>
-</ul>
-<p>Congratulations also to these boys who have been successfully selected
-for the Singapore Combined School Floorball Team 2008:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mohd Nazr, 4I</p>
-</li>
-<li>
-<p>Abdul Syafiq, 4T</p>
-</li>
-<li>
-<p>Mohd Amir, 4E</p>
-</li>
-</ul>
-<p>2nd placing in the Singapore Raft River Race Floorball Open on 19 – 20th
-May 2007-6-29
-<br>Participated in the 1st National Interschool Floorball Championship 2007</p>
+<h4></h4>
+<h4></h4>
+<p>Championship 2007</p>
