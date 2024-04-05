@@ -5,13 +5,14 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: tiptap
 ---
-<h1>Visual &amp; Performing Arts</h1>
-<h3>Core Focus</h3>
+<h3>Introduction</h3>
 <p>Performing Arts CCAs provide opportunities for students to develop a lifelong
 passion for the arts. Performing Arts CCAs also nurture students’ creative
 expression, enrich social, cultural and historical awareness, and build
-character. There are four main learning outcomes for Performing Arts CCAs.
-They are :</p>
+character.</p>
+<p></p>
+<p>There are four main learning outcomes for Performing Arts CCAs. They are
+:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Appreciation – Students are involved in discussion and relating to the
