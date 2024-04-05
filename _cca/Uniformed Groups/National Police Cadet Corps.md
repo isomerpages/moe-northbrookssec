@@ -75,7 +75,7 @@ to seek to excel and to face up to challenge</p>
 <br><strong>Student Class</strong>(<strong>Class</strong>&nbsp;/&nbsp;<strong>Year</strong>):
 4T 2019
 <br><strong>Student role in CCA</strong>: Sec 2 IC</p>
-<p><strong>Student’s Experience:</strong>
+<p><strong>Student’s Experience:</strong> 
 <br>It's been a&nbsp;brilliant 4&nbsp;years being in NPCC and all the&nbsp;activities&nbsp;that
 i&nbsp;couldn't&nbsp;believe&nbsp;doing made it&nbsp;viable in this&nbsp;CCA.
 NPCC has provided me opportunities to grow and&nbsp;develop into a better
