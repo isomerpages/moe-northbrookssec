@@ -108,7 +108,7 @@ physical and aesthetic domains.</p>
 <div class="isomer-image-wrapper">
 <img style="width:96%" height="auto" width="100%" src="/images/Yfc.jpg">
 </div>
-<p><strong><a href="/CCA/Clubs-and-Societies/Youth-Flying-Club/" rel="noopener noreferrer" target="_blank"><u>Youth Flying Club</u></a></strong>
+<p><strong><a href="/CCA/Clubs-and-Societies/Youth-Flying-Club/" rel="noopener noreferrer" target="_blank"><u>Youth Flying Club</u></a></strong> 
 <br>
 </p>
 </td>
@@ -152,7 +152,7 @@ physical and aesthetic domains.</p>
 <div class="isomer-image-wrapper">
 <img style="width:150%" height="auto" width="100%" src="/images/Bb.jpg">
 </div>
-<p><strong><a href="/CCA/Uniformed-Groups/Boys-Brigade/" rel="noopener noreferrer" target="_blank"><u>Boys’ Brigade</u></a></strong>
+<p><strong><a href="/CCA/Uniformed-Groups/Boys-Brigade/" rel="noopener noreferrer" target="_blank"><u>Boys’ Brigade</u></a></strong> 
 <br>
 </p>
 </td>
@@ -226,7 +226,7 @@ physical and aesthetic domains.</p>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/MD.jpg">
 </div>
-<p><strong><a href="/CCA/Visual-and-Performing-Arts/Modern-Dance/" rel="noopener noreferrer" target="_blank"><u>Modern Dance</u></a></strong>
+<p><strong><a href="/CCA/Visual-and-Performing-Arts/Modern-Dance/" rel="noopener noreferrer" target="_blank"><u>Modern Dance</u></a></strong> 
 <br>
 </p>
 </td>
