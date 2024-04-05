@@ -13,7 +13,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20Website%202.png">
 </div>
-<h3>Training Day / Time</h3>
+<h3>Training Day &amp; Time</h3>
 <p>Wednesdays, 3.30pm - 6.00pm</p>
 <p>Northbrooks Secondary School NCC (Air) unit aims to develop disciplined
 and responsible cadets who possess strong leadership qualities and values
