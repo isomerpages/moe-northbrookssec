@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h1>National Police Cadet Corps</h1>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/NPCC%202020.png">
 </div>
@@ -39,7 +39,7 @@ tradition of high standards of performance, commitment, duty and service,
 to seek to excel and to face up to challenge</p>
 </li>
 </ul>
-<h3>Key Programmes / CCA Programme Structure</h3>
+<h3>Key Programmes </h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Campcraft and drills</p>
