@@ -14,7 +14,7 @@ variant: tiptap
 <br>2. Ms Chelsea Mun Jie Yi, Carine (Teacher-in-charge)
 <br>3. Mr Huang Kee Hong
 <br>4. Ms Tan Wei Ling</p>
-<h3>Training Day / Time</h3>
+<h3>Training Day &amp; Time</h3>
 <p>Mondays, 2.30pm - 5.30pm
 <br>Alternate Saturdays, 9.00am - 12.00pm</p>
 <p>The 87th Singapore Company was officially founded on 7th Nov 2002. Since
