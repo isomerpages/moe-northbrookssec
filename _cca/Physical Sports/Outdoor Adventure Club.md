@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Physical Sports
 variant: tiptap
 ---
-<h1>Outdoor Adventure Club</h1>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC%201.jpeg">
 </div>
-<h3>Teacher-in-Charge</h3>
+<h3>Teachers-in-Charge</h3>
 <p>1. Mr Timothy Chong Wee Er (Advisor)
 <br>2. Ms Audrey Chong Jia Wen (Teacher-in-charge)
 <br>3. Ms Sharifah (2 Teacher-in-charge)
@@ -70,12 +70,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1st position - C Division Girls
+<p>1st position - 'C' Division Girls
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd position - B Division Girls</p>
+<p>2nd position - 'B' Division Girls</p>
 </td>
 </tr>
 </tbody>
@@ -129,7 +129,7 @@ variant: tiptap
 </ul>
 </li>
 </ul>
-<h4>2016&nbsp;</h4>
+<h4></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Greendale Adventure Race</p>
