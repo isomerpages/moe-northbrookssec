@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h1>National Cadet Corps (Air)</h1>
+<h3>Teachers-In-Charge</h3>
 <p>1. Mr Alex Ang Kok Wee (Advisor)
 <br>2. Mr Toh Chin Hwee (Teacher-in-charge)
 <br>3. Mr Wu Yueshen (2 Teacher-in-charge)
