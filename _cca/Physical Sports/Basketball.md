@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Physical Sports
 variant: tiptap
 ---
-<h1>Basketball</h1>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/basketball1.png">
 </div>
