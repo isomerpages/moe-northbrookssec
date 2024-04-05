@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Physical Sports
 variant: tiptap
 ---
-<h1>Physical Sports</h1>
-<h3>Core Business</h3>
+<h1></h1>
+<h3>Core Activities</h3>
 <h5>Plan and develop and monitor policies and programmes on sports co-curricular activities:</h5>
 <ul data-tight="true" class="tight">
 <li>
