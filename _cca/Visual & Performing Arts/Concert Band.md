@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: tiptap
 ---
-<h1>Concert Band</h1>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Band_2021_07.jpeg">
 </div>
@@ -16,15 +16,10 @@ variant: tiptap
 <br>4. Ms Lim Shu Qing, Carine
 <br>5. Mdm Nuraida Bte Ajmaain</p>
 <h3>Training Day / Time</h3>
-<p>Full Band</p>
 <p>Mondays
 <br>3:30 to 6:30 p.m.</p>
-<p>Junior Band</p>
 <p>Thursdays
 <br>3:30 to 6:30 p.m.</p>
-<p>Senior Band</p>
-<p>Fridays
-<br>2:30 to 4:30 p.m.</p>
 <p>In Concert Band, we offer the opportunity to learn musical skills and
 join a community that is passionate about music. Our CCA also instills
 discipline &amp; fortitude in a conducive environment to encourage our
