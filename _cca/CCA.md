@@ -2,154 +2,238 @@
 title: CCA
 permalink: /CCA/CCA/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-![](/images/cca.jpg)
-
-
-CCA
-===
-![](/images/CCA%202022.png)
-
-Co-curricular activities (CCA) allow students to not only learn new skills and knowledge, but also allow students to put into practice their skills and knowledge learnt in their CCAs. This in turn allows students to widen their experiences developing them to be future-ready with a keen desire for life-long learning.
-
-  
-
-In Northbrooks, we strive to instil in every Brooksian resilience and a growth mindset. To equip our students with social-emotional competencies, we strive to create a strong sense of belonging to school and good relationships between peers and teachers. To nurture in every student the tenacity to earnestly learn, constantly improve and courageously bounce back in the face of challenges, we believe that we are preparing them to achieve success in life. We recognised the potential and needs of every students is unique and different, thus in the 4 or 5 years, we take heart and time to nurture every Brooksian by capitalising on their strengths.
-
-### <center> CCA Vision </center>
-
-Every CCA a Champion CCA, Impacting the Community
-
-### <center> CCA Objectives </center>
-
-*   Develop experiential learning opportunities through participation in one of the four categories of CCA : Uniformed Group, Sports, Performing Arts and Clubs and Societies
-*   Progression of development in skills and abilities through structured levels of attainment and opportunities for competition within each year over 4-5 years
-*   Provides balance development through cognitive, social-moral, leadership, physical and aesthetic domains.
-
-
-
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-q1lq{background-color:#e6c20c;border-color:#ffffff;color:#333;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-wk8r{background-color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-q1lq" colspan="3">Sports &amp; Games</th>
-  </tr>
-</thead>
+<h1>CCA</h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%202022.png">
+</div>
+<p>Co-curricular activities (CCA) allow students to not only learn new skills
+and knowledge, but also allow students to put into practice their skills
+and knowledge learnt in their CCAs. This in turn allows students to widen
+their experiences developing them to be future-ready with a keen desire
+for life-long learning.</p>
+<p>In Northbrooks, we strive to instil in every Brooksian resilience and
+a growth mindset. To equip our students with social-emotional competencies,
+we strive to create a strong sense of belonging to school and good relationships
+between peers and teachers. To nurture in every student the tenacity to
+earnestly learn, constantly improve and courageously bounce back in the
+face of challenges, we believe that we are preparing them to achieve success
+in life. We recognised the potential and needs of every students is unique
+and different, thus in the 4 or 5 years, we take heart and time to nurture
+every Brooksian by capitalising on their strengths.</p>
+<h3>CCA Vision</h3>
+<p>Every CCA a Champion CCA, Impacting the Community</p>
+<h3>CCA Objectives</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop experiential learning opportunities through participation in one
+of the four categories of CCA : Uniformed Group, Sports, Performing Arts
+and Clubs and Societies</p>
+</li>
+<li>
+<p>Progression of development in skills and abilities through structured
+levels of attainment and opportunities for competition within each year
+over 4-5 years</p>
+</li>
+<li>
+<p>Provides balance development through cognitive, social-moral, leadership,
+physical and aesthetic domains.</p>
+</li>
+</ul>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-wk8r"><a href="/CCA/Sports-and-Games/Badminton/"><img style="width:85%" src="/images/badminton.jpg"></a><a href="/CCA/Sports-and-Games/Badminton/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;text-decoration:underline">Badminton</span></a></td>
-    <td class="tg-wk8r"><a href="/CCA/Sports-and-Games/Basketball/"><img style="width:85%" src="/images/Basketball.jpg"></a><a href="/CCA/Sports-and-Games/Basketball/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;text-decoration:underline">Basketball</span></a></td>
-    <td class="tg-wk8r"><a href="/CCA/Sports-and-Games/Bowling/"><img style="width:85%" src="/images/Bowling.jpg"></a><a href="/CCA/Sports-and-Games/Bowling/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;text-decoration:underline">Bowling</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-wk8r"><a href="/CCA/Sports-and-Games/Floorball/"><img style="width:85%" src="/images/Floorball.jpg"></a><a href="/CCA/Sports-and-Games/Floorball/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;text-decoration:underline">Floorball</span></a></td>
-    <td class="tg-wk8r"><a href="/CCA/Sports-and-Games/Outdoor-Adventure-Club/"><img style="width:85%" src="/images/Odac.jpg"></a><a href="/CCA/Sports-and-Games/Outdoor-Adventure-Club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;text-decoration:underline">Outdoor Adventure Club</span></a></td>
-    <td class="tg-oe15"></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Sports &amp; Games</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton.jpg">
+</div>
+<p><strong><a href="/CCA/Sports-and-Games/Badminton/" rel="noopener noreferrer" target="_blank"><u>Badminton</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/Basketball.jpg">
+</div>
+<p><strong><a href="/CCA/Sports-and-Games/Basketball/" rel="noopener noreferrer" target="_blank"><u>Basketball</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/Bowling.jpg">
+</div>
+<p><strong><a href="/CCA/Sports-and-Games/Bowling/" rel="noopener noreferrer" target="_blank"><u>Bowling</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/Floorball.jpg">
+</div>
+<p><strong><a href="/CCA/Sports-and-Games/Floorball/" rel="noopener noreferrer" target="_blank"><u>Floorball</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/Odac.jpg">
+</div>
+<p><strong><a href="/CCA/Sports-and-Games/Outdoor-Adventure-Club/" rel="noopener noreferrer" target="_blank"><u>Outdoor Adventure Club</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p>
 <br>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
-.tg .tg-wk8r{background-color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:top}
-.tg .tg-s3zw{background-color:#f8a102;border-color:#ffffff;color:#333; !important;
-  text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-s3zw" colspan="4"><span style="font-weight:bold;font-style:normal">Clubs &amp; Societies</span></th>
-  </tr>
-</thead>
+</p>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-wk8r"><a href="/CCA/Clubs-and-Societies/Youth-Flying-Club/"><img style="width:96%" src="/images/Yfc.jpg"></a><a href="/CCA/Clubs-and-Societies/Youth-Flying-Club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;text-decoration:underline">Youth Flying Club</span></a><br></td>
-    <td class="tg-wk8r"><a href="/CCA/Clubs-and-Societies/Infocomm-Club/"><img style="width:90%" src="/images/Infocomm%20club.jpg"></a><a href="/CCA/Clubs-and-Societies/Infocomm-Club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;text-decoration:underline">Infocomm Club</span></a></td>
-    <td class="tg-8jgo"><a href="/CCA/Clubs-and-Societies/AVA-club/"><img style="width:150%" src="/images/Ava.jpg"></a><a href="/CCA/Clubs-and-Societies/AVA-club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;text-decoration:underline">AVA Club</span></a></td>
-    <td class="tg-wk8r"><a href="/CCA/Clubs-and-Societies/Environmental-Art-Club/"><img style="width:90%" src="/images/Eac.jpg"></a><a href="/CCA/Clubs-and-Societies/Environmental-Art-Club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;text-decoration:underline">Environment Art Club</span></a></td>
-  </tr>
-</tbody>
-</table>
+<tr>
+<th rowspan="1" colspan="4">
+<p><strong>Clubs &amp; Societies</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:96%" height="auto" width="100%" src="/images/Yfc.jpg">
+</div>
+<p><strong><a href="/CCA/Clubs-and-Societies/Youth-Flying-Club/" rel="noopener noreferrer" target="_blank"><u>Youth Flying Club</u></a></strong>
 <br>
-
-
-	
-	
-	
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
-.tg .tg-wk8r{background-color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:top}
-.tg .tg-gdg2{background-color:#34696d;border-color:#ffffff;color:#efefef; !important;
-  text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-gdg2" colspan="4"><span style="font-weight:bold;font-style:normal">Uniformed Groups</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-wk8r"><a href="/CCA/Uniformed-Groups/Boys-Brigade/"><img style="width:150%" src="/images/Bb.jpg"></a><a href="/CCA/Uniformed-Groups/Boys-Brigade/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;text-decoration:underline">Boys’ Brigade</span></a><br></td>
-    <td class="tg-wk8r"><a href="/CCA/Uniformed-Groups/National-Cadet-Corps-Air/"><img style="width:150%" src="/images/Ncc.jpg"></a><a href="/CCA/Uniformed-Groups/National-Cadet-Corps-Air/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;text-decoration:underline">National Cadet Corp (Air)</span></a></td>
-    <td class="tg-8jgo"><a href="/CCA/Uniformed-Groups/National-Police-Cadet-Corps/"><img style="width:150%" src="/images/Npcc.jpg"></a><a href="/CCA/Uniformed-Groups/National-Police-Cadet-Corps/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;text-decoration:underline">National Police Cadet Corp</span></a></td>
-    <td class="tg-wk8r"><a href="/CCA/Uniformed-Groups/Red-Cross-Youth/"><img style="width:150%" src="/images/Rcy.jpg"></a><a href="/CCA/Uniformed-Groups/Red-Cross-Youth/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;text-decoration:underline">Red Cross Youth</span></a></td>
-  </tr>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:90%" height="auto" width="100%" src="/images/Infocomm%20club.jpg">
+</div>
+<p><strong><a href="/CCA/Clubs-and-Societies/Infocomm-Club/" rel="noopener noreferrer" target="_blank"><u>Infocomm Club</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:150%" height="auto" width="100%" src="/images/Ava.jpg">
+</div>
+<p><strong><a href="/CCA/Clubs-and-Societies/AVA-club/" rel="noopener noreferrer" target="_blank"><u>AVA Club</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:90%" height="auto" width="100%" src="/images/Eac.jpg">
+</div>
+<p><strong><a href="/CCA/Clubs-and-Societies/Environmental-Art-Club/" rel="noopener noreferrer" target="_blank"><u>Environment Art Club</u></a></strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p>
 <br>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
-.tg .tg-wk8r{background-color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:top}
-.tg .tg-ixfl{background-color:#343434;border-color:#ffffff;color:#efefef; !important;
-  text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ixfl" colspan="3"><span style="font-weight:bold;font-style:normal">Visual and Performing Arts</span></th>
-  </tr>
-</thead>
+</p>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-wk8r"><a href="/CCA/Visual-and-Performing-Arts/Concert-Band/"><img style="width:85%" src="/images/Concert.jpg"></a><a href="/CCA/Visual-and-Performing-Arts/Concert-Band/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;text-decoration:underline">Concert Band</span></a></td>
-    <td class="tg-wk8r"><a href="/CCA/Visual-and-Performing-Arts/Drama-Club/"><img style="width:85%" src="/images/Drama.jpg"></a><a href="/CCA/Visual-and-Performing-Arts/Drama-Club/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;text-decoration:underline">Drama Club</span></a></td>
-    <td class="tg-8jgo"><a href="/CCA/Visual-and-Performing-Arts/Guitar-Ensemble/"><img style="width:85%" src="/images/Guitar.jpg"></a><a href="/CCA/Visual-and-Performing-Arts/Guitar-Ensemble/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;text-decoration:underline">Guitar Ensemble</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-8jgo"><a href="/CCA/Visual-and-Performing-Arts/Guzheng-Ensemble/"><img style="width:85%" src="/images/Guzheng.jpg"></a><a href="/CCA/Visual-and-Performing-Arts/Guzheng-Ensemble/" target="_blank" rel="noopener noreferrer"><span style="font-weight:700;text-decoration:underline">Guzheng Ensemble</span></a></td>
-    <td class="tg-8jgo"><a href="/CCA/Visual-and-Performing-Arts/Modern-Dance/"><img style="width:85%" src="/images/MD.jpg"></a><a href="/CCA/Visual-and-Performing-Arts/Modern-Dance/" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;text-decoration:underline">Modern Dance</span></a><br></td>
-    <td class="tg-zv4m"></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="4">
+<p><strong>Uniformed Groups</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:150%" height="auto" width="100%" src="/images/Bb.jpg">
+</div>
+<p><strong><a href="/CCA/Uniformed-Groups/Boys-Brigade/" rel="noopener noreferrer" target="_blank"><u>Boys’ Brigade</u></a></strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:150%" height="auto" width="100%" src="/images/Ncc.jpg">
+</div>
+<p><strong><a href="/CCA/Uniformed-Groups/National-Cadet-Corps-Air/" rel="noopener noreferrer" target="_blank"><u>National Cadet Corp (Air)</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:150%" height="auto" width="100%" src="/images/Npcc.jpg">
+</div>
+<p><strong><a href="/CCA/Uniformed-Groups/National-Police-Cadet-Corps/" rel="noopener noreferrer" target="_blank"><u>National Police Cadet Corp</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:150%" height="auto" width="100%" src="/images/Rcy.jpg">
+</div>
+<p><strong><a href="/CCA/Uniformed-Groups/Red-Cross-Youth/" rel="noopener noreferrer" target="_blank"><u>Red Cross Youth</u></a></strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p>
+<br>
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>Visual and Performing Arts</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/Concert.jpg">
+</div>
+<p><strong><a href="/CCA/Visual-and-Performing-Arts/Concert-Band/" rel="noopener noreferrer" target="_blank"><u>Concert Band</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/Drama.jpg">
+</div>
+<p><strong><a href="/CCA/Visual-and-Performing-Arts/Drama-Club/" rel="noopener noreferrer" target="_blank"><u>Drama Club</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/Guitar.jpg">
+</div>
+<p><strong><a href="/CCA/Visual-and-Performing-Arts/Guitar-Ensemble/" rel="noopener noreferrer" target="_blank"><u>Guitar Ensemble</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/Guzheng.jpg">
+</div>
+<p><strong><a href="/CCA/Visual-and-Performing-Arts/Guzheng-Ensemble/" rel="noopener noreferrer" target="_blank"><u>Guzheng Ensemble</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/MD.jpg">
+</div>
+<p><strong><a href="/CCA/Visual-and-Performing-Arts/Modern-Dance/" rel="noopener noreferrer" target="_blank"><u>Modern Dance</u></a></strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
