@@ -78,7 +78,7 @@ excel.</p>
 </li>
 </ul>
 <h3>Links</h3>
-<p><a href="http://redsports.sg/" rel="noopener noreferrer nofollow" target="_blank">http://redsports.sg</a>
+<p><a href="http://redsports.sg/" rel="noopener noreferrer nofollow" target="_blank">http://redsports.sg</a> 
 <br><a href="http://www.schoolsports.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.schoolsports.sg</a>
 </p>
 <p>Note: Schoolsports link broken.</p>
