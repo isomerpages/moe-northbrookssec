@@ -10,7 +10,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20Council.jpeg">
 </div>
 <h3>Introduction</h3>
-<p>The Student Council consists of students leaders who have gone through
+<p>Our Student Council consists of students leaders who have gone through
 a rigorous selection process using the school’s Leadership Competency Index,
 interview and situational test. They are given training workshops and platforms
 to apply their skills and hone their competencies.</p>
