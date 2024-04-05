@@ -48,7 +48,7 @@ of the design task.
 <p><strong>Focus:</strong> Building on student's critical problem solving
 skills through Design Thinking.
 <br>
-<br><strong>Approach:</strong>
+<br><strong>Approach:</strong> 
 <br>Through structured and guided D&amp;T programme.</p>
 </td>
 <td rowspan="1" colspan="1">
