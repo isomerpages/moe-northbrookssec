@@ -6,8 +6,9 @@ third_nav_title: School Information
 variant: tiptap
 ---
 <h1>Principal's Message</h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:250px;height:240px;margin-right:10px;" height="auto" width="100%" src="/images/123.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Mr_David_Lau.jpg">
 </div>
 <p>A warm welcome to Northbrooks Secondary School!</p>
 <p>I feel honoured and privileged to be the Principal of Northbrooks, carrying
