@@ -10,8 +10,8 @@ locations:
       - ""
     operating_hours:
       - days: Mon - Fri
-        time: 7.00am - 6.00pm
-        description: The General Office will be closed at 5.00 pm during the school holidays
+        time: 7am - 6pm
+        description: The General Office will be closed at 5pm during the school holidays.
     maps_link: https://www.streetdirectory.com/sg/northbrooks/585-yishun-ring-road-768692/6282_126758.html
     title: Address
 contacts:
@@ -23,11 +23,12 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: https://www.facebook.com/officialnorthbrooks
+      - other: facebook.com/officialnorthbrooks
     title: Facebook
   - content:
       - phone: ""
       - email: ""
-      - other: http://instagram.com/officialnorthbrooks
+      - other: instagram.com/officialnorthbrooks
     title: Instagram
+feedback: ""
 ---
