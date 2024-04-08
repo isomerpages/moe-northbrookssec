@@ -9,18 +9,16 @@ variant: tiptap
 </div>
 <h1>About Us</h1>
 <h3>The Beginning</h3>
-<p>Northbrooks Secondary School started at the dawn of a new millennium on
-2 January 2000 with eight Secondary 1 classes. Built at a cost of over
-S$23 million, the School is fully-equipped with IT facilities and is set
-amidst in the beautiful natural surroundings of Yishun Park.m kmkm</p>
-<p>The School is united in its desire to do its very best for its pupils
-and to prepare them for the future knowledge-based workplace. Besides developing
-their capacity to learn, the School will also focus on building the character
-of its pupils and helping them to develop compassion for others.</p>
-<p>The name Northbrooks is derived from the Yuan Dynasty proverb yin shui
-si yuan. This is one of the core moral values inculcated in all Brooksians:
-to always remember their roots and to be grateful to their family, teachers,
-friends and country for the success they achieve in life.</p>
+<p>Northbrooks Secondary School was founded on 2 January 2000 with eight
+Secondary One classes.</p>
+<p>The Chinese name of Northbrooks Secondary School 思源 is derived from the
+Yuan Dynasty proverb 饮水思源. The name reminds all Brooksians to remember
+their roots and be grateful to their families, teachers, friends and countries
+for the successes they achieve.</p>
+<p>The School is united in doing its best to prepare Brooksians for the future
+knowledge-based workplace. Besides honing their capacity to learn, the
+school also focuses on building the character of Brooksians, including
+being compassionate to others.</p>
 <h3>School Information</h3>
 <table>
 <tbody>
@@ -28,8 +26,11 @@ friends and country for the success they achieve in life.</p>
 <th rowspan="1" colspan="1">
 <p>Principal:</p>
 </th>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="1">
 <p>MR DAVID LAU YAN BOON</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 <tr>
@@ -38,26 +39,35 @@ friends and country for the success they achieve in life.</p>
 <br>Vice Principal 2:
 <br>Vice Principal (Administration):</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>MS GOH PEISHI
 <br>MR DANIEL YIP KOK HOONG
 <br>MR SAHRIL BIN YAHYA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Type of School:</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>GOVERNMENT SCHOOL/ MIXED SCHOOL/ SINGLE SESSION</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mother Tongue:</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>CHINESE/ MALAY/ TAMIL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -68,58 +78,92 @@ friends and country for the success they achieve in life.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• ADDITIONAL MATHEMATICS,
-<br>• ART,
-<br>• BASIC CHINESE,
-<br>• BASIC MALAY,
-<br>• BIOLOGY,
-<br>• CHEMISTRY,
-<br>• CHINESE,
-<br>• CHINESE B,
-<br>• CHINESE N(A),
-<br>• CIVICS &amp; MORAL EDUCATION,
-<br>• COMBINED HUMANITIES (S,L),
-<br>• COMBINED HUMANITIES (S,G),
-<br>• COMBINED HUMANITIES (S,H),
-<br>• COMPUTER APPLICATIONS,
-<br>• DESIGN &amp; TECHNOLOGY,
-<br>• ELEMENTS OF BUSINESS SKILLS,
-<br>• ENGLISH LANGUAGE,
-<br>• ENGLISH LANGUAGE (SYLL A),
-<br>• ENGLISH LANGUAGE (SYLL T),
-<br>
-<br>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Additional Mathematics</p>
+</li>
+<li>
+<p>Art</p>
+</li>
+<li>
+<p>Basic Chinese Language</p>
+</li>
+<li>
+<p>Basic Malay Language</p>
+</li>
+<li>
+<p>Biology</p>
+</li>
+<li>
+<p>Chemistry</p>
+</li>
+<li>
+<p>Chinese Language</p>
+</li>
+<li>
+<p>Chinese Language (Syllabus B)</p>
+</li>
+<li>
+<p>Computer Applications</p>
+</li>
+<li>
+<p>Design &amp; Technology</p>
+</li>
+<li>
+<p>English Language</p>
+</li>
+<li>
+<p>Humanities (Social Studies, Literature in English)</p>
+</li>
+<li>
+<p>Humanities (Social Studies, History)</p>
+</li>
+<li>
+<p>Humanities (Social Studies, Geography)</p>
+</li>
+<li>
+<p>Nutrition &amp; Food Science</p>
+</li>
+<li>
+<p>Malay</p>
+</li>
+<li>
+<p>Mathematics</p>
+</li>
+<li>
+<p>Music</p>
+</li>
+<li>
+<p>Physics</p>
+</li>
+<li>
+<p>Science</p>
+</li>
+<li>
+<p>Science (Chemistry, Physics)</p>
+</li>
+<li>
+<p>Science (Chemistry, Biology</p>
+</li>
+<li>
+<p>Science (Biology, Physics)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>• NUTRITION &amp; FOOD SCIENCE,
-<br>• LITERATURE(E),
-<br>• MALAY,
-<br>• MALAY N(A),
-<br>• MATHEMATICS,
-<br>• MATHEMATICS (SYLLABUS A),
-<br>• MATHEMATICS (SYLLABUS T),
-<br>• MUSIC
-<br>• PHYSICS,
-<br>• SCIENCE,
-<br>• SCIENCE (PHY, CHEM),
-<br>• SCIENCE (CHEM, BIO),
-<br>• SCIENCE (PHY, BIO),
-<br>• SCIENCE (SYLL T),
-<br>• SOCIAL STUDIES,
-<br>
-<br>
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Note:
-<br>• The subjects below are offered to the current student cohort. They may
+<br>• The subjects above are offered to the current student cohort. They may
 change for subsequent intakes.
 <br>• Students taking Tamil Language will have to attend lessons at the nearest
-Tamil Language Centre after school. See the list of designated centres.</p>
+Tamil Language Centre after school.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
