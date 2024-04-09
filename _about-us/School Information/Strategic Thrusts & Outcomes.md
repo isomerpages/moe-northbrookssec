@@ -3,32 +3,40 @@ title: Strategic Thrusts & Outcomes
 permalink: /about-us/School-Information/strategic-thrusts-and-outcomes/
 description: ""
 third_nav_title: School Information
+variant: tiptap
 ---
-![](/images/about_us.jpg)
-
-
-Strategic Thrusts & Outcomes
-============================
-
-### Strategic Thrusts
-
-1.  Quality Academic Experience
-    
-2.  Quality Programmes for chAMPS (Character, Aesthetics, Moral, Physical and Social) Development
-    
-3.  Quality Staff Engagement and Development
-    
-4.  Quality Partnerships
-    
-
-  
-
-### Students Outcomes
-
-1.  Confident Person
-    
-2.  Self-Directed Learner
-    
-3.  Concerned Citizen
-    
-4.  Active Contributor
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/about_us.jpg">
+</div>
+<h3>Strategic Thrusts</h3>
+<ol>
+<li>
+<p>Quality Academic Experience</p>
+</li>
+<li>
+<p>Quality Programmes for chAMPS (Character, Aesthetics, Moral, Physical
+and Social) Development</p>
+</li>
+<li>
+<p>Quality Staff Engagement and Development</p>
+</li>
+<li>
+<p>Quality Partnerships</p>
+</li>
+</ol>
+<h3>Students Outcomes</h3>
+<ol>
+<li>
+<p>Confident Person</p>
+</li>
+<li>
+<p>Self-Directed Learner</p>
+</li>
+<li>
+<p>Concerned Citizen</p>
+</li>
+<li>
+<p>Active Contributor</p>
+</li>
+</ol>
+<p></p>
