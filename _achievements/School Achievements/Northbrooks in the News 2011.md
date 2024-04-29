@@ -29,7 +29,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Changsha Evening Paper</u></strong>
+<p><strong><u>Changsha Evening Paper</u></strong> 
 <br>
 <br><a href="http://cswb.changsha.cn/CSWB/20111104/Cont_1_6_189260.htm" rel="noopener noreferrer" target="_blank"><u>Students from Singapore teach a small village primary school.</u></a>
 </p>
@@ -44,7 +44,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Xiao Xiang Morning Newspaper</u></strong>
+<p><strong><u>Xiao Xiang Morning Newspaper</u></strong> 
 <br>
 <br><a href="http://xxcb.cn/show.asp?id=1137294" rel="noopener noreferrer" target="_blank"><u>Singapore 'English Teacher' in Changsha's Village</u></a>
 </p>
@@ -64,8 +64,8 @@ variant: tiptap
 <br>He left gang, thanks to his teachers
 <br>
 <br>Northbrooks Secondary School's Special Pull-Out and Re-integration scheme.
-(<a href="/files/Vester.pdf" rel="noopener noreferrer" target="_blank"><u>English</u></a><u>/</u>
-<a href="/files/Vester_chinese.pdf" rel="noopener noreferrer" target="_blank"><u>Chinese</u>
+(<a href="/files/Vester.pdf" rel="noopener noreferrer" target="_blank"><u>English</u></a><u>/</u> 
+<a href="/files/Vester_chinese.pdf" rel="noopener noreferrer" target="_blank"><u>Chinese</u> 
 </a>)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,7 +78,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>ZB Comma</u></strong>
+<p><strong><u>ZB Comma</u></strong> 
 <br>
 <br><a href="/files/Museum_Guide_Programme_14Sept20.pdf" rel="noopener noreferrer" target="_blank"><u>Learning Chinese Culture through Museum Guide Programme</u></a>
 </p>
@@ -94,7 +94,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>ZB Comma</u></strong>
+<p><strong><u>ZB Comma</u></strong> 
 <br>
 <br><a href="/files/Chicken_Dance_4Sept10.pdf" rel="noopener noreferrer" target="_blank"><u>Students &amp; Teachers Breaking the Chicken Dance Record</u></a>
 </p>
@@ -110,7 +110,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>The New Paper</u></strong>
+<p><strong><u>The New Paper</u></strong> 
 <br>
 <br><a href="/files/CNY.pdf" rel="noopener noreferrer" target="_blank"><u>School bring CNY cheer to residents</u></a>
 </p>
