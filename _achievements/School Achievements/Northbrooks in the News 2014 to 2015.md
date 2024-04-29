@@ -49,7 +49,7 @@ other activities.</p>
 <br>
 <br>
 <br>
-<br> <strong><u>NAC Arts Education Award (Spark)</u></strong>
+<br><strong><u>NAC Arts Education Award (Spark)</u></strong>
 </p>
 <h5>On 23 October 2015</h5>
 <div class="isomer-image-wrapper">
