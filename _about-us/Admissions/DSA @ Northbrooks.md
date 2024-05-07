@@ -47,3 +47,87 @@ and Level Camps. Students who excel at the various adventure skills may
 have the opportunity to participate at a higher challenge level in various
 outdoor competitions.</p>
 <p></p>
+<p>Please refer to this document for more details about our school's DSA
+2024 selection criteria and processes： <a href="/files/Northbrooks_DSA_2024_Selection_Criteria_and_Process.pdf" rel="noopener noreferrer nofollow" target="_blank">Northbrooks DSA Selection Criteria and Processes</a>
+</p>
+<p><strong>Application Process</strong>
+</p>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from 7 May 2024, 11am
+to 3 June 2024, 3pm. For more details, please refer to MOE DSA-Sec website
+– <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+<p>&nbsp;Parents and students are encouraged to choose schools wisely based
+on the student’s aptitudes and strengths, bearing in mind the schools’
+academic and non-academic requirements, and the programmes available to
+develop the area of talent.</p>
+<p>&nbsp;Students who are successfully admitted to the school via DSA are
+expected to honour their commitment to the school and participate in the
+activities related to the talent they are selected for from year 1-4.</p>
+<p><strong>Outcome</strong>
+</p>
+<p>Applicants will be notified of the outcome of the application via a letter
+by Thursday 12 September 2024. The letter will indicate whether the applicant
+has been given a Confirmed Offer, put on the Waiting List or Unsuccessful.</p>
+<p><strong>&nbsp;Key Dates</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dates</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Process</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 May 2024 – 3 June 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DSA Application period</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 June 2024 – 9 September 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Selection and Interview period</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>By 12 September 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Release of Outcome of DSA Application</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 October 2024 – 25 October 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Preference Submission by Applicants who have received at least
+one DSA-Sec offer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Late November 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DSA-Sec Allocation Results Release</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
