@@ -48,7 +48,7 @@ have the opportunity to participate at a higher challenge level in various
 outdoor competitions.</p>
 <p></p>
 <p>Please refer to this document for more details about our school's DSA
-2024 selection criteria and processes： <a href="/files/Northbrooks_DSA_2024_Selection_Criteria_and_Process.pdf" rel="noopener noreferrer nofollow" target="_blank">Northbrooks DSA Selection Criteria and Processes</a>
+2024 selection criteria and processes: <a href="/files/Northbrooks_Sec_DSA_2024_Selection_Criteria_and_Process.pdf" rel="noopener noreferrer nofollow" target="_blank">NBrSS DSA 2024 Selection Criteria and Processes</a>
 </p>
 <p><strong>Application Process</strong>
 </p>
