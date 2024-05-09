@@ -6,110 +6,96 @@ third_nav_title: Our People and Partners
 variant: tiptap
 ---
 <h1>School Advisory Committee</h1>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<h2>                     Patron</h2>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="149" width="149" alt="Image" src="/images/Chandroo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dr. T. Chandroo" src="/images/Chandroo.jpg">
 </div>
-<p>Dr. T. Chandroo
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">PATRON</div>
+<div class="isomer-card-description">Dr. T. Chandroo</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Lawrence Yip" src="/images/Lawrence Yip.jpeg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CHAIRPERSON</div>
+<div class="isomer-card-description">Mr. Lawrence Yip</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Jayadev S/O Kesavan Narayanan Unnithan" src="/images/Jayadev.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">VICE-CHAIRPERSON</div>
+<div class="isomer-card-description">Mr Jayadev S/O Kesavan Narayanan Unnithan</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MR. MELVIN ANG PIN CHEAN" src="/images/Melvin.jpeg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MEMBER</div>
+<div class="isomer-card-description">MR. MELVIN ANG PIN CHEAN</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Chee Kwang How Dennis" src="/images/Dennis.jpeg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MEMBER</div>
+<div class="isomer-card-description">Mr Chee Kwang How Dennis</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Dinesh Vasu Dash" src="/images/Dinesh.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MEMBER</div>
+<div class="isomer-card-description">Mr Dinesh Vasu Dash</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dato’ Kuek Kien Joo Andy" src="/images/Andy.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MEMBER</div>
+<div class="isomer-card-description">Dato’ Kuek Kien Joo Andy</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Mohamad Saddiq Bin Mohamad Sa’id" src="/images/Saddiq.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MEMBER</div>
+<div class="isomer-card-description">Mr Mohamad Saddiq Bin Mohamad Sa’id</div>
+</div>
+</div>
+</div>
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<h2>School Advisory Committee</h2>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="149" width="149" alt="Image" src="/images/Lawrence%20Yip.jpg">
-</div>
-<p>Mr Lawrence Yip Wai Hon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="149" width="149" alt="Image" src="/images/Jayadev.jpg">
-</div>
-<p>Mr Jayadev S/O Kesavan Narayanan Unnithan
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<h2>                      Members</h2>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="149" width="149" alt="Image" src="/images/Melvin.jpg">
-</div>
-<p>Mr Ang Pin Chean Melvin
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="149" width="149" alt="Image" src="/images/Dennis.jpg">
-</div>
-<p>Mr Chee Kwang How Dennis
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="149" width="149" alt="Image" src="/images/Dinesh.jpg">
-</div>
-<p>Mr Dinesh Vasu Dash
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="149" width="149" alt="Image" src="/images/Andy.jpg">
-</div>
-<p>Dato’ Kuek Kien Joo Andy
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="149" width="149" alt="Image" src="/images/Saddiq.jpg">
-</div>
-<p>Mr Mohamad Saddiq Bin Mohamad Sa’id
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
