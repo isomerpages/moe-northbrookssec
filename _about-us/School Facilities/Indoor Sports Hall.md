@@ -5,9 +5,6 @@ description: ""
 third_nav_title: School Facilities
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/about_us.jpg">
-</div>
 <h1>Indoor Sports Hall</h1>
 <p>The school is excited to announce that a new Indoor Sports Hall has been
 constructed on the school premises. This new learning space will help to
