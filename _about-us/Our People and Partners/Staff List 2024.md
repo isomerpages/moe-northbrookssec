@@ -5,11 +5,14 @@ description: ""
 third_nav_title: Our People and Partners
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/about_us.jpg">
-</div>
 <h1>Staff List 2024</h1>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
