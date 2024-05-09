@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Students Web Links</p>
+<p>Web Links</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Description</p>
@@ -22,7 +22,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS) Website</a>
+<p><a href="https://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS) Website</a> 
 <br><a href="https://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://learning.moe.edu.sg</a>
 </p>
 </td>
@@ -35,7 +35,7 @@ find out more.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://sites.google.com/moe.edu.sg/ecgnbrss" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guidance Website</a>
+<p><a href="https://sites.google.com/moe.edu.sg/ecgnbrss" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guidance Website</a> 
 <br><a href="https://sites.google.com/moe.edu.sg/ecgnbrss" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/ecgnbrss</a>
 </p>
 </td>
