@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h1>Useful Links for Parents</h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -42,8 +46,8 @@ at the Primary School Leaving Examination (PSLE).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://staging.d1ogoujxhze821.amplifyapp.com/files/Additional%20Slides%20to%20Print%20as%20Handouts.pdf" rel="noopener noreferrer nofollow" target="_blank">Handouts.pdf</a>
-<br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/files/Additional%20Slides%20to%20share%20on%20cyber%20bullying.pdf" rel="noopener noreferrer nofollow" target="_blank">Slides on Cyber Bullying.pdf</a>
+<p><a href="https://staging.d1ogoujxhze821.amplifyapp.com/files/Additional%20Slides%20to%20Print%20as%20Handouts.pdf" rel="noopener noreferrer nofollow" target="_blank">Handouts.pdf</a> 
+<br><a href="https://staging.d1ogoujxhze821.amplifyapp.com/files/Additional%20Slides%20to%20share%20on%20cyber%20bullying.pdf" rel="noopener noreferrer nofollow" target="_blank">Slides on Cyber Bullying.pdf</a> 
 <br>
 </p>
 </td>
@@ -73,7 +77,11 @@ School
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -86,10 +94,10 @@ School
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.youtube.com/watch?v=D_dUaw_Bk4E" rel="noopener noreferrer nofollow" target="_blank">2 New Shows on Making Informed Choices:</a>
+<p><a href="https://www.youtube.com/watch?v=D_dUaw_Bk4E" rel="noopener noreferrer nofollow" target="_blank">2 New Shows on Making Informed Choices:</a> 
 <br>
 <br>
-<br><a href="https://www.youtube.com/watch?v=D_dUaw_Bk4E" rel="noopener noreferrer nofollow" target="_blank"><u>En Route, Onward</u></a>
+<br><a href="https://www.youtube.com/watch?v=D_dUaw_Bk4E" rel="noopener noreferrer nofollow" target="_blank"><u>En Route, Onward</u></a> 
 <br>
 <br>
 <br><a href="https://www.youtube.com/watch?v=oErCODtoqWI" rel="noopener noreferrer nofollow" target="_blank"><u>Heart To Heart Talk</u> </a>
@@ -147,7 +155,7 @@ Education Office (MOE) - Three Things About SkillsFuture</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>MOE Website</u></a>
+<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>MOE Website</u></a> 
 <br>
 </p>
 </td>
