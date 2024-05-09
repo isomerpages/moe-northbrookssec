@@ -4,7 +4,6 @@ permalink: /about-us/
 description: ""
 variant: tiptap
 ---
-<h1>About Us</h1>
 <h3>The Beginning</h3>
 <p>Northbrooks Secondary School was founded on 2 January 2000 with eight
 Secondary One classes.</p>
