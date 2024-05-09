@@ -44,7 +44,7 @@ variant: tiptap
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MR. MELVIN ANG PIN CHEAN" src="/images/Melvin.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="MR. Melvin Ang Pin Chean" src="/images/Melvin.jpeg">
 </div>
 </div>
 <div class="isomer-card-body">
