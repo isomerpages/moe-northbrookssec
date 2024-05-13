@@ -3,13 +3,9 @@ title: Digital Green Wall
 permalink: /about-us/School-Facilities/Digital-Green-Wall/
 description: ""
 third_nav_title: School Facilities
+variant: tiptap
 ---
-![](/images/about_us.jpg)
-
-Digital Green Wall
-==================
-
-
-<p><a href="https://nbrssdigitalgreenw.wixsite.com/gallery"><img style="width:100%" src="/images/digitalgreenwall.png"></a></p>
-
-To explore the Northbrooks Digital Green Wall, please go to: [https://nbrssdigitalgreenw.wixsite.com/gallery](https://nbrssdigitalgreenw.wixsite.com/gallery)
+<h1>Digital Green Wall</h1>
+<p></p>
+<p>To explore the Northbrooks Digital Green Wall, please go to:&nbsp;<a href="https://nbrssdigitalgreenw.wixsite.com/gallery" rel="noopener noreferrer nofollow" target="_blank">https://nbrssdigitalgreenw.wixsite.com/gallery</a>
+</p>

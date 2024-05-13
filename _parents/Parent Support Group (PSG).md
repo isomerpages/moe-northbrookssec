@@ -65,18 +65,14 @@ make a difference together!</p>
 <p>Mr&nbsp;Henry Ng
 <br>HOD
 <br>Internal Partners</p>
-<p><strong>PSG volunteering their time during Sec One Registration</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fishing.jpeg">
-</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:400px;height:240px;margin-left:15px;" height="auto" width="100%" src="/images/Dads%20for%20life%20.png">
 </div>
-<p>Dad's for Life(DFL) is a national fathers movement that seeks to inspire,
+<p>Dad's for Life(DFL) is a national movement for fathers that seeks to inspire,
 mobilise and involve fathers to become good influencers in the children's
 lives... for life!</p>
-<h6>Fishing at ORTO in March</h6>
+<h6>Fishing at ORTO </h6>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fishing.jpeg">
@@ -94,16 +90,9 @@ lives... for life!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Archery2.jpeg">
 </div>
-<p><strong>The PSG managed a booth yearly where students wrote messages to expressed their gratitude to their parents prior to Mothers' Day and Fathers' Day.</strong>
+<p><strong>Our PSG manages a booth yearly where students write messages to expressed their gratitude to their parents prior to Mothers' Day and Fathers' Day.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AAA1.png">
 </div>
-<p><strong>Edusave Character Award and Brooksian Core Value Award</strong>
-</p>
-<p>PSG Member Mr Oh Sze Hou (right) forming the interview panel for Sec 4/5
-Edusave Character Award (ECHA) and Brooksian Core Value (BCV) Award.</p>
-<p>ECHA was introduced by MOE in 2012 to recognise students who have demonstrated
-exemplary character and outstanding personal qualities through their daily
-behaviour.</p>
-<p>BCV is given to students who displayed the school values :GIFTED</p>
+<p></p>

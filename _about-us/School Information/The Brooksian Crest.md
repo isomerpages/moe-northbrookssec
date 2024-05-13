@@ -5,10 +5,6 @@ description: ""
 third_nav_title: School Information
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/about_us.jpg">
-</div>
-<p>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:20%" height="auto" width="100%" src="/images/1234.png">

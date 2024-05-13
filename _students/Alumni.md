@@ -2,33 +2,34 @@
 title: Alumni
 permalink: /students/alumni/
 description: ""
+variant: tiptap
 ---
-![](/images/Parentsbanner.jpg)
-
-Alumni
-======
-![](/images/alumni.jpeg)
-
-
-
-
-
-<img src="/images/alumnilogo.jpg" style="width:183px;height:290px;margin-left:15px;" align = "right">
-
-
-
-
-Northbrooks Secondary School Alumni aims to foster closer ties between the school and our former students. We hope to form a network through this site so that even when you are abroad, you will still be connected and be informed of the events in our school.  
-   
-Our Alumni is active in the following areas: 
-
-*   Typing/ Using data management
-*   Supervise classes of teachers who are on leave
-*   Tutor weak pupils in specific subjects
-*   Accompany/ supervise pupils on enrichment activities/ CCA/ CIP
-*   Coach pupils in co-curricular activities
-*   Assist in organising school functions/ special occasions/ festival celebrations
-
-  
-
-Do visit our Official Brooksian Alumni Facebook page “[Soaring Yet Rooted](https://www.facebook.com/groups/soaringyetrooted/about/)” and Instagram page “[northbrooks\_soaringyetrooted](https://www.instagram.com/northbrooks_soaringyetrooted/?hl=en)” to keep yourself updated on the events for Alumni.
+<h1>Alumni</h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alumni.jpeg">
+</div>
+<p>Northbrooks Secondary School Alumni Network aims to foster closer ties
+between the school and our former students.
+<br>&nbsp;
+<br>Our Alumni is active in the following areas:&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Typing/ Using data management</p>
+</li>
+<li>
+<p>Tutor weak pupils in specific subjects</p>
+</li>
+<li>
+<p>Accompany and supervise pupils on enrichment activities, CCA and community
+involvement programmes</p>
+</li>
+<li>
+<p>Coach pupils in co-curricular activities</p>
+</li>
+<li>
+<p>Assist in organising school functions/ special occasions/ festival celebrations</p>
+</li>
+</ul>
+<p>Do visit our Official Brooksian Alumni Facebook page, <a href="https://www.facebook.com/groups/soaringyetrooted/about/" rel="noopener noreferrer nofollow" target="_blank">Soaring Yet Rooted</a> and
+Instagram page, <a href="https://www.instagram.com/northbrooksalumni?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw==" rel="noopener noreferrer nofollow" target="_blank">Northbrooksalumni</a>,
+to keep yourself updated on events for Brooksian alumni.</p>

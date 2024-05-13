@@ -3,61 +3,99 @@ title: School Advisory Committee
 permalink: /about-us/Our-People-and-Partners/school-advisory-committee/
 description: ""
 third_nav_title: Our People and Partners
+variant: tiptap
 ---
-<img src="/images/about_us.jpg">
-
-
-School Advisory Committee
-=========================
-
-<center>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table style="undefined;table-layout: fixed; width: 528px" class="tg">
-<colgroup>
-<col style="width: 169px">
-<col style="width: 169px">
-<col style="width: 169px">
-</colgroup>
-<thead>
-  <tr>
-		<th colspan="3" class="tg-amwm"><h2>Patron</h2></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Chandroo.jpg"><span style="font-weight:400;font-style:normal">Dr. T. Chandroo</span><br></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td colspan="3" class="tg-amwm"><h2>School Advisory Committee</h2></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Lawrence%20Yip.jpg"><span style="font-weight:400;font-style:normal">Mr Lawrence Yip Wai Hon</span></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Jayadev.jpg"><span style="font-weight:400;font-style:normal">Mr Jayadev S/O Kesavan Narayanan Unnithan</span><br></td>
-  </tr>
-  <tr>
-    <td colspan="3" class="tg-amwm"><h2>Members</h2></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Melvin.jpg"><span style="font-weight:400;font-style:normal">Mr Ang Pin Chean Melvin</span><br></td>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Dennis.jpg"><span style="font-weight:400;font-style:normal">Mr Chee Kwang How Dennis</span><br></td>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Dinesh.jpg"><span style="font-weight:400;font-style:normal">Mr Dinesh Vasu Dash</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Andy.jpg"><span style="font-weight:400;font-style:normal">Dato’ Kuek Kien Joo Andy</span><br></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-baqh"><img height="149" width="149" alt="Image" src="/images/Saddiq.jpg"><span style="font-weight:400;font-style:normal">Mr Mohamad Saddiq Bin Mohamad Sa’id</span><br></td>
-  </tr>
-</tbody>
-</table></center>
+<h1>School Advisory Committee</h1>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr. T. Chandroo" src="/images/Chandroo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">PATRON</div>
+<div class="isomer-card-description">Dr. T. Chandroo</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Lawrence Yip" src="/images/Lawrence Yip.jpeg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CHAIRPERSON</div>
+<div class="isomer-card-description">Mr. Lawrence Yip</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Jayadev S/O Kesavan Narayanan Unnithan" src="/images/Jayadev.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">VICE-CHAIRPERSON</div>
+<div class="isomer-card-description">Mr Jayadev S/O Kesavan Narayanan Unnithan</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MR. Melvin Ang Pin Chean" src="/images/Melvin.jpeg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MEMBER</div>
+<div class="isomer-card-description">MR. MELVIN ANG PIN CHEAN</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Chee Kwang How Dennis" src="/images/Dennis.jpeg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MEMBER</div>
+<div class="isomer-card-description">Mr Chee Kwang How Dennis</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Dinesh Vasu Dash" src="/images/Dinesh.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MEMBER</div>
+<div class="isomer-card-description">Mr Dinesh Vasu Dash</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dato’ Kuek Kien Joo Andy" src="/images/Andy.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MEMBER</div>
+<div class="isomer-card-description">Dato’ Kuek Kien Joo Andy</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Mohamad Saddiq Bin Mohamad Sa’id" src="/images/Saddiq.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MEMBER</div>
+<div class="isomer-card-description">Mr Mohamad Saddiq Bin Mohamad Sa’id</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>

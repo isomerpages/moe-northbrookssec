@@ -4,10 +4,6 @@ permalink: /about-us/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/about_us.jpg">
-</div>
-<h1>About Us</h1>
 <h3>The Beginning</h3>
 <p>Northbrooks Secondary School was founded on 2 January 2000 with eight
 Secondary One classes.</p>
@@ -20,7 +16,11 @@ knowledge-based workplace. Besides honing their capacity to learn, the
 school also focuses on building the character of Brooksians, including
 being compassionate to others.</p>
 <h3>School Information</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -28,9 +28,6 @@ being compassionate to others.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>MR DAVID LAU YAN BOON</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -44,9 +41,6 @@ being compassionate to others.</p>
 <br>MR DANIEL YIP KOK HOONG
 <br>MR SAHRIL BIN YAHYA</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -54,9 +48,6 @@ being compassionate to others.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>GOVERNMENT SCHOOL/ MIXED SCHOOL/ SINGLE SESSION</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -66,12 +57,9 @@ being compassionate to others.</p>
 <td rowspan="1" colspan="1">
 <p>CHINESE/ MALAY/ TAMIL</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Subjects Offered:
 <br>
 <br>
@@ -150,20 +138,17 @@ being compassionate to others.</p>
 </li>
 </ul>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Note:
 <br>• The subjects above are offered to the current student cohort. They may
 change for subsequent intakes.
 <br>• Students taking Tamil Language will have to attend lessons at the nearest
 Tamil Language Centre after school.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>

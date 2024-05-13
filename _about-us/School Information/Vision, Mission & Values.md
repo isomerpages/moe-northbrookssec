@@ -5,16 +5,17 @@ description: ""
 third_nav_title: School Information
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/about_us.jpg">
-</div>
 <h3>The Brooksian Vision</h3>
 <p>Every Brooksian a Champion, Impacting the Community</p>
 <h3>The Brooksian Mission</h3>
 <p>To empower Brooksians to develop a passion for learning, strong moral
 values and a keen sense of duty and community</p>
 <h3>Our Values - What it means to be a Brooksian</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -24,7 +25,8 @@ values and a keen sense of duty and community</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Graciousness</p>
+<p><strong>Graciousness</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Polite
@@ -37,7 +39,8 @@ values and a keen sense of duty and community</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Integrity</p>
+<p><strong>Integrity</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Trustworthy
@@ -50,7 +53,8 @@ values and a keen sense of duty and community</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fortitude</p>
+<p><strong>Fortitude</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Persevere
@@ -61,7 +65,8 @@ values and a keen sense of duty and community</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teamwork</p>
+<p><strong>Teamwork</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Work well together towards a common goal
@@ -70,7 +75,8 @@ values and a keen sense of duty and community</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Empathy</p>
+<p><strong>Empathy</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Caring
@@ -82,7 +88,8 @@ values and a keen sense of duty and community</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Discipline</p>
+<p><strong>Discipline</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Self motivated

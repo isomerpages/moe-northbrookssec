@@ -1,12 +1,10 @@
 ---
-title: Sales of Books and Uniforms
+title: Sale of Books and Uniforms
 permalink: /students/current-students/permalink/
 variant: markdown
 description: ""
 third_nav_title: Current Students
 ---
-![](/images/Parentsbanner.jpg)
-
 Year End Sales of Books and Uniforms for Sec 2-4
 =====================
 
