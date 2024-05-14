@@ -2,7 +2,6 @@
 title: School Facilities
 permalink: /about-us/School-Facilities/school-facilities/
 description: ""
-third_nav_title: School Facilities
 variant: tiptap
 ---
 <h1>School Facilities</h1>
