@@ -9,6 +9,8 @@ variant: tiptap
 <p>The school is excited to announce that a new Indoor Sports Hall has been
 constructed on the school premises. This new learning space will help to
 support the holistic development of our students.</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISH%201.jpeg">
 </div>
