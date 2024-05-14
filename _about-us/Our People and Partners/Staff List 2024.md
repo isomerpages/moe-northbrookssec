@@ -206,20 +206,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Loo Min Yan Vanessa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/Maths</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1890,10 +1876,10 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Timothy Swee Wei Qiang</p>
+<p>Chen Songjie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science Teacher</p>
+<p>Chinese Language Teacher</p>
 </td>
 </tr>
 <tr>
@@ -1901,13 +1887,41 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chen Songjie</p>
+<p>Chew Junxuan Jarelyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Language Teacher</p>
+<p>Mathematics Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lok Mui Fun Angela (Mrs Angela Sim)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FCE Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bunsor Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FCE Teacher</p>
 </td>
 </tr>
 <tr>
@@ -1969,20 +1983,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phoon Hwee Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Special Educational Needs (SEN) Officer</p>
 </td>
 </tr>
 <tr>
