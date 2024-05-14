@@ -32,7 +32,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Vice-Chairperson </h4>
+<h4>Vice-Chairperson</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jayadev S/O Kesavan Narayanan Unnithan</p>
