@@ -23,8 +23,7 @@ variant: tiptap
 </p>
 <p></p>
 <h4>Sec 3</h4>
-<p><a href="/files/2024 Timetable/S3O_2024___Sec_3_Orientation__2_January_2024__v2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 Orientation Programme</a>
-</p>
+<p></p>
 <p><a href="/files/2024 Timetable/1_2024_Sem_1_TT_Odd_Sec_3G.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3G Semester 1 Odd Timetable</a>
 </p>
 <p><a href="/files/2024 Timetable/2_2024_Sem_1_TT_Even_Sec_3G.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3G Semester 1 Even Timetable</a>
@@ -85,9 +84,10 @@ variant: tiptap
 </p>
 <p></p>
 <h4>Sec 5</h4>
-<p><a href="/files/2024 Timetable/1_2024_Sem_1_TT_Odd_Sec_5.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 5 Semester 1 Odd Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Odd_Sec_5.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 5 Semester 2 Odd Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/2_2024_Sem_1_TT_Even_Sec_5.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 5 Semester 1 Even Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Even_Sec_5.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 5 Semester 2 Even Timetable</a>
 </p>
+<p></p>
 <p></p>
 <p></p>
