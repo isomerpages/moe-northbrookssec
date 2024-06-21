@@ -16,7 +16,7 @@ sections:
           url: /achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/
       background: /images/homepageeee northbrooks.gif
   - infobar:
-      title: 2024 Semester 1 Timetable
+      title: 2024 Semester 2 Timetable
       id: infobar
       button: Click here
       url: /students/Current-Students/School-Timetable/
