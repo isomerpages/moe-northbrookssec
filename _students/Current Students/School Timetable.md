@@ -23,64 +23,63 @@ variant: tiptap
 </p>
 <p></p>
 <h4>Sec 3</h4>
-<p></p>
-<p><a href="/files/2024 Timetable/1_2024_Sem_1_TT_Odd_Sec_3G.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3G Semester 1 Odd Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Odd_Sec_3G.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3G Semester 2 Odd Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/2_2024_Sem_1_TT_Even_Sec_3G.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3G Semester 1 Even Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Even_Sec_3G.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3G Semester 2 Even Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/1_2024_Sem_1_TT_Odd_Sec_3I.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3I Semester 1 Odd Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Odd_Sec_3I.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3I Semester 2 Odd Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/2_2024_Sem_1_TT_Even_Sec_3I.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3I Semester 1 Even Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Even_Sec_3I.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3I Semester 2 Even Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/1_2024_Sem_1_TT_Odd_Sec_3F.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3F Semester 1 Odd Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Odd_Sec_3F.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3F Semester 2 Odd Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/2_2024_Sem_1_TT_Even_Sec_3F.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3F Semester 1 Even Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Even_Sec_3F.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3F Semester 2 Even Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/1_2024_Sem_1_TT_Odd_Sec_3T1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3T1 Semester 1 Odd Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Odd_Sec_3T1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3T1 Semester 2 Odd Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/2_2024_Sem_1_TT_Even_Sec_3T1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3T1 Semester 1 Even Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Even_Sec_3T1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3T1 Semester 2 Even Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/1_2024_Sem_1_TT_Odd_Sec_3T2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3T2 Semester 1 Odd Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Odd_Sec_3T2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3T2 Semester 2 Odd Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/2_2024_Sem_1_TT_Even_Sec_3T2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3T2 Semester 1 Even Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Even_Sec_3T2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3T2 Semester 2 Even Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/1_2024_Sem_1_TT_Odd_Sec_3E.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3E Semester 1 Odd Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Odd_Sec_3E.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3E Semester 2 Odd Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/22024_Sem_1_TT_Even_Sec_3E.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3E Semester 1 Even Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Even_Sec_3E.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3E Semester 2 Even Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/1_2024_Sem_1_TT_Odd_Sec_3D.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3D Semester 1 Odd Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Odd_Sec_3D.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3D Semester 2 Odd Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/2_2024_Sem_1_TT_Even_Sec_3D.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3D Semester 1 Even Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Even_Sec_3D.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3D Semester 2 Even Timetable</a>
 </p>
 <p></p>
 <h4>Sec 4</h4>
-<p><a href="/files/2024 Timetable/1_2024_Sem_1_TT_Odd_Sec_4G.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4G Semester 1 Odd Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Odd_Sec_4G.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4G Semester 2 Odd Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/2_2024_Sem_1_TT_Even_Sec_4G.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4G Semester 1 Even Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Even_Sec_4G.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4G Semester 2 Even Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/1_2024_Sem_1_TT_Odd_Sec_4I.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4I Semester 1 Odd Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Odd_Sec_4I.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4I Semester 2 Odd Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/2_2024_Sem_1_TT_Even_Sec_4I.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4I Semester 1 Even Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Even_Sec_4I.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4I Semester 2 Even Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/1_2024_Sem_1_TT_Odd_Sec_4F.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4F Semester 1 Odd Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Odd_Sec_4F.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4F Semester 2 Odd Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/2_2024_Sem_1_TT_Even_Sec_4F.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4F Semester 1 Even Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Even_Sec_4F.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4F Semester 2 Even Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/1_2024_Sem_1_TT_Odd_Sec_4T1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4T1 Semester 1 Odd Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Odd_Sec_4T1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4T1 Semester 2 Odd Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/2_2024_Sem_1_TT_Even_Sec_4T1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4T1 Semester 1 Even Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Even_Sec_4T1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4T1 Semester 2 Even Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/1_2024_Sem_1_TT_Odd_Sec_4T2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4T2 Semester 1 Odd Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Odd_Sec_4T2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4T2 Semester 2 Odd Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/2_2024_Sem_1_TT_Even_Sec_4T2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4T2 Semester 1 Even Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Even_Sec_4T2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4T2 Semester 2 Even Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/1_2024_Sem_1_TT_Odd_Sec_4E.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4E Semester 1 Odd Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Odd_Sec_4E.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4E Semester 2 Odd Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/2_2024_Sem_1_TT_Even_Sec_4E.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4E Semester 1 Even Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Even_Sec_4E.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4E Semester 2 Even Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/1_2024_Sem_1_TT_Odd_Sec_4D.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4D Semester 1 Odd Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Odd_Sec_4D.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4D Semester 2 Odd Timetable</a>
 </p>
-<p><a href="/files/2024 Timetable/2_2024_Sem_1_TT_Even_Sec_4D.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4D Semester 1 Even Timetable</a>
+<p><a href="/files/2024_Sem_2_TT_Even_Sec_4D.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4D Semester 2 Even Timetable</a>
 </p>
 <p></p>
 <h4>Sec 5</h4>
