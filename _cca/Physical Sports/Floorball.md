@@ -16,16 +16,13 @@ variant: tiptap
 <br>4. Mr Eng Sze Shean
 <br>5. Ms Fariza Begum</p>
 <h3>Training Day / Time</h3>
-<p>Mondays, 3.30pm - 6.30pm
+<p>Wednesdays, 3.30pm - 6.30pm
 <br>Fridays, 2.30pm - 5.30pm</p>
-<p>Floorball was first introduced to the courts of Singapore in 1994, and
-as the floorball scene continued to grow and gain traction amongst Singaporeans,
-it has become a niche sport in a number of schools today.</p>
 <p>The Northbrooks’ floorball team consists of a group of boys who are passionate
 about the sport. Conducted twice a week, training sessions are fast-paced
 and intense as the game requires players to play for a period of 15 minutes.</p>
-<p>Under the mentorship of Northbrooks’ very own alumni, Syazni, Captain
-of the Singapore team during the SEA Games 2015, Northbrooks’ floorball
+<p>Under the mentorship of Northbrooks’ very own alumnus, Syazni Ramlee,
+Captain of the Singapore team for SEA Games 2015, Northbrooks’ floorball
 team emerged as the first runner-up in the ‘C’ Division tournament in 2016
 . The team hopes to continue to honour the school name in the years to
 come.</p>
@@ -42,33 +39,9 @@ students get to play against players at the tertiary education level, or
 even adults.</p>
 <p>Other key programmes that the team undergoes to hone their techniques
 and skills include: Mental Skills Programme, friendly matches against other
-school teams, and the End-of-Year training camp.</p>
-<h3>Objectives</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>To build confidence, discipline and learn to work well together towards
-a common goal (Fortitude, Teamwork, Empathy, Discipline)</p>
-</li>
-</ul>
-<h3>Programmes</h3>
-<p>Key programmes that the Northbrooks Floorball Team are as follows:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Singapore Floorball League Men's Division</p>
-</li>
-<li>
-<p>Youth Floorball League</p>
-</li>
-<li>
-<p>Mental Skills Programme</p>
-</li>
-<li>
-<p>Combines Sports Camp</p>
-</li>
-<li>
-<p>Cultural Immersion Programme (Overseas)</p>
-</li>
-</ul>
+school teams, and the End-of-Year training camp.
+<br>
+</p>
 <h3>Achievements</h3>
 <h4>2018</h4>
 <ul data-tight="true" class="tight">
