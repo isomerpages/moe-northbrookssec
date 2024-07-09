@@ -8,6 +8,8 @@ variant: tiptap
 <p>Dear Parents,&nbsp;
 <br>Please refer to the following set of slides that was shared during the
 ECG Engagement Session on 5 July 2024.</p>
+<p><a href="/files/Sec 3 Subjects Combination/2024_Sec_2_ECG_Parents_Engagement_website.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 2 ECG PARENTS ENGAGEMENT</a>
+</p>
 <h3>Sec 3 Express (2024) Subject Information</h3>
 <ul>
 <li>
