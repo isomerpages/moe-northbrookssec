@@ -7,14 +7,12 @@ variant: tiptap
 <h1>Sec 3 Subject Combination Information</h1>
 <p>Dear Parents,&nbsp;
 <br>Please refer to the following set of slides that was shared during the
-Parent Seminar on 24 May 2023.</p>
-<p><a href="/files/2023%20sec%202%20parent%20seminar%20for%20website%20with%20ecg.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Sec 2 Parent Seminar</a>
-</p>
+ECG Engagement Session on 5 July 2024.</p>
+<p></p>
 <h3>Sec 3 Express (2023) Subject Information</h3>
 <ul>
 <li>
-<p><a href="/files/2023%20amath%20exp%20sec%202%20subject%20info.pdf" rel="noopener noreferrer nofollow" target="_blank">ADDITIONAL MATHEMATICS SUBJECT INFO</a>
-</p>
+<p></p>
 </li>
 <li>
 <p><a href="/files/2023%20c&amp;t%20exp%20sec%202%20subject%20info.pdf" rel="noopener noreferrer nofollow" target="_blank">CRAFT &amp; TECHNOLOGY (C&amp;T) SUBJECT INFO</a>
