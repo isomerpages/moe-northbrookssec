@@ -30,15 +30,15 @@ ECG Engagement Session on 5 July 2024.</p>
 <h3>Sec 3 Normal Academic (2023) Subject Information</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2023%20c&amp;t%20na%20sec%202%20subject%20info.pdf" rel="noopener noreferrer nofollow" target="_blank">CRAFT &amp; TECHNOLOGY (C&amp;T) SUBJECT INFO</a>
+<p><a href="/files/Sec 3 Subjects Combination/2023_C_T_NA_SEC_2_SUBJECT_INFO.pdf" rel="noopener noreferrer nofollow" target="_blank">CRAFT &amp; TECHNOLOGY (C&amp;T) SUBJECT INFO</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2023%20humanities%20na%20sec%202%20subject%20info.pdf" rel="noopener noreferrer nofollow" target="_blank">HUMANITIES SUBJECT INFO</a>
+<p><a href="/files/Sec 3 Subjects Combination/2023_HUMANITIES_NA_SEC_2_SUBJECT_INFO.pdf" rel="noopener noreferrer nofollow" target="_blank">HUMANITIES SUBJECT INFO</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2023%20science%20na%20sec%202%20subject%20info.pdf" rel="noopener noreferrer nofollow" target="_blank">SCIENCE SUBJECT INFO</a>
+<p><a href="/files/Sec 3 Subjects Combination/2023_SCIENCE_NA_SEC_2_SUBJECT_INFO.pdf" rel="noopener noreferrer nofollow" target="_blank">SCIENCE SUBJECT INFO</a>
 </p>
 </li>
 </ul>
