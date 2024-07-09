@@ -45,15 +45,15 @@ ECG Engagement Session on 5 July 2024.</p>
 <h3>Sec 3 Normal Technical (2023) Subject Information</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2023%20c&amp;t%20nt%20sec%202%20subject%20info.pdf" rel="noopener noreferrer nofollow" target="_blank">CRAFT &amp; TECHNOLOGY (C&amp;T) SUBJECT INFO</a>
+<p><a href="/files/Sec 3 Subjects Combination/2023_C_T_NT_SEC_2_SUBJECT_INFO.pdf" rel="noopener noreferrer nofollow" target="_blank">CRAFT &amp; TECHNOLOGY (C&amp;T) SUBJECT INFO</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2023%20ebs%20%20nt%20sec%202%20subject%20info.pdf" rel="noopener noreferrer nofollow" target="_blank">ELEMENTS OF BUSINESS SKILLS (EBS) SUBJECT INFO</a>
+<p><a href="/files/Sec 3 Subjects Combination/2023_EBS__NT_SEC_2_SUBJECT_INFO.pdf" rel="noopener noreferrer nofollow" target="_blank">ELEMENTS OF BUSINESS SKILLS (EBS) SUBJECT INFO</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2023%20science%20nt%20sec%202%20subject%20info.pdf" rel="noopener noreferrer nofollow" target="_blank">SCIENCE SUBJECT INFO</a>
+<p><a href="/files/Sec 3 Subjects Combination/2023_SCIENCE_NT_SEC_2_SUBJECT_INFO.pdf" rel="noopener noreferrer nofollow" target="_blank">SCIENCE SUBJECT INFO</a>
 </p>
 </li>
 </ul>
