@@ -942,7 +942,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>2 Teamwork 2
 <br>
 <br>
@@ -966,6 +966,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Zuraidah Abdul Karim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Koh Hui Xin Madeline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -1157,7 +1168,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3 Fortitude
 <br>
 <br>
@@ -1169,6 +1180,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Serene Han Xui Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fadhli Rusydi Bin Fadzil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -1880,20 +1902,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mathematics Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lok Mui Fun Angela (Mrs Angela Sim)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FCE Teacher</p>
 </td>
 </tr>
 <tr>
