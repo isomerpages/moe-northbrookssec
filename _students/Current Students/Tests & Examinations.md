@@ -6,6 +6,11 @@ third_nav_title: Current Students
 variant: tiptap
 ---
 <h1>Tests &amp; Examinations</h1>
+<h3>GCE N Level Preliminary Examination Timetable 2024</h3>
+<hr>
+<p><a href="/files/N Level Exam TimeTable/2024/GCE_N_Level_Preliminary_Examination_Timetable_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE N Level Preliminary Examination Timetable 2024</a>
+</p>
+<hr>
 <h3>2023 EOY Examination Timetable</h3>
 <hr>
 <p><a href="/files/2023%20eoy%20timetable_1exp.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1E Timetable</a>
