@@ -3,8 +3,8 @@ title: Cyber Wellness (CW)
 permalink: /co-curriculum/CCE/Cyber-Wellness-CW/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
-![](/images/cca.jpg)
 
 Cyber Wellness (CW)
 ===================
@@ -70,5 +70,3 @@ The Cyber Wellness curriculum is organised into 5 topics:
   </tr>
 </tbody>
 </table>
-
-
