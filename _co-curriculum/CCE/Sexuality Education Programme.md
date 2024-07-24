@@ -5,9 +5,6 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca.jpg">
-</div>
 <h1>Sexuality Education Programme</h1>
 <h3><strong>MOE Sexuality Education in Schools</strong></h3>
 <p></p>
