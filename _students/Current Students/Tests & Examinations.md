@@ -12,11 +12,11 @@ variant: tiptap
 </p>
 <hr>
 <h3>Secondary 2 EOY Examination Timetable 2024</h3>
-<p><a href="/files/EOY Exam Timetable/2024/Sec_2_EOY_Timetable___Exp_NA_NT.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY Exam Timetable 2024</a>
+<p><a href="/files/EOY Exam Timetable/2024/Sec_2_EOY_Timetable___Exp_NA_NT_V2.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY Exam Timetable 2024</a>
 </p>
 <hr>
 <h3>Secondary 3 EOY Examination Timetable 2024</h3>
-<p><a href="/files/EOY Exam Timetable/2024/Sec_3_EOY_Timetable___Exp_NA_NT.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Exam Timetable 2024</a>
+<p><a href="/files/EOY Exam Timetable/2024/Sec_3_EOY_Timetable___Exp_NA_NT_V2.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Exam Timetable 2024</a>
 </p>
 <hr>
 <h3>GCE O Level Preliminary Examination Timetable 2024</h3>
