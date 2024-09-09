@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Publication/Publications.md
       - Publication/.keep
       - About us.md
       - School Information/.keep
