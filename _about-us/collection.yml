@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Publication/Publications.md
-      - Publication/.keep
       - About us.md
       - School Information/.keep
       - School Information/Principal's Message.md
@@ -21,3 +19,5 @@ collections:
       - School Facilities/Indoor Sports Hall.md
       - Admissions/.keep
       - Admissions/DSA @ Northbrooks.md
+      - Publication/.keep
+      - Publication/Publications.md
