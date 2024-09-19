@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Publications
 ---
-<h2><strong>YearBooks</strong></h2>
+<h2><strong>Yearbooks</strong></h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
