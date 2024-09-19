@@ -6,10 +6,10 @@ third_nav_title: Visual & Performing Arts
 variant: tiptap
 ---
 <p></p>
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Formal_School_Colours_CCA_No_Heading_and_Border__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="Guitar Ensemble" src="/images/CCA/2024/VettedCL10_9_Guitar.png">
 </div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
