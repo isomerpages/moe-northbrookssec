@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Northbrooks Secondary School
-description: An Isomer site of the Singapore Government
+description: Soaring Yet Rooted
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
