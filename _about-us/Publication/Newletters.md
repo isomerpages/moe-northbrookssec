@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Publication
 ---
-<h2>Newletters</h2>
+<h2><strong>The Brooksian Times</strong></h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
