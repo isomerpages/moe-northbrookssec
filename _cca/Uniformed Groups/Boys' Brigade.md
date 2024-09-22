@@ -7,6 +7,6 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Boys' Brigade" src="/images/CCA/2024/Boys_Brigade__Vetted_CL_17_9.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Boys_Brigade__Vetted_CL_17_9.png">
 </div>
 <p></p>
