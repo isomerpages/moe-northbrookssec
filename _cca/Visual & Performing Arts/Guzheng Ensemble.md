@@ -7,6 +7,6 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Guzheng Ensemble" src="/images/CCA/2024/Guzheng__VettedCL17_9.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guzheng__VettedCL17_9.png">
 </div>
 <p></p>
