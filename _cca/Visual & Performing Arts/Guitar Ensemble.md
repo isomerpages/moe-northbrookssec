@@ -7,9 +7,8 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Guitar Ensemble" src="/images/CCA/2024/VettedCL10_9_Guitar.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VettedCL19_9_Guitar.png">
 </div>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
