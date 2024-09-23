@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Humanities Department.md
       - Craft & Technology Department/.keep
       - Craft & Technology Department/Craft & Technology Department.md
       - Craft & Technology Department/Design & Technology Unit.md
@@ -11,6 +10,7 @@ collections:
       - Craft & Technology Department/Music Unit.md
       - English Language & Literature/.keep
       - English Language & Literature/English Language & Literature Department.md
+      - Humanities Department.md
       - IT, CPA & EBS Department/.keep
       - IT, CPA & EBS Department/IT, CPA & EBS Department.md
       - IT, CPA & EBS Department/Elements of Business Skills.md
