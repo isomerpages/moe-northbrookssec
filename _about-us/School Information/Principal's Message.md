@@ -9,7 +9,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Principia24SEPT_0951.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Principia24SEPT_0951.jpg">
 </div>
 <p>A warm welcome to Northbrooks Secondary School!</p>
 <p>I feel honoured and privileged to be the Principal of Northbrooks, carrying
