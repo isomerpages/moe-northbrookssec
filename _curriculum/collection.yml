@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Science Department.md
       - Craft & Technology Department/.keep
       - Craft & Technology Department/Craft & Technology Department.md
       - Craft & Technology Department/Design & Technology Unit.md
@@ -19,3 +18,4 @@ collections:
       - Mother Tongue Department/Chinese Language Unit.md
       - Mother Tongue Department/Malay Language Unit.md
       - Physical Education Department.md
+      - Science Department.md
