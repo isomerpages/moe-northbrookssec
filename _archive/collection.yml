@@ -2,6 +2,10 @@ collections:
   archive:
     output: true
     order:
+      - Vertical Green Wall.md
+      - External Competitions.md
+      - Experiential Learning.md
+      - English Literature Department.md
       - Staff List 2022.md
       - "Care & Learning Behavioural Support Team: Working Time and Venue.md"
       - LLP/Environment.md

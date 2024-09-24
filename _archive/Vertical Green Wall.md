@@ -2,7 +2,6 @@
 title: Vertical Green Wall
 permalink: /curriculum/Science-Department/Vertical-Green-Wall/
 description: ""
-third_nav_title: Science Department
 variant: tiptap
 ---
 <p>The school's foyer is adorn with lush greenery with a beautiful&nbsp;<strong>Vertical Green Wall</strong>.

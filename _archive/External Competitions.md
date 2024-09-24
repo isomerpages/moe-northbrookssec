@@ -2,7 +2,6 @@
 title: External Competitions
 permalink: /curriculum/Humanities-Department/External-Competitions/
 description: ""
-third_nav_title: Humanities Department
 variant: tiptap
 ---
 <h3>NUS Geography Challenge 2016</h3>

@@ -2,7 +2,6 @@
 title: Experiential Learning
 permalink: /curriculum/Humanities-Department/Experiential-Learning/
 description: ""
-third_nav_title: Humanities Department
 variant: tiptap
 ---
 <h3>Secondary Two Geographical Investigation</h3>

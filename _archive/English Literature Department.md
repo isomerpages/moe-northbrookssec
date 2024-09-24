@@ -2,7 +2,6 @@
 title: English Literature Department
 permalink: /curriculum/English-Language-Department/English-Literature-Department/
 description: ""
-third_nav_title: English Language & Literature
 variant: tiptap
 ---
 <h3><strong>English Literature Curriculum</strong></h3>
