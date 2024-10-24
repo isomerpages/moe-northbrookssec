@@ -17,7 +17,6 @@ sections:
       background: /images/homepageeee northbrooks.gif
   - infopic:
       title: NORTHBROOKS OPEN HOUSE
-      subtitle: Add an image and text
       id: infopic
       image: /images/Open House/2024/open_house.png
   - infobar:
