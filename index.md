@@ -16,7 +16,7 @@ sections:
           url: /achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/
       background: /images/homepageeee northbrooks.gif
   - infopic:
-      title: NORTHBROOKS OPEN HOUSE
+      title: NBRSS OPEN HOUSE 2024
       id: infopic
       image: /images/Open House/OH_2024_MOTD_1__1_.png
       alt: NBRSS Open House
