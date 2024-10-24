@@ -18,7 +18,7 @@ sections:
   - infopic:
       title: NORTHBROOKS OPEN HOUSE
       id: infopic
-      image: /images/Open House/open_house.png
+      image: /images/Open House/OH_2024_MOTD_1__1_.png
       alt: NBRSS Open House
   - infobar:
       title: 2024 Semester 2 Timetable
