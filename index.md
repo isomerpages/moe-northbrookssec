@@ -15,6 +15,11 @@ sections:
           description: ""
           url: /achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/
       background: /images/homepageeee northbrooks.gif
+  - infopic:
+      title: NORTHBROOKS OPEN HOUSE
+      subtitle: Add an image and text
+      id: infopic
+      image: /images/Open House/2024/open_house.png
   - infobar:
       title: 2024 Semester 2 Timetable
       id: infobar
