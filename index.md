@@ -18,7 +18,7 @@ sections:
   - infopic:
       title: NORTHBROOKS OPEN HOUSE
       id: infopic
-      image: /images/Open House/2024/open_house.png
+      image: /images/Open House/open_house.png
   - infobar:
       title: 2024 Semester 2 Timetable
       id: infobar
