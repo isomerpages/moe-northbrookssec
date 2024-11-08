@@ -2,8 +2,6 @@ collections:
   people:
     output: true
     order:
-      - PSG/.keep
-      - PSG/Essential Parenting.md
       - Staff CSR.md
       - Staff Masterpiece.md
       - Our Stories/.keep
@@ -11,5 +9,3 @@ collections:
       - Our Stories/Good Stories.md
       - Parents/.keep
       - Parents/Parents.md
-      - Alumni/.keep
-      - Alumni/Education and Career Guidance.md
