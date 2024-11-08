@@ -3,50 +3,115 @@ title: Education and Career Guidance (ECG)
 permalink: /co-curriculum/CCE/Education-and-Career-Guidance-ECG/
 description: ""
 third_nav_title: CCE
+variant: tiptap
 ---
-![](/images/cca.jpg)
-
-Education and Career Guidance (ECG)
-===================================
-
-Education and Career Guidance (ECG) is about equipping students with the necessary knowledge, skills, and values to make informed decisions at every key education stage for a successful transition from school to further education or work, so that they can manage their education and career pathways and practice lifelong learning throughout their lives.
-
-### ECG aims to:
-
-*   nurture student’s self-awareness and self-directedness for lifelong learning
-*   enable students to explore education and career options, by equipping them with accurate and comprehensive information
-*   help students develop a growth mindset and a resilient attitude to embrace future opportunities, and appreciate all occupations across society
-*   create opportunities for students to build positive connections with the community (such as teachers, ECG counsellors, parents, industry partners), to develop an appreciation for different career pathways
-![](/images/ECG%20Journey%202022.jpeg)
-
-###### Visit our ECG Website at [https://sites.google.com/moe.edu.sg/ecgnbrss](https://sites.google.com/moe.edu.sg/ecgnbrss)
----------------------------------------------------------------------------------------------------------------------
-
-### Contact Details of ECG Counsellor
-
-![](/images/ECG%20Contact%202022.png)
-
-#### Useful Links
-*   MySkillsFuture student portal: [https://go.gov.sg/MYSFSec](https://go.gov.sg/MYSFSec)
-*   Post-Secondary Education booklet: [https://moe.gov.sg/post-secondary/overview](https://moe.gov.sg/post-secondary/overview)
-*   Post-Secondary Admissions Exercises booklet: [https://www.moe.gov.sg/post-secondary/admissions](https://www.moe.gov.sg/post-secondary/admissions)
-*   National Youth Council’s On My Way website: [https://go.gov.sg/omw2022](https://go.gov.sg/omw2022)
-*   LifeSG Exploring Education and Career Opportunities: [https://go.gov.sg/lifesg-youth](https://go.gov.sg/lifesg-youth)
-
-#### Admission Exercises:
-
-*   ITE EAE: [https://go.gov.sg/iteeae](https://go.gov.sg/iteeae) or [https://go.gov.sg/itehigherniteceae](https://go.gov.sg/itehigherniteceae)
-*   Polytechnic EAE: [https://go.gov.sg/polyeae](https://go.gov.sg/polyeae)
-*   JIE ‘O’: [https://go.gov.sg/applyjie](https://go.gov.sg/applyjie)
-*   JAE: [https://go.gov.sg/applyjae](https://go.gov.sg/applyjae)
-*   DSA (Junior College): [https://www.moe.gov.sg/admissions/direct-admissions/dsa-jc](https://www.moe.gov.sg/admissions/direct-admissions/dsa-jc)
-
-#### Post-Secondary Education Institutions:
-
-*   Joint Portal of Polytechnics in Singapore: [https://www.polytechnic.edu.sg/](https://www.polytechnic.edu.sg/)
-*   Institute of Technical Education: [https://www.ite.edu.sg/](https://www.ite.edu.sg/)
-*   Nanyang Academy of Fine Arts: [https://www.nafa.edu.sg/](https://www.nafa.edu.sg/)
-*   Lasalle College of the Arts: [https://www.lasalle.edu.sg/](https://www.lasalle.edu.sg/)
-*   For Junior Colleges, please visit the respective colleges’ websites
-
-ECG Guide for Parents: This parent resource contains tips and advice on ECG and supporting children throughout their key education stages. Parents can access the soft copy at: [https://go.gov.sg/parent-guide](https://www.moe.gov.sg/-/media/files/programmes/ECG/12806_MOE_Parent-Guide-2021.pdf)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca.jpg">
+</div>
+<h1>Education and Career Guidance (ECG)</h1>
+<p>Education and Career Guidance (ECG) is about equipping students with the
+necessary knowledge, skills, and values to make informed decisions at every
+key education stage for a successful transition from school to further
+education or work, so that they can manage their education and career pathways
+and practice lifelong learning throughout their lives.</p>
+<h3>ECG aims to:</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>nurture student’s self-awareness and self-directedness for lifelong learning</p>
+</li>
+<li>
+<p>enable students to explore education and career options, by equipping
+them with accurate and comprehensive information</p>
+</li>
+<li>
+<p>help students develop a growth mindset and a resilient attitude to embrace
+future opportunities, and appreciate all occupations across society</p>
+</li>
+<li>
+<p>create opportunities for students to build positive connections with the
+community (such as teachers, ECG counsellors, parents, industry partners),
+to develop an appreciation for different career pathways</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG%20Journey%202022.jpeg">
+</div>
+</li>
+</ul>
+<h6>Visit our ECG Website at&nbsp;<a href="https://sites.google.com/moe.edu.sg/ecgnbrss" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/ecgnbrss</a></h6>
+<hr>
+<h3>Contact Details of ECG Counsellor</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG%20Contact%202022.png">
+</div>
+<h4>Useful Links</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>MySkillsFuture student portal:&nbsp;<a href="https://go.gov.sg/MYSFSec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MYSFSec</a>
+</p>
+</li>
+<li>
+<p>Post-Secondary Education booklet:&nbsp;<a href="https://moe.gov.sg/post-secondary/overview" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/post-secondary/overview</a>
+</p>
+</li>
+<li>
+<p>Post-Secondary Admissions Exercises booklet:&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions</a>
+</p>
+</li>
+<li>
+<p>National Youth Council’s On My Way website:&nbsp;<a href="https://go.gov.sg/omw2022" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/omw2022</a>
+</p>
+</li>
+<li>
+<p>LifeSG Exploring Education and Career Opportunities:&nbsp;<a href="https://go.gov.sg/lifesg-youth" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lifesg-youth</a>
+</p>
+</li>
+</ul>
+<h4>Admission Exercises:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>ITE EAE:&nbsp;<a href="https://go.gov.sg/iteeae" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/iteeae</a>&nbsp;or&nbsp;
+<a href="https://go.gov.sg/itehigherniteceae" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/itehigherniteceae</a>
+</p>
+</li>
+<li>
+<p>Polytechnic EAE:&nbsp;<a href="https://go.gov.sg/polyeae" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/polyeae</a>
+</p>
+</li>
+<li>
+<p>JIE ‘O’:&nbsp;<a href="https://go.gov.sg/applyjie" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/applyjie</a>
+</p>
+</li>
+<li>
+<p>JAE:&nbsp;<a href="https://go.gov.sg/applyjae" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/applyjae</a>
+</p>
+</li>
+<li>
+<p>DSA (Junior College):&nbsp;<a href="https://www.moe.gov.sg/admissions/direct-admissions/dsa-jc" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/admissions/direct-admissions/dsa-jc</a>
+</p>
+</li>
+</ul>
+<h4>Post-Secondary Education Institutions:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Joint Portal of Polytechnics in Singapore:&nbsp;<a href="https://jpae.polytechnic.edu.sg/app" rel="noopener noreferrer nofollow" target="_blank">https://www.polytechnic.edu.sg/</a>
+</p>
+</li>
+<li>
+<p>Institute of Technical Education:&nbsp;<a href="https://www.ite.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/</a>
+</p>
+</li>
+<li>
+<p>Nanyang Academy of Fine Arts:&nbsp;<a href="https://www.nafa.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.nafa.edu.sg/</a>
+</p>
+</li>
+<li>
+<p>Lasalle College of the Arts:&nbsp;<a href="https://www.lasalle.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.lasalle.edu.sg/</a>
+</p>
+</li>
+<li>
+<p>For Junior Colleges, please visit the respective colleges’ websites</p>
+</li>
+</ul>
+<p>ECG Guide for Parents: This parent resource contains tips and advice on
+ECG and supporting children throughout their key education stages. Parents
+can access the soft copy at: <a href="https://www.moe.gov.sg/-/media/files/programmes/ECG/12806_MOE_Parent-Guide-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/parent-guide</a>
+</p>

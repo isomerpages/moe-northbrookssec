@@ -34,7 +34,7 @@ providers. There is something for everyone:</p>
 <p>Here is a handy <a href="/files/Skills.pdf" rel="noopener noreferrer nofollow" target="_blank">infographic</a> to
 sum it all up.</p>
 <h4>3.&nbsp;&nbsp;&nbsp; How can I find out more about SkillsFuture?</h4>
-<p>Stay updated at&nbsp;<a href="http://www.skillsfuture.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.skillsfuture.sg/</a>
-<br>Like us on Facebook:&nbsp;<a href="http://www.facebook.com/skillsfuturesg" rel="noopener noreferrer nofollow" target="_blank">http://www.facebook.com/skillsfuturesg</a>
+<p>Stay updated at&nbsp;<a href="https://www.skillsfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.skillsfuture.gov.sg/<br></a>Like
+us on Facebook:&nbsp;<a href="http://www.facebook.com/skillsfuturesg" rel="noopener noreferrer nofollow" target="_blank">http://www.facebook.com/skillsfuturesg</a>
 <br>Follow us at Twitter:&nbsp;<a href="http://www.twitter.com/skillsfuturesg" rel="noopener noreferrer nofollow" target="_blank">http://www.twitter.com/skillsfuturesg</a>
 </p>

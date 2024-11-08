@@ -43,7 +43,6 @@ variant: tiptap
 <h4>Members</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Melvin Ang Pin Chean</p>
 <p>Mr Chee Kwang How Dennis</p>
 <p>Mr Dinesh Vasu Dash</p>
 <p>Dato' Kuek Kien Joo Andy</p>
