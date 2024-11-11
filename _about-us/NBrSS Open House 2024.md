@@ -5,12 +5,21 @@ variant: tiptap
 description: ""
 ---
 <p>Dear Parents and Prospective Students,</p>
-<p>We warmly invite you to our Open House 2024!</p>
-<p>Discover our vibrant school community and the diverse opportunities awaiting
-our incoming Brooksians!</p>
-<p><strong>Date:</strong> Saturday, November 16, 2024
-<br><strong>Time:</strong> 9 AM - 12 PM</p>
-<p>Scroll down to explore our exciting lineup of activities and event layout!</p>
+<p>🎉 <strong>Join Us at Northbrooks Secondary School Open House!</strong>🎉
+<br>📅 Date: <strong>16 November</strong>
+<br>🕘 Time: <strong>9:00 a.m. – 12:00 noon</strong>
+<br>
+<br>We're excited to welcome prospective students and parents to explore the
+vibrant community at Northbrooks!</p>
+<p>From our Principal's Talk to engaging CCA and Academic booths, there's
+so much to discover about what makes our school special. 🎒📚🎶
+<br>
+<br>💡 Come experience meaningful activities, learn about our programmes,
+and see how we nurture every Brooksian!</p>
+<p>
+<br>🚗 Reminder: No parking available in school, do plan accordingly!
+<br>
+<br>Mark your calendars and see you there! ✨</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Open House" src="/images/Open House/2024/OH_2024_MOTD_1__1_.png">
