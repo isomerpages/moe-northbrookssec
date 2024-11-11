@@ -17,11 +17,6 @@ sections:
       background: /images/homepageeee northbrooks.gif
       url: /nbrss-open-house/
       button: NBrSS OPEN HOUSE ON SAT, 16 NOV 2024
-  - infopic:
-      title: NBRSS OPEN HOUSE 2024
-      id: infopic
-      image: /images/Open House/OH_2024_MOTD_1__1_.png
-      alt: NBRSS Open House
   - infobar:
       title: 2024 Semester 2 Timetable
       id: infobar
