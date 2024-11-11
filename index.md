@@ -15,6 +15,8 @@ sections:
           description: ""
           url: /achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/
       background: /images/homepageeee northbrooks.gif
+      url: /nbrss-open-house/
+      button: NBrSS OPEN HOUSE ON SAT, 16 NOV 2024
   - infopic:
       title: NBRSS OPEN HOUSE 2024
       id: infopic
