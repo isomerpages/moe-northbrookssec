@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - NBrSS Open House.md
       - About us.md
       - School Information/.keep
       - School Information/Principal's Message.md
@@ -20,6 +19,7 @@ collections:
       - School Facilities/Indoor Sports Hall.md
       - Admissions/.keep
       - Admissions/DSA @ Northbrooks.md
-      - Publications/The Brooksian Times.md
       - Publications/.keep
+      - Publications/The Brooksian Times.md
       - Publications/Yearbooks.md
+      - NBrSS Open House.md
