@@ -15,6 +15,20 @@ third_nav_title: Current Students
 <h3>NBrSS Booklist 2025- Sec 2G3</h3>
 <p><a href="/files/BookList/2025/NSS_Booklist_2025__Sec_2G3.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2G3 Booklist</a>
 </p>
-<p></p>
+<hr>
+<h3>NBrSS Booklist 2025- Sec 3E</h3>
+<p><a href="/files/BookList/2025/NSS_Booklist_2025__Sec_3E.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3E Booklist</a>
+</p>
+<h3>NBrSS Booklist 2025- Sec 3NA</h3>
+<p><a href="/files/BookList/2025/NSS_Booklist_2025__Sec_3NA.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3NA Booklist</a>
+</p>
+<h3>NBrSS Booklist 2025- Sec 3NT</h3>
+<p><a href="/files/BookList/2025/NSS_Booklist_2025__Sec_3NT.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3NT Booklist</a>
+</p>
+<hr>
+<h3>NBrSS Booklist 2025- Sec 4E</h3>
+<p><a href="/files/BookList/2025/NSS_Booklist_2025__Sec_4E.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4E Booklist</a>
+</p>
+<h3>NBrSS Booklist 2025- Sec 4NA</h3>
 <p></p>
 <p></p>
