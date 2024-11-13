@@ -12,7 +12,7 @@ more information.</p>
 <h3>Booklist 2025- Sec 2G1</h3>
 <p><a href="/files/BookList/2025/NSS_Booklist_2025__Sec_2G1_SBB_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2G1 Booklist</a>
 </p>
-<h3>Booklist 2025- Sec 2G2(SBB)</h3>
+<h3>Booklist 2025- Sec 2G2</h3>
 <p><a href="/files/BookList/2025/NSS_Booklist_2025__Sec_2G2_SBB_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2G2 Booklist</a>
 </p>
 <h3>Booklist 2025- Sec 2G3</h3>
