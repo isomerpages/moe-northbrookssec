@@ -4,12 +4,42 @@ permalink: /parents/parent-support-group/
 description: ""
 variant: tiptap
 ---
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG%202019.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024/Image__1_.jpg">
 </div>
-<p>From L to R : Mdm Martha Ng, Mdm Stella Ng, Mdm Vivien Tay, Mr Desmond
-Soh, Mdm Yasmin, Mdm Wati, Mrs Kerine Goe</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024/Image__3_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/PSG/2024/Image__2_.jpg">
+</div>
+<p>Supportive parents</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Dear Parents,&nbsp;</p>
 <h4>“To share the responsibility and work in partnership with our school to develop our children’s potential.”</h4>
 <div class="isomer-image-wrapper">
@@ -72,7 +102,7 @@ make a difference together!</p>
 <p>Dad's for Life(DFL) is a national movement for fathers that seeks to inspire,
 mobilise and involve fathers to become good influencers in the children's
 lives... for life!</p>
-<h6>Fishing at ORTO </h6>
+<h6>Fishing at ORTO</h6>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fishing.jpeg">
