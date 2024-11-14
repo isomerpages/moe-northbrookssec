@@ -29,7 +29,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/PSG/2024/Image__2_.jpg">
 </div>
-<p>Supportive Parentss</p>
+<p>Supportive Parents</p>
 <p></p>
 <p></p>
 <p></p>
@@ -41,6 +41,9 @@ variant: tiptap
 <p></p>
 <p>Dear Parents,&nbsp;</p>
 <h4>“To share the responsibility and work in partnership with our school to develop our children’s potential.”</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024/Picture1.jpg">
+</div>
 <p>In line with this vision, we set the following objectives:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -93,9 +96,6 @@ make a difference together!</p>
 <br>Internal Partners</p>
 <hr>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024/Picture1.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024/Picture2.jpg">
