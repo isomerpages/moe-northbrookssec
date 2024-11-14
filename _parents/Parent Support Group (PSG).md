@@ -65,17 +65,9 @@ a child who is a student at Northbrooks Secondary School.</p>
 <p>By being a PSG member, you will reap many benefits:</p>
 <ul>
 <li>
-<p>Be kept informed of the latest development in Northbrooks Secondary School
-through our bi-monthly meetings and dialogue with the Principal and Vice
-Principals.</p>
-</li>
-<li>
 <p>Have the opportunity to provide your feedback and share ideas – thereby
 contributing to change that will bring about positive growth and development
 of the school.</p>
-</li>
-<li>
-<p>Attend workshops at no cost.</p>
 </li>
 <li>
 <p>Your journey as a parent would be more fulfilling because:</p>
@@ -92,11 +84,8 @@ need your presence more than your presents.” So come join us and let’s
 make a difference together!</p>
 <p>Yours sincerely,</p>
 <p>Mr&nbsp;Henry Ng
-<br>HOD
-<br>Internal Partners</p>
+<br>Partnership Committee</p>
 <hr>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024/Picture2.jpg">
 </div>
