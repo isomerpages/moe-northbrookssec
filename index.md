@@ -17,4 +17,8 @@ sections:
       background: /images/homepageeee northbrooks.gif
       url: /nbrss-open-house/
       button: NBrSS OPEN HOUSE ON SAT, 16 NOV 2024
+  - infobar:
+      id: infobar
+      button: Sales of Books & Uniforms
+      url: /students/current-students/permalink/
 ---

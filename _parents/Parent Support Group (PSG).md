@@ -4,16 +4,45 @@ permalink: /parents/parent-support-group/
 description: ""
 variant: tiptap
 ---
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG%202019.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024/Image__1_.jpg">
 </div>
-<p>From L to R : Mdm Martha Ng, Mdm Stella Ng, Mdm Vivien Tay, Mr Desmond
-Soh, Mdm Yasmin, Mdm Wati, Mrs Kerine Goe</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024/Image__3_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/PSG/2024/Image__2_.jpg">
+</div>
+<p>Supportive Parents</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Dear Parents,&nbsp;</p>
 <h4>“To share the responsibility and work in partnership with our school to develop our children’s potential.”</h4>
 <div class="isomer-image-wrapper">
-<img style="width:200px;height:240px;margin-left:15px;" height="auto" width="100%" src="/images/PSG.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024/Picture1.jpg">
 </div>
 <p>In line with this vision, we set the following objectives:</p>
 <ol data-tight="true" class="tight">
@@ -36,17 +65,9 @@ a child who is a student at Northbrooks Secondary School.</p>
 <p>By being a PSG member, you will reap many benefits:</p>
 <ul>
 <li>
-<p>Be kept informed of the latest development in Northbrooks Secondary School
-through our bi-monthly meetings and dialogue with the Principal and Vice
-Principals.</p>
-</li>
-<li>
 <p>Have the opportunity to provide your feedback and share ideas – thereby
 contributing to change that will bring about positive growth and development
 of the school.</p>
-</li>
-<li>
-<p>Attend workshops at no cost.</p>
 </li>
 <li>
 <p>Your journey as a parent would be more fulfilling because:</p>
@@ -63,36 +84,155 @@ need your presence more than your presents.” So come join us and let’s
 make a difference together!</p>
 <p>Yours sincerely,</p>
 <p>Mr&nbsp;Henry Ng
-<br>HOD
-<br>Internal Partners</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:400px;height:240px;margin-left:15px;" height="auto" width="100%" src="/images/Dads%20for%20life%20.png">
-</div>
-<p>Dad's for Life(DFL) is a national movement for fathers that seeks to inspire,
-mobilise and involve fathers to become good influencers in the children's
-lives... for life!</p>
-<h6>Fishing at ORTO </h6>
+<br>Partnership Committee</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fishing.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024/Picture2.jpg">
 </div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AAA.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024/Picture3.jpg">
 </div>
-<h6>Archery in May 2019</h6>
-<hr>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Archery1.jpeg">
-</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Joining in the Lunar New Year Celebrations.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Archery2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024/Picture4.jpg">
 </div>
-<p><strong>Our PSG manages a booth yearly where students write messages to expressed their gratitude to their parents prior to Mothers' Day and Fathers' Day.</strong>
-</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Teachers' Day Chocolate flower making workshop!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AAA1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024/Picture5.jpg">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024/Picture6.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parent supporters at the annual Cross Country at Bedok Reservoir</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024/Picture7.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024/Picture8.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024/Picture9.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Posing a photo with Principal, Mr David Lau. Parents volunteered their
+time to set up and manage a Parents Day Appreciation booth. The booth provided
+materials for students to pen down their gratitude messages to their parents
+and/or caregiver.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024/Picture10.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSG Ex Co members at the graduation ceremony of the Sec 4/5.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024/Picture11.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024/Picture13.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>PSG Ex Co and Parent Volunteers distributing milo drinks and buns to students
+on every first Wednesday of the month.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>

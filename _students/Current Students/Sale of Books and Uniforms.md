@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Current Students
 ---
-<h1>Year End Sales of Books and Uniforms for Sec 2-4</h1>
+<h1>Year End Sales of Books and Uniforms for Sec 2-5</h1>
 <p></p>
 <p>Click <a href="/files/BookList/2025/2024_Year_end_Sales_of_Books_and_Uniforms__Sec_2_5_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information.</p>
