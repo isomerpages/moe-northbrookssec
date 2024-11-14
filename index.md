@@ -18,9 +18,7 @@ sections:
       url: /nbrss-open-house/
       button: NBrSS OPEN HOUSE ON SAT, 16 NOV 2024
   - infobar:
-      title: Year End Sales of Books and Uniforms for Sec 2-5
-      subtitle: Add informational text
       id: infobar
-      description: Infobar description
-      button: Button Text
+      button: Sales of Books & Uniforms
+      url: /students/current-students/permalink/
 ---
