@@ -31,7 +31,7 @@ of Blk 441 Yishun Ave 11, Blk 674 Yishun Ave 4 and Blk 456A Yishun Street
 <p></p>
 <h3>Step 2a: Offering subjects at a more demanding level</h3>
 <hr>
-<p>At the start of S1, students will offer EL, MTL, HUM and SCI at the subject
+<p>At the start of S1, students will offer EL, MTL, MA and SCI at the subject
 level determined by their PSLE Score. Students who offer most subjects
 at G1 or G2 are eligible to offer EL, MTL, MA and SCI at a more demanding
 level from the start of S1 if they have performed well in these subject
@@ -72,7 +72,7 @@ all the original &amp; required supporting documents.</p>
 <p>Two types of FAS application:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Already Approved MOE FAS for 2024&nbsp;with Approval letter from Primary School</strong>&nbsp;-
+<p><strong>Already Approved MOE FAS for 2025&nbsp;with Approval letter from Primary School</strong>&nbsp;-
 Please exchange your letter at Learning Network Room (Level 1) in order
 for you to collect your books and uniforms.</p>
 </li>
