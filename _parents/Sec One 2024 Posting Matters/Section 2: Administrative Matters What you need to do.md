@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sec One 2024 Posting Matters
 variant: tiptap
 ---
-<h1>Section 2: Administrative Matters </h1>
+<h1>Section 2: Administrative Matters</h1>
 <p>All incoming Secondary 1 students who have been posted to Northbrooks
 Secondary School are officially enrolled in the school from the day of
 posting. There is no need for registration to confirm your child/ward’s
@@ -46,10 +46,13 @@ these letters at the General Office during office hours. Parents can then
 reply digitally, e.g., take a photo of the signed form and email the school.</p>
 <h3>Step 2b: Sales of books, uniform and PE Attire</h3>
 <hr>
-<p>Click <a href="/files/Sales_of_Books_and_Uniforms_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information</p>
-<p>Click <a href="/files/Sec 1 Posting Matters/Northbrooks_Secondary_School__NSS__Sec_1_G3G2G1_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the Sec 1 2024 Booklist</p>
+<p></p>
+<p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+the Sec 1G1 2025 Booklist</p>
+<p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G2.pdf" rel="noopener nofollow" target="_blank">here</a> for
+the Sec 1G2 2025 Booklist</p>
+<p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G3.pdf" rel="noopener nofollow" target="_blank">here</a> for
+the Sec 1G3 2025 Booklist</p>
 <h3>Step 2c: Health Promotion Board (HPB) Digital Letter</h3>
 <hr>
 <p>The <a href="/files/Sec 1 Posting Matters/2024_S1_Consent_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">digital letter</a>&nbsp;contains
