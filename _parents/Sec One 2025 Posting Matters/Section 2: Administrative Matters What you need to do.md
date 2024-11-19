@@ -179,5 +179,5 @@ will not enter into discussion with the applicants regarding its decision</p>
 preferred school’s website for more information. Your child’s PSLE score
 should meet the school’s cut-off point for that year. Transfers will be
 subject to available vacancies and meeting the school’s admission criteria.</p>
-<p><strong><a href="/parents/sec-one-2024-posting-matters/sec-one-2024-posting-matters/" rel="noopener noreferrer nofollow" target="_blank">Return to Main Menu: Sec One 2024 Posting Matters</a></strong>
+<p><strong><a href="/parents/sec-one-2025-posting-matters/sec-one-2025-posting-matters/" rel="noopener noreferrer nofollow" target="_blank">Return to Main Menu: Sec One 2025 Posting Matters</a></strong>
 </p>
