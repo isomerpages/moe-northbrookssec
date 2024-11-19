@@ -104,7 +104,7 @@ school only after receiving the eligibility letter to be offered HMTL.</p>
 study this subject during school curriculum time.</p>
 <p>For students who are offering HCL, students are to indicate accept or
 reject the offer and inform their Higher Mother Tongue or Mother Tongue
-teacher in the first HMT or MT lesson in 2024.</p>
+teacher in the first HMT or MT lesson in 2025.</p>
 <p><strong><em><u>Offering Third Languages At Secondary School</u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -115,7 +115,7 @@ successful and unsuccessful applications.</p>
 <li>
 <p>Students will have to register online with the respective centres: MOE
 Language Centre (MOELC) or Malay/Chinese Special Programme (MSP/CSP) Zonal
-Centres by 2024.</p>
+Centres by 2025.</p>
 </li>
 <li>
 <p>For registration at MOELC, students are to confirm the acceptance of the
@@ -155,7 +155,7 @@ school.</p>
 </p>
 <p><strong>Transferring-in Cases:</strong> 
 <br>For parents/guardians who would like to transfer your child to Northbrooks
-Secondary School, please click&nbsp;<a href="https://form.gov.sg/657716fa22eec40012e3ab8e" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to complete
+Secondary School, please click&nbsp;<a href="https://form.gov.sg/673c36ab0c13254932027e93" rel="noopener nofollow" target="_blank">here</a>&nbsp;to complete
 the form.
 <br>The deadline for the submission of appeals is on&nbsp;<strong>27 December 2023, 12.00pm</strong>.
 Late submission will not be allowed.</p>
