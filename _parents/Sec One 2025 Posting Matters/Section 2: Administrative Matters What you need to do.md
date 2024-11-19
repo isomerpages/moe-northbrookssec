@@ -86,7 +86,7 @@ Letter.</p>
 <p><strong>Please ensure that you obtain the School Approval letter before collecting your free books and uniforms.</strong>
 </p>
 <p>For parents/guardians who want to find out more about the MOE Financial
-Assistance Scheme (FAS), you may refer to the<strong> </strong><a href="/files/Sec 1 Posting Matters/MOE_FAS_pamphet_EL.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 MOE FAS Pamphlet</a>
+Assistance Scheme (FAS), you may refer to the<strong> </strong><a href="/files/FAS/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">2025 MOE FAS Pamphlet</a>
 </p>
 <h3>Step 2e: Applications for Higher Mother Tongue, Foreign / 3rd Languages and exemption in Mother Tongue Language</h3>
 <hr>
