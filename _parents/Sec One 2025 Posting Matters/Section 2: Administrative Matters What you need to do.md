@@ -66,7 +66,7 @@ accordingly.</p>
 <p>Parents/Guardians applying for MOE Financial Assistance Scheme (FAS) must
 come down to the school in person by<strong> 5.00pm on 21 December 2023 (PG 1 and 2) and 22 December 2023 (PG 3)</strong>&nbsp;with
 all the original &amp; required supporting documents.</p>
-<p>The FAS online form can be found <a href="https://form.gov.sg/64e2f8f73f582600139f54ac" rel="noopener noreferrer nofollow" target="_blank">here</a>:</p>
+<p>The FAS online form can be found <a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener nofollow" target="_blank">here</a>:</p>
 <p>Please refer to the <a href="/files/Sec 1 Posting Matters/2024_MOE_FAS_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 MOE FAS Application Form</a>
 </p>
 <p>Two types of FAS application:</p>
