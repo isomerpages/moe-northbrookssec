@@ -6,7 +6,7 @@ third_nav_title: Sec One 2025 Posting Matters
 variant: tiptap
 ---
 <h1>Section 2: Administrative Matters</h1>
-<p>All incoming Secondary 1 students who have been posted to Northbrooks
+<p>All incoming Secondary One students who have been posted to Northbrooks
 Secondary School are officially enrolled in the school from the day of
 posting. There is no need for registration to confirm your child/ward’s
 enrolment.</p>
@@ -95,7 +95,7 @@ Assistance Scheme (FAS), you may refer to the<strong> </strong><a href="/files/F
 more information</p>
 <p><strong><em><u>Higher Mother Tongue</u></em></strong>
 </p>
-<p>MOE HMTL Option Letters will be given to eligible Sec 1 students based
+<p>MOE HMTL Option Letters will be given to eligible Sec One students based
 on MOE’s eligibility criteria to offer HMTL on the first day of school
 when school reopens.</p>
 <p>Parents are advised to purchase MT/ HMTL textbooks on the first week of
@@ -163,7 +163,7 @@ Late submission will not be allowed.</p>
 </p>
 <p>All applicants will be put on the waiting list. The school’s decision
 will be made after the vacancies are ascertained following the release
-of the Secondary 1 posting results and deadline for online appeal application
+of the Secondary One posting results and deadline for online appeal application
 is over.&nbsp;</p>
 <p>Pending the outcome of appeal, all applicants are required to report to
 the school that they are posted to by the Ministry of Education on 2 January
