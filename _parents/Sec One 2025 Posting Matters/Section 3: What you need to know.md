@@ -1,8 +1,8 @@
 ---
 title: "Section 3: What you need to know"
-permalink: /parents/sec-one-2024-posting-matters/section-3-what-you-need-to-know/
+permalink: /parents/sec-one-2025-posting-matters/section-3-what-you-need-to-know/
 description: ""
-third_nav_title: Sec One 2024 Posting Matters
+third_nav_title: Sec One 2025 Posting Matters
 variant: tiptap
 ---
 <h1>Section 3:&nbsp;What you need to know</h1>
@@ -70,11 +70,11 @@ possess the desire and passion to learn for life.</p>
 <hr>
 <p>The school values its partnership with all Parents/Guardians. This is
 key in supporting your child. We would like to invite you to join the Parents
-Support Group (PSG). If you are keen, please complete the&nbsp;<a href="https://form.gov.sg/65786d1b869e0a001256617a" rel="noopener noreferrer nofollow" target="_blank">PSG Enrolment Form</a>.
+Support Group (PSG). If you are keen, please complete the&nbsp;<a href="https://form.gov.sg/67360defaf16d982dfea829f" rel="noopener nofollow" target="_blank">PSG Enrolment Form</a>.
 Thank You.</p>
-<p>Click <a href="https://drive.google.com/file/d/1gCEscSIoYM9SFgb7Lr0y2XaKRlvsPfTJ/view" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="https://drive.google.com/file/d/1tcJv7CsSvWRbtqjkmqbNabrlVDs6J-cF/view?t=11" rel="noopener nofollow" target="_blank">here</a> to
 watch the video montage of our PSG.</p>
-<p>Please email to Mdm Pauline Kum, PSG Chairperson at&nbsp;<a href="mailto:eehuihui8080@gmail.com" rel="noopener noreferrer nofollow" target="_blank">pauline.kum@gmail.com</a>&nbsp;if
+<p>Please email to Mdm Sakura, PSG Chairperson at&nbsp;<a href="mailto:nwarazhari@hotmail.com" rel="noopener nofollow" target="_blank">nwarazhari@hotmail.com</a>&nbsp;if
 you have any enquiry about PSG.</p>
 <h3>6. Primary to Secondary School Transition</h3>
 <p>Click <a href="/files/primary_to_secondary_transition.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
@@ -84,5 +84,5 @@ more information</p>
 <p>Click <a href="/files/Sec 1 Posting Matters/AEP_MEP_2024_Website_update.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information</p>
 <hr>
-<p><strong><a href="/parents/sec-one-2024-posting-matters/sec-one-2024-posting-matters/" rel="noopener noreferrer nofollow" target="_blank">Return to Main Menu: Sec One 2024 Posting Matters</a></strong>
+<p><strong><a href="/parents/sec-one-2025-posting-matters/sec-one-2025-posting-matters/" rel="noopener noreferrer nofollow" target="_blank">Return to Main Menu: Sec One 2025 Posting Matters</a></strong>
 </p>

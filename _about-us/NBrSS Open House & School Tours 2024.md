@@ -1,9 +1,30 @@
 ---
-title: NBrSS Open House 2024
-permalink: /nbrss-open-house/
+title: NBrSS Open House & School Tours 2024
+permalink: /nbrss-open-house-school-tours/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/2024/OH_PSLE_RESULTS_PUBLICITY__1_.png">
+</div>
+<p>Missed our Open House last Saturday?
+<br>
+<br>No worries! We're excited to offer exclusive school tours from November
+20-22. This is your chance to discover what we stand for and explore our
+campus.
+<br>
+<br>Take a personalised tour, meet our staff, and get your questions answered.
+<br>
+<br>We're looking forward to welcoming you! Congratulations on your PSLE results,
+and we hope to see you soon!</p>
+<p></p>
+<h4>NBrSS Open House 2024 Highlights</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1eHaLfnxYGc?si=fV7YWBqkBrmoA35M"></iframe>
+</div>
+<p></p>
+<p></p>
 <p>Dear Parents and Prospective Students,</p>
 <p>🎉 <strong>Join Us at Northbrooks Secondary School Open House!</strong>🎉
 <br>📅 Date: <strong>16 November</strong>

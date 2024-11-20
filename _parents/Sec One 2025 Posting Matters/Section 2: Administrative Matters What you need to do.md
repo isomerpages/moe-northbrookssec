@@ -1,12 +1,12 @@
 ---
 title: "Section 2: Administrative Matters What you need to do"
-permalink: /parents/sec-one-2024-posting-matters/section-2-administrative-matters/
+permalink: /parents/sec-one-2025-posting-matters/section-2-administrative-matters/
 description: ""
-third_nav_title: Sec One 2024 Posting Matters
+third_nav_title: Sec One 2025 Posting Matters
 variant: tiptap
 ---
-<h1>Section 2: Administrative Matters </h1>
-<p>All incoming Secondary 1 students who have been posted to Northbrooks
+<h1>Section 2: Administrative Matters</h1>
+<p>All incoming Secondary One students who have been posted to Northbrooks
 Secondary School are officially enrolled in the school from the day of
 posting. There is no need for registration to confirm your child/ward’s
 enrolment.</p>
@@ -31,7 +31,7 @@ of Blk 441 Yishun Ave 11, Blk 674 Yishun Ave 4 and Blk 456A Yishun Street
 <p></p>
 <h3>Step 2a: Offering subjects at a more demanding level</h3>
 <hr>
-<p>At the start of S1, students will offer EL, MTL, HUM and SCI at the subject
+<p>At the start of S1, students will offer EL, MTL, MA and SCI at the subject
 level determined by their PSLE Score. Students who offer most subjects
 at G1 or G2 are eligible to offer EL, MTL, MA and SCI at a more demanding
 level from the start of S1 if they have performed well in these subject
@@ -46,10 +46,13 @@ these letters at the General Office during office hours. Parents can then
 reply digitally, e.g., take a photo of the signed form and email the school.</p>
 <h3>Step 2b: Sales of books, uniform and PE Attire</h3>
 <hr>
-<p>Click <a href="/files/Sales_of_Books_and_Uniforms_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information</p>
-<p>Click <a href="/files/Sec 1 Posting Matters/Northbrooks_Secondary_School__NSS__Sec_1_G3G2G1_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the Sec 1 2024 Booklist</p>
+<p></p>
+<p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+the Sec 1G1 2025 Booklist</p>
+<p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G2.pdf" rel="noopener nofollow" target="_blank">here</a> for
+the Sec 1G2 2025 Booklist</p>
+<p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G3.pdf" rel="noopener nofollow" target="_blank">here</a> for
+the Sec 1G3 2025 Booklist</p>
 <h3>Step 2c: Health Promotion Board (HPB) Digital Letter</h3>
 <hr>
 <p>The <a href="/files/Sec 1 Posting Matters/2024_S1_Consent_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">digital letter</a>&nbsp;contains
@@ -63,13 +66,13 @@ accordingly.</p>
 <p>Parents/Guardians applying for MOE Financial Assistance Scheme (FAS) must
 come down to the school in person by<strong> 5.00pm on 21 December 2023 (PG 1 and 2) and 22 December 2023 (PG 3)</strong>&nbsp;with
 all the original &amp; required supporting documents.</p>
-<p>The FAS online form can be found <a href="https://form.gov.sg/64e2f8f73f582600139f54ac" rel="noopener noreferrer nofollow" target="_blank">here</a>:</p>
-<p>Please refer to the <a href="/files/Sec 1 Posting Matters/2024_MOE_FAS_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 MOE FAS Application Form</a>
+<p>The FAS online form can be found <a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener nofollow" target="_blank">here</a>:</p>
+<p>Please refer to the <a href="/files/FAS/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">2025 MOE FAS Application Form</a>
 </p>
 <p>Two types of FAS application:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Already Approved MOE FAS for 2024&nbsp;with Approval letter from Primary School</strong>&nbsp;-
+<p><strong>Already Approved MOE FAS for 2025&nbsp;with Approval letter from Primary School</strong>&nbsp;-
 Please exchange your letter at Learning Network Room (Level 1) in order
 for you to collect your books and uniforms.</p>
 </li>
@@ -83,7 +86,7 @@ Letter.</p>
 <p><strong>Please ensure that you obtain the School Approval letter before collecting your free books and uniforms.</strong>
 </p>
 <p>For parents/guardians who want to find out more about the MOE Financial
-Assistance Scheme (FAS), you may refer to the<strong> </strong><a href="/files/Sec 1 Posting Matters/MOE_FAS_pamphet_EL.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 MOE FAS Pamphlet</a>
+Assistance Scheme (FAS), you may refer to the<strong> </strong><a href="/files/FAS/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">2025 MOE FAS Pamphlet</a>
 </p>
 <h3>Step 2e: Applications for Higher Mother Tongue, Foreign / 3rd Languages and exemption in Mother Tongue Language</h3>
 <hr>
@@ -92,7 +95,7 @@ Assistance Scheme (FAS), you may refer to the<strong> </strong><a href="/files/S
 more information</p>
 <p><strong><em><u>Higher Mother Tongue</u></em></strong>
 </p>
-<p>MOE HMTL Option Letters will be given to eligible Sec 1 students based
+<p>MOE HMTL Option Letters will be given to eligible Sec One students based
 on MOE’s eligibility criteria to offer HMTL on the first day of school
 when school reopens.</p>
 <p>Parents are advised to purchase MT/ HMTL textbooks on the first week of
@@ -101,7 +104,7 @@ school only after receiving the eligibility letter to be offered HMTL.</p>
 study this subject during school curriculum time.</p>
 <p>For students who are offering HCL, students are to indicate accept or
 reject the offer and inform their Higher Mother Tongue or Mother Tongue
-teacher in the first HMT or MT lesson in 2024.</p>
+teacher in the first HMT or MT lesson in 2025.</p>
 <p><strong><em><u>Offering Third Languages At Secondary School</u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -112,7 +115,7 @@ successful and unsuccessful applications.</p>
 <li>
 <p>Students will have to register online with the respective centres: MOE
 Language Centre (MOELC) or Malay/Chinese Special Programme (MSP/CSP) Zonal
-Centres by 2024.</p>
+Centres by 2025.</p>
 </li>
 <li>
 <p>For registration at MOELC, students are to confirm the acceptance of the
@@ -152,7 +155,7 @@ school.</p>
 </p>
 <p><strong>Transferring-in Cases:</strong> 
 <br>For parents/guardians who would like to transfer your child to Northbrooks
-Secondary School, please click&nbsp;<a href="https://form.gov.sg/657716fa22eec40012e3ab8e" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to complete
+Secondary School, please click&nbsp;<a href="https://form.gov.sg/673c36ab0c13254932027e93" rel="noopener nofollow" target="_blank">here</a>&nbsp;to complete
 the form.
 <br>The deadline for the submission of appeals is on&nbsp;<strong>27 December 2023, 12.00pm</strong>.
 Late submission will not be allowed.</p>
@@ -160,7 +163,7 @@ Late submission will not be allowed.</p>
 </p>
 <p>All applicants will be put on the waiting list. The school’s decision
 will be made after the vacancies are ascertained following the release
-of the Secondary 1 posting results and deadline for online appeal application
+of the Secondary One posting results and deadline for online appeal application
 is over.&nbsp;</p>
 <p>Pending the outcome of appeal, all applicants are required to report to
 the school that they are posted to by the Ministry of Education on 2 January
@@ -176,5 +179,5 @@ will not enter into discussion with the applicants regarding its decision</p>
 preferred school’s website for more information. Your child’s PSLE score
 should meet the school’s cut-off point for that year. Transfers will be
 subject to available vacancies and meeting the school’s admission criteria.</p>
-<p><strong><a href="/parents/sec-one-2024-posting-matters/sec-one-2024-posting-matters/" rel="noopener noreferrer nofollow" target="_blank">Return to Main Menu: Sec One 2024 Posting Matters</a></strong>
+<p><strong><a href="/parents/sec-one-2025-posting-matters/sec-one-2025-posting-matters/" rel="noopener noreferrer nofollow" target="_blank">Return to Main Menu: Sec One 2025 Posting Matters</a></strong>
 </p>
