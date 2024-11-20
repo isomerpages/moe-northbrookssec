@@ -22,7 +22,7 @@ refer to&nbsp;<a href="/files/Sec 1 Posting Matters/FAQ_for_S1_parents_2024_date
 more information.</p>
 <p>For your convenience, you may wish to&nbsp;download our <a href="/files/Summary_of_key_activities_and_key_dates.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Key Activities and Key Dates</a>&nbsp;to
 have an overview of the various submission deadlines.</p>
-<p><strong>There are 4 Sections to complete the Sec 1 registration.</strong>
+<p><strong>There are 4 Sections to complete the Sec One registration.</strong>
 </p>
 <p><a href="/parents/sec-one-2024-posting-matters/section-1-welcome-message-by-mr-david-lau/" rel="noopener noreferrer nofollow" target="_blank">Section 1: Welcome Message by Mr David Lau (Principal of Northbrooks Secondary)</a>
 </p>
