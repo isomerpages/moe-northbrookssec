@@ -19,7 +19,7 @@ campus.
 <br>We're looking forward to welcoming you! Congratulations on your PSLE results,
 and we hope to see you soon!</p>
 <p></p>
-<p>NBrSS Open House 2024 Highlights</p>
+<h4>NBrSS Open House 2024 Highlights</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1eHaLfnxYGc?si=fV7YWBqkBrmoA35M"></iframe>
 </div>
