@@ -15,7 +15,7 @@ sections:
           description: ""
           url: /achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/
       background: /images/homepageeee northbrooks.gif
-      url: /nbrss-open-house/
+      url: /nbrss-open-house-school-tours/
       button: JOIN US FOR OUR SCHOOL TOURS FROM 20-22 NOV
   - infobar:
       id: infobar
