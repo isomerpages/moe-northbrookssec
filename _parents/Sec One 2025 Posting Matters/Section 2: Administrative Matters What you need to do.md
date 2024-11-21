@@ -27,7 +27,7 @@ of Blk 441 Yishun Ave 11, Blk 674 Yishun Ave 4 and Blk 456A Yishun Street
 </li>
 </ul>
 <p>Students would be able to know the class allocation via&nbsp;<a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway App</a>&nbsp;by
-29 December 2023, 5 pm.</p>
+30 December 2024, 5 pm.</p>
 <p></p>
 <h3>Step 2a: Offering subjects at a more demanding level</h3>
 <hr>
