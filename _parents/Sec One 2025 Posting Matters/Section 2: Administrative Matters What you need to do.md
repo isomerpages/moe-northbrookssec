@@ -48,11 +48,11 @@ reply digitally, e.g., take a photo of the signed form and email the school.</p>
 <hr>
 <p></p>
 <p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the Sec 1G1 2025 Booklist</p>
+Posting Group 1</p>
 <p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G2.pdf" rel="noopener nofollow" target="_blank">here</a> for
-the Sec 1G2 2025 Booklist</p>
+Posting Group 2</p>
 <p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G3.pdf" rel="noopener nofollow" target="_blank">here</a> for
-the Sec 1G3 2025 Booklist</p>
+Posting Group 3</p>
 <h3>Step 2c: Health Promotion Board (HPB) Digital Letter</h3>
 <hr>
 <p>The <a href="/files/Sec 1 Posting Matters/2024_S1_Consent_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">digital letter</a>&nbsp;contains
