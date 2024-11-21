@@ -147,7 +147,7 @@ such as medical reports, letters from doctors.
 <br>(v) The staff at your child’s posted secondary school will help you to
 file your appeal. The appeal results will be released in early January.
 <br>For successful students, they will receive the Medical Appeal Result Letters
-(S1_001) on January 2024 from the originally posted secondary school. They
+(S1_001) on January 2025 from the originally posted secondary school. They
 may then proceed to the new posted school immediately. Students who are
 unsuccessful in their appeal will remain in the original posted secondary
 school.</p>
@@ -157,7 +157,7 @@ school.</p>
 <br>For parents/guardians who would like to transfer your child to Northbrooks
 Secondary School, please click&nbsp;<a href="https://form.gov.sg/673c36ab0c13254932027e93" rel="noopener nofollow" target="_blank">here</a>&nbsp;to complete
 the form.
-<br>The deadline for the submission of appeals is on&nbsp;<strong>27 December 2023, 12.00pm</strong>.
+<br>The deadline for the submission of appeals is on&nbsp;<strong>26 December 2024, 12.00pm</strong>.
 Late submission will not be allowed.</p>
 <p><strong>What happens after I apply?</strong>
 </p>
@@ -167,10 +167,10 @@ of the Secondary One posting results and deadline for online appeal application
 is over.&nbsp;</p>
 <p>Pending the outcome of appeal, all applicants are required to report to
 the school that they are posted to by the Ministry of Education on 2 January
-2024.</p>
+2025.</p>
 <p><strong>When will I know the outcome of my application?</strong>
 </p>
-<p>Successful applicants will be informed after 6 January 2024.</p>
+<p>Successful applicants will be informed after 7 January 2025.</p>
 <p>The decision of the school’s Admissions Committee is final and the school
 will not enter into discussion with the applicants regarding its decision</p>
 <p>----------------------------------------------------------------------------------</p>
