@@ -64,7 +64,7 @@ accordingly.</p>
 <hr>
 <p><strong><em>(Optional)</em></strong>&nbsp;</p>
 <p>Parents/Guardians applying for MOE Financial Assistance Scheme (FAS) must
-come down to the school in person by<strong> 5.00pm on 21 December 2023 (PG 1 and 2) and 22 December 2023 (PG 3)</strong>&nbsp;with
+come down to the school in person by<strong> 5.00pm on 19 December 2024 (PG 1 and 2) and 20 December 2024 (PG 3)</strong>&nbsp;with
 all the original &amp; required supporting documents.</p>
 <p>The FAS online form can be found <a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener nofollow" target="_blank">here</a>:</p>
 <p>Please refer to the <a href="/files/FAS/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">2025 MOE FAS Application Form</a>
@@ -136,12 +136,12 @@ Centres for the registration deadline.</p>
 <p><strong>Transferring-out Cases: Medical Appeal Exercises</strong>
 </p>
 <p>(i)&nbsp;Parents to file the appeal in person at the posted school General
-Office&nbsp;by&nbsp;<strong>21 December 2023, 12.00pm</strong>.
+Office&nbsp;by&nbsp;<strong>19 December 2024, 12.00pm</strong>.
 <br>(ii) Parents who wish to submit the MAE application via email should first
-contact the school at Tel: 67524311 by&nbsp;<strong>21 December 2023, 12.00pm</strong>&nbsp;for
+contact the school at Tel: 67524311 by&nbsp;<strong>19 December 2024, 12.00pm</strong>&nbsp;for
 further advice.
-<br>(iii) Release of Medical Appeal Exercise Results is tentatively on 29
-December 2023.
+<br>(iii) Release of Medical Appeal Exercise Results is tentatively on 30
+December 2024.
 <br>(iv) All appeals must be accompanied by relevant supporting documents,
 such as medical reports, letters from doctors.
 <br>(v) The staff at your child’s posted secondary school will help you to
