@@ -2,7 +2,7 @@
 title: "Section 2: Administrative Matters What you need to do"
 permalink: /parents/sec-one-2025-posting-matters/section-2-administrative-matters/
 description: ""
-third_nav_title: Sec One 2025 Posting Matters
+third_nav_title: Sec One 2025 Posting (Pending)
 variant: tiptap
 ---
 <h1>Section 2: Administrative Matters</h1>
@@ -27,7 +27,7 @@ of Blk 441 Yishun Ave 11, Blk 674 Yishun Ave 4 and Blk 456A Yishun Street
 </li>
 </ul>
 <p>Students would be able to know the class allocation via&nbsp;<a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway App</a>&nbsp;by
-29 December 2023, 5 pm.</p>
+30 December 2024, 5 pm.</p>
 <p></p>
 <h3>Step 2a: Offering subjects at a more demanding level</h3>
 <hr>
@@ -48,11 +48,11 @@ reply digitally, e.g., take a photo of the signed form and email the school.</p>
 <hr>
 <p></p>
 <p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the Sec 1G1 2025 Booklist</p>
+Posting Group 1</p>
 <p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G2.pdf" rel="noopener nofollow" target="_blank">here</a> for
-the Sec 1G2 2025 Booklist</p>
+Posting Group 2</p>
 <p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G3.pdf" rel="noopener nofollow" target="_blank">here</a> for
-the Sec 1G3 2025 Booklist</p>
+Posting Group 3</p>
 <h3>Step 2c: Health Promotion Board (HPB) Digital Letter</h3>
 <hr>
 <p>The <a href="/files/Sec 1 Posting Matters/2024_S1_Consent_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">digital letter</a>&nbsp;contains
@@ -64,7 +64,7 @@ accordingly.</p>
 <hr>
 <p><strong><em>(Optional)</em></strong>&nbsp;</p>
 <p>Parents/Guardians applying for MOE Financial Assistance Scheme (FAS) must
-come down to the school in person by<strong> 5.00pm on 21 December 2023 (PG 1 and 2) and 22 December 2023 (PG 3)</strong>&nbsp;with
+come down to the school in person by<strong> 5.00pm on 19 December 2024 (PG 1 and 2) and 20 December 2024 (PG 3)</strong>&nbsp;with
 all the original &amp; required supporting documents.</p>
 <p>The FAS online form can be found <a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener nofollow" target="_blank">here</a>:</p>
 <p>Please refer to the <a href="/files/FAS/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">2025 MOE FAS Application Form</a>
@@ -136,18 +136,18 @@ Centres for the registration deadline.</p>
 <p><strong>Transferring-out Cases: Medical Appeal Exercises</strong>
 </p>
 <p>(i)&nbsp;Parents to file the appeal in person at the posted school General
-Office&nbsp;by&nbsp;<strong>21 December 2023, 12.00pm</strong>.
+Office&nbsp;by&nbsp;<strong>19 December 2024, 12.00pm</strong>.
 <br>(ii) Parents who wish to submit the MAE application via email should first
-contact the school at Tel: 67524311 by&nbsp;<strong>21 December 2023, 12.00pm</strong>&nbsp;for
+contact the school at Tel: 67524311 by&nbsp;<strong>19 December 2024, 12.00pm</strong>&nbsp;for
 further advice.
-<br>(iii) Release of Medical Appeal Exercise Results is tentatively on 29
-December 2023.
+<br>(iii) Release of Medical Appeal Exercise Results is tentatively on 30
+December 2024.
 <br>(iv) All appeals must be accompanied by relevant supporting documents,
 such as medical reports, letters from doctors.
 <br>(v) The staff at your child’s posted secondary school will help you to
 file your appeal. The appeal results will be released in early January.
 <br>For successful students, they will receive the Medical Appeal Result Letters
-(S1_001) on January 2024 from the originally posted secondary school. They
+(S1_001) on January 2025 from the originally posted secondary school. They
 may then proceed to the new posted school immediately. Students who are
 unsuccessful in their appeal will remain in the original posted secondary
 school.</p>
@@ -157,7 +157,7 @@ school.</p>
 <br>For parents/guardians who would like to transfer your child to Northbrooks
 Secondary School, please click&nbsp;<a href="https://form.gov.sg/673c36ab0c13254932027e93" rel="noopener nofollow" target="_blank">here</a>&nbsp;to complete
 the form.
-<br>The deadline for the submission of appeals is on&nbsp;<strong>27 December 2023, 12.00pm</strong>.
+<br>The deadline for the submission of appeals is on&nbsp;<strong>26 December 2024, 12.00pm</strong>.
 Late submission will not be allowed.</p>
 <p><strong>What happens after I apply?</strong>
 </p>
@@ -167,10 +167,10 @@ of the Secondary One posting results and deadline for online appeal application
 is over.&nbsp;</p>
 <p>Pending the outcome of appeal, all applicants are required to report to
 the school that they are posted to by the Ministry of Education on 2 January
-2024.</p>
+2025.</p>
 <p><strong>When will I know the outcome of my application?</strong>
 </p>
-<p>Successful applicants will be informed after 6 January 2024.</p>
+<p>Successful applicants will be informed after 7 January 2025.</p>
 <p>The decision of the school’s Admissions Committee is final and the school
 will not enter into discussion with the applicants regarding its decision</p>
 <p>----------------------------------------------------------------------------------</p>

@@ -2,7 +2,7 @@
 title: "Section 3: What you need to know"
 permalink: /parents/sec-one-2025-posting-matters/section-3-what-you-need-to-know/
 description: ""
-third_nav_title: Sec One 2025 Posting Matters
+third_nav_title: Sec One 2025 Posting (Pending)
 variant: tiptap
 ---
 <h1>Section 3:&nbsp;What you need to know</h1>

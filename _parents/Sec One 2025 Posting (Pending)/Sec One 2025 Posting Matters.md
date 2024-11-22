@@ -2,7 +2,7 @@
 title: Sec One 2025 Posting Matters
 permalink: /parents/sec-one-2025-posting-matters/sec-one-2025-posting-matters/
 description: ""
-third_nav_title: Sec One 2025 Posting Matters
+third_nav_title: Sec One 2025 Posting (Pending)
 variant: tiptap
 ---
 <p></p>
