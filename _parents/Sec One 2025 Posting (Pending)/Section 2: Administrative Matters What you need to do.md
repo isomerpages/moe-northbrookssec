@@ -44,10 +44,12 @@ Subject(s) at More Demanding Level'. Parents can submit acceptance of offers
 through Parents' Gateway (PG). Parents will no access to PG can collect
 these letters at the General Office during office hours. Parents can then
 reply digitally, e.g., take a photo of the signed form and email the school.</p>
-<p>More details can be found here</p>
+<p>More details can be found <a href="/files/Infographic/NBRSS_In_School_Progression_Infographic_1.pdf" rel="noopener nofollow" target="_blank">NBRSS In-School Progression Infographic</a>
+</p>
 <h3>Step 2b: Sales of books, uniform and PE Attire</h3>
 <hr>
-<p></p>
+<p><a href="/files/BookList/2025/2024_Year_end_Sales_of_Books_and_Uniforms_Sec_1.pdf" rel="noopener nofollow" target="_blank">2024 Year-end Sales of Books and Uniforms-Sec 1</a>
+</p>
 <p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 Posting Group 1 booklist</p>
 <p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G2.pdf" rel="noopener nofollow" target="_blank">here</a> for
@@ -80,9 +82,9 @@ other dates, please proceed to General Office for assistance.</p>
 </li>
 <li>
 <p><strong>New Applications</strong>&nbsp;- Please proceed to Learning Network
-Room (Level 1) to complete the application form. Submit your supporting
-documents. Once approved, you will be notified to collect the School Approval
-Letter.</p>
+Room (Level 1) on the above dates to complete the application form. Submit
+your supporting documents. Once approved, you will be notified to collect
+the School Approval Letter.</p>
 </li>
 </ul>
 <p><strong>Please ensure that you obtain the School Approval letter before collecting your free books and uniforms.</strong>
