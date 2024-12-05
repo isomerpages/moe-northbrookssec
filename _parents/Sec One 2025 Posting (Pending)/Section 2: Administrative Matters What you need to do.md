@@ -44,15 +44,16 @@ Subject(s) at More Demanding Level'. Parents can submit acceptance of offers
 through Parents' Gateway (PG). Parents will no access to PG can collect
 these letters at the General Office during office hours. Parents can then
 reply digitally, e.g., take a photo of the signed form and email the school.</p>
+<p>More details can be found here</p>
 <h3>Step 2b: Sales of books, uniform and PE Attire</h3>
 <hr>
 <p></p>
 <p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-Posting Group 1</p>
+Posting Group 1 booklist</p>
 <p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G2.pdf" rel="noopener nofollow" target="_blank">here</a> for
-Posting Group 2</p>
+Posting Group 2 booklist</p>
 <p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G3.pdf" rel="noopener nofollow" target="_blank">here</a> for
-Posting Group 3</p>
+Posting Group 3 booklist</p>
 <h3>Step 2c: Health Promotion Board (HPB) Digital Letter</h3>
 <hr>
 <p>The <a href="/files/Sec 1 Posting Matters/2024_S1_Consent_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">digital letter</a>&nbsp;contains
@@ -64,7 +65,7 @@ accordingly.</p>
 <hr>
 <p><strong><em>(Optional)</em></strong>&nbsp;</p>
 <p>Parents/Guardians applying for MOE Financial Assistance Scheme (FAS) must
-come down to the school in person by<strong> 5.00pm on 19 December 2024 (PG 1 and 2) and 20 December 2024 (PG 3)</strong>&nbsp;with
+come down to the school in person by<strong> 5.00pm 27 Dec </strong>&nbsp;with
 all the original &amp; required supporting documents.</p>
 <p>The FAS online form can be found <a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener nofollow" target="_blank">here</a>:</p>
 <p>Please refer to the <a href="/files/FAS/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">2025 MOE FAS Application Form</a>
@@ -74,7 +75,8 @@ all the original &amp; required supporting documents.</p>
 <li>
 <p><strong>Already Approved MOE FAS for 2025&nbsp;with Approval letter from Primary School</strong>&nbsp;-
 Please exchange your letter at Learning Network Room (Level 1) in order
-for you to collect your books and uniforms.</p>
+for you to collect your books and uniforms on <strong>on 19 Dec 2024 PG 1 and 2 and 20 Dec 2024 PG 3. </strong>On
+other dates, please proceed to General Office for assistance.</p>
 </li>
 <li>
 <p><strong>New Applications</strong>&nbsp;- Please proceed to Learning Network
@@ -157,7 +159,7 @@ school.</p>
 <br>For parents/guardians who would like to transfer your child to Northbrooks
 Secondary School, please click&nbsp;<a href="https://form.gov.sg/673c36ab0c13254932027e93" rel="noopener nofollow" target="_blank">here</a>&nbsp;to complete
 the form.
-<br>The deadline for the submission of appeals is on&nbsp;<strong>26 December 2024, 12.00pm</strong>.
+<br>The deadline for the submission of appeals is on&nbsp;<strong>27 Dec 2024, 12.00pm</strong>.
 Late submission will not be allowed.</p>
 <p><strong>What happens after I apply?</strong>
 </p>
