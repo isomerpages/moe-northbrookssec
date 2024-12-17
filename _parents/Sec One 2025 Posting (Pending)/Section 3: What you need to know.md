@@ -8,10 +8,11 @@ variant: tiptap
 <h1>Section 3:&nbsp;What you need to know</h1>
 <h3>1.&nbsp; Sec One First Day and Orientation</h3>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Sec_1_Orientation_Prog.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1/2025/Sec_1_Orientation_2025.png">
 </div>
-<p>Click <a href="/files/Sec 1 Posting Matters/Sec_1_Orientation_2024_for_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/Sec 1 Orientation/2025/Sec_1_Orientation_2025_for_School_Website.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more information</p>
 <h3>2.&nbsp; Full Subject-Based Banding (FSBB)</h3>
 <hr>
