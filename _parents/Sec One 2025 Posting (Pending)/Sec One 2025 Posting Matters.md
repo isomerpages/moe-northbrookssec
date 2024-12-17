@@ -18,7 +18,7 @@ new chapter of his or her life and we are equally excited to welcome you
 into our Brooksians family.&nbsp;</p>
 <p>To help you and your child transition into secondary school, we have compiled
 a list of answers to some of the questions that you may find useful. Please
-refer to&nbsp;<a href="/files/Sec 1 Posting Matters/FAQ_for_S1_parents_2024_dated_18_Dec_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a> for
+refer to&nbsp;<a href="/files/FAQ_for_S1_parents_2025_dated_16_Dec_2024_v2.pdf" rel="noopener nofollow" target="_blank">FAQ</a> for
 more information.</p>
 <p>For your convenience, you may wish to&nbsp;download our <a href="/files/Summary_of_key_activities_and_key_dates_2025.pdf" rel="noopener nofollow" target="_blank">Summary of Key Activities and Key Dates</a>&nbsp;to
 have an overview of the various submission deadlines.</p>
