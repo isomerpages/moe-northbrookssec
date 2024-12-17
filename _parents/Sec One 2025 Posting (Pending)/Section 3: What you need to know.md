@@ -16,13 +16,6 @@ variant: tiptap
 more information</p>
 <h3>2.&nbsp; Full Subject-Based Banding (FSBB)</h3>
 <hr>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FSBB_2024.png">
-</div>
-<p></p>
-<p>Click <a href="/files/NBRSS_Full_SBB_Information_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-find out more.</p>
 <p>More information can also be found here:&nbsp;<a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">Full Subject-Based Banding (Full SBB) (moe.gov.sg)</a>
 </p>
 <h3>3.&nbsp; Personalised Digital Learning Programme (PDLP)</h3>
