@@ -82,7 +82,7 @@ you have any enquiry about PSG.</p>
 more information</p>
 <p></p>
 <h3>7. Arts and Music Elective Programme</h3>
-<p>Click <a href="/files/Sec 1 Posting Matters/AEP_MEP_2024_Website_update.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/2025_AEP_and_MEP_Centre_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more information</p>
 <hr>
 <p><strong><a href="/parents/sec-one-2025-posting-matters/sec-one-2025-posting-matters/" rel="noopener noreferrer nofollow" target="_blank">Return to Main Menu: Sec One 2025 Posting Matters</a></strong>
