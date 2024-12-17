@@ -14,8 +14,7 @@ variant: tiptap
 </div>
 <p>Click <a href="/files/Sec 1 Orientation/2025/Sec_1_Orientation_2025_for_School_Website.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more information</p>
-<p>More details can be found <a href="/files/Full_SBB___Sec_1_2025.pdf" rel="noopener nofollow" target="_blank">Full Subject Based Banding</a>
-</p>
+<p></p>
 <p></p>
 <h3>2.&nbsp;Personalised Digital Learning Programme (PDLP)</h3>
 <hr>
