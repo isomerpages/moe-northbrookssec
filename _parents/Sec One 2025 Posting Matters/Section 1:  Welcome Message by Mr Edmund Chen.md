@@ -34,7 +34,7 @@ aspects in our partnership to develop our students holistically.</p>
 <p></p>
 <p>On behalf of the Northbrooks family, I wish all of you a wonderful and
 fulfilling year in 2025.</p>
-<p>Principal or Principal-Designate,
+<p>Principal-Designate,
 <br>Mr Edmund Chen
 <br>Northbrooks Secondary School</p>
 <p><strong><a href="/parents/sec-one-2025-posting-matters/sec-one-2025-posting-matters/" rel="noopener noreferrer nofollow" target="_blank">Return to Main Menu: Sec One 2025 Posting Matters</a></strong>
