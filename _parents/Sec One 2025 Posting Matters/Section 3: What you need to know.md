@@ -2,29 +2,21 @@
 title: "Section 3: What you need to know"
 permalink: /parents/sec-one-2025-posting-matters/section-3-what-you-need-to-know/
 description: ""
-third_nav_title: Sec One 2025 Posting (Pending)
+third_nav_title: Sec One 2025 Posting Matters
 variant: tiptap
 ---
 <h1>Section 3:&nbsp;What you need to know</h1>
 <h3>1.&nbsp; Sec One First Day and Orientation</h3>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Sec_1_Orientation_Prog.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1/2025/Sec_1_Orientation_2025.png">
 </div>
-<p>Click <a href="/files/Sec 1 Posting Matters/Sec_1_Orientation_2024_for_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/Sec 1 Orientation/2025/Sec_1_Orientation_2025_for_School_Website.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more information</p>
-<h3>2.&nbsp; Full Subject-Based Banding (FSBB)</h3>
-<hr>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FSBB_2024.png">
-</div>
 <p></p>
-<p>Click <a href="/files/NBRSS_Full_SBB_Information_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-find out more.</p>
-<p>More information can also be found here:&nbsp;<a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">Full Subject-Based Banding (Full SBB) (moe.gov.sg)</a>
-</p>
-<h3>3.&nbsp; Personalised Digital Learning Programme (PDLP)</h3>
+<h3>2.&nbsp;Personalised Digital Learning Programme (PDLP)</h3>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pdlp1.jpg">
@@ -48,7 +40,7 @@ assistance, further subsidies will be provided. Currently, most students
 will be able to pay through their Edusave without paying any cash. More
 information will be provided in January 2025.</p>
 <p></p>
-<h3>4.&nbsp; Blended Learning (BL)</h3>
+<h3>3.&nbsp; Blended Learning (BL)</h3>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BlendedLearning.png">
@@ -66,7 +58,7 @@ can learn at home.</p>
 <p>Through blended learning, we hope to nurture self-directed and independent
 learners and develop passionate and intrinsically motivated learners who
 possess the desire and passion to learn for life.</p>
-<h3>5. Parents Support Group (PSG)</h3>
+<h3>4. Parents Support Group (PSG)</h3>
 <hr>
 <p>The school values its partnership with all Parents/Guardians. This is
 key in supporting your child. We would like to invite you to join the Parents
@@ -76,12 +68,12 @@ Thank You.</p>
 watch the video montage of our PSG.</p>
 <p>Please email to Mdm Sakura, PSG Chairperson at&nbsp;<a href="mailto:nwarazhari@hotmail.com" rel="noopener nofollow" target="_blank">nwarazhari@hotmail.com</a>&nbsp;if
 you have any enquiry about PSG.</p>
-<h3>6. Primary to Secondary School Transition</h3>
+<h3>5. Primary to Secondary School Transition</h3>
 <p>Click <a href="/files/primary_to_secondary_transition.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information</p>
 <p></p>
-<h3>7. Arts and Music Elective Programme</h3>
-<p>Click <a href="/files/Sec 1 Posting Matters/AEP_MEP_2024_Website_update.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<h3>6. Arts and Music Elective Programme</h3>
+<p>Click <a href="/files/2025_AEP_and_MEP_Centre_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more information</p>
 <hr>
 <p><strong><a href="/parents/sec-one-2025-posting-matters/sec-one-2025-posting-matters/" rel="noopener noreferrer nofollow" target="_blank">Return to Main Menu: Sec One 2025 Posting Matters</a></strong>
