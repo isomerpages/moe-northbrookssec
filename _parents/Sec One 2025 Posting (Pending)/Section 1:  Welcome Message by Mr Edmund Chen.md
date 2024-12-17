@@ -10,32 +10,20 @@ variant: markdown
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec12024Posting_2.png">
 </div>
 <h1>Section 1: Welcome Message by Mr Edmund Chen</h1>
-<p>Dear 2024 Secondary One Students and Parents/Guardians,</p>
+<p>Dear 2025 Secondary One Students and Parents/Guardians</p>
 <p>A very warm welcome to our Northbrooks family!</p>
-<p>At Northbrooks Secondary School, we are guided by our vision – Every Brooksian
-a Champion, Impacting the Community – and we aim to foster in every Brooksian
-the <strong>Champion Learning Mindset</strong>, a mindset with a strong
-desire to learn and improve, and bounce back in the face of adversities.
-In face of the opportunities and challenges this increasingly interconnected
-world may bring to our students in future, it is our hope to instill in
-Brooksians a growth mindset through our programmes, to develop the grit
-and resilience that are essential for success in life. Our school motto,
-“Soaring Yet Rooted”, challenges Brooksians to soar to greater heights
-whilst staying rooted in values.</p>
+<p>We are grateful that you are joining us in our journey to strengthen our Secondary One students in Brooksian school values: Graciousness, Integrity, Fortitude, Teamwork, Empathy, Disciplined (or in short, G.I.F.T.E.D). In living by our school motto “Soaring Yet Rooted,” we motivate our students to achieve greater heights, while remaining deeply grounded in these school values.</p>
 <p></p>
-<p>We are excited by the learning and growth that awaits our 2024 Secondary
-One students and we look forward to fostering a strong home-school partnership
-with you. Our team of dedicated staff will work alongside you and your
-child/ward to provide the necessary support and guidance, to equip him/her
-with the skills, dispositions and mindset to thrive in this new environment,
-and to give your child/ward a meaningful and enriching secondary school
-experience.</p>
+<p>Our school vision, “Every Brooksian a Champion, Impacting the Community”, is our commitment to unlock the full potential of every student. Champions are not merely students who excel in their academic or co-curricular pursuits. Champions are role models who demonstrate exemplary values and have a positive impact on the people around them. We are proud of our culture of care and growth towards nurturing our students to be Champions.</p>
 <p></p>
-<p>On behalf of everyone at Northbrooks Secondary, I wish everyone a wonderful
-and fulfilling year in 2024.</p>
+<p>Raising a child takes a village, and we cannot achieve this vision without the strong and respectful support from our parents and guardians. Your encouragement and affirmation of our Brooksians, active involvement in school activities, and open communication with our school, are all important aspects in our partnership to develop our students holistically.</p>
 <p></p>
-<p>Yours in partnership,
-<br>David Lau
-<br>Principal</p>
+<p>On behalf of the Northbrooks family, I wish all of you a wonderful and fulfilling year in 2025.</p>
+
+
+
+<p>Principal or Principal-Designate,
+<br>Mr Edmund Chen
+<br>Northbrooks Secondary School</p>
 <p><strong><a href="/parents/sec-one-2025-posting-matters/sec-one-2025-posting-matters/" rel="noopener noreferrer nofollow" target="_blank">Return to Main Menu: Sec One 2025 Posting Matters</a></strong>
 </p>
