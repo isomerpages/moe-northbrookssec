@@ -44,8 +44,9 @@ Subject(s) at More Demanding Level'. Parents can submit acceptance of offers
 through Parents' Gateway (PG). Parents will no access to PG can collect
 these letters at the General Office during office hours. Parents can then
 reply digitally, e.g., take a photo of the signed form and email the school.</p>
-<p>More details can be found <a href="/files/Infographic/NBRSS_In_School_Progression_Infographic_1.pdf" rel="noopener nofollow" target="_blank">NBRSS In-School Progression Infographic</a>
+<p>More details can be found <a href="/files/Full_SBB___Sec_1_2025.pdf" rel="noopener nofollow" target="_blank">Full Subject Based Banding</a>
 </p>
+<p></p>
 <h3>Step 2b: Sales of books, uniform and PE Attire</h3>
 <hr>
 <p><a href="/files/BookList/2025/2024_Year_end_Sales_of_Books_and_Uniforms_Sec_1.pdf" rel="noopener nofollow" target="_blank">2024 Year-end Sales of Books and Uniforms-Sec 1</a>
