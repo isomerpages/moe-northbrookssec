@@ -14,11 +14,10 @@ variant: tiptap
 </div>
 <p>Click <a href="/files/Sec 1 Orientation/2025/Sec_1_Orientation_2025_for_School_Website.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more information</p>
-<h3>2.&nbsp; Full Subject-Based Banding (FSBB)</h3>
-<hr>
-<p>More information can also be found <a href="/files/Full_SBB___Sec_1_2025.pdf" rel="noopener nofollow" target="_blank">Full Subject Based Banding</a>
+<p>More details can be found <a href="/files/Full_SBB___Sec_1_2025.pdf" rel="noopener nofollow" target="_blank">Full Subject Based Banding</a>
 </p>
-<h3>3.&nbsp; Personalised Digital Learning Programme (PDLP)</h3>
+<p></p>
+<h3>2.&nbsp;Personalised Digital Learning Programme (PDLP)</h3>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pdlp1.jpg">
@@ -42,7 +41,7 @@ assistance, further subsidies will be provided. Currently, most students
 will be able to pay through their Edusave without paying any cash. More
 information will be provided in January 2025.</p>
 <p></p>
-<h3>4.&nbsp; Blended Learning (BL)</h3>
+<h3>3.&nbsp; Blended Learning (BL)</h3>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BlendedLearning.png">
@@ -60,7 +59,7 @@ can learn at home.</p>
 <p>Through blended learning, we hope to nurture self-directed and independent
 learners and develop passionate and intrinsically motivated learners who
 possess the desire and passion to learn for life.</p>
-<h3>5. Parents Support Group (PSG)</h3>
+<h3>4. Parents Support Group (PSG)</h3>
 <hr>
 <p>The school values its partnership with all Parents/Guardians. This is
 key in supporting your child. We would like to invite you to join the Parents
@@ -70,11 +69,11 @@ Thank You.</p>
 watch the video montage of our PSG.</p>
 <p>Please email to Mdm Sakura, PSG Chairperson at&nbsp;<a href="mailto:nwarazhari@hotmail.com" rel="noopener nofollow" target="_blank">nwarazhari@hotmail.com</a>&nbsp;if
 you have any enquiry about PSG.</p>
-<h3>6. Primary to Secondary School Transition</h3>
+<h3>5. Primary to Secondary School Transition</h3>
 <p>Click <a href="/files/primary_to_secondary_transition.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information</p>
 <p></p>
-<h3>7. Arts and Music Elective Programme</h3>
+<h3>6. Arts and Music Elective Programme</h3>
 <p>Click <a href="/files/2025_AEP_and_MEP_Centre_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more information</p>
 <hr>
