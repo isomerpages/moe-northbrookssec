@@ -20,7 +20,7 @@ into our Brooksians family.&nbsp;</p>
 a list of answers to some of the questions that you may find useful. Please
 refer to&nbsp;<a href="/files/Sec 1 Posting Matters/FAQ_for_S1_parents_2024_dated_18_Dec_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a> for
 more information.</p>
-<p>For your convenience, you may wish to&nbsp;download our <a href="/files/Summary_of_key_activities_and_key_dates.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Key Activities and Key Dates</a>&nbsp;to
+<p>For your convenience, you may wish to&nbsp;download our <a href="/files/Summary_of_key_activities_and_key_dates_2025.pdf" rel="noopener nofollow" target="_blank">Summary of Key Activities and Key Dates</a>&nbsp;to
 have an overview of the various submission deadlines.</p>
 <p><strong>There are 4 Sections to complete the Sec One registration.</strong>
 </p>
