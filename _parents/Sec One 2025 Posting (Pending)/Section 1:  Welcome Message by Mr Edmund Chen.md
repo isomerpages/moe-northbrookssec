@@ -9,7 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec12024Posting_2.png">
 </div>
-<h1>Section 1: Welcome Message by Mr Edmund Cheng</h1>
+<h1>Section 1: Welcome Message by Mr Edmund Chen</h1>
 <p>Dear 2024 Secondary One Students and Parents/Guardians,</p>
 <p>A very warm welcome to our Northbrooks family!</p>
 <p>At Northbrooks Secondary School, we are guided by our vision – Every Brooksian
