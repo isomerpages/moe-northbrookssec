@@ -50,7 +50,11 @@ variant: tiptap
 </p>
 <p><a href="/files/Timetable/2025/2025_Sem_1_TT_Odd__Sec_4I.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4I Semester 1 Odd Timetable</a>
 </p>
-<h4></h4>
 <p></p>
+<h4>Sec 5</h4>
+<p><a href="/files/Timetable/2025/2025_Sem_1_TT_Even_Sec_5.pdf" rel="noopener nofollow" target="_blank">2025 Sec 5 Semester 1 Even Timetable</a>
+</p>
+<p><a href="/files/Timetable/2025/2025_Sem_1_TT_Odd__Sec_5.pdf" rel="noopener nofollow" target="_blank">2025 Sec 5 Semester 1 Odd Timetable</a>
+</p>
 <p></p>
 <p></p>
