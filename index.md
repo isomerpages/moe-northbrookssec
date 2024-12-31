@@ -22,8 +22,7 @@ sections:
       button: Sales of Books & Uniforms
       url: /students/current-students/permalink/
   - infobar:
-      title: 2025 Sec 2- 5 Timetable
-      subtitle: Add informational text
       id: infobar
       url: /students/Current-Students/School-Timetable/
+      button: 2025 Sec 2- 5 Timetable
 ---
