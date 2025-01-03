@@ -9,7 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parentsbanner.jpg">
 </div>
 <h1>School Timetable</h1>
-<h3>2025 Timetable</h3>
+<h3>2025 Semester 1 Timetable</h3>
 <h4></h4>
 <h4>Sec 1</h4>
 <p><a href="/files/Timetable/2025/2025_Sem_1_TT_Even_Sec_1_v2.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Semester 1 Even Timetable</a>
