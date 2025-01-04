@@ -2,7 +2,6 @@
 title: Principal's Message
 permalink: /about-us/School-Information/principal/
 description: ""
-third_nav_title: School Information
 variant: tiptap
 ---
 <h1>Principal's Message</h1>
