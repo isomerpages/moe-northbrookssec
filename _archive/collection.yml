@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Principal's Message.md
       - Vertical Green Wall.md
       - External Competitions.md
       - Experiential Learning.md
