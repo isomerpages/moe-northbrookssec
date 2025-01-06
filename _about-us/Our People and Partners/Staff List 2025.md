@@ -83,7 +83,7 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Yang Chern</p>
+<p>Lim Yang Cherng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
