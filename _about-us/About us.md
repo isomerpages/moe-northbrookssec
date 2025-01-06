@@ -40,7 +40,7 @@ being compassionate to others.</p>
 <td rowspan="1" colspan="1">
 <p>MR DANIEL YIP KOK HOONG</p>
 <p>MS GOH PEISHI
-<br>MR LIM YANG CHERN</p>
+<br>MR LIM YANG CHERNG</p>
 <p>MR TAN BOON CHENG</p>
 </td>
 </tr>
