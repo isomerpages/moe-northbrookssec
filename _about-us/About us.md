@@ -32,14 +32,16 @@ being compassionate to others.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice Principal 1:
-<br>Vice Principal 2:
+<p>Vice Principal:
+<br>Vice Principal:
+<br>Vice-Principal:
 <br>Vice Principal (Administration):</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>MR DANIEL YIP KOK HOONG</p>
 <p>MS GOH PEISHI
-<br>MR DANIEL YIP KOK HOONG
-<br>MR SAHRIL BIN YAHYA</p>
+<br>MR LIM YANG CHERN</p>
+<p>MR TAN BOON CHENG</p>
 </td>
 </tr>
 <tr>
