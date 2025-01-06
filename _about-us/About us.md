@@ -33,14 +33,20 @@ being compassionate to others.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Vice Principal:
-<br>Vice Principal:
-<br>Vice-Principal:
-<br>Vice Principal (Administration):</p>
+<br>
+</p>
+<p>Vice Principal:</p>
+<p>Vice-Principal:
+<br>
+</p>
+<p>Vice Principal (Administration):</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR DANIEL YIP KOK HOONG</p>
-<p>MS GOH PEISHI
-<br>MR LIM YANG CHERNG</p>
+<p>MS GOH PEISHI</p>
+<p></p>
+<p>MR LIM YANG CHERNG</p>
+<p></p>
 <p>MR TAN BOON CHENG</p>
 </td>
 </tr>
