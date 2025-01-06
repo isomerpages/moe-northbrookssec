@@ -27,7 +27,7 @@ being compassionate to others.</p>
 <p>Principal:</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MR DAVID LAU YAN BOON</p>
+<p>MR CHEN XUANTING EDMUND</p>
 </th>
 </tr>
 <tr>
