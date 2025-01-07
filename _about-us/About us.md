@@ -27,19 +27,27 @@ being compassionate to others.</p>
 <p>Principal:</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MR DAVID LAU YAN BOON</p>
+<p>MR CHEN XUANTING EDMUND</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice Principal 1:
-<br>Vice Principal 2:
-<br>Vice Principal (Administration):</p>
+<p>Vice Principal:
+<br>
+</p>
+<p>Vice Principal:</p>
+<p>Vice-Principal:
+<br>
+</p>
+<p>Vice Principal (Administration):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS GOH PEISHI
-<br>MR DANIEL YIP KOK HOONG
-<br>MR SAHRIL BIN YAHYA</p>
+<p>MR DANIEL YIP KOK HOONG</p>
+<p>MS GOH PEISHI</p>
+<p></p>
+<p>MR LIM YANG CHERNG</p>
+<p></p>
+<p>MR TAN BOON CHENG</p>
 </td>
 </tr>
 <tr>
