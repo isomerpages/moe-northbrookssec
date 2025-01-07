@@ -339,7 +339,7 @@ variant: tiptap
 <p>Huang Kee Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Educational Technology</p>
+<p>Subject Head / Educational Technology</p>
 </td>
 </tr>
 <tr>
@@ -1289,7 +1289,7 @@ variant: tiptap
 <p>Tan Jee Yue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KP Advisor</p>
+<p>Form Teacher</p>
 </td>
 </tr>
 <tr>
@@ -1362,24 +1362,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>3 Discipline
-<br>
-<br>
-<br>
-</p>
-</td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>3 Discipline</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Wendy Lee Chien Wuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
