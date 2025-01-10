@@ -139,7 +139,7 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cai Zhi Wen</p>
+<p>Cai Zhiwen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department / Mathematics</p>
