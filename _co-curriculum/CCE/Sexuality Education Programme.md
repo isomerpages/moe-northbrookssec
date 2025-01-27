@@ -55,8 +55,8 @@ more information on MOE Sexuality Education.</p>
 is delivered in a holistic manner through the school curriculum. The content
 for Sexuality Education is grouped into five main themes: Human Development,
 Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
-Society and Law. You may go to <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a> for
-more information on the scope of Sexuality Education in the school curriculum.</p>
+Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for more
+information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate
 topics on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp; Science
@@ -65,7 +65,7 @@ topics on sexuality include:</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The values and attitudes
 of our youth towards sexuality are increasingly shaped by their peers,
 exposure to the media, popular culture and the internet. Adolescence is
-a complex stage in life as the adolescent attempts to find his/her own
+a complex stage in life as the adolescent attempts to find his or her own
 identity and often struggles with new social relationships. The period
 of middle adolescence (generally from 15 – 17 years old) can be a turbulent
 period for adolescents. The gap between physical and emotional/cognitive
