@@ -8,6 +8,7 @@ variant: tiptap
 <h1>Sexuality Education Programme</h1>
 <h3><strong>MOE Sexuality Education in Schools</strong></h3>
 <p></p>
+<p>&nbsp;</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 (SEd) in schools aims to enable students to understand the physiological,
 social and emotional changes they experience as they mature, develop healthy
@@ -23,10 +24,10 @@ different ethnic and religious communities in Singapore on sexuality issues.</p>
 Sexuality Education are to:</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support students
 in managing their physiological, social and emotional changes as they grow
-up and develop safe and healthy relationships.
-<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide students
-to make wise, informed and responsible decisions on sexuality matters.
-<br>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students
+up and develop safe and healthy relationships.</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide students
+to make wise, informed and responsible decisions on sexuality matters.</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students
 develop a moral compass and respect for themselves and others by having
 positive mainstream values and attitudes about sexuality that are premised
 on the family as the basic unit of society.</p>
@@ -35,20 +36,20 @@ on the family as the basic unit of society.</p>
 Sexuality Education are:</p>
 <p></p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and respect
-yourself as you love and respect others;
-<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build positive
+yourself as you love and respect others;</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build positive
 relationships based on love and respect (which are the foundation for strong
-families);
-<br>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
-decisions for yourself, your family and society; and
-<br>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
+families);</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
+decisions for yourself, your family and society; and</p>
+<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
 marriage is the best protection against STIs/HIV and unintended pregnancies.
 Casual sex can harm and hurt you and your loved ones.</p>
 <p></p>
-<p>You may go to <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a> for
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<h4><strong>Overview of Northbrooks Secondary School’s Sexuality Education Programme for 2024</strong></h4>
+<h4><strong>Overview of Northbrooks Secondary School’s Sexuality Education Programme for 2025</strong></h4>
 <p></p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
