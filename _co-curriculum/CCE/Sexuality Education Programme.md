@@ -83,45 +83,62 @@ Education lessons, secondary students will have the opportunity to develop
 a positive self-esteem, develop their character, and expand their understanding
 and repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<h4>At Northbrooks Secondary School, the following Sexuality Education lessons will be taught in 2024:</h4>
+<h4>At Northbrooks Secondary School, the following Sexuality Education lessons will be taught in 2025:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024 Sexuality/2024_Info_on_SEd_for_schs_website__Secondary_Schools__Secondary_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
+<p><a href="/files/CCE/2025/Secondary_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2024 Sexuality/2024_Info_on_SEd_for_schs_website__Secondary_Schools__Secondary_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
+<p><a href="/files/CCE/2025/Secondary_2.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2024 Sexuality/2024_Info_on_SEd_for_schs_website__Secondary_Schools__Secondary_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+<p><a href="/files/CCE/2025/Secondary_3.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2024 Sexuality/2024_Info_on_SEd_for_schs_website__Secondary_Schools__Secondary_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a>
+<p><a href="/files/CCE/2025/Secondary_4.pdf" rel="noopener nofollow" target="_blank">Secondary 4</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2024 Sexuality/2024_Info_on_SEd_for_schs_website__Secondary_Schools__Secondary_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a>
+<p><a href="/files/CCE/2025/Secondary_5.pdf" rel="noopener nofollow" target="_blank">Secondary 5</a>
 </p>
-<p></p>
 </li>
 </ul>
+<p></p>
+<p><strong><em><u>eTeens</u></em><u> Programme</u></strong>
+</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a
+programme developed by Health Promotion Board, in collaboration with the
+Ministry of Education, to provide Secondary 3 students with accurate information
+on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
+conducted in two segments – a mass talk segment and a classroom-based programme.
+The desired outcome of the <em>eTeens</em> programme is that students are
+empowered to make wise, informed and sensible decisions.</p>
+<p></p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught
+skills such as decision-making, assertiveness and negotiation to say “no”
+to sex and negative peer pressure. They also learn that the impact of STIs/HIV
+extends beyond themselves and involves their family, and the importance
+of responsible decision-making and seeking help. Abstinence and upholding
+family values are the key messages.</p>
+<p></p>
 <p><strong>Information for Parents</strong>
 </p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
 out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary
 sexuality education programmes by MOE-approved external providers.</p>
-<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
-children out of the <strong>Sexuality Education lessons</strong> need to
-complete an opt-out form. This form will be communicated to parents at
-the start of the year and is also downloadable <a href="/files/2024 Sexuality/Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form is
-to be submitted by 19/02/2024.</p>
-<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
-children out of the <strong><em>eTeens</em> programme</strong> need to complete
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to opt their children
+out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="/files/2024 Sexuality/Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. &nbsp;The completed
-form is to be submitted by 19/02/2024.</p>
+of the year and is also downloadable <a href="/files/CCE/2025/Annex_A_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed
+form is to be submitted by 07/02/2025.</p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to opt their children
+out of the <strong><em>eTeens</em> programme</strong> need to complete an
+opt-out form. This form will be communicated to parents at the start of
+the year and is also downloadable <a href="/files/CCE/2025/Annex_B_E_Teens.pdf" rel="noopener nofollow" target="_blank">here</a>. &nbsp;).&nbsp; The
+completed form is to be submitted by 07/02/2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 6752 4311 for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
