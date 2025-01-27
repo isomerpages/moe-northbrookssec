@@ -137,7 +137,7 @@ form is to be submitted by 07/02/2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
-the year and is also downloadable <a href="/files/CCE/2025/Annex_B_E_Teens.pdf" rel="noopener nofollow" target="_blank">here</a>. &nbsp;).&nbsp; The
+the year and is also downloadable <a href="/files/CCE/2025/Annex_B_E_Teens.pdf" rel="noopener nofollow" target="_blank">here</a>. &nbsp; The
 completed form is to be submitted by 07/02/2025.</p>
 <p>         
 
