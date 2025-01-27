@@ -3,7 +3,7 @@ title: Sexuality Education Programme
 permalink: /co-curriculum/cce/sexuality-education-programme/
 description: ""
 third_nav_title: CCE
-variant: markdown
+variant: tiptap
 ---
 <h1>Sexuality Education Programme</h1>
 <h3><strong>MOE Sexuality Education in Schools</strong></h3>
@@ -137,8 +137,10 @@ form is to be submitted by 07/02/2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
-the year and is also downloadable <a href="/files/CCE/2025/Annex_B_E_Teens.pdf" rel="noopener nofollow" target="_blank">here</a>. &nbsp; The
-completed form is to be submitted by 07/02/2025.</p>
-<p>         
-
-13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6752 4311 for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
+the year and is also downloadable <a href="/files/CCE/2025/Annex_B_E_Teens.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed form
+is to be submitted by 07/02/2025.</p>
+<p></p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
+at 6752 4311 for discussion or to seek clarification about the school’s
+Sexuality Education programme.</p>
+<p></p>
