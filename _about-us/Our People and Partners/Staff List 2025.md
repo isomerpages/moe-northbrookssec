@@ -795,6 +795,20 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Weiliang Shawn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2053,7 +2067,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ramesh S/O Ramalingam</p>
@@ -2280,6 +2294,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Management Support Officer (MSO)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Azdah Adilah Binte Azmay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
 </td>
 </tr>
 <tr>
