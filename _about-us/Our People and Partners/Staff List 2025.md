@@ -795,6 +795,20 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Weiliang Shawn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1223,7 +1237,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3 Fortitude
 <br>
 <br>
@@ -1235,17 +1249,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Lee Wen Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Janson Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -2053,7 +2056,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ramesh S/O Ramalingam</p>
@@ -2067,13 +2070,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Neo Yi Jie Jovan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Arts Educator (Music)</p>
 </td>
 </tr>
 <tr>
@@ -2156,13 +2159,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chang Chiu-Mei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>School Counsellor</p>
 </td>
 </tr>
 <tr>
@@ -2287,6 +2290,20 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Azdah Adilah Binte Azmay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2374,7 +2391,7 @@ variant: tiptap
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Kwee Eng</p>
+<p>Oh Guat Kim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer (OSO)</p>
