@@ -1737,7 +1737,7 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mohamed Finosh Khan Bin Ishak</p>
+<p>Md Finosh K B I Philips</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Teacher</p>
