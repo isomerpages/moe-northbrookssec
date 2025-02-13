@@ -15,8 +15,6 @@ sections:
           description: ""
           url: /achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/
       background: /images/homepageeee northbrooks.gif
-      url: /parents/sec-one-2025-posting-matters/sec-one-2025-posting-matters/
-      button: Please click here for more information about Sec One posting matters
   - infobar:
       id: infobar
       url: /students/Current-Students/School-Timetable/
