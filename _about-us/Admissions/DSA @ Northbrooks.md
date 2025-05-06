@@ -10,7 +10,7 @@ variant: tiptap
 <h3>About DSA</h3>
 <p>The Direct School Admission (DSA) is an opportunity for Primary 6 students
 to directly apply for admission into participating secondary schools based
-on their talents and achievement which might not have been demonstrated
+on their talents and achievements which might not have been demonstrated
 at the Primary School Leaving Examination (PSLE). &nbsp;</p>
 <p></p>
 <p><strong>Northbrooks Secondary School</strong>&nbsp;offers DSA in the following
