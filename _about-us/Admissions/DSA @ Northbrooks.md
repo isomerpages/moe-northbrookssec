@@ -34,7 +34,8 @@ have the opportunity to participate at a higher challenge level in various
 outdoor competitions.&nbsp;</p>
 <p></p>
 <p>Please refer to this document for more details about our school's DSA
-2025 selection criteria and processes: <a href="/files/2025_NBrSS_DSA_Selection_Criteria_and_Processes_.pdf" rel="noopener noreferrer nofollow" target="_blank">NBrSS DSA 2025 Selection Criteria and Processes.</a>  </p>
+2025 selection criteria and processes: NBrSS DSA 2025 Selection Criteria
+and Processes.</p>
 <p><strong>Application Process</strong>&nbsp;</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2025, 11am
