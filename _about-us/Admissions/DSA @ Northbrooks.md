@@ -32,15 +32,15 @@ an appreciation for the outdoors and the environment during PE lessons
 and Level Camps. Students who excel at the various adventure skills may
 have the opportunity to participate at a higher challenge level in various
 outdoor competitions.&nbsp;</p>
-<p>&nbsp;</p>
-<p>Please refer to this document for more details about our school's DSA
-2025 selection criteria and processes: <a href="https://www.northbrookssec.moe.edu.sg/files/Northbrooks_Sec_DSA_2024_Selection_Criteria_and_Process.pdf%22%20/t%20%22_blank" class="Hyperlink SCXW205959975 BCX8" rel="noreferrer noopener" target="_blank"><u>NBrSS DSA 2025 Selection Criteria and Processes</u></a>.</p>
 <p></p>
+<p>Please refer to this document for more details about our school's DSA
+2025 selection criteria and processes: <a href="/files/2025_NBrSS_DSA_Selection_Criteria_and_Processes_.pdf" rel="noopener noreferrer nofollow" target="_blank">NBrSS DSA 2025 Selection Criteria and Processes.</a>  </p>
 <p><strong>Application Process</strong>&nbsp;</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2025, 11am
 to 3 June 2025, 3pm. For more details, please refer to MOE DSA-Sec website
-– <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/dsa-sec</u></a>&nbsp;&nbsp;</p>
+– <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a> 
+</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
