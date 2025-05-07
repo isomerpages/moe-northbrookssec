@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - DSA @ Northbrooks.md
       - About us.md
       - School Information/.keep
       - School Information/Strategic Thrusts & Outcomes.md
@@ -17,6 +16,7 @@ collections:
       - School Facilities/Champion's Lodge.md
       - School Facilities/Arts Space.md
       - School Facilities/Indoor Sports Hall.md
+      - DSA @ Northbrooks.md
       - Publications/.keep
       - Publications/The Brooksian Times.md
       - Publications/Yearbooks.md
