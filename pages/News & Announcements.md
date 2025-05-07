@@ -6,5 +6,5 @@ variant: tiptap
 ---
 <h1>News &amp; Announcements</h1>
 <h3>2025 DSA Information</h3>
-<p>Click&nbsp; <strong><a href="https://www.northbrookssec.moe.edu.sg/about-us/dsa-at-northbrooks/" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;to
+<p>Click&nbsp; <strong><a href="/about-us/dsa-at-northbrooks/" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;to
 read more about our DSA 2025 Information!</p>
