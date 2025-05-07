@@ -22,7 +22,9 @@ areas in 2025:
 <br>4. Badminton (Sports)&nbsp;
 <br>5. Guzheng Ensemble (Visual and Performing Arts)&nbsp;
 <br>6. Modern Dance (Visual and Performing Arts)&nbsp;
-<br>7. Concert Band (Visual and Performing Arts)&nbsp; 8. Leadership&nbsp;</p>
+<br>7. Concert Band (Visual and Performing Arts)
+<br>8. Leadership&nbsp;
+</p>
 <p>Our <strong>Learning for Life Programme (LLP) in Outdoor Education </strong>is
 known as A.C.E. and stands for Adventure, Character, Environment. The programme
 aims to develop character, inculcate values of grit and resilience and
