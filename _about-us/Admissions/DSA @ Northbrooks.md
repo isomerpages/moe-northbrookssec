@@ -19,7 +19,8 @@ areas in 2025:
 </p>
 <p>1. Aerospace (Clubs &amp; Societies) &nbsp;
 <br>2. Outdoor Adventure (Sports)&nbsp;
-<br>3. Floorball Boys (Sports)&nbsp; 4. Badminton (Sports)&nbsp;
+<br>3. Floorball Boys (Sports)&nbsp;
+<br>4. Badminton (Sports)&nbsp;
 <br>5. Guzheng Ensemble (Visual and Performing Arts)&nbsp;
 <br>6. Modern Dance (Visual and Performing Arts)&nbsp;
 <br>7. Concert Band (Visual and Performing Arts)&nbsp; 8. Leadership&nbsp;</p>
