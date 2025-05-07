@@ -1,8 +1,7 @@
 ---
 title: DSA @ Northbrooks
-permalink: /about-us/Admissions/DSA-at-Northbrooks/
+permalink: /about-us/dsa-at-northbrooks/
 description: ""
-third_nav_title: Admissions
 variant: tiptap
 ---
 <h1>DSA @ Northbrooks</h1>
@@ -19,10 +18,12 @@ areas in 2025:
 </p>
 <p>1. Aerospace (Clubs &amp; Societies) &nbsp;
 <br>2. Outdoor Adventure (Sports)&nbsp;
-<br>3. Floorball Boys (Sports)&nbsp; 4. Badminton (Sports)&nbsp;
+<br>3. Floorball Boys (Sports)&nbsp;
+<br>4. Badminton (Sports)&nbsp;
 <br>5. Guzheng Ensemble (Visual and Performing Arts)&nbsp;
 <br>6. Modern Dance (Visual and Performing Arts)&nbsp;
-<br>7. Concert Band (Visual and Performing Arts)&nbsp; 8. Leadership&nbsp;</p>
+<br>7. Concert Band (Visual and Performing Arts)
+<br>8. Leadership&nbsp;</p>
 <p>Our <strong>Learning for Life Programme (LLP) in Outdoor Education </strong>is
 known as A.C.E. and stands for Adventure, Character, Environment. The programme
 aims to develop character, inculcate values of grit and resilience and
@@ -34,8 +35,8 @@ have the opportunity to participate at a higher challenge level in various
 outdoor competitions.&nbsp;</p>
 <p></p>
 <p>Please refer to this document for more details about our school's DSA
-2025 selection criteria and processes: NBrSS DSA 2025 Selection Criteria
-and Processes.</p>
+2025 selection criteria and processes: <a href="/files/DSA/2025_NBrSS_DSA_Selection_Criteria_and_Processes_.pdf" rel="noopener nofollow" target="_blank">NBrSS DSA 2025 Selection Criteria and Processes</a>
+</p>
 <p><strong>Application Process</strong>&nbsp;</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2025, 11am
