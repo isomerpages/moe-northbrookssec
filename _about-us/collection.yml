@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - DSA @ Northbrooks.md
       - About us.md
       - School Information/.keep
       - School Information/Strategic Thrusts & Outcomes.md
