@@ -45,7 +45,11 @@ School or Ang Mo Kio Secondary School.)</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application Link for G3 Music Course</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2026g3mcourse</a>
 <br>
-<br>More information:</p>
+<br>More information:
+<br><a href="/files/Music/2a__G3_Music_2026_2027_Info_Sheet.pdf" rel="noopener nofollow" target="_blank">2a. G3 Music 2026-2027 Info Sheet</a>
+<br><a href="/files/Music/2b__G3_Music_2026_2027_FAQ.pdf" rel="noopener nofollow" target="_blank">2b. G3 Music 2026-2027 FAQ</a>
+<br><a href="/files/Music/2c__G3_Music_2026_2027_Info_Slides.pdf" rel="noopener nofollow" target="_blank">2c. G3 Music 2026-2027 Info Slides</a>
+</p>
 <hr>
 <h3>2025 DSA Information</h3>
 <p>Click&nbsp; <strong><a href="/about-us/dsa-at-northbrooks/" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;to
