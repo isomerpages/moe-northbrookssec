@@ -1,12 +1,12 @@
 ---
 title: Application for 2026 G3 MUSIC
 permalink: /application-for-2026-g3-music/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h3>Application for 2026 G3 Music<br></h3>
 <p></p>
-<p>Dear Sec2 student, 
+<p>Dear Sec2 student,
 <br>
 <br>If you have the interest, ability and potential for Music and would like
 to develop your musical understanding through listening, creating and performing
@@ -43,6 +43,10 @@ School or Ang Mo Kio Secondary School.)</p>
 </p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application Link for G3 Music Course</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2026g3mcourse</a>
-
-</p><p>More information:</p>
-<p></p>
+</p>
+<p>More information:</p>
+<p><a href="/files/Music/2a__G3_Music_2026_2027_Info_Sheet.pdf" rel="noopener nofollow" target="_blank">2a. G3 Music 2026-2027 Info Sheet</a>
+</p>
+<p><a href="/files/Music/2b__G3_Music_2026_2027_FAQ.pdf" rel="noopener nofollow" target="_blank">2b. G3 Music 2026-2027 FAQ</a>
+<a href="/files/Music/2c__G3_Music_2026_2027_Info_Slides.pdf" rel="noopener nofollow" target="_blank">2c. G3 Music 2026-2027 Info Slides</a>
+</p>
