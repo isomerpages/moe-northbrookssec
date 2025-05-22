@@ -6,7 +6,7 @@ description: ""
 ---
 <h3>Application for 2026 G3 Music<br></h3>
 <p></p>
-<p>Dear Sec2 student,
+<p>Dear Sec2 student, 
 <br>
 <br>If you have the interest, ability and potential for Music and would like
 to develop your musical understanding through listening, creating and performing
