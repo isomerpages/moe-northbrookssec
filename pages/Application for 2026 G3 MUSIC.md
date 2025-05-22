@@ -43,4 +43,6 @@ School or Ang Mo Kio Secondary School.)</p>
 </p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application Link for G3 Music Course</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2026g3mcourse</a>
-</p>
+
+</p><p>More information:</p>
+<p></p>
