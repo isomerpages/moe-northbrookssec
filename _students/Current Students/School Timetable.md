@@ -9,13 +9,14 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parentsbanner.jpg">
 </div>
 <h1>School Timetable</h1>
-<h3>2025 Semester 1 Timetable</h3>
+<h3>2025 Semester 2 Timetable</h3>
 <h4></h4>
 <h4>Sec 1</h4>
-<p><a href="/files/Timetable/2025/2025_Sem_1_TT_Even_Sec_1_v2.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Semester 1 Even Timetable</a>
+<p><a href="/files/Timetable/2025/2025_Sem_2_TT_Even_Sec_1.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Semester 2 Even Timetable</a>
 </p>
-<p><a href="/files/Timetable/2025/2025_Sem_1_TT_Odd__Sec_1_v2.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Semester 1 Odd Timetable</a>
+<p><a href="/files/Timetable/2025/2025_Sem_2_TT_Odd_Sec_1.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Semester 2 Odd Timetable</a>
 </p>
+<p></p>
 <p></p>
 <h4>Sec 2</h4>
 <p><a href="/files/Timetable/2025/2025_Sem_1_TT_Even_Sec_2.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Semester 1 Even Timetable</a>
