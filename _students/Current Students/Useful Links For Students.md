@@ -22,15 +22,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS) Website</a> 
-<br><a href="https://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://learning.moe.edu.sg</a>
+<p><a href="https://www.learning.moe.edu.sg/" rel="noopener nofollow" target="_blank">Student Learning Space</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>An online platform that allows students to access curriculum-aligned resources.
 <br>
-<br>Click <a href="https://northbrookssec.moe.edu.sg/people/students/students-learning-space" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-find out more.</p>
+</p>
 </td>
 </tr>
 <tr>
