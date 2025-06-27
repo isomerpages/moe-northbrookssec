@@ -18,5 +18,5 @@ sections:
   - infobar:
       id: infobar
       url: /students/Current-Students/School-Timetable/
-      button: 2025 Sec 2- 5 Timetable
+      button: SEM 2 2025 Sec 1-5 Timetable
 ---
