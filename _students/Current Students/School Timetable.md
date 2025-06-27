@@ -59,39 +59,41 @@ variant: tiptap
 <p></p>
 <p></p>
 <h4>Sec 4</h4>
-<p><a href="/files/Timetable/2025/2025_Sem_1_TT_Even_Sec_4T1.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4T1 Semester 1 Even Timetable</a>
+<p><a href="/files/Timetable/2025/2025_Sem_2_TT_Even_4T1.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4T1 Semester 2 Even Timetable</a>
 </p>
-<p><a href="/files/Timetable/2025/2025_Sem_1_TT_Odd__Sec_4T1.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4T1 Semester 1 Odd Timetable</a>
+<p><a href="/files/Timetable/2025/2025_Sem_2_TT_Odd_4T1.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4T1 Semester 2 Odd Timetable</a>
 </p>
-<p><a href="/files/Timetable/2025/2025_Sem_1_TT_Even_Sec_4T2.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4T2 Semester 1 Even Timetable</a>
+<p><a href="/files/Timetable/2025/2025_Sem_2_TT_Even_4T2.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4T2 Semester 2 Even Timetable</a>
 </p>
-<p><a href="/files/Timetable/2025/2025_Sem_1_TT_Odd__Sec_4T2.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4T2 Semester 1 Odd Timetable</a>
+<p><a href="/files/Timetable/2025/2025_Sem_2_TT_Odd_4T2.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4T2 Semester 2 Odd Timetable</a>
 </p>
-<p><a href="/files/Timetable/2025/2025_Sem_1_TT_Even_Sec_4D.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4D Semester 1 Even Timetable</a>
+<p><a href="/files/Timetable/2025/2025_Sem_2_TT_Even_4D.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4D Semester 2 Even Timetable</a>
 </p>
-<p><a href="/files/Timetable/2025/2025_Sem_1_TT_Odd__Sec_4D.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4D Semester 1 Odd Timetable</a>
+<p><a href="/files/Timetable/2025/2025_Sem_2_TT_Odd_4D.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4D Semester 2 Odd Timetable</a>
 </p>
-<p><a href="/files/Timetable/2025/2025_Sem_1_TT_Even_Sec_4E.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4E Semester 1 Even Timetable</a>
+<p><a href="/files/Timetable/2025/2025_Sem_2_TT_Even_4E.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4E Semester 2 Even Timetable</a>
 </p>
-<p><a href="/files/Timetable/2025/2025_Sem_1_TT_Odd__Sec_4E.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4E Semester 1 Odd Timetable</a>
+<p><a href="/files/Timetable/2025/2025_Sem_2_TT_Odd_4E.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4E Semester 2 Odd Timetable</a>
 </p>
-<p><a href="/files/Timetable/2025/2025_Sem_1_TT_Even_Sec_4F.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4F Semester 1 Even Timetable</a>
+<p><a href="/files/Timetable/2025/2025_Sem_2_TT_Even_4F.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4F Semester 2 Even Timetable</a>
 </p>
-<p><a href="/files/Timetable/2025/2025_Sem_1_TT_Odd__Sec_4F.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4F Semester 1 Odd Timetable</a>
+<p><a href="/files/Timetable/2025/2025_Sem_2_TT_Odd_4F.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4F Semester 2 Odd Timetable</a>
 </p>
-<p><a href="/files/Timetable/2025/2025_Sem_1_TT_Even_Sec_4G.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4G Semester 1 Even Timetable</a>
+<p><a href="/files/Timetable/2025/2025_Sem_2_TT_Even_4G.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4G Semester 2 Even Timetable</a>
 </p>
-<p><a href="/files/Timetable/2025/2025_Sem_1_TT_Odd__Sec_4G.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4G Semester 1 Odd Timetable</a>
+<p><a href="/files/Timetable/2025/2025_Sem_2_TT_Odd_4G.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4G Semester 2 Odd Timetable</a>
 </p>
-<p><a href="/files/Timetable/2025/2025_Sem_1_TT_Even_Sec_4I.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4I Semester 1 Even Timetable</a>
+<p><a href="/files/Timetable/2025/2025_Sem_2_TT_Even_4I.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4I Semester 2 Even Timetable</a>
 </p>
-<p><a href="/files/Timetable/2025/2025_Sem_1_TT_Odd__Sec_4I.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4I Semester 1 Odd Timetable</a>
+<p><a href="/files/Timetable/2025/2025_Sem_2_TT_Odd_4I.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4I Semester 2 Odd Timetable</a>
 </p>
 <p></p>
+<p></p>
 <h4>Sec 5</h4>
-<p><a href="/files/Timetable/2025/2025_Sem_1_TT_Even_Sec_5.pdf" rel="noopener nofollow" target="_blank">2025 Sec 5 Semester 1 Even Timetable</a>
+<p><a href="/files/Timetable/2025/2025_Sem_2_TT_Even_Sec_5.pdf" rel="noopener nofollow" target="_blank">2025 Sec 5 Semester 2 Even Timetable</a>
 </p>
-<p><a href="/files/Timetable/2025/2025_Sem_1_TT_Odd__Sec_5.pdf" rel="noopener nofollow" target="_blank">2025 Sec 5 Semester 1 Odd Timetable</a>
+<p><a href="/files/Timetable/2025/2025_Sem_2_TT_Odd_Sec_5.pdf" rel="noopener nofollow" target="_blank">2025 Sec 5 Semester 2 Odd Timetable</a>
 </p>
+<p></p>
 <p></p>
 <p></p>
