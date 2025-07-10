@@ -1358,20 +1358,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="4">
 <p>Sec 4 &amp; 5 Form Teachers</p>
 </td>
@@ -1724,10 +1710,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wendy Hia</p>
+<p>Tan Kar Yeow Roger</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>D&amp;T Teacher</p>
@@ -1738,21 +1724,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bunsor Kaur</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FCE Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vanishree d/o Vengadasalam</p>
@@ -1850,20 +1822,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chan Boon Wah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Language Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1895,7 +1853,7 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Eugene Ng</p>
+<p>Ivar Wu Hong Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Science Teacher</p>
@@ -1937,20 +1895,6 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shivani Kulandaivel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Geography Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Yii Chin Meet Karen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1965,10 +1909,10 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Joyce Tan Hong Lan</p>
+<p>Siti Nurazlyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>History Teacher</p>
+<p>Humanities</p>
 </td>
 </tr>
 <tr>
@@ -1990,10 +1934,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ramesh S/O Ramalingam</p>
+<p>Goh Ying Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Physical Education</p>
@@ -2186,6 +2130,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Angela Koh Yuan Qing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Infocomm Technology Associate</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Norhidayah Binte Norisham</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Infocomm Technology Associate</p>
@@ -2423,7 +2381,7 @@ variant: tiptap
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Siti Aishah Bte Masood</p>
+<p>Kok Soo Fun (Mrs Chee)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Librarian</p>
