@@ -268,8 +268,7 @@ variant: tiptap
 <p>Timothy Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department / Physical Education &amp; Co-curricular Activities
-(Ag)</p>
+<p>Head of Department / Physical Education &amp; Co-curricular Activities</p>
 </td>
 </tr>
 <tr>
@@ -417,6 +416,20 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Koh Hui Xin Madeline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Science (Ag)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -452,20 +465,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Upper Sec) (Sec4/5)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Goh-Ang Sor Pui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher / Chinese Language</p>
 </td>
 </tr>
 <tr>
@@ -550,20 +549,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher / Malay Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
