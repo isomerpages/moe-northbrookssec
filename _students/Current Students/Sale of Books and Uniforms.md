@@ -5,10 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Current Students
 ---
-<h1>Year End Sales of Books and Uniforms for Sec 2-5</h1>
+<h1>Sales of Books and Uniform</h1>
+<p>
+<br>The school bookshop is open Monday to Friday, from 9:00 AM to 3:00 PM
+for the sale of school books and uniforms.</p>
+<p>Please note that uniforms can also be purchased directly from our supplier
+at <a href="https://www.intrenduniforms.com/" rel="noopener nofollow" target="_blank">https://www.intrenduniforms.com/</a>
+</p>
 <p></p>
-<p>Click <a href="/files/2024_Year_end_Sales_of_Books_and_Uniforms__Sec_2_5_FINAL_New_Uniform.pdf" rel="noopener nofollow" target="_blank">here</a> for
-more information.</p>
+<h3>Booklist 2025- Sec 1G1<br></h3>
 <h3>Booklist 2025- Sec 2G1</h3>
 <p><a href="/files/BookList/2025/NSS_Booklist_2025__Sec_2G1_SBB_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2G1 Booklist</a>
 </p>
