@@ -451,7 +451,7 @@ variant: tiptap
 <p>Kenneth Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Upper Sec) (Ag)</p>
+<p>Assistant Year Head (Upper Sec) (Sec4/5)</p>
 </td>
 </tr>
 <tr>
