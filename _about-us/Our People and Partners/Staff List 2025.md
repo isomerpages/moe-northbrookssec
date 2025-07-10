@@ -813,7 +813,7 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Koh Huixin Madeline</p>
+<p>Koh Hui Xin Madeline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
