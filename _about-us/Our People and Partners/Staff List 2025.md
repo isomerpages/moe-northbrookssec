@@ -611,7 +611,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1 Integrity
 <br>
 <br>
@@ -637,17 +637,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Norizan Binte Mohamad Nor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KP Advisor</p>
 </td>
 </tr>
 <tr>
@@ -713,17 +702,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dian Farhana Bte Akbar</p>
+<p>Norizan Binte Mohamad Nor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>KP Advisor</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>1 Teamwork 2
 <br>
 <br>
@@ -753,9 +742,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
@@ -880,7 +866,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2 Integrity
 <br>
 <br>
@@ -905,6 +891,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dian Farhana Bte Akbar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KP Advisor</p>
 </td>
 </tr>
 <tr>
@@ -1304,7 +1301,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3 Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1329,9 +1326,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm</p>
 </td>
@@ -1835,10 +1829,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ivar Wu Hong Wei</p>
+<p>Faith Ong Suan Choo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Science Teacher</p>
