@@ -19,4 +19,8 @@ sections:
       id: infobar
       url: /students/Current-Students/School-Timetable/
       button: SEM 2 2025 Sec 1-5 Timetable
+  - infobar:
+      id: infobar
+      button: Parent Calendar
+      url: https://outlook.office365.com/owa/calendar/559a9cb9971a4e75a26aefc567f8955e@nbrss.moe.edu.sg/aeaa2d319b2747d69440b80da7c6660e9616457168785944027/calendar.html
 ---
