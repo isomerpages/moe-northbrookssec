@@ -7,9 +7,9 @@ variant: tiptap
 ---
 <h1>Tests &amp; Examinations</h1>
 <p></p>
+<h3>GCE O Level Preliminary Examination Timetable 2025</h3>
 <p></p>
-<p></p>
-<p></p>
+<hr>
 <h3>GCE O Level Mother Tongue (Mid-Year) Preliminary Examination Timetable 2025</h3>
 <p><a href="/files/Prelim Exam/2025/2025_GCE_O_Level_MTL_Examination_Timetable.pdf" rel="noopener nofollow" target="_blank">GCE O Level Mother Tongue (Mid-Year) Preliminary Examination Timetable 2025</a>
 </p>
