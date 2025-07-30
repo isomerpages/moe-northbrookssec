@@ -17,8 +17,8 @@ sections:
       background: /images/homepageeee northbrooks.gif
   - infobar:
       id: infobar
-      url: /students/Current-Students/School-Timetable/
-      button: SEM 2 2025 Sec 1-5 Timetable
+      url: /students/Current-Students/Tests-and-Examinations/
+      button: Preliminary Exam Timetable
   - infobar:
       id: infobar
       button: Parent Calendar
