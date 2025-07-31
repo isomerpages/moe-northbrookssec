@@ -42,7 +42,7 @@ of Singaporean students. This is approximately 20 awardees for the ECHA
 for Northbrooks Secondary School.</p>
 <p>Award Quantum: $500 per Awardee</p>
 <h5>Nomination</h5>
-<p>The nomination period starts from&nbsp;<strong>18 July 2025 to 25 July 2025</strong>.
+<p>The nomination period starts from&nbsp;<strong>18 July 2025 to 8 August 2025</strong>.
 Students can be nominated by staff, parents, and alumni using the prescribed
 nomination form which can be found <a href="https://go.gov.sg/2025echabcv" rel="noopener nofollow" target="_blank">here</a>
 </p>
