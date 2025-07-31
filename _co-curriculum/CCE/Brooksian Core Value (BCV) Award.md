@@ -7,10 +7,6 @@ variant: markdown
 ---
 <h2>Brooksian Core Value (BCV) Award</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BCV_Award.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BCV.jpg">
 </div>
 <p>The Brooksian Core Value (BCV) Award aims to recognise students who exemplify
