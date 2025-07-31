@@ -9,6 +9,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BCV_Award.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BCV.jpg">
+</div>
 <p>The Brooksian Core Value (BCV) Award aims to recognise students who exemplify
 school values and demonstrate outstanding persona qualities. It also aims
 to encourage and motivate students to embrace and exemplify our school
