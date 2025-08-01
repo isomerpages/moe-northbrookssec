@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2>Brooksian Core Value (BCV) Award</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BCV_Award.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BCV.jpg">
 </div>
 <p>The Brooksian Core Value (BCV) Award aims to recognise students who exemplify
 school values and demonstrate outstanding persona qualities. It also aims
@@ -42,7 +42,7 @@ of Singaporean students. This is approximately 20 awardees for the ECHA
 for Northbrooks Secondary School.</p>
 <p>Award Quantum: $500 per Awardee</p>
 <h5>Nomination</h5>
-<p>The nomination period starts from&nbsp;<strong>18 July 2025 to 25 July 2025</strong>.
+<p>The nomination period starts from&nbsp;<strong>18 July 2025 to 8 August 2025</strong>.
 Students can be nominated by staff, parents, and alumni using the prescribed
 nomination form which can be found <a href="https://go.gov.sg/2025echabcv" rel="noopener nofollow" target="_blank">here</a>
 </p>
