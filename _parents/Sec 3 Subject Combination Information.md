@@ -8,7 +8,7 @@ variant: tiptap
 <p>Dear Parents,&nbsp;
 <br>Please refer to the following set of slides that was shared during the
 Subject offering briefing on 1 August 2025.</p>
-<p><a href="/files/Sec 3 Subjects Combination/2024_Sec_2_ECG_Parents_Engagement_website.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 2 ECG PARENTS ENGAGEMENT</a>
+<p><a href="/files/Sec 3 Subjects Combination/2025/2026_Subject_Offering_Main_Deck_ParentsCopy.pdf" rel="noopener nofollow" target="_blank">2026 Subject Offering Main Deck</a>
 </p>
 <h3>Sec 3 Express (2024) Subject Information</h3>
 <ul>
