@@ -9,7 +9,10 @@ variant: tiptap
 <br>Please refer to the following set of slides that was shared during the
 Subject offering briefing on 1 August 2025.</p>
 <p><a href="/files/Sec 3 Subjects Combination/2025/2026_Subject_Offering_Main_Deck_ParentsCopy.pdf" rel="noopener nofollow" target="_blank">2026 Subject Offering Main Deck</a>
+<br><a href="/files/Sec 3 Subjects Combination/2025/2026_Subject_Offerings_at_G1_Level_ParentsCopy.pdf" rel="noopener nofollow" target="_blank">2026 Subject Offerings at G1 Level</a>
+<br><a href="/files/Sec 3 Subjects Combination/2025/2026_Subject_Offerings_at_G2_G3_Level_ParentsCopy.pdf" rel="noopener nofollow" target="_blank">2026 Subject Offerings at G2_G3 Level</a>
 </p>
+<p></p>
 <h3>Sec 3 Express (2024) Subject Information</h3>
 <ul>
 <li>
@@ -59,4 +62,5 @@ Subject offering briefing on 1 August 2025.</p>
 </p>
 </li>
 </ul>
+<p></p>
 <p></p>
