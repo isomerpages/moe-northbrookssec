@@ -20,7 +20,7 @@ variant: tiptap
 </p>
 <hr>
 <h3>Sec 1 End-of-Year Examination Timetable 2025</h3>
-<p><a href="/files/EOY Exam Timetable/2025/Sec_1_EYE_Timetable_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 End-of-Year Exam Timetable</a>
+<p><a href="/files/EOY Exam Timetable/2025/Sec_1_EYE_Timetable_2025__2_.pdf" rel="noopener nofollow" target="_blank">Sec 1 End-of-Year Exam Timetable</a>
 </p>
 <hr>
 <h3>GCE O Level Preliminary Examination Timetable 2025</h3>
