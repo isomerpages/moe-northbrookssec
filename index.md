@@ -18,7 +18,7 @@ sections:
   - infobar:
       id: infobar
       url: /students/Current-Students/Tests-and-Examinations/
-      button: Preliminary Exam Timetable
+      button: Sec 1-3 EOY Exam Timetable
   - infobar:
       id: infobar
       button: Parent Calendar
