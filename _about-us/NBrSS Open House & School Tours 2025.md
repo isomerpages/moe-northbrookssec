@@ -25,12 +25,8 @@ and see how we nurture every Brooksian!</p>
 <br>
 <br>Mark your calendars and see you there! ✨</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Open House 2025" src="/images/Open House/2025/Website.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Open House Postcard" src="/images/Open House/2024/POSTCARD.png">
 </div>
 <h4>NBrSS Open House 2024 Highlights</h4>
 <div class="iframe-wrapper">
