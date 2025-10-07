@@ -1,7 +1,7 @@
 ---
 title: NBrSS Open House & School Tours 2025
 permalink: /nbrss-open-house-school-tours/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>Dear Parents and Prospective Students,</p>
