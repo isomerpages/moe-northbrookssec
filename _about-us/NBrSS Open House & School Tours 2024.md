@@ -17,7 +17,6 @@ so much to discover about what makes our school special. 🎒📚🎶
 <br>💡 Come experience meaningful activities, learn about our programmes,
 and see how we nurture every Brooksian!</p>
 <p>
-<br>&nbsp;
 <br><strong>Register your interest here:</strong>  <strong><a href="https://go.gov.sg/nbrssregoh" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nbrssregoh</a></strong>
 </p>
 <p>Check out the activities for the day here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nbrssoh</a>
@@ -26,10 +25,10 @@ and see how we nurture every Brooksian!</p>
 <br>
 <br>Mark your calendars and see you there! ✨</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Open House" src="/images/Open House/2024/OH_2024_MOTD_1__1_.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Open House 2025" src="/images/Open House/2025/Website.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Open House Postcard" src="/images/Open House/2024/POSTCARD.png">
 </div>
