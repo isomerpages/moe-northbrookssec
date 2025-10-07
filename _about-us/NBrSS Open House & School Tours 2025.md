@@ -17,9 +17,9 @@ so much to discover about what makes our school special. 🎒📚🎶
 <br>💡 Come experience meaningful activities, learn about our programmes,
 and see how we nurture every Brooksian!</p>
 <p>
-<br><strong>Register your interest here:</strong>  <strong><a href="https://go.gov.sg/nbrssregoh" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nbrssregoh</a></strong>
+<br><strong>📝Register your interest here:</strong>  <strong><a href="https://go.gov.sg/nbrssregoh" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nbrssregoh</a></strong>
 </p>
-<p>Check out the activities for the day here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nbrssoh</a>
+<p>🖱️Check out the activities for the day here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nbrssoh</a>
 <br>
 <br>🚗 Reminder: No parking available in school, do plan accordingly!
 <br>
