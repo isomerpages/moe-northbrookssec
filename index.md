@@ -17,8 +17,8 @@ sections:
       background: /images/homepageeee northbrooks.gif
   - infobar:
       id: infobar
-      url: /students/Current-Students/Tests-and-Examinations/
-      button: Sec 1-3 EOY Exam Timetable
+      url: /nbrss-open-house-school-tours/
+      button: NBrSS Open House 2025
   - infobar:
       id: infobar
       button: Parent Calendar
