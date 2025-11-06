@@ -20,22 +20,23 @@ third_nav_title: Current Students
 support our environmental efforts and reduce plastic use.</p>
 <hr>
 <h3>Booklist 2026- Sec 2G1</h3>
-<p></p>
-<h3>Booklist 2025- Sec 2G2</h3>
-<p><a href="/files/BookList/2025/NSS_Booklist_2025__Sec_2G2_SBB_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2G2 Booklist</a>
+<p><a href="/files/BookList/2026/Northbrooks_Sec_Sch_Booklist_2026___S2G1.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2G1 Booklist</a>
 </p>
-<h3>Booklist 2025- Sec 2G3</h3>
-<p><a href="/files/BookList/2025/NSS_Booklist_2025__Sec_2G3.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2G3 Booklist</a>
+<h3>Booklist 2026- Sec 2G2</h3>
+<p><a href="/files/BookList/2026/Northbrooks_Sec_Sch_Booklist_2026___S2G2.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2G2 Booklist</a>
+</p>
+<h3>Booklist 2026- Sec 2G3</h3>
+<p><a href="/files/BookList/2026/Northbrooks_Sec_Sch_Booklist_2026___S2G3.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2G3 Booklist</a>
 </p>
 <hr>
-<h3>Booklist 2025- Sec 3E</h3>
-<p><a href="/files/BookList/2025/NSS_Booklist_2025__Sec_3E.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3E Booklist</a>
+<h3>Booklist 2026- Sec 3G1</h3>
+<p><a href="/files/BookList/2026/Northbrooks_Sec_Sch_Booklist_2026___S3G1.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3G1 Booklist</a>
 </p>
-<h3>Booklist 2025- Sec 3NA</h3>
-<p><a href="/files/BookList/2025/NSS_Booklist_2025__Sec_3NA.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3NA Booklist</a>
+<h3>Booklist 2026- Sec 3G2</h3>
+<p><a href="/files/BookList/2026/Northbrooks_Sec_Sch_Booklist_2026___S3G2.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3G2 Booklist</a>
 </p>
-<h3>Booklist 2025- Sec 3NT</h3>
-<p><a href="/files/BookList/2025/NSS_Booklist_2025__Sec_3NT.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3NT Booklist</a>
+<h3>Booklist 2026- Sec 3G3</h3>
+<p><a href="/files/BookList/2026/Northbrooks_Sec_Sch_Booklist_2026___S3G3.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3G3 Booklist</a>
 </p>
 <hr>
 <h3>Booklist 2025- Sec 4E</h3>
