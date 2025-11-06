@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Current Students
 ---
-<h1>Sales of Books and Uniform</h1>
+<h1>2025 Year-End Sales of Books and Uniforms (For Year 2026)</h1>
 <p>
 <br>The school bookshop is open Monday to Friday, from 9:00 AM to 3:00 PM
 for the sale of school books and uniforms.</p>
