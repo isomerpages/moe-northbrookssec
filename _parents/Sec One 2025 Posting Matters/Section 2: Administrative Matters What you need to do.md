@@ -49,13 +49,13 @@ reply digitally, e.g., take a photo of the signed form and email the school.</p>
 <p></p>
 <h3>Step 2b: Sales of books, uniform and PE Attire</h3>
 <hr>
-<p><a href="/files/BookList/2025/2024_Year_end_Sales_of_Books_and_Uniforms_Sec_1_New_Uniform.pdf" rel="noopener nofollow" target="_blank">2024 Year-end Sales of Books and Uniforms-Sec 1</a>
+<p><a href="/files/BookList/2026/2025_Year_end_Sales_of_Books_and_Uniforms__Y2026_.pdf" rel="noopener nofollow" target="_blank">2025 Year-end Sales of Books and Uniforms-Sec 1 (For Year 2026)</a>
 </p>
-<p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G1v2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/BookList/2026/Northbrooks_Sec_Sch_Booklist_2026___S1G1.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Posting Group 1 booklist</p>
-<p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G2v2.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/BookList/2026/Northbrooks_Sec_Sch_Booklist_2026___S1G2.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Posting Group 2 booklist</p>
-<p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G3v2.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/BookList/2026/Northbrooks_Sec_Sch_Booklist_2026___S1G3.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Posting Group 3 booklist</p>
 <h3>Step 2c: Health Promotion Board (HPB) Digital Letter</h3>
 <hr>
