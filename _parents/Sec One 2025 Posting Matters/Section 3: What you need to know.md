@@ -64,7 +64,7 @@ possess the desire and passion to learn for life.</p>
 key in supporting your child. We would like to invite you to join the Parents
 Support Group (PSG). If you are keen, please complete the&nbsp;<a href="https://form.gov.sg/690d73fcc092e100df83370f" rel="noopener nofollow" target="_blank">Friends of PSG</a>.
 Thank You.</p>
-<p>Click <a href="https://drive.google.com/file/d/1NmNNUaEbofM4Exn96drtCsf47Rpdi7PD/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="https://drive.google.com/file/d/1olIy7KhlYSX4bo2zJgONtbTjI4WSX_9W/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> to
 watch the video montage of our PSG.</p>
 <p>Please email to Ms Cynthia Zheng, PSG Chairperson at&nbsp;<a href="mailto:Xxinthia118@gmail.com" rel="noopener nofollow" target="_blank">Xxinthia118@gmail.com</a>&nbsp;if
 you have any enquiry about PSG.</p>
