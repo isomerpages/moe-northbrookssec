@@ -9,8 +9,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1/2025/Picture1.jpg">
 </div>
-<h1>Sec One 2025 Posting Matters</h1>
-<h3>Welcome all Parents/Guardians and 2025 Sec One students to Northbrooks Secondary School</h3>
+<h1>Sec One 2026 Posting Matters</h1>
+<h3>Welcome all Parents/Guardians and 2026 Sec One students to Northbrooks Secondary School</h3>
 <p>Dear Parents and Guardians,&nbsp;</p>
 <p>Welcome to Northbrooks Secondary School!&nbsp;</p>
 <p>We are sure that you and your child/ward are very excited to start this
