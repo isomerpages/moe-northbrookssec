@@ -10,7 +10,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1/2025/Picture2.jpg">
 </div>
 <h1>Section 1: Welcome Message by Mr Edmund Chen</h1>
-<p>Dear 2025 Secondary One Students and Parents/Guardians</p>
+<p>Dear 2026 Secondary One Students and Parents/Guardians</p>
 <p>A very warm welcome to our Northbrooks family!</p>
 <p>We are grateful that you are joining us in our journey to strengthen our
 Secondary One students in Brooksian school values: Graciousness, Integrity,
@@ -33,8 +33,8 @@ school activities, and open communication with our school, are all important
 aspects in our partnership to develop our students holistically.</p>
 <p></p>
 <p>On behalf of the Northbrooks family, I wish all of you a wonderful and
-fulfilling year in 2025.</p>
-<p>Principal-Designate,
+fulfilling year in 2026.</p>
+<p>Principal,
 <br>Mr Edmund Chen
 <br>Northbrooks Secondary School</p>
 <p><strong><a href="/parents/sec-one-2025-posting-matters/sec-one-2025-posting-matters/" rel="noopener noreferrer nofollow" target="_blank">Return to Main Menu: Sec One 2025 Posting Matters</a></strong>
