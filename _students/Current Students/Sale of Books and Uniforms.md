@@ -14,9 +14,8 @@ third_nav_title: Current Students
 <br>For more information (such as online purchase etc), please refer to
 <a href="/files/BookList/2026/2025_Year_end_Sales_of_Books_and_Uniforms__Y2026_.pdf" rel="noopener nofollow" target="_blank">2025-Year End Sales of Books and Uniforms (For Year 2026)</a>
 <br>
-<br>Please note: For successful FAS applicant, are to collect the School Approval
-Letter from the General Office before collecting the books and uniforms
-from the canteen.&nbsp;</p>
+<br><em>Please note: For successful FAS applicant, are to collect the School Approval Letter from the General Office before collecting the books and uniforms from the canteen.&nbsp;</em>
+</p>
 <p>We encourage all parents/guardians and students to <strong>Bring Your Own Bag (BYOB)</strong> to
 support our environmental efforts and reduce plastic use.</p>
 <hr>
