@@ -85,7 +85,6 @@ accordingly.</p>
 <p>Please ensure that your application is approved before collecting your
 free books and uniforms. Upon approval, do obtain the School Approval letter
 before collecting your items.</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><u>Approved MOE FAS for 2026&nbsp;with Approval letter from Primary School&nbsp;</u>
