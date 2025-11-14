@@ -37,5 +37,5 @@ fulfilling year in 2026.</p>
 <p>Principal,
 <br>Mr Edmund Chen
 <br>Northbrooks Secondary School</p>
-<p><strong><a href="/parents/sec-one-2025-posting-matters/sec-one-2025-posting-matters/" rel="noopener noreferrer nofollow" target="_blank">Return to Main Menu: Sec One 2025 Posting Matters</a></strong>
+<p><strong><a href="/parents/sec-one-2026-posting-matters/sec-one-2026-posting-matters/" rel="noopener noreferrer nofollow" target="_blank">Return to Main Menu: Sec One 2025 Posting Matters</a></strong>
 </p>
