@@ -3,7 +3,7 @@ title: "Section 3: What you need to know"
 permalink: /parents/sec-one-2026-posting-matters/section-3-what-you-need-to-know/
 description: ""
 third_nav_title: Sec One 2026 Posting Matters
-variant: markdown
+variant: tiptap
 ---
 <h1>Section 3:&nbsp;What you need to know</h1>
 <h3>1.&nbsp; Sec One First Day and Orientation</h3>
