@@ -76,5 +76,5 @@ more information</p>
 <p>Click <a href="/files/2025_AEP_and_MEP_Centre_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more information</p>
 <hr>
-<p><strong><a href="/parents/sec-one-2025-posting-matters/sec-one-2025-posting-matters/" rel="noopener noreferrer nofollow" target="_blank">Return to Main Menu: Sec One 2025 Posting Matters</a></strong>
+<p><strong><a href="/parents/sec-one-2026-posting-matters/sec-one-2026-posting-matters/" rel="noopener noreferrer nofollow" target="_blank">Return to Main Menu: Sec One 2026 Posting Matters</a></strong>
 </p>
