@@ -44,7 +44,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chee Kwang How Dennis</p>
-<p>Mr Dinesh Vasu Dash</p>
 <p>Dato' Kuek Kien Joo Andy</p>
 <p>Mr Mohamad Saddiq Bin Mohamad Sa'id</p>
 </td>
