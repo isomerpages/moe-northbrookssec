@@ -129,7 +129,7 @@ successful and unsuccessful applications.</p>
 <li>
 <p>Students will have to register online with the respective centres: MOE
 Language Centre (MOELC) or Malay/Chinese Special Programme (MSP/CSP) Zonal
-Centres by 2025.</p>
+Centres by 2026.</p>
 </li>
 <li>
 <p>For registration at MOELC, students are to confirm the acceptance of the
