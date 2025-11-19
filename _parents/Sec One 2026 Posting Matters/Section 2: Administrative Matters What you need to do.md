@@ -1,8 +1,8 @@
 ---
 title: "Section 2: Administrative Matters What you need to do"
-permalink: /parents/sec-one-2025-posting-matters/section-2-administrative-matters/
+permalink: /parents/sec-one-2026-posting-matters/section-2-administrative-matters/
 description: ""
-third_nav_title: Sec One 2025 Posting Matters
+third_nav_title: Sec One 2026 Posting Matters
 variant: tiptap
 ---
 <h1>Section 2: Administrative Matters</h1>
@@ -49,13 +49,13 @@ reply digitally, e.g., take a photo of the signed form and email the school.</p>
 <p></p>
 <h3>Step 2b: Sales of books, uniform and PE Attire</h3>
 <hr>
-<p><a href="/files/BookList/2025/2024_Year_end_Sales_of_Books_and_Uniforms_Sec_1_New_Uniform.pdf" rel="noopener nofollow" target="_blank">2024 Year-end Sales of Books and Uniforms-Sec 1</a>
+<p><a href="/files/BookList/2026/2025_Year_end_Sales_of_Books_and_Uniforms__Y2026_.pdf" rel="noopener nofollow" target="_blank">2025 Year-end Sales of Books and Uniforms-Sec 1 (For Year 2026)</a>
 </p>
-<p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G1v2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/BookList/2026/Northbrooks_Sec_Sch_Booklist_2026___S1G1.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Posting Group 1 booklist</p>
-<p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G2v2.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/BookList/2026/Northbrooks_Sec_Sch_Booklist_2026___S1G2.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Posting Group 2 booklist</p>
-<p>Click <a href="/files/BookList/2025/NSS_Booklist_2025__Sec_1G3v2.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/BookList/2026/Northbrooks_Sec_Sch_Booklist_2026___S1G3.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Posting Group 3 booklist</p>
 <h3>Step 2c: Health Promotion Board (HPB) Digital Letter</h3>
 <hr>
@@ -66,32 +66,41 @@ letter to provide consent and update their child/ward’s medical information
 accordingly.</p>
 <h3>Step 2d:&nbsp; MOE Financial Assistance Scheme (FAS)</h3>
 <hr>
-<p><strong><em>(Optional)</em></strong>&nbsp;</p>
-<p>Parents/Guardians applying for MOE Financial Assistance Scheme (FAS) must
-come down to the school in person by<strong> 5.00pm 27 Dec </strong>&nbsp;with
-all the original &amp; required supporting documents.</p>
-<p>The FAS online form can be found <a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener nofollow" target="_blank">here</a>:</p>
-<p>Please refer to the <a href="/files/FAS/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">2025 MOE FAS Application Form</a>
-</p>
 <p>Two types of FAS application:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Already Approved MOE FAS for 2025&nbsp;with Approval letter from Primary School</strong>&nbsp;-
-Please exchange your letter at Learning Network Room (Level 1) in order
-for you to collect your books and uniforms on <strong>on 19 Dec 2024 PG 1 and 2 and 20 Dec 2024 PG 3. </strong>On
-other dates, please proceed to General Office for assistance.</p>
+<p><u>For new application</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents are encouraged to submit an online application using this link:
+<a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>or</p>
 </li>
 <li>
-<p><strong>New Applications</strong>&nbsp;- Please proceed to Learning Network
-Room (Level 1) on the above dates to complete the application form. Submit
-your supporting documents. Once approved, you will be notified to collect
-the School Approval Letter.</p>
+<p>through Parent Gateway app &gt; Services &gt; Financial Assistance</p>
 </li>
 </ul>
-<p><strong>Please ensure that you obtain the School Approval letter before collecting your free books and uniforms.</strong>
+</li>
+</ul>
+<p>Please ensure that your application is approved before collecting your
+free books and uniforms. Upon approval, do obtain the School Approval letter
+before collecting your items.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><u>Approved MOE FAS for 2026&nbsp;with Approval letter from Primary School&nbsp;</u>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please exchange your Primary School Approval Letter with the Secondary
+School Approval Letter at Learning Network Room (Level 1) on <strong>18 Dec 2025</strong> before
+collecting your books and uniforms. On other dates, please proceed to General
+Office for assistance.</p>
+</li>
+</ul>
+</li>
+</ul>
 <p>For parents/guardians who want to find out more about the MOE Financial
-Assistance Scheme (FAS), you may refer to the<strong> </strong><a href="/files/FAS/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">2025 MOE FAS Pamphlet</a>
+Assistance Scheme (FAS), you may refer to the <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 </p>
 <h3>Step 2e: Applications for Higher Mother Tongue, Foreign / 3rd Languages and exemption in Mother Tongue Language</h3>
 <hr>
@@ -120,7 +129,7 @@ successful and unsuccessful applications.</p>
 <li>
 <p>Students will have to register online with the respective centres: MOE
 Language Centre (MOELC) or Malay/Chinese Special Programme (MSP/CSP) Zonal
-Centres by 2025.</p>
+Centres by 2026.</p>
 </li>
 <li>
 <p>For registration at MOELC, students are to confirm the acceptance of the
@@ -184,5 +193,5 @@ will not enter into discussion with the applicants regarding its decision</p>
 preferred school’s website for more information. Your child’s PSLE score
 should meet the school’s cut-off point for that year. Transfers will be
 subject to available vacancies and meeting the school’s admission criteria.</p>
-<p><strong><a href="/parents/sec-one-2025-posting-matters/sec-one-2025-posting-matters/" rel="noopener noreferrer nofollow" target="_blank">Return to Main Menu: Sec One 2025 Posting Matters</a></strong>
+<p><strong><a href="/parents/sec-one-2026-posting-matters/sec-one-2026-posting-matters/" rel="noopener noreferrer nofollow" target="_blank">Return to Main Menu: Sec One 2026 Posting Matters</a></strong>
 </p>

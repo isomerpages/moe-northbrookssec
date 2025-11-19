@@ -1,8 +1,8 @@
 ---
 title: "Section 4: Others"
-permalink: /parents/sec-one-2025-posting-matters/section-4-others/
+permalink: /parents/sec-one-2026-posting-matters/section-4-others/
 description: ""
-third_nav_title: Sec One 2025 Posting Matters
+third_nav_title: Sec One 2026 Posting Matters
 variant: tiptap
 ---
 <h1>Section 4: Others</h1>
@@ -14,5 +14,5 @@ with the school.</p>
 <br>Instagram:&nbsp;<a href="http://instagram.com/officialnorthbrooks" rel="noopener noreferrer nofollow" target="_blank">http://instagram.com/officialnorthbrooks</a>
 </p>
 <p></p>
-<p><strong><a href="/parents/sec-one-2025-posting-matters/sec-one-2025-posting-matters/" rel="noopener noreferrer nofollow" target="_blank">Return to Main Menu: Sec One 2025 Posting Matters</a></strong>
+<p><strong><a href="/parents/sec-one-2026-posting-matters/sec-one-2026-posting-matters/" rel="noopener noreferrer nofollow" target="_blank">Return to Main Menu: Sec One 2026 Posting Matters</a></strong>
 </p>
