@@ -23,11 +23,11 @@ more information.</p>
 have an overview of the various submission deadlines.</p>
 <p><strong>There are 4 Sections to complete the Sec One registration.</strong>
 </p>
-<p><a href="/parents/sec-one-2026-posting-matters/sec-one-2026-posting-matters/section-1-welcome-message-by-mr-edmund-chen/" rel="noopener nofollow" target="_blank">Section 1: Welcome Message by Mr Edmund Chen (Principal-Designate of Northbrooks Secondary)</a>
+<p><a href="/parents/sec-one-2026-posting-matters/section-1-welcome-message-by-mr-edmund-chen/" rel="noopener nofollow" target="_blank">Section 1: Welcome Message by Mr Edmund Chen (Principal-Designate of Northbrooks Secondary)</a>
 </p>
-<p><a href="/parents/sec-one-2026-posting-matters/sec-one-2026-posting-matters/section-2-administrative-matters/" rel="noopener noreferrer nofollow" target="_blank">Section 2: Administrative Matters - What you need to do</a>(*Important*)</p>
-<p><a href="/parents/sec-one-2026-posting-matters/sec-one-2026-posting-matters/section-3-what-you-need-to-know/" rel="noopener noreferrer nofollow" target="_blank">Section 3: Information - What you need to know</a>
+<p><a href="/parents/sec-one-2026-posting-matters/section-2-administrative-matters/" rel="noopener noreferrer nofollow" target="_blank">Section 2: Administrative Matters - What you need to do</a>(*Important*)</p>
+<p><a href="/parents/sec-one-2026-posting-matters/section-3-what-you-need-to-know/" rel="noopener noreferrer nofollow" target="_blank">Section 3: Information - What you need to know</a>
 </p>
-<p><a href="/parents/sec-one-2026-posting-matters/sec-one-2026-posting-matters/section-4-others/" rel="noopener noreferrer nofollow" target="_blank">Section 4: Others</a>
+<p><a href="/parents/sec-one-2026-posting-matters/section-4-others/" rel="noopener noreferrer nofollow" target="_blank">Section 4: Others</a>
 </p>
 <p>Please ensure that you go through all 4 sections. Thank You.</p>
