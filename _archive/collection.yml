@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - "Section 1:  Welcome Message by Mr Edmund Chen.md"
       - Sec One 2026 Posting Matters.md
       - Principal's Message.md
       - Vertical Green Wall.md
