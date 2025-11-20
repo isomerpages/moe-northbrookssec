@@ -2,6 +2,10 @@ collections:
   archive:
     output: true
     order:
+      - "Section 4: Others.md"
+      - "Section 3: What you need to know.md"
+      - "Section 2: Administrative Matters What you need to do.md"
+      - "Section 1:  Welcome Message by Mr Edmund Chen.md"
       - Sec One 2026 Posting Matters.md
       - Principal's Message.md
       - Vertical Green Wall.md

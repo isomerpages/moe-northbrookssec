@@ -2,7 +2,6 @@
 title: "Section 1:  Welcome Message by Mr Edmund Chen"
 permalink: /parents/sec-one-2026-posting-matters/section-1-welcome-message-by-mr-edmund-chen/
 description: ""
-third_nav_title: Sec One 2026 Posting Matters
 variant: tiptap
 ---
 <h1></h1>

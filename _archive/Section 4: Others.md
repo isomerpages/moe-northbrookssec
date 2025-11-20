@@ -2,7 +2,6 @@
 title: "Section 4: Others"
 permalink: /parents/sec-one-2026-posting-matters/section-4-others/
 description: ""
-third_nav_title: Sec One 2026 Posting Matters
 variant: tiptap
 ---
 <h1>Section 4: Others</h1>

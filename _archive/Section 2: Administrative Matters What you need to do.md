@@ -2,7 +2,6 @@
 title: "Section 2: Administrative Matters What you need to do"
 permalink: /parents/sec-one-2026-posting-matters/section-2-administrative-matters/
 description: ""
-third_nav_title: Sec One 2026 Posting Matters
 variant: tiptap
 ---
 <h1>Section 2: Administrative Matters</h1>
