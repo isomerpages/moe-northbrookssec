@@ -2,7 +2,7 @@
 title: "Section 2: Administrative Matters What you need to do"
 permalink: /parents/sec-one-2026-posting-matters/section-2-administrative-matters/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h1>Section 2: Administrative Matters</h1>
 <p>All incoming Secondary One students who have been posted to Northbrooks
