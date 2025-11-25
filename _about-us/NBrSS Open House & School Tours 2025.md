@@ -10,7 +10,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/2025/OH__Instagram_Post___1_.jpg">
 </div>
 <p></p>
-<p>Missed out Open House last Saturday?
+<p>Missed our Open House last Saturday?
 <br>
 <br>No worries! We are happy to offer exclusive school tours from 26 - 27
 Nov. This is your chance to discover what we stand for and explore our
