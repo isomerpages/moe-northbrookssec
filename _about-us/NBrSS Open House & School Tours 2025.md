@@ -4,6 +4,12 @@ permalink: /nbrss-open-house-school-tours/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/2025/OH__Instagram_Post___1_.jpg">
+</div>
+<p></p>
 <p>Dear Parents and Prospective Students,</p>
 <p>🎉 <strong>Join Us at Northbrooks Secondary School Open House!</strong>🎉
 <br>📅 Date: <strong>22 November</strong>
