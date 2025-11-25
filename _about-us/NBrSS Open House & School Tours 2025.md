@@ -10,30 +10,17 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/2025/OH__Instagram_Post___1_.jpg">
 </div>
 <p></p>
-<p>Dear Parents and Prospective Students,</p>
-<p>🎉 <strong>Join Us at Northbrooks Secondary School Open House!</strong>🎉
-<br>📅 Date: <strong>22 November</strong>
-<br>🕘 Time: <strong>9:00 a.m. – 12:00 noon</strong>
+<p>Missed out Open House last Saturday?
 <br>
-<br>We're excited to welcome prospective students and parents to explore the
-vibrant community at Northbrooks!</p>
-<p>From our Principal's Talk to engaging CCA and Academic booths, there's
-so much to discover about what makes our school special. 🎒📚🎶
+<br>No worries! We are happy to offer exclusive school tours from 26 - 27
+Nov. This is your chance to discover what we stand for and explore our
+campus.
 <br>
-<br>💡 Come experience meaningful activities, learn about our programmes,
-and see how we nurture every Brooksian!</p>
-<p>
-<br><strong>📝Register your interest here:</strong>  <strong><a href="https://go.gov.sg/nbrssregoh" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nbrssregoh</a></strong>
-</p>
-<p>🖱️Check out the activities for the day here: <a href="https://go.gov.sg/nbrssoh" rel="noopener nofollow" target="_blank">https://go.gov.sg/nbrssoh</a>
+<br>Take a personalised tour, meet our staff, and get your questions answered.
 <br>
-<br>🚗 Reminder: No parking available in school, do plan accordingly!
-<br>
-<br>Mark your calendars and see you there! ✨</p>
+<br>We're looking forward to welcoming you! All the best for your results
+and we hope to see you soon!</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Open House 2025" src="/images/Open House/2025/Website.png">
-</div>
 <h4>NBrSS Open House 2024 Highlights</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1eHaLfnxYGc?si=fV7YWBqkBrmoA35M"></iframe>
