@@ -13,3 +13,5 @@ description: ""
 </p>
 <p><a href="/files/PDLP/2025/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">IP3 Parent Handbook (II) 2025</a>
 </p>
+<p><a href="/files/Acceptable_Use_Policy__AUP__Nbrss_Revised_2025_Final.pdf" rel="noopener nofollow" target="_blank">Acceptable Use Policy For Use of EdTech Resources</a>
+</p>
