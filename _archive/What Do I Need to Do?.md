@@ -72,30 +72,97 @@ registration required.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Acceptance of Higher Mother Tongue Offer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Submit acceptance form through Parents' Gateway OR Parents can accept
+the offer by replying a signed acceptance form via email or take a photo
+of the signed form and email to school.
+<br>&lt;Link&gt;Click here for more details regarding HMT.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27 Dec, 12pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Letter of Offer to take subject(s) at a more demanding level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accept the offer through Parents' Gateway or collect hardcopy of the letter
+from General Office if parents have no access to PG.
+<br>&lt;Link&gt;Click here for more details on Full Subject Based Banding
+(FSBB).</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24 Dec, 12pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exemption from Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Email Ms Loh Mew Chew/ HOD(MTL) at <a href="mailto:Loh_Mew_Chew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Loh_Mew_Chew@schools.gov.sg</a> with
+supporting documents.
+<br>&lt;Link&gt;Click here for more details regarding exemption from MT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27 Dec, 12pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE FAS (new application)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Obtain the form from the school website or submit via <a href="http://form.sg" rel="noopener noreferrer nofollow" target="_blank">form.sg</a>.
+<br>&lt;Link&gt;Click here for more details regarding FAS application.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27 Dec, 12pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Appeal to transfer in for non-medical cases</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&lt;Link&gt; Click here to complete the formSG.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27 De, 12pm
+<br>
+<br>Successful applicants will be informed after 7 January 2026*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class Allocation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Check PG for class allocation on 30 Dec 2025, 5:00pm.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 Dec, 5pm</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
 <p></p>
