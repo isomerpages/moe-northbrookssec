@@ -2,7 +2,6 @@ collections:
   archive:
     output: true
     order:
-      - 2026 Sec 1 Registration & Other Information.md
       - "Section 4: Others.md"
       - "Section 3: What you need to know.md"
       - "Section 2: Administrative Matters What you need to do.md"
