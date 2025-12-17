@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: 2026 Sec One Posting Matters
 ---
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -16,6 +17,9 @@ third_nav_title: 2026 Sec One Posting Matters
 <tr>
 <th rowspan="1" colspan="1">
 <p>S/N</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Date(s)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Activity</p>
@@ -30,6 +34,9 @@ third_nav_title: 2026 Sec One Posting Matters
 <tr>
 <td rowspan="1" colspan="1">
 <p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2, 8 and 9 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec One Orientation Programme</p>
@@ -50,6 +57,9 @@ find out more about the orientation programme!</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>7 Jan 2026 (Wed), 2pm to 6pm</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>CCA Display Day</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,6 +74,9 @@ Display Day.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents' Seminar (for parents)</p>
