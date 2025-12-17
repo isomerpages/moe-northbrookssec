@@ -2,7 +2,6 @@ collections:
   admissions:
     output: true
     order:
-      - Sec One Orientation 2026.md
       - 2026 Sec One Posting Matters/FAQs.md
       - 2026 Sec One Posting Matters/Key Activities & Dates.md
       - 2026 Sec One Posting Matters/Welcome Message.md
