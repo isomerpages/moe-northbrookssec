@@ -31,7 +31,6 @@ children are posted to, on 19 Dec 2025.</p>
 <summary><strong>2. What are the reporting time on the first day of school and the activities for the first day of school (2 Jan 2026)? What does my child/ward need to bring?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>The Secondary One&nbsp;students will undergo the Orientation Programme
 on 2 Jan, 8 Jan and 9 Jan 2026. Normal lessons according to their respective
 timetables will be held on 5 to 7 Jan 2026. They will be expected to bring
@@ -57,38 +56,56 @@ child/ward via PG on 30 Dec 2025.</p>
 <summary><strong>3. Where can I find out about the sale of books and uniforms?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>Information on the sale of books and uniforms can be found here.</p>
 </div>
 </details>
 </div>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Where can I find out about the sale of textbooks and uniforms?</strong>
-<br>You may refer to our school website for more information.&nbsp;&nbsp;</p>
-</li>
-<li>
-<p><strong>What are the school hours like?</strong>&nbsp;&nbsp;
-<br>Reporting time for school is 7.20 am daily except on Thursdays. Students
-report to their designated classrooms at 8.20 am on Thursdays. However,
-for the first week of school, do refer to the Orientation Programme for
-school hours and reporting attire.&nbsp;&nbsp;</p>
-</li>
-<li>
-<p><strong>What is the school attire at Northbrooks Secondary School?</strong>&nbsp;&nbsp;
-<br>On Mondays, students report to school in full school uniform for flag-raising
-and morning assembly. On other days, students can report in their PE T-shirts
-and school pants/skirts. Students are to wear all-black canvas shoes with
-laces and all-black socks. &nbsp;On 2 Jan 2026, Secondary One students
-can report in their school PE T-shirts and school pants/skirts.&nbsp; &nbsp;</p>
-</li>
-<li>
-<p><strong>What happens if I am unable to purchase the school uniform before 2 Jan 2026?</strong>&nbsp;&nbsp;
-<br>If your child/ward is unable to get a set of uniform or school PE attire
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>4. What are the school hours like?</strong>&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>In a typical school week, reporting time for school is 7.20am daily except
+on Thursdays.</p>
+<p>Students report to their designated classrooms by 8.20am on Thursdays.</p>
+<p></p>
+<p>For the first week of school, do refer to the Orientation Programme for
+school hours and reporting attire.&nbsp;</p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>5. What is the school attire at Northbrooks Secondary School?</strong>&nbsp;&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>In a typical school week, students report in full uniform on Mondays.
+On other days, students can report in their PE T-shirts and school pants/skirts.</p>
+<p></p>
+<p>Students are to wear all-black canvas shoes with laces and all-black socks
+everyday.</p>
+<p></p>
+<p>For the first week of school, do refer to the Orientation Programme for
+school hours and reporting attire.&nbsp;</p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>6 What if I am unable to purchase the school uniform before 2 Jan 2026?</strong>&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>If your child/ward is unable to get a set of uniform or school PE attire
 before school starts on 2 Jan 2026, your child can report in his/her primary
-school PE attire. He/she should purchase the Northbrooks uniform and PE
-attire as early as possible.&nbsp;&nbsp;</p>
-</li>
+school PE attire. He/she should purchase the school uniform and PE attire
+as early as possible.</p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<ol data-tight="true" class="tight">
 <li>
 <p><strong>How many sets of school uniform/PE attire should we purchase?</strong>&nbsp;&nbsp;
 <br>As a recommendation, each student should have 1&nbsp;set of full uniform,
