@@ -56,7 +56,7 @@ third_nav_title: 2026 Sec One Posting Matters
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19, 22, 23 &amp; 25 Dec 2025</p>
+<p>19, 22, 23 &amp; 26 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sales of books/ PE Attire/ School Uniform</p>
@@ -65,61 +65,19 @@ third_nav_title: 2026 Sec One Posting Matters
 <p>Different student groups have been allocated specific days to purchase
 books to avoid congestion.</p>
 <p></p>
-<p><strong>Posting Group 3:</strong>
-	<br>19 Dec 2025 (Fri), 9am - 3pm</p>
-<p><strong>Posting Groups 1 &amp; 2:</strong>
-	<br>22 Dec 2025 (Mon), 9am - 3pm</p>
-	<p><strong>All Posting Groups:</strong>
-	<br>23 Dec 2025 (Tue) &amp; 26 Dec 2025 (Fri), 9am - 3pm</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Posting Group 3:</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19 Dec 2025 (Fri), 9am - 3pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Posting Groups 1 &amp; 2:</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>22 Dec 2025 (Mon), 9am - 3pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<p><strong>Posting Group 3:</strong> 
+<br>19 Dec 2025 (Fri), 9am - 3pm</p>
+<p><strong>Posting Groups 1 &amp; 2:</strong> 
+<br>22 Dec 2025 (Mon), 9am - 3pm</p>
+<p><strong>All Posting Groups:</strong> 
+<br>23 Dec 2025 (Tue) &amp; 26 Dec 2025 (Fri), 9am - 3pm</p>
 <p></p>
 <p></p>
+<p><strong>Note: There is no sales on 30 Dec 2025 (Tue)</strong>
+</p>
 <p></p>
-<p></p>
-<p></p>
-<p>
-<br>All Posting Groups 1 &amp; 2: 23 Dec 2025 (Tue) &amp; 26 Dec 2025 (Fri),
-9am - 3pm</p>
-<p></p>
-<p>Note: There is no sales on 30 Dec 2025 (Tue)</p>
-<p></p>
-<p>Click here for the book list and more details.</p>
+<p>Click <a href="https://www.northbrookssec.moe.edu.sg/students/current-students/permalink/" rel="noopener nofollow" target="_blank">here</a> for
+the book list and more details.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Posting Group 3:
@@ -142,7 +100,7 @@ books to avoid congestion.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>26 Dec 2025 (Fri), 2pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Acceptance of Higher Mother Tongue Offer</p>
