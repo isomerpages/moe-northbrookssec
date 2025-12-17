@@ -97,7 +97,7 @@ the book list and more details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>24 Dec 2025 (Wed), 12pm</p>
@@ -106,17 +106,14 @@ the book list and more details.</p>
 <p>Appeal for transfer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For transfer <strong>NOT </strong>based on medical, please</p>
-<p><a href="https://form.gov.sg/690d7e0171ba7b80e81a143a" rel="noopener nofollow" target="_blank">click here</a> to
-submit your appeal by 24 Dec 2025, 12pm.</p>
+<p>For transfer <strong>NOT </strong>based on medical, please <a href="https://form.gov.sg/690d7e0171ba7b80e81a143a" rel="noopener nofollow" target="_blank">click here</a> to
+submit your appeal <strong>by 24 Dec 2025 (Wed), 12pm</strong>.</p>
 <p></p>
-<p>For transfer based on medical reason:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ol>
-<p></p>
+<p>For transfer based on medical reason, please file your appeal with the
+original secondary school <strong>by 22 Dec 2025 (Mon), 12pm.</strong>
+<br>
+</p>
+<p>Successful applicants will be informed <strong>after 7 Jan 2026 (Wed)</strong>.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -125,7 +122,7 @@ submit your appeal by 24 Dec 2025, 12pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>24 Dec 2025 (Wed), 12pm</p>
@@ -147,7 +144,7 @@ more details on Full Subject Based Banding (FSBB).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26 Dec 2025 (Fri), 2pm</p>
@@ -169,7 +166,7 @@ more details regarding HMT.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26 Dec 2025 (Fri), 2pm</p>
@@ -190,13 +187,13 @@ more details regarding exemption from MT</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>26 Dec 2025 (Fri), 2pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE FAS (new application)</p>
+<p>New application for Financial Assistance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Obtain the form from the school website or submit via <a href="http://form.sg" rel="noopener noreferrer nofollow" target="_blank">form.sg</a>.</p>
@@ -210,36 +207,16 @@ more details regarding FAS application.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Appeal to transfer in for non-medical cases</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/690d7e0171ba7b80e81a143a" rel="noopener nofollow" target="_blank">Click here</a> to
-complete the formSG.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>24 Dec, 12pm
-<br>
-<br>Successful applicants will be informed after 7 January 2026*</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>By 30 Dec 2025 (Tue), 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Class Allocation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Check PG for class allocation on 30 Dec 2025, 5:00pm.</p>
+<p>Parents/guardians can check the class allocation via PG.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>30 Dec, 5pm</p>
