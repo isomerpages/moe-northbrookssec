@@ -76,7 +76,7 @@ Display Day.</p>
 <br>1. Full Subject Based Banding (FSBB)
 <br>2. Personalised Digital Learning Programme (PDLP)
 <br>3. Positive Discipline
-<br>4. CCA matters</p>
+<br>4. CCA</p>
 </td>
 </tr>
 </tbody>
