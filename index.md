@@ -17,8 +17,8 @@ sections:
       background: /images/homepageeee northbrooks.gif
   - infobar:
       id: infobar
-      url: /nbrss-open-house-school-tours/
-      button: NBrSS Open House 2025
+      url: /parents/2026-sec-one-posting-matters/welcome-message-by-principal/
+      button: 2026 Sec One Posting Matters
   - infobar:
       id: infobar
       button: 2025 EOY Books & Uniforms Sales
