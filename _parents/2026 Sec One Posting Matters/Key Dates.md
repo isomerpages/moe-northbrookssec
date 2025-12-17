@@ -141,51 +141,18 @@ more details regarding HMT.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Letter of Offer to take subject(s) at a more demanding level</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>24 Dec, 12pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>26 Dec 2025 (Fri), 2pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Exemption from Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email Ms Loh Mew Chew/ HOD(MTL) at <a href="mailto:Loh_Mew_Chew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Loh_Mew_Chew@schools.gov.sg</a> with
-supporting documents.
+<p>Please email Ms Loh Mew Chew (HOD MTL) at <a href="mailto:Loh_Mew_Chew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Loh_Mew_Chew@schools.gov.sg</a> with
+supporting documents.</p>
+<p>
 <br><a href="/files/Sec 1 Posting Matters/2026/2026_MTL_FL_AsL_FAQ.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
 more details regarding exemption from MT</p>
 </td>
