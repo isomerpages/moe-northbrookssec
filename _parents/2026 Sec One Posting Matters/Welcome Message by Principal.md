@@ -41,11 +41,11 @@ school activities, and open communication with our school, are all important
 aspects in our partnership to develop our students holistically.</p>
 <p>On behalf of the Northbrooks family, I wish all of you a wonderful and
 fulfilling year in 2026.</p>
-<p>Principal</p>
-<p>Mr Edmund Chen</p>
-<p>Northbrooks Secondary School</p>
-<p></p>
-</th>
+<p>Principal
+<br>Mr Edmund Chen
+<br>Northbrooks Secondary School
+<br><br>
+</p></th>
 </tr>
 <tr></tr>
 <tr></tr>
