@@ -119,7 +119,7 @@ submit your appeal <strong>by 24 Dec 2025 (Wed), 12pm</strong>.</p>
 <p></p>
 <p>For transfer based on <strong>medical reason</strong>, please file your
 appeal with the original secondary school <strong>by 22 Dec 2025 (Mon), 12pm.</strong> 
-<a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener nofollow" target="_blank">Click here</a>for more information.
+<a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener nofollow" target="_blank">Click here </a>for more information.
 <br>
 </p>
 <p>Successful applicants will be informed <strong>after 7 Jan 2026 (Wed)</strong>.</p>
