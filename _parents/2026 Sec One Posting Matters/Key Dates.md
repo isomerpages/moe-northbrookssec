@@ -49,14 +49,15 @@ third_nav_title: 2026 Sec One Posting Matters
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19, 22, 23 &amp; 26 Dec 2025</p>
+<p>18 to 29 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sales of books &amp; uniform in school</p>
+<p>Sales of books &amp; uniform</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Different student groups have been allocated different days to purchase
-books &amp; uniform to avoid congestion.</p>
+<p>Books and uniforms can be purchased online between 18 Dec 2025 (Thu) to 25 Dec 2025 (Thu)</p>
+<p>Parents/guardians may also choose to purchase in school. To avoid congestion, different student groups have been allocated different days to purchase
+books &amp; uniform.</p>
 <p></p>
 <p><strong>Posting Group 3:</strong> 
 <br>19 Dec 2025 (Fri), 9am - 3pm</p>
@@ -66,10 +67,10 @@ books &amp; uniform to avoid congestion.</p>
 <br>23 Dec 2025 (Tue) &amp; 26 Dec 2025 (Fri), 9am - 3pm</p>
 <p></p>
 <p></p>
-<p><strong>Note: There is no sales on 30 Dec 2025 (Tue)</strong>
+<p><strong>Note: There is no sales on weekends and 30 Dec 2025 (Tue)</strong>
 </p>
 <p></p>
-<p>Click <a href="https://www.northbrookssec.moe.edu.sg/students/current-students/permalink/" rel="noopener nofollow" target="_blank">here</a> for
+<p><a href="https://www.northbrookssec.moe.edu.sg/students/current-students/permalink/" rel="noopener nofollow" target="_blank">Click here</a> for
 the book list and more details.</p>
 </td>
 </tr>
@@ -84,11 +85,11 @@ the book list and more details.</p>
 <p>Appeal for transfer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For transfer <strong>NOT </strong>based on medical, please <a href="https://form.gov.sg/690d7e0171ba7b80e81a143a" rel="noopener nofollow" target="_blank">click here</a> to
+<p>For transfer <strong>NOT </strong>based on medical reason, please <a href="https://form.gov.sg/690d7e0171ba7b80e81a143a" rel="noopener nofollow" target="_blank">click here</a> to
 submit your appeal <strong>by 24 Dec 2025 (Wed), 12pm</strong>.</p>
 <p></p>
-<p>For transfer based on medical reason, please file your appeal with the
-original secondary school <strong>by 22 Dec 2025 (Mon), 12pm.</strong>
+	<p>For transfer based on <strong>medical reason</strong>, please file your appeal with the
+original secondary school <strong>by 22 Dec 2025 (Mon), 12pm.</strong> Click here for more information.
 <br>
 </p>
 <p>Successful applicants will be informed <strong>after 7 Jan 2026 (Wed)</strong>.</p>
@@ -127,7 +128,7 @@ more details on Full Subject Based Banding (FSBB).</p>
 <p>Offers to take HMT will be <strong>sent to eligible students via Parents' Gateway (PG)</strong>.
 <br>
 <br>Parents/guardians are to accept the offer via PG by the deadline.
-<br><br><a href="/files/Sec 1 Posting Matters/2026/Preamble_of_Sec_1_Registration_MTL.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<br><br><a href="/files/Sec 1 Posting Matters/2026/Preamble_of_Sec_1_Registration_MTL.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
 more details regarding HMT.</p>
 </td>
 </tr>
@@ -145,7 +146,7 @@ more details regarding HMT.</p>
 <p>Please email Ms Loh Mew Chew (HOD MTL) at <a href="mailto:Loh_Mew_Chew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Loh_Mew_Chew@schools.gov.sg</a> with
 supporting documents.</p>
 <p>
-<br><a href="/files/Sec 1 Posting Matters/2026/2026_MTL_FL_AsL_FAQ.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
+<a href="/files/Sec 1 Posting Matters/2026/2026_MTL_FL_AsL_FAQ.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
 more details regarding exemption from MT</p>
 </td>
 </tr>
