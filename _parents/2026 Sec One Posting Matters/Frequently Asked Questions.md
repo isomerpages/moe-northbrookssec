@@ -197,14 +197,12 @@ to purchase the concession passes for secondary school students.&nbsp;&nbsp;</p>
 <br>The school values its partnership with all parents and guardians. This
 is key in supporting your child. If you are keen, please complete the 
 <a href="https://form.gov.sg/690d73fcc092e100df83370f" class="Hyperlink SCXW145229756 BCX0" rel="noreferrer noopener" target="_blank"><u>Friends of PSG</u>
-</a>. &nbsp;
-<br>
-<br>Click <a href="https://drive.google.com/file/d/1pSoNX5MZHf7NJARkFTRaFK_L536acV27/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> to
-watch the video montage of our PSG.
-<br>
-</p>
-<p>Please email to Ms Cynthia Zheng, PSG Chairperson at&nbsp;<a href="mailto:Xxinthia118@gmail.com" rel="noopener nofollow" target="_blank">Xxinthia118@gmail.com</a>&nbsp;if
-you have any enquiry about PSG.</p>
+</a>. &nbsp; </p><p>
+Click <a href="https://drive.google.com/file/d/1pSoNX5MZHf7NJARkFTRaFK_L536acV27/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> to
+watch the video montage of our PSG.</p>
+<p></p>
+Please email to Ms Cynthia Zheng, PSG Chairperson at&nbsp;<a href="mailto:Xxinthia118@gmail.com" rel="noopener nofollow" target="_blank">Xxinthia118@gmail.com</a>&nbsp;if
+you have any enquiry about PSG.
 </li>
 <li>
 <p><strong>Transiting from primary school to secondary school can be challenging. How can I better prepare my child for the changes?&nbsp;</strong>
