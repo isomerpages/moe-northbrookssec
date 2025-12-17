@@ -113,7 +113,8 @@ from General Office if parents have no access to PG.
 <td rowspan="1" colspan="1">
 <p>Email Ms Loh Mew Chew/ HOD(MTL) at <a href="mailto:Loh_Mew_Chew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Loh_Mew_Chew@schools.gov.sg</a> with
 supporting documents.
-<br>&lt;Link&gt;Click here for more details regarding exemption from MT</p>
+<br><a href="https://cms.isomer.gov.sg/files/Sec%201%20Posting%20Matters/2026/Preamble_of_Sec_1_Registration_MTL.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a> for
+more details regarding exemption from MT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>27 Dec, 12pm</p>
