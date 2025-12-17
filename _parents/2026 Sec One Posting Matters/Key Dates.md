@@ -52,7 +52,7 @@ third_nav_title: 2026 Sec One Posting Matters
 <p>19, 22, 23 &amp; 26 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sales of books &amp; uniform</p>
+<p>Sales of books &amp; uniform in school</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Different student groups have been allocated different days to purchase
@@ -108,9 +108,8 @@ original secondary school <strong>by 22 Dec 2025 (Mon), 12pm.</strong>
 <td rowspan="1" colspan="1">
 <p>Offers to take subject(s) at a more demanding level will be <strong>sent to eligible students via Parents' Gateway (PG)</strong>.</p>
 <p></p>
-<p>Parents/guardians can accept the offer via PG by the deadline.</p>
-<p>
-<br><a href="/files/Sec 1 Posting Matters/2026/FSBB.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
+<p>Parents/guardians are to accept the offer via PG by the deadline.
+<br><br><a href="/files/Sec 1 Posting Matters/2026/FSBB.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
 more details on Full Subject Based Banding (FSBB).</p>
 </td>
 </tr>
@@ -127,9 +126,8 @@ more details on Full Subject Based Banding (FSBB).</p>
 <td rowspan="1" colspan="1">
 <p>Offers to take HMT will be <strong>sent to eligible students via Parents' Gateway (PG)</strong>.
 <br>
-<br>Parents/guardians are to accept the offer via PG by the deadline.</p>
-<p>
-<br><a href="/files/Sec 1 Posting Matters/2026/Preamble_of_Sec_1_Registration_MTL.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
+<br>Parents/guardians are to accept the offer via PG by the deadline.
+<br><br><a href="/files/Sec 1 Posting Matters/2026/Preamble_of_Sec_1_Registration_MTL.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more details regarding HMT.</p>
 </td>
 </tr>
