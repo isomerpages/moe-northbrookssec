@@ -38,7 +38,8 @@ third_nav_title: 2026 Sec One Posting Matters
 <p>To familiarize students with culture and learning environment of the school.
 <br>To foster new meaningful relationships.
 <br>To develop self-awareness and personal leadership.
-<br>&lt;Click here&gt; to find out more about the orientation programme!</p>
+<br><a href="/files/Sec 1 Posting Matters/2026/Sec_1_Orientation_2026.pdf" rel="noopener nofollow" target="_blank">Click here</a> to
+find out more about the orientation programme!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2, 8 and 9 January</p>
