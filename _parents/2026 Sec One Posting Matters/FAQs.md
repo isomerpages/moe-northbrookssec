@@ -58,7 +58,7 @@ child/ward via PG on 30 Dec 2025.</p>
 <summary><strong>3. Where can I find out about the sale of books and uniforms?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Information on the sale of books and uniforms can be found here.</p>
+<p>Information on the sale of books and uniforms can be found <a href="/parents/2026-sec-one-posting-matters/key-dates/" rel="noopener nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 </div>
