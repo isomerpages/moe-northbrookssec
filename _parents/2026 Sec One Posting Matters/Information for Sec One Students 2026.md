@@ -96,7 +96,7 @@ more details regarding HMT.</p>
 <td rowspan="1" colspan="1">
 <p>Accept the offer through Parents' Gateway or collect hardcopy of the letter
 from General Office if parents have no access to PG.
-<br><a href="/files/Sec 1 Posting Matters/2026/04_FSBB.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
+<br><a href="/files/Sec 1 Posting Matters/2026/FSBB.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
 more details on Full Subject Based Banding (FSBB).</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,7 +129,8 @@ more details regarding exemption from MT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Obtain the form from the school website or submit via <a href="http://form.sg" rel="noopener noreferrer nofollow" target="_blank">form.sg</a>.
-<br>&lt;Link&gt;Click here for more details regarding FAS application.</p>
+<br><a href="/files/Sec 1 Posting Matters/2026/MOE_Financial_Assistance_Scheme.pdf" rel="noopener nofollow" target="_blank">Click here </a>for
+more details regarding FAS application.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>27 Dec, 12pm</p>
@@ -143,7 +144,8 @@ more details regarding exemption from MT</p>
 <p>Appeal to transfer in for non-medical cases</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&lt;Link&gt; Click here to complete the formSG.</p>
+<p><a href="https://form.gov.sg/690d7e0171ba7b80e81a143a" rel="noopener nofollow" target="_blank">Click here</a> to
+complete the formSG.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>24 Dec, 12pm
