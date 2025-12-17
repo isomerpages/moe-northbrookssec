@@ -21,7 +21,7 @@ third_nav_title: 2026 Sec One Posting Matters
 <p>A very warm welcome to our Northbrooks family!</p>
 <p>We are grateful that you are joining us in our journey to strengthen our
 Secondary One students in Brooksian school values: Graciousness, Integrity,
-Fortitude, Teamwork, Empathy, Discipline (or in short, G.I.F.T.E.D). In
+Fortitude, Teamwork, Empathy, Discipline (or in short, **G.I.F.T.E.D**). In
 living by our school motto “Soaring Yet Rooted,” we motivate our students
 to achieve greater heights, while remaining deeply grounded in these school
 values.</p>
