@@ -14,10 +14,10 @@ third_nav_title: 2026 Sec One Posting Matters
 <p>We are grateful that you are joining us in our journey to strengthen our
 Secondary One students in Brooksian school values: Graciousness, Integrity,
 Fortitude, Teamwork, Empathy, Discipline (or in short, <strong>G.I.F.T.E.D</strong>).
-In living by our school motto “Soaring Yet Rooted,” we motivate our students
-to achieve greater heights, while remaining deeply grounded in these school
-values.</p>
-<p>Our school vision, “Every Brooksian a Champion, Impacting the Community”,
+In living by our school motto “<strong>Soaring Yet Rooted,”</strong> we
+motivate our students to achieve greater heights, while remaining deeply
+grounded in these school values.</p>
+<p>Our school vision, <strong>“Every Brooksian a Champion, Impacting the Community”</strong>,
 is our commitment to unlock the full potential of every student. Champions
 are not merely students who excel in their academic or co-curricular pursuits.</p>
 <p>Champions are role models who demonstrate exemplary values and have a
