@@ -195,5 +195,9 @@ is key in supporting your child. If you are keen, please complete the 
 <a href="https://form.gov.sg/690d73fcc092e100df83370f" class="Hyperlink SCXW145229756 BCX0" rel="noreferrer noopener" target="_blank"><u>Friends of PSG</u>
 </a>. &nbsp;</p>
 </li>
+<li>
+<p><strong>Transiting from primary school to secondary school can be challenging. How can I better prepare my child for the changes?&nbsp;</strong>
+</p>
+</li>
 </ol>
 <p></p>
