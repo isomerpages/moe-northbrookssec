@@ -197,7 +197,9 @@ is key in supporting your child. If you are keen, please complete the 
 </li>
 <li>
 <p><strong>Transiting from primary school to secondary school can be challenging. How can I better prepare my child for the changes?&nbsp;</strong>
-</p>
+<br><a href="/files/Sec 1 Posting Matters/2026/FAQ22___Transition_to_Sec_School.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
+more details regarding some common challenges to be expected and tips to
+better manage the changes.&nbsp;&nbsp;</p>
 </li>
 </ol>
 <p></p>
