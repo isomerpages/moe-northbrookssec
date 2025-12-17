@@ -131,7 +131,26 @@ kept in their school bags and are <u>not visible</u> during curriculum time
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>9. My child is eligible to offer Higher Mother Tongue (HMT) but he/she has not received the letter of offer. What should we do?</strong>&nbsp;</summary>
+<summary><strong>9. What subjects are offered at a More Demanding Level?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>At the start of Secondary One, students will offer EL, MTL, MA and SCI
+at the subject level determined by their PSLE AL scores. Students who offer
+most subjects at G1 or G2 are eligible to offer EL, MTL, MA and SCI at
+a more demanding level from the start of Secondary One if they have performed
+well in these subjects at the PSLE.</p>
+<p></p>
+<p>Parents will be informed of their children’s eligibility via Parents Gateway.</p>
+<p></p>
+<p>Humanities subjects is offered at a more demanding level at Secondary
+Two.</p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>10. My child is eligible to offer Higher Mother Tongue (HMT) but he/she has not received the letter of offer. What should we do?</strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>If your child/ward meets the criteria for HMT but did not receive the
 letter of offer, please email to HOD MTL Ms Loh Mew Chew (<a href="mailto:loh_Mew_Chew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Loh_Mew_Chew@schools.gov.sg</u></a>)
@@ -142,7 +161,7 @@ as soon as possible.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>10. What do I need to do if my child is exempted from Mother Tongue Languages?</strong>
+<summary><strong>11. What do I need to do if my child is exempted from Mother Tongue Languages?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>If your child has been exempted from Mother Tongue Languages in primary
@@ -155,94 +174,79 @@ from CPDD).</p>
 </div>
 </details>
 </div>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>What are the subjects being offered at More Demanding Levels?</strong>&nbsp;&nbsp;
-<br>At the start of Secondary One, students will offer EL, MTL, MA and SCI
-at the subject level determined by their PSLE scores. Students who offer
-most subjects at G1 or G2 are eligible to offer EL, MTL, MA and SCI at
-a more demanding level from the start of Secondary One if they have performed
-well in these subjects at the PSLE. Parents will be informed of their children’s
-eligibility via Parents Gateway.</p>
-<p>Humanities subjects can only be offered at a more demanding level from
-Secondary Two.</p>
 <p></p>
-</li>
-<li>
-<p><strong>Where would the Higher Mother Tongue lessons be conducted?</strong>&nbsp;
-<br>Please note that Higher Chinese Language and Higher Malay Language lessons
-are held in school during curriculum time. Higher Tamil Language lessons
-are conducted at designated language centres (once a week) after curriculum
-hours (approximately 3 hours). More information will be given to your child/ward
-within the first two weeks of school.</p>
-<p>For lessons that are conducted at external venues (HML, HTL, AEP, MEP,
-3rd Language), ample time will be given to students to ensure they are
-able to have their lunch and travel to the venues. Subject teachers will
-work with students to ensure they are supported for lessons that they miss.</p>
-</li>
-<li>
-<p><strong>What do I need to do if my child is exempted from Mother Tongue Languages?</strong>
-<br>If your child has been exempted from Mother Tongue Languages in primary
-school or did not sit for Mother Tongue during PSLE, please email our HOD
-(Mother Tongue Languages) Ms Loh Mew Chew at <a href="mailto:Loh_Mew_Chew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Loh_Mew_Chew@schools.gov.sg</a> by
-26 Dec 2025, 12 pm with relevant supporting details (e.g. exemption letter
-from CPDD).</p>
-<p>For more information on Mother Tongue Language Exemption, please <a href="/files/Sec 1 Posting Matters/2026/2026_MTL_FL_AsL_FAQ.pdf" rel="noopener nofollow" target="_blank">click here</a>.</p>
-</li>
-<li>
-<p><strong>What do I need to do if my child is offered a Third Language?</strong>
-<br>A Letter of Offer will be sent to you via PG. Parents/guardians must then
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>12. What do I need to do if my child/ward is offered a third language?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A Letter of Offer will be sent to you via PG. Parents/guardians must then
 register online at MOELC (<a href="https://www.moelc.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moelc.moe.edu.sg/</a>)
-to accept the offer. There is no need to report to a language centre.
-<br>
-<br>For more information on Third Language, please <a href="/files/Sec 1 Posting Matters/2026/2026_MTL_FL_AsL_FAQ.pdf" rel="noopener nofollow" target="_blank">click here</a>.</p>
-</li>
-<li>
-<p><strong>I would like to understand more about the CCA structure. Where can I get the information?</strong>&nbsp;&nbsp;
-<br>For more information and clarification on CCA, we encourage parents to
-attend the Parents’ Seminar on the evening of 9 Jan 2026. Alternatively,
-you could visit the school website to find out more.&nbsp;</p>
-</li>
-<li>
-<p><strong>Non-medical appeal for transfer to Northbrooks Secondary School</strong>&nbsp;
-<br>The period for non-medical appeals will be opened from 19 Dec 9 am to
-24 Dec 12 pm.</p>
-<p>Please complete the online form found under&nbsp;<em><a href="/parents/2026-sec-one-posting-matters/information-for-sec-one-students-2026/" rel="noopener nofollow" target="_blank">Information for Sec One students 2026</a></em>
-</p>
-<p>School will need time to process the appeals, and the outcome may be available
-only from mid-January. Students should still report to Northbrooks Secondary
-School on 2 Jan 2026 when the outcome of the appeal is not determined.
-While school has the discretion to consider appeals, such appeals may not
-be accepted due to limited vacancies.&nbsp;&nbsp;</p>
-</li>
-<li>
-<p><strong>Medical Appeal Exercise</strong>&nbsp;
-<br>Students with serious medical conditions (e.g. chronic heart condition)
-or severe physical impairments may apply for a transfer as part of the
-Medical Appeal Exercise (MAE). Applicants will need to provide documentation
-from a certified medical professional in order to apply. Applications must
-be made in person at Northbrooks Secondary School by 22 Dec 2025, from
-8.30 am to 12 pm. No applications will be accepted beyond this timeframe.
-Outcome of the appeal will be released by 30 Dec 2025.&nbsp;</p>
-</li>
-<li>
-<p><strong>Can my child/ward still use his Primary School EZ-Link card?</strong>&nbsp;
-<br>Your child/ward can continue to use his Primary School EZ-Link card till
+to accept the offer. There is no need to report to a language centre.</p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>13. What Mother Tongue lessons are conducted in school?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Chinese, Higher Chinese, Malay and Higher Malay language lessons are conducted
+in school during curriculum time.</p>
+<p></p>
+<p>Student taking <u>Tamil, Higher Tamil, Non-Tamil Indian Languages and 3rd Language</u> will
+need to attend lessons (approximately 3 hrs once a week) at <u>designated language centres after curriculum hours</u>.
+More information will be given to your child/ward within the first two
+weeks of school.</p>
+<p></p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>14. How do I appeal to transfer to Northbrooks Secondary School?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>More information on appeal to transfer can be found here.</p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>15. Can my child/ward still use his Primary School EZ-Link card?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Your child/ward can continue to use his Primary School EZ-Link card till
 the new card is issued, however purchasing concession passes will need
-to purchase the concession passes for secondary school students.&nbsp;&nbsp;</p>
-</li>
-<li>
-<p><strong>I am keen to join the Parents Support Group (PSG). How can I go about registering my interest?</strong>
-<br>The school values its partnership with all parents and guardians. This
+to purchase the concession passes for secondary school students.&nbsp;</p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>16. I am keen to join the Parents Support Group (PSG). How can I go about registering my interest?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The school values its partnership with all parents and guardians. This
 is key in supporting your child. If you are keen, please complete the 
 <a href="https://form.gov.sg/690d73fcc092e100df83370f" class="Hyperlink SCXW145229756 BCX0" rel="noreferrer noopener" target="_blank"><u>Friends of PSG</u>
 </a>. &nbsp;</p>
+<p></p>
 <p>Click <a href="https://drive.google.com/file/d/1pSoNX5MZHf7NJARkFTRaFK_L536acV27/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> to
 watch the video montage of our PSG.</p>
 <p></p>
 <p>Please email to Ms Cynthia Zheng, PSG Chairperson at&nbsp;<a href="mailto:Xxinthia118@gmail.com" rel="noopener nofollow" target="_blank">Xxinthia118@gmail.com</a>&nbsp;if
 you have any enquiry about PSG.</p>
-</li>
+</div>
+</details>
+</div>
+<p></p>
+<ol data-tight="true" class="tight">
 <li>
 <p><strong>Transiting from primary school to secondary school can be challenging. How can I better prepare my child for the changes?&nbsp;</strong>
 <br><a href="/files/Sec 1 Posting Matters/2026/FAQ22___Transition_to_Sec_School.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
