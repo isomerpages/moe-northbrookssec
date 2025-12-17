@@ -91,8 +91,8 @@ the book list and more details.</p>
 submit your appeal <strong>by 24 Dec 2025 (Wed), 12pm</strong>.</p>
 <p></p>
 <p>For transfer based on <strong>medical reason</strong>, please file your
-appeal with the original secondary school <strong>by 22 Dec 2025 (Mon), 12pm.</strong> Click
-here for more information.
+appeal with the original secondary school <strong>by 22 Dec 2025 (Mon), 12pm.</strong> 
+<a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener nofollow" target="_blank">Click here</a>for more information.
 <br>
 </p>
 <p>Successful applicants will be informed <strong>after 7 Jan 2026 (Wed)</strong>.</p>
@@ -162,13 +162,14 @@ more details regarding exemption from MT</p>
 <p>26 Dec 2025 (Fri), 2pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>New application for Financial Assistance</p>
+<p>New Financial Assistance Scheme (FAS) application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Obtain the form from the school website or submit via <a href="http://form.sg" rel="noopener noreferrer nofollow" target="_blank">form.sg</a>.</p>
+<p>Parents/guardians can submit new FAS applications via PG.
+<br>
+<br>
+</p>
 <p></p>
-<p><a href="/files/Sec 1 Posting Matters/2026/MOE_Financial_Assistance_Scheme.pdf" rel="noopener nofollow" target="_blank">Click here </a>for
-more details regarding FAS application.</p>
 </td>
 </tr>
 <tr>
