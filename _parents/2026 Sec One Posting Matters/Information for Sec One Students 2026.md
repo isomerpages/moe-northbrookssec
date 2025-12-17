@@ -83,7 +83,7 @@ of the signed form and email to school.
 more details regarding HMT.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 Dec, 12pm</p>
+<p>26 Dec, 12pm</p>
 </td>
 </tr>
 <tr>
@@ -117,7 +117,7 @@ supporting documents.
 more details regarding exemption from MT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 Dec, 12pm</p>
+<p>26 Dec, 12pm</p>
 </td>
 </tr>
 <tr>
