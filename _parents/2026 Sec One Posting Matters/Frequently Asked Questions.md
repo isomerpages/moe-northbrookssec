@@ -103,48 +103,59 @@ as early as possible.</p>
 </details>
 </div>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>7. How many sets of school uniform/PE attire should we purchase?</strong>&nbsp;&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>It is recommended that each student should have at least 1&nbsp;set of
+full uniform, 3 sets of PE attire (T shirt and PE shorts) and 3 school
+pants/ skirts.&nbsp;</p>
+</div>
+</details>
+</div>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>8. What is the school’s Handphone Usage Policy?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Students are allowed to bring their mobile phones to school. However,
+students are to ensure that their mobile phones remain <u>switched off</u>,
+kept in their school bags and are <u>not visible</u> during curriculum time
+(including recess, during CCA and external events).</p>
 <p></p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>How many sets of school uniform/PE attire should we purchase?</strong>&nbsp;&nbsp;
-<br>As a recommendation, each student should have 1&nbsp;set of full uniform,
-3 sets of PE attire (T shirt and PE shorts) and 3 school pants/ skirts.&nbsp;</p>
-</li>
-<li>
-<p><strong>What is the school’s Handphone Usage Policy?</strong>&nbsp;&nbsp;
-<br>Students are allowed to bring their mobile phones to school. However,
-students are to ensure that their mobile phones remain switched off, kept
-in their school bags and are not visible during curriculum time (including
-recess, during CCA and external events).&nbsp;</p>
 <p>It is the students’ responsibility to keep their handphones safe.&nbsp;&nbsp;</p>
-</li>
-<li>
-<p><strong>How are Posting Groups different from the N(T), N(A) and Express streams?</strong>&nbsp;
-<br>Posting Groups are only used for the purposes of admitting students into
-secondary schools and to guide the initial subject levels that students
-offer at the start of Secondary One.</p>
-<p>Once in school, students will be organised in mixed form classes and will
-spend about a third of their curriculum time taking six Common Curriculum
-subjects together i.e, Art, Character and Citizenship Education (CCE),
-Design and Technology (D&amp;T), Food and Consumer Education (FCE), Music
-and Physical Education (PE).</p>
-</li>
-<li>
-<p><strong>What are the compulsory subjects at the lower secondary level?</strong>&nbsp;&nbsp;
-<br>All students are required to offer the following subjects in lower secondary:</p>
-<p>• English Language (EL)</p>
-<p>• Mother Tongue Languages<sup>1 </sup>(MTL)</p>
-<p>• Humanities<sup>2</sup> (HUM)</p>
-<p>• Mathematics (MA)</p>
-<p>• Science (SCI)</p>
-<p>• Common Curriculum Subjects (Art, CCE, D&amp;T, FCE, Music, PE)
-<br>
-<br><sup>1</sup><em>Eligible students may offer HMTL instead of MTL.</em>
-</p>
-<p><sup>2</sup><em>G1 Humanities comprises Social Studies and Humanities Exposure Module (HEMs) in Geography, History and Literature in English. G2/G3 Humanities comprises three separate subjects in Geography, History and Literature in English.</em>
-</p>
-</li>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>9. My child is eligible to offer Higher Mother Tongue (HMT) but he/she has not received the letter of offer. What should we do?</strong>&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>If your child/ward meets the criteria for HMT but did not receive the
+letter of offer, please email to HOD MTL Ms Loh Mew Chew (<a href="mailto:loh_Mew_Chew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Loh_Mew_Chew@schools.gov.sg</u></a>)
+as soon as possible.</p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>10. What do I need to do if my child is exempted from Mother Tongue Languages?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>If your child has been exempted from Mother Tongue Languages in primary
+school or did not sit for Mother Tongue during PSLE, please email our HOD
+MTL Ms Loh Mew Chew at <a href="mailto:Loh_Mew_Chew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Loh_Mew_Chew@schools.gov.sg</a> by
+26 Dec 2025, 12pm with relevant supporting details (e.g. exemption letter
+from CPDD).</p>
+<p></p>
+<p>For more information on Mother Tongue Language Exemption, please <a href="/files/Sec 1 Posting Matters/2026/2026_MTL_FL_AsL_FAQ.pdf" rel="noopener nofollow" target="_blank">click here</a>.</p>
+</div>
+</details>
+</div>
+<ol data-tight="true" class="tight">
 <li>
 <p><strong>What are the subjects being offered at More Demanding Levels?</strong>&nbsp;&nbsp;
 <br>At the start of Secondary One, students will offer EL, MTL, MA and SCI
@@ -155,21 +166,7 @@ well in these subjects at the PSLE. Parents will be informed of their children�
 eligibility via Parents Gateway.</p>
 <p>Humanities subjects can only be offered at a more demanding level from
 Secondary Two.</p>
-</li>
-<li>
-<p><strong>What do I need to do if my child is eligible to offer Higher Mother Tongue (HMT)?</strong>&nbsp;
-<br>The school will send a letter of offer for Higher Mother Tongue via PG.
-To accept the offer, parents/guardians need to accept the offer via PG
-(Click ‘YES’). Parents do not need to submit the form physically at the
-school/language centre.&nbsp;</p>
-</li>
-<li>
-<p><strong>My child is eligible to offer Higher Mother Tongue (HMT) but he/she has not received the letter of offer. What should we do?</strong>&nbsp;
-<br>If your child/ward meets the criteria for HMT but did not receive the
-letter of offer, please email to HOD (Mother Tongue Languages) Ms Loh Mew
-Chew (<a href="mailto:loh_Mew_Chew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Loh_Mew_Chew@schools.gov.sg</u></a>).</p>
-<p>Please submit the acceptance of Higher Mother Tongue offer through PG
-by 26 Dec 2025 12 pm.&nbsp;</p>
+<p></p>
 </li>
 <li>
 <p><strong>Where would the Higher Mother Tongue lessons be conducted?</strong>&nbsp;
