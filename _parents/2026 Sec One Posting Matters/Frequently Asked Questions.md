@@ -31,12 +31,12 @@ relevant books and materials required for their lessons.&nbsp;&nbsp;</p>
 in their half-uniform (school PE T-shirts with school shorts). They should
 bring along writing materials, a water bottle, personal medication (where
 necessary) and sufficient money for recess.&nbsp;&nbsp;</p>
-<p>For more information refer to <a href="/files/Sec 1 Posting Matters/2026/Sec_1_Orientation_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec One Orientation 2026</a> details.&nbsp;
+For more information refer to <a href="/files/Sec 1 Posting Matters/2026/Sec_1_Orientation_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec One Orientation 2026</a> details.&nbsp;
 <br>
 <br>On 2 Jan 2026, Student Councillors will be stationed at the school foyer
 to guide the Secondary One students to their Form Classes from 7 am onwards.
 Parents/Guardians will be informed of the form class allocation of their
-child/ward via PG on 30 Dec 2025.</p>
+child/ward via PG on 30 Dec 2025.
 </li>
 <li>
 <p><strong>Where can I find out about the sale of textbooks and uniforms?</strong>
@@ -75,8 +75,7 @@ attire as early as possible.&nbsp;&nbsp;</p>
 students are to ensure that their mobile phones remain switched off, kept
 in their school bags and are not visible during curriculum time (including
 recess, during CCA and external events).&nbsp;</p>
-<p>It is the students’ responsibility to keep their handphones safe.&nbsp;&nbsp;</p>
-<p></p>
+It is the students’ responsibility to keep their handphones safe.&nbsp;&nbsp;
 </li>
 <li>
 <p><strong>How are Posting Groups different from the N(T), N(A) and Express streams?</strong>&nbsp;
@@ -91,15 +90,15 @@ and Physical Education (PE).</p>
 </li>
 <li>
 <p><strong>What are the compulsory subjects at the lower secondary level?</strong>&nbsp;&nbsp;
-<br>All students are required to offer the following subjects in lower secondary:&nbsp;&nbsp;</p>
-<p>• English Language (EL)&nbsp;&nbsp;</p>
-<p>• Mother Tongue Languages<sup>1 </sup>(MTL)&nbsp;&nbsp;</p>
-<p>• Humanities<sup>2</sup> (HUM)&nbsp;&nbsp;</p>
-<p>• Mathematics (MA)&nbsp;&nbsp;</p>
-<p>• Science (SCI)&nbsp;&nbsp;</p>
-<p>• Common Curriculum Subjects (Art, CCE, D&amp;T, FCE, Music, PE)&nbsp;&nbsp;
-<br><sup>1</sup><em>Eligible students may offer HMTL instead of MTL.&nbsp;</em>&nbsp;</p>
-<p><sup>2</sup><em>G1 Humanities comprises Social Studies and Humanities Exposure Module (HEMs) in Geography, History and Literature in English. G2/G3 Humanities comprises three separate subjects in Geography, History and Literature in English.</em>&nbsp;</p>
+<br>All students are required to offer the following subjects in lower secondary:</p>
+• English Language (EL)
+<p>• Mother Tongue Languages<sup>1 </sup>(MTL)</p>
+<p>• Humanities<sup>2</sup> (HUM)</p>
+<p>• Mathematics (MA)</p>
+<p>• Science (SCI)</p>
+<p>• Common Curriculum Subjects (Art, CCE, D&amp;T, FCE, Music, PE)<br><br>
+	<sup>1</sup><em>Eligible students may offer HMTL instead of MTL.</em></p>
+<p><sup>2</sup><em>G1 Humanities comprises Social Studies and Humanities Exposure Module (HEMs) in Geography, History and Literature in English. G2/G3 Humanities comprises three separate subjects in Geography, History and Literature in English.</em></p>
 </li>
 <li>
 <p><strong>What are the subjects being offered at More Demanding Levels?</strong>&nbsp;&nbsp;
@@ -123,7 +122,7 @@ school/language centre.&nbsp;</p>
 <p><strong>My child is eligible to offer Higher Mother Tongue (HMT) but he/she has not received the letter of offer. What should we do?</strong>&nbsp;
 <br>If your child/ward meets the criteria for HMT but did not receive the
 letter of offer, please email to HOD (Mother Tongue Languages) Ms Loh Mew
-Chew (<a href="mailto:loh_Mew_Chew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Loh_Mew_Chew@schools.gov.sg</u></a>).&nbsp;</p>
+Chew (<a href="mailto:loh_Mew_Chew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Loh_Mew_Chew@schools.gov.sg</u></a>).</p>
 <p>Please submit the acceptance of Higher Mother Tongue offer through PG
 by 26 Dec 2025 12 pm.&nbsp;</p>
 </li>
@@ -146,13 +145,13 @@ school or did not sit for Mother Tongue during PSLE, please email our HOD
 (Mother Tongue Languages) Ms Loh Mew Chew at <a href="mailto:Loh_Mew_Chew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Loh_Mew_Chew@schools.gov.sg</a> by
 26 Dec 2025, 12 pm with relevant supporting details (e.g. exemption letter
 from CPDD).</p>
-<p>For more information on Mother Tongue Language Exemption, please <a href="/files/Sec 1 Posting Matters/2026/2026_MTL_FL_AsL_FAQ.pdf" rel="noopener nofollow" target="_blank">click here</a>.</p>
+For more information on Mother Tongue Language Exemption, please <a href="/files/Sec 1 Posting Matters/2026/2026_MTL_FL_AsL_FAQ.pdf" rel="noopener nofollow" target="_blank">click here</a>.
 </li>
 <li>
 <p><strong>What do I need to do if my child is offered a Third Language?</strong>
 <br>A Letter of Offer will be sent to you via PG. Parents/guardians must then
 register online at MOELC (<a href="https://www.moelc.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moelc.moe.edu.sg/</a>)
-to accept the offer. There is no need to report to a language centre.&nbsp;
+to accept the offer. There is no need to report to a language centre.<br>
 <br>For more information on Third Language, please <a href="/files/Sec 1 Posting Matters/2026/2026_MTL_FL_AsL_FAQ.pdf" rel="noopener nofollow" target="_blank">click here</a>.</p>
 </li>
 <li>
@@ -164,8 +163,8 @@ you could visit the school website to find out more.&nbsp;</p>
 <li>
 <p><strong>Non-medical appeal for transfer to Northbrooks Secondary School</strong>&nbsp;
 <br>The period for non-medical appeals will be opened from 19 Dec 9 am to
-24 Dec 12 pm.&nbsp;&nbsp;</p>
-<p>Please complete the online form found under&nbsp;<em><a href="/parents/2026-sec-one-posting-matters/information-for-sec-one-students-2026/" rel="noopener nofollow" target="_blank">Information for Sec One students 2026</a></em>&nbsp;</p>
+24 Dec 12 pm.</p>
+Please complete the online form found under&nbsp;<em><a href="/parents/2026-sec-one-posting-matters/information-for-sec-one-students-2026/" rel="noopener nofollow" target="_blank">Information for Sec One students 2026</a></em>
 <p>School will need time to process the appeals, and the outcome may be available
 only from mid-January. Students should still report to Northbrooks Secondary
 School on 2 Jan 2026 when the outcome of the appeal is not determined.
@@ -219,13 +218,11 @@ paying any cash. More information will be provided in January 2026.&nbsp;</p>
 <li>
 <p><strong>Is Parking Allowed at the school premises?</strong>
 <br>No parking is allowed in school as the carpark is for season parking only.</p>
-<p></p>
-<p>Parent with vehicle is allowed to enter the school for drop-off or pick-up
-of passenger only.</p>
-<p></p>
-<p>Nearest public carparks are available at MSCP (Multi-Storey Car Park)
+Parent with vehicle is allowed to enter the school for drop-off or pick-up
+of passenger only.<br>
+Nearest public carparks are available at MSCP (Multi-Storey Car Park)
 of Blk 441 Yishun Ave 11, Blk 674 Yishun Ave 4 and Blk 456A Yishun Street
-41.</p>
+41.
 <p>For any enquiry, please approach the staff at the General Office.</p>
 </li>
 <li>
@@ -234,7 +231,6 @@ of Blk 441 Yishun Ave 11, Blk 674 Yishun Ave 4 and Blk 456A Yishun Street
 year (January – November). The lock will be provided by the vendor.&nbsp;</p>
 <p><u>Please contact the company directly:</u>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1/2026/locker.jpg">
 </div>
