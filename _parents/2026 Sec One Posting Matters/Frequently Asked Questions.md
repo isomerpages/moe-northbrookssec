@@ -234,8 +234,10 @@ of Blk 441 Yishun Ave 11, Blk 674 Yishun Ave 4 and Blk 456A Yishun Street
 year (January – November). The lock will be provided by the vendor.&nbsp;</p>
 <p><u>Please contact the company directly:</u>
 </p>
-<p>&nbsp;&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1/2026/locker.jpg">
+</div>
 <p></p>
 </li>
 </ol>
