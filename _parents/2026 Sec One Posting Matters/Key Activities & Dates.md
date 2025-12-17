@@ -5,6 +5,33 @@ variant: tiptap
 description: ""
 third_nav_title: 2026 Sec One Posting Matters
 ---
+<h4>Overview</h4>
+<p>In the table below, the dates/deadlines are listed for the following key
+activities:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sales of books &amp; uniform</p>
+</li>
+<li>
+<p>Appeal for transfer</p>
+</li>
+<li>
+<p>Acceptance to take subject(s) at a more demanding level</p>
+</li>
+<li>
+<p>Acceptance to take Higher Mother Tongue</p>
+</li>
+<li>
+<p>Exemption from Mother Tongue</p>
+</li>
+<li>
+<p>New Financial Assistance Scheme application</p>
+</li>
+<li>
+<p>Class allocation</p>
+</li>
+</ul>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -180,7 +207,7 @@ more details regarding exemption from MT</p>
 <p>By 30 Dec 2025 (Tue), 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class Allocation</p>
+<p>Class allocation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents/guardians can check the class allocation via PG.</p>
