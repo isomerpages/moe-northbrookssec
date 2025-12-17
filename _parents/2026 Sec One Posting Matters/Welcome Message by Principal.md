@@ -17,7 +17,7 @@ third_nav_title: 2026 Sec One Posting Matters
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="3" colspan="1">
+<td rowspan="3" colspan="1">
 <p>A very warm welcome to our Northbrooks family!</p>
 <p>We are grateful that you are joining us in our journey to strengthen our
 Secondary One students in Brooksian school values: Graciousness, Integrity,
@@ -29,8 +29,8 @@ values.</p>
 is our commitment to unlock the full potential of every student. Champions
 are not merely students who excel in their academic or co-curricular pursuits.</p>
 <p></p>
-</th>
-<th rowspan="3" colspan="1">
+</td>
+<td rowspan="3" colspan="1">
 <p>Champions are role models who demonstrate exemplary values and have a
 positive impact on the people around them. We are proud of our culture
 of care and growth towards nurturing our students to be Champions.</p>
@@ -47,10 +47,8 @@ fulfilling year in 2026.</p>
 <br>
 <br>
 </p>
-</th>
+</td>
 </tr>
-<tr></tr>
-<tr></tr>
 </tbody>
 </table>
 <p></p>
