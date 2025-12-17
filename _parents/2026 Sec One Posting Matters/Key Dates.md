@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: 2026 Sec One Posting Matters
 ---
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -16,6 +17,9 @@ third_nav_title: 2026 Sec One Posting Matters
 <tr>
 <th rowspan="1" colspan="1">
 <p>S/N</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Deadline</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Description</p>
@@ -32,11 +36,16 @@ third_nav_title: 2026 Sec One Posting Matters
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>19 Dec 2025 (Fri), 9am</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Secondary One Posting Results</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All students posted to Northbrooks Sec are automatically enrolled. No
-registration required.</p>
+<p>All students posted to Northbrooks Secondary School are enrolled automatically.</p>
+<p></p>
+<p><strong>No registration required.</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>19 Dec, 9am</p>
@@ -47,9 +56,21 @@ registration required.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>19, 22, 23 &amp; 25 Dec 2025</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Sales of books/ PE Attire/ School Uniform</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Different student groups have been allocated specific days to purchase
+books to avoid congestion.</p>
+<p></p>
+<p><u>Posting Group 3 </u>
+</p>
+<p>19 Dec 2025 (Fri), 9am - 3pm</p>
+<p></p>
+<p></p>
+<p></p>
 <p><a href="/students/current-students/permalink/" rel="noopener nofollow" target="_blank">Click here</a> for
 more details regarding sale of books and uniform</p>
 </td>
@@ -74,6 +95,9 @@ more details regarding sale of books and uniform</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Acceptance of Higher Mother Tongue Offer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,6 +114,9 @@ more details regarding HMT.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Letter of Offer to take subject(s) at a more demanding level</p>
@@ -109,6 +136,9 @@ more details on Full Subject Based Banding (FSBB).</p>
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Exemption from Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -124,6 +154,9 @@ more details regarding exemption from MT</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MOE FAS (new application)</p>
@@ -142,6 +175,9 @@ more details regarding FAS application.</p>
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Appeal to transfer in for non-medical cases</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -157,6 +193,9 @@ complete the formSG.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Class Allocation</p>
