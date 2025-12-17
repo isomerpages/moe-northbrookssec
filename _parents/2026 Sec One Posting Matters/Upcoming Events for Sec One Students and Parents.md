@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: 2026 Sec One Posting Matters
 ---
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -27,9 +26,6 @@ third_nav_title: 2026 Sec One Posting Matters
 <th rowspan="1" colspan="1">
 <p>Description</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -48,9 +44,6 @@ third_nav_title: 2026 Sec One Posting Matters
 <br><a href="/files/Sec 1 Posting Matters/2026/Sec_1_Orientation_2026.pdf" rel="noopener nofollow" target="_blank">Click here</a> to
 find out more about the orientation programme!</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>2, 8 and 9 January</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -66,10 +59,6 @@ find out more about the orientation programme!</p>
 <p>Get to know more about our CCAs through our interactive and engaging CCA
 Display Day.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>7 January 2025
-<br>2 to 6 pm.</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -82,7 +71,7 @@ Display Day.</p>
 <p>Parents' Seminar (for parents)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Introduction of key processes in the following areas:
+<p>Sharing on the Northbrooks experience in the following areas:
 <br>
 <br>1. Full Subject Based Banding (FSBB)
 <br>
@@ -91,10 +80,6 @@ Display Day.</p>
 <br>3. Positive Discipline
 <br>
 <br>4. CCA matters</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9 January 2025
-<br>5 to 6 pm.</p>
 </td>
 </tr>
 </tbody>
