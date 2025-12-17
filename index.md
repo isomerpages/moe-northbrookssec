@@ -17,7 +17,7 @@ sections:
       background: /images/homepageeee northbrooks.gif
   - infobar:
       id: infobar
-      url: /parents/2026-sec-one-posting-matters/welcome-message-by-principal/
+      url: /admissions/2026-sec-one-posting-matters/welcome-message/
       button: 2026 Sec One Posting Matters
   - infobar:
       id: infobar
