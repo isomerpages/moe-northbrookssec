@@ -53,16 +53,16 @@ registration required.</p>
 <p>&lt;Link&gt; Click here for more details regarding sale of books and uniform</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Posting Groups (PG) 1 and 2:
+<p>Posting Group 3:
 <br>19 Dec
 <br>9am - 3pm
 <br>
-<br>PG 3:
-<br>20 Dec
+<br>Posting Groups 1 &amp; 2:
+<br>22 Dec
 <br>9am - 3pm
 <br>
-<br>All:
-<br>26 - 27 Dec
+<br>All Posting Groups:
+<br>23 Dec
 <br>9am - 3pm
 <br>
 <br>Note: No sales on 30 Dec</p>
