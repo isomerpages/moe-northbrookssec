@@ -9,36 +9,60 @@ third_nav_title: 2026 Sec One Posting Matters
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1/2026/FAQ.jpg">
 </div>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Does my child/ward need to report to Northbrooks Secondary School when he/she receives the Secondary One posting results on 19 Dec 2025?</strong>&nbsp;&nbsp;
-<br>Students do not need to report to their posted secondary schools upon
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>1. Does my child/ward need to report to Northbrooks Secondary School when he/she receives the Secondary One posting results on 19 Dec 2025?</strong>&nbsp;&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Students do not need to report to their posted secondary schools upon
 receiving their Secondary One posting results. Students should refer to
 the school website for more information such as Secondary One&nbsp;booklist,
 purchase of books and uniforms within the school, and other details that
 Secondary One students should take note of.&nbsp;&nbsp;</p>
+<p></p>
 <p>Parents/Guardians of the incoming Secondary One students who are on Parents
 Gateway (PG), will also receive information from the schools that their
-children are posted to, on 19 Dec 2025.&nbsp;</p>
-</li>
-<br>
-<li>
-<p><strong>What are the reporting time on the first day of school and the activities for the first day of school (2 Jan 2026)? What does my child/ward need to bring?</strong>&nbsp;&nbsp;
-<br>The Secondary One&nbsp;students will undergo the Orientation Programme
+children are posted to, on 19 Dec 2025.</p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2. What are the reporting time on the first day of school and the activities for the first day of school (2 Jan 2026)? What does my child/ward need to bring?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>The Secondary One&nbsp;students will undergo the Orientation Programme
 on 2 Jan, 8 Jan and 9 Jan 2026. Normal lessons according to their respective
 timetables will be held on 5 to 7 Jan 2026. They will be expected to bring
 relevant books and materials required for their lessons.&nbsp;&nbsp;</p>
+<p></p>
 <p>On 2 Jan 2026, students will be expected to report to school by 7.20 am
 in their half-uniform (school PE T-shirts with school shorts). They should
-bring along writing materials, a water bottle, personal medication (where
-necessary) and sufficient money for recess.&nbsp;&nbsp;</p>
-<p>For more information refer to <a href="/files/Sec 1 Posting Matters/2026/Sec_1_Orientation_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec One Orientation 2026</a> details.&nbsp;
-<br>
-<br>On 2 Jan 2026, Student Councillors will be stationed at the school foyer
+bring along writing materials, a water bottle and sufficient money for
+recess.&nbsp;&nbsp;</p>
+<p></p>
+<p>For more information refer to <a href="/files/Sec 1 Posting Matters/2026/Sec_1_Orientation_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec One Orientation 2026</a> details.</p>
+<p></p>
+<p>On 2 Jan 2026, Student Councillors will be stationed at the school foyer
 to guide the Secondary One students to their Form Classes from 7 am onwards.
 Parents/Guardians will be informed of the form class allocation of their
 child/ward via PG on 30 Dec 2025.</p>
-</li>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>3. Where can I find out about the sale of books and uniforms?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>Information on the sale of books and uniforms can be found here.</p>
+</div>
+</details>
+</div>
+<ol data-tight="true" class="tight">
 <li>
 <p><strong>Where can I find out about the sale of textbooks and uniforms?</strong>
 <br>You may refer to our school website for more information.&nbsp;&nbsp;</p>
@@ -198,12 +222,12 @@ to purchase the concession passes for secondary school students.&nbsp;&nbsp;</p>
 <br>The school values its partnership with all parents and guardians. This
 is key in supporting your child. If you are keen, please complete the 
 <a href="https://form.gov.sg/690d73fcc092e100df83370f" class="Hyperlink SCXW145229756 BCX0" rel="noreferrer noopener" target="_blank"><u>Friends of PSG</u>
-</a>. &nbsp; </p><p>
-Click <a href="https://drive.google.com/file/d/1pSoNX5MZHf7NJARkFTRaFK_L536acV27/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> to
+</a>. &nbsp;</p>
+<p>Click <a href="https://drive.google.com/file/d/1pSoNX5MZHf7NJARkFTRaFK_L536acV27/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> to
 watch the video montage of our PSG.</p>
 <p></p>
-Please email to Ms Cynthia Zheng, PSG Chairperson at&nbsp;<a href="mailto:Xxinthia118@gmail.com" rel="noopener nofollow" target="_blank">Xxinthia118@gmail.com</a>&nbsp;if
-you have any enquiry about PSG.
+<p>Please email to Ms Cynthia Zheng, PSG Chairperson at&nbsp;<a href="mailto:Xxinthia118@gmail.com" rel="noopener nofollow" target="_blank">Xxinthia118@gmail.com</a>&nbsp;if
+you have any enquiry about PSG.</p>
 </li>
 <li>
 <p><strong>Transiting from primary school to secondary school can be challenging. How can I better prepare my child for the changes?&nbsp;</strong>
