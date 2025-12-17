@@ -50,7 +50,8 @@ registration required.</p>
 <p>Sales of books/ PE Attire/ School Uniform</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&lt;Link&gt; Click here for more details regarding sale of books and uniform</p>
+<p><a href="/students/current-students/permalink/" rel="noopener nofollow" target="_blank">Click here</a> for
+more details regarding sale of books and uniform</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Posting Group 3:
