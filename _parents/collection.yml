@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - 2026 Sec 1 Registration & Other Information.md
       - Parent Support Group (PSG).md
       - 2026 Sec 1 Registration/.keep
       - Sec 3 Subject Combination Information.md
