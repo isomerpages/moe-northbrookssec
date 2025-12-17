@@ -57,6 +57,10 @@ third_nav_title: 2026 Sec One Posting Matters
 <p>On behalf of the Northbrooks family, I wish</p>
 <p>all of you a wonderful and fulfilling year in</p>
 <p>2026.</p>
+<p></p>
+<p>Principal</p>
+<p>Mr Edmund Chen</p>
+<p>Northbrooks Secondary School</p>
 </th>
 </tr>
 <tr></tr>
