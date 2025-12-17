@@ -122,7 +122,7 @@ more details on Full Subject Based Banding (FSBB).</p>
 <p>26 Dec 2025 (Fri), 2pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acceptance of Higher Mother Tongue Offer (HMT)</p>
+<p>Acceptance to take Higher Mother Tongue (HMT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Offers to take HMT will be <strong>sent to eligible students via Parents' Gateway (PG)</strong>.
