@@ -2,7 +2,7 @@
 title: Welcome Message by Principal
 permalink: /parents/sec-one-2026-posting-matters/welcome-message-by-principal/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: 2026 Sec One Posting Matters
 ---
 <h1></h1>
@@ -44,8 +44,10 @@ fulfilling year in 2026.</p>
 <p>Principal
 <br>Mr Edmund Chen
 <br>Northbrooks Secondary School
-<br><br>
-</p></th>
+<br>
+<br>
+</p>
+</th>
 </tr>
 <tr></tr>
 <tr></tr>
