@@ -109,7 +109,6 @@ the book list and more details.</p>
 <p>Offers to take subject(s) at a more demanding level will be <strong>sent to eligible students via Parents' Gateway (PG)</strong>.</p>
 <p></p>
 <p>Parents/guardians can accept the offer via PG by the deadline.</p>
-<p></p>
 <p>
 <br><a href="/files/Sec 1 Posting Matters/2026/FSBB.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
 more details on Full Subject Based Banding (FSBB).</p>
