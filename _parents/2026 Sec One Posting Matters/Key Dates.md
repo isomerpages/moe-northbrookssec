@@ -55,16 +55,17 @@ third_nav_title: 2026 Sec One Posting Matters
 <p>Sales of books &amp; uniform</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Books and uniforms can be purchased online between 18 to 25 Dec 2025.</p>
+<p>Books and uniforms <strong>can be purchased online between 18 to 25 Dec 2025.</strong>
+</p>
 <p>Parents/guardians may also choose to purchase in school. To avoid congestion,
 different student groups have been allocated different days to purchase
 books &amp; uniform.</p>
 <p></p>
-<p><strong>Posting Group 3:</strong> 
+<p><u>Posting Group 3: </u>
 <br>19 Dec 2025 (Fri), 9am - 3pm</p>
-<p><strong>Posting Groups 1 &amp; 2:</strong> 
+<p><u>Posting Groups 1 &amp; 2: </u>
 <br>22 Dec 2025 (Mon), 9am - 3pm</p>
-<p><strong>All Posting Groups:</strong> 
+<p><u>All Posting Groups: </u>
 <br>23 Dec 2025 (Tue) &amp; 26 Dec 2025 (Fri), 9am - 3pm</p>
 <p></p>
 <p></p>
