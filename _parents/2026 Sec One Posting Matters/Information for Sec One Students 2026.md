@@ -62,7 +62,7 @@ registration required.</p>
 <br>9am - 3pm
 <br>
 <br>All Posting Groups:
-<br>23 Dec
+<br>23 Dec &amp; 26 Dec
 <br>9am - 3pm
 <br>
 <br>Note: No sales on 30 Dec</p>
