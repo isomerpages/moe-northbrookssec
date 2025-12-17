@@ -74,11 +74,8 @@ Display Day.</p>
 <p>Sharing on the Northbrooks experience in the following areas:
 <br>
 <br>1. Full Subject Based Banding (FSBB)
-<br>
 <br>2. Personalised Digital Learning Programme (PDLP)
-<br>
 <br>3. Positive Discipline
-<br>
 <br>4. CCA matters</p>
 </td>
 </tr>
