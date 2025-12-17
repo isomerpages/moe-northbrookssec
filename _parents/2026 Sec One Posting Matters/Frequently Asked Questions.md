@@ -21,6 +21,7 @@ Secondary One students should take note of.&nbsp;&nbsp;</p>
 Gateway (PG), will also receive information from the schools that their
 children are posted to, on 19 Dec 2025.&nbsp;</p>
 </li>
+<br>
 <li>
 <p><strong>What are the reporting time on the first day of school and the activities for the first day of school (2 Jan 2026)? What does my child/ward need to bring?</strong>&nbsp;&nbsp;
 <br>The Secondary One&nbsp;students will undergo the Orientation Programme
