@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: 2026 Sec One Posting Matters
 ---
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -27,9 +26,6 @@ third_nav_title: 2026 Sec One Posting Matters
 <th rowspan="1" colspan="1">
 <p>Activity</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Deadline</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -46,9 +42,6 @@ third_nav_title: 2026 Sec One Posting Matters
 <p></p>
 <p><strong>No registration required.</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>19 Dec, 9am</p>
 </td>
 </tr>
 <tr>
@@ -79,21 +72,6 @@ books &amp; uniform to avoid congestion.</p>
 <p>Click <a href="https://www.northbrookssec.moe.edu.sg/students/current-students/permalink/" rel="noopener nofollow" target="_blank">here</a> for
 the book list and more details.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Posting Group 3:
-<br>19 Dec
-<br>9am - 3pm
-<br>
-<br>Posting Groups 1 &amp; 2:
-<br>22 Dec
-<br>9am - 3pm
-<br>
-<br>All Posting Groups:
-<br>23 Dec &amp; 26 Dec
-<br>9am - 3pm
-<br>
-<br>Note: No sales on 30 Dec</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -116,9 +94,6 @@ original secondary school <strong>by 22 Dec 2025 (Mon), 12pm.</strong>
 <p>Successful applicants will be informed <strong>after 7 Jan 2026 (Wed)</strong>.</p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -137,9 +112,6 @@ original secondary school <strong>by 22 Dec 2025 (Mon), 12pm.</strong>
 <p>
 <br><a href="/files/Sec 1 Posting Matters/2026/FSBB.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
 more details on Full Subject Based Banding (FSBB).</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -160,9 +132,6 @@ more details on Full Subject Based Banding (FSBB).</p>
 <br><a href="/files/Sec 1 Posting Matters/2026/Preamble_of_Sec_1_Registration_MTL.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
 more details regarding HMT.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>26 Dec, 12pm</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -181,9 +150,6 @@ supporting documents.</p>
 <br><a href="/files/Sec 1 Posting Matters/2026/2026_MTL_FL_AsL_FAQ.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
 more details regarding exemption from MT</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>26 Dec, 12pm</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -201,9 +167,6 @@ more details regarding exemption from MT</p>
 <p><a href="/files/Sec 1 Posting Matters/2026/MOE_Financial_Assistance_Scheme.pdf" rel="noopener nofollow" target="_blank">Click here </a>for
 more details regarding FAS application.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>27 Dec, 12pm</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -217,9 +180,6 @@ more details regarding FAS application.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents/guardians can check the class allocation via PG.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30 Dec, 5pm</p>
 </td>
 </tr>
 </tbody>
