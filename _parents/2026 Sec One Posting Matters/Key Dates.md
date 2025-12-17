@@ -65,11 +65,16 @@ third_nav_title: 2026 Sec One Posting Matters
 <p>Different student groups have been allocated specific days to purchase
 books to avoid congestion.</p>
 <p></p>
-<p><u>Posting Group 3 </u>
+<p><strong><u>Posting Group 3:</u> </strong>19 Dec 2025 (Fri), 9am - 3pm</p>
+<p></p>
+<p><strong><u>Posting Groups 1 &amp; 2:</u> </strong>22 Dec 2025 (Mon), 9am
+- 3pm</p>
+<p>
+<br><strong><u>All Posting Groups 1 &amp; 2:</u> </strong>23 Dec 2025 (Tue)
+&amp; 26 Dec 2025 (Fri), 9am - 3pm</p>
+<p></p>
+<p><strong>Note: There is no sales on 30 Dec 2025 (Tue)</strong>
 </p>
-<p>19 Dec 2025 (Fri), 9am - 3pm</p>
-<p></p>
-<p></p>
 <p></p>
 <p><a href="/students/current-students/permalink/" rel="noopener nofollow" target="_blank">Click here</a> for
 more details regarding sale of books and uniform</p>
