@@ -79,7 +79,8 @@ registration required.</p>
 <p>Submit acceptance form through Parents' Gateway OR Parents can accept
 the offer by replying a signed acceptance form via email or take a photo
 of the signed form and email to school.
-<br>&lt;Link&gt;Click here for more details regarding HMT.</p>
+<br><a href="/files/Sec 1 Posting Matters/2026/Preamble_of_Sec_1_Registration_MTL.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a> for
+more details regarding HMT.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>27 Dec, 12pm</p>
