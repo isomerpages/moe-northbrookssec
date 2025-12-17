@@ -204,8 +204,9 @@ more details regarding exemption from MT</p>
 <p>MOE FAS (new application)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Obtain the form from the school website or submit via <a href="http://form.sg" rel="noopener noreferrer nofollow" target="_blank">form.sg</a>.
-<br><a href="/files/Sec 1 Posting Matters/2026/MOE_Financial_Assistance_Scheme.pdf" rel="noopener nofollow" target="_blank">Click here </a>for
+<p>Obtain the form from the school website or submit via <a href="http://form.sg" rel="noopener noreferrer nofollow" target="_blank">form.sg</a>.</p>
+<p></p>
+<p><a href="/files/Sec 1 Posting Matters/2026/MOE_Financial_Assistance_Scheme.pdf" rel="noopener nofollow" target="_blank">Click here </a>for
 more details regarding FAS application.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -251,5 +252,4 @@ complete the formSG.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
