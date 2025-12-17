@@ -96,8 +96,8 @@ more details regarding HMT.</p>
 <td rowspan="1" colspan="1">
 <p>Accept the offer through Parents' Gateway or collect hardcopy of the letter
 from General Office if parents have no access to PG.
-<br>&lt;Link&gt;Click here for more details on Full Subject Based Banding
-(FSBB).</p>
+<br><a href="/files/Sec 1 Posting Matters/2026/04_FSBB.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
+more details on Full Subject Based Banding (FSBB).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>24 Dec, 12pm</p>
@@ -146,7 +146,7 @@ more details regarding exemption from MT</p>
 <p>&lt;Link&gt; Click here to complete the formSG.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 De, 12pm
+<p>24 Dec, 12pm
 <br>
 <br>Successful applicants will be informed after 7 January 2026*</p>
 </td>
