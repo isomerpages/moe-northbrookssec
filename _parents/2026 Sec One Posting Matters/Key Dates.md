@@ -97,6 +97,34 @@ the book list and more details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24 Dec 2025 (Wed), 12pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Appeal for transfer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For transfer <strong>NOT </strong>based on medical, please</p>
+<p><a href="https://form.gov.sg/690d7e0171ba7b80e81a143a" rel="noopener nofollow" target="_blank">click here</a> to
+submit your appeal by 24 Dec 2025, 12pm.</p>
+<p></p>
+<p>For transfer based on medical reason:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
