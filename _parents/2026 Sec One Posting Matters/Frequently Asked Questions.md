@@ -201,5 +201,42 @@ is key in supporting your child. If you are keen, please complete the 
 more details regarding some common challenges to be expected and tips to
 better manage the changes.&nbsp;&nbsp;</p>
 </li>
+<li>
+<p><strong>Interested in MOE Arts and/or Music Elective Programmes?&nbsp;</strong>&nbsp;
+<br><a href="/files/Sec 1 Posting Matters/2026/FAQ23___AEP_and_MEP_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
+more details regarding AEP and MEP.&nbsp;&nbsp;</p>
+</li>
+<li>
+<p><strong>What device will my child be using for his Personal Learning Device (PLD)?&nbsp;</strong>
+<br>Every Brooksian will be using the <strong>Apple iPad </strong>as their
+personal learning device. Every iPad will come bundled with the pencil
+and keyboard to maximise the affordances of the iPad as a learning tool. &nbsp;</p>
+<p>Singapore citizen students can use their Edusave account to pay for the
+PLD. For students on financial assistance, further subsidies will be provided.
+Currently, most students will be able to pay through their Edusave without
+paying any cash. More information will be provided in January 2026.&nbsp;</p>
+</li>
+<li>
+<p><strong>Is Parking Allowed at the school premises?</strong>
+<br>No parking is allowed in school as the carpark is for season parking only.</p>
+<p></p>
+<p>Parent with vehicle is allowed to enter the school for drop-off or pick-up
+of passenger only.</p>
+<p></p>
+<p>Nearest public carparks are available at MSCP (Multi-Storey Car Park)
+of Blk 441 Yishun Ave 11, Blk 674 Yishun Ave 4 and Blk 456A Yishun Street
+41.</p>
+<p>For any enquiry, please approach the staff at the General Office.</p>
+</li>
+<li>
+<p><strong>Does school provide locker for students?</strong>
+<br>Yes, lockers are available for leasing at S$48.00 per locker per academic
+year (January – November). The lock will be provided by the vendor.&nbsp;</p>
+<p><u>Please contact the company directly:</u>
+</p>
+<p>&nbsp;&nbsp;</p>
+<p></p>
+<p></p>
+</li>
 </ol>
 <p></p>
