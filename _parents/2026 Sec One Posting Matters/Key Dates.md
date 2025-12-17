@@ -65,19 +65,57 @@ third_nav_title: 2026 Sec One Posting Matters
 <p>Different student groups have been allocated specific days to purchase
 books to avoid congestion.</p>
 <p></p>
-<p><strong><u>Posting Group 3:</u> </strong>19 Dec 2025 (Fri), 9am - 3pm</p>
+<p><strong>Posting Group 3:</strong> 19 Dec 2025 (Fri), 9am - 3pm</p>
 <p></p>
-<p><strong><u>Posting Groups 1 &amp; 2:</u> </strong>22 Dec 2025 (Mon), 9am
-- 3pm</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Posting Group 3:</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 Dec 2025 (Fri), 9am - 3pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Posting Groups 1 &amp; 2:</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Dec 2025 (Mon), 9am - 3pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>
-<br><strong><u>All Posting Groups 1 &amp; 2:</u> </strong>23 Dec 2025 (Tue)
-&amp; 26 Dec 2025 (Fri), 9am - 3pm</p>
+<br>All Posting Groups 1 &amp; 2: 23 Dec 2025 (Tue) &amp; 26 Dec 2025 (Fri),
+9am - 3pm</p>
 <p></p>
-<p><strong>Note: There is no sales on 30 Dec 2025 (Tue)</strong>
-</p>
+<p>Note: There is no sales on 30 Dec 2025 (Tue)</p>
 <p></p>
-<p><a href="/students/current-students/permalink/" rel="noopener nofollow" target="_blank">Click here</a> for
-more details regarding sale of books and uniform</p>
+<p>Click here for the book list and more details.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Posting Group 3:
