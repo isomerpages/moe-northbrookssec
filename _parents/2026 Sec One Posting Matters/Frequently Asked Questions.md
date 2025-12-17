@@ -9,6 +9,8 @@ third_nav_title: 2026 Sec One Posting Matters
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1/2026/FAQ.jpg">
 </div>
+<p>Press the arrow on the right to see the response to the FAQs.</p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>1. Does my child/ward need to report to Northbrooks Secondary School when he/she receives the Secondary One posting results on 19 Dec 2025?</strong>&nbsp;&nbsp;</summary>
@@ -229,7 +231,23 @@ to purchase the concession passes for secondary school students.&nbsp;</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>16. I am keen to join the Parents Support Group (PSG). How can I go about registering my interest?</strong>
+<summary><strong>16. Does school provide locker for students?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Yes, lockers are available for leasing at S$48.00 per locker per academic
+year (January – November). The lock will be provided by the vendor.&nbsp;</p>
+<p><u>Please contact the company directly:</u>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1/2026/locker.jpg">
+</div>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>17. I am keen to join the Parents Support Group (PSG). How can I go about registering my interest?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The school values its partnership with all parents and guardians. This
@@ -246,48 +264,47 @@ you have any enquiry about PSG.</p>
 </details>
 </div>
 <p></p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Transiting from primary school to secondary school can be challenging. How can I better prepare my child for the changes?&nbsp;</strong>
-<br><a href="/files/Sec 1 Posting Matters/2026/FAQ22___Transition_to_Sec_School.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>18. Transiting from primary school to secondary school can be challenging. How can I better prepare my child for the changes?&nbsp;</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="/files/Sec 1 Posting Matters/2026/FAQ22___Transition_to_Sec_School.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
 more details regarding some common challenges to be expected and tips to
 better manage the changes.&nbsp;&nbsp;</p>
-</li>
-<li>
-<p><strong>Interested in MOE Arts and/or Music Elective Programmes?&nbsp;</strong>&nbsp;
-<br><a href="/files/Sec 1 Posting Matters/2026/FAQ23___AEP_and_MEP_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
-more details regarding AEP and MEP.&nbsp;&nbsp;</p>
-</li>
-<li>
-<p><strong>What device will my child be using for his Personal Learning Device (PLD)?&nbsp;</strong>
-<br>Every Brooksian will be using the <strong>Apple iPad </strong>as their
-personal learning device. Every iPad will come bundled with the pencil
-and keyboard to maximise the affordances of the iPad as a learning tool. &nbsp;</p>
-<p>Singapore citizen students can use their Edusave account to pay for the
-PLD. For students on financial assistance, further subsidies will be provided.
-Currently, most students will be able to pay through their Edusave without
-paying any cash. More information will be provided in January 2026.&nbsp;</p>
-</li>
-<li>
-<p><strong>Is parking allowed at the school premises?</strong>
-<br>No parking is allowed in school as the carpark is for season parking only.</p>
-<p>Parent with vehicle is allowed to enter the school for drop-off or pick-up
-of passenger only.
-<br>Nearest public carparks are available at MSCP (Multi-Storey Car Park)
-of Blk 441 Yishun Ave 11, Blk 674 Yishun Ave 4 and Blk 456A Yishun Street
-41.</p>
-<p>For any enquiry, please approach the staff at the General Office.</p>
-</li>
-<li>
-<p><strong>Does school provide locker for students?</strong>
-<br>Yes, lockers are available for leasing at S$48.00 per locker per academic
-year (January – November). The lock will be provided by the vendor.&nbsp;</p>
-<p><u>Please contact the company directly:</u>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1/2026/locker.jpg">
+</div>
+</details>
 </div>
 <p></p>
-</li>
-</ol>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>19. Where can I get more information on MOE Arts and/or Music Elective Programmes?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="/files/Sec 1 Posting Matters/2026/FAQ23___AEP_and_MEP_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
+more details regarding AEP and MEP.&nbsp;</p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>20. Is parking allowed at the school premises?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>No parking is allowed in school as the carpark is for season parking only.</p>
+<p></p>
+<p>Parent with vehicle is allowed to enter the school for drop-off or pick-up
+of passenger only.
+<br>
+</p>
+<p>Nearest public carparks are available at MSCP (Multi-Storey Car Park)
+of Blk 441 Yishun Ave 11, Blk 674 Yishun Ave 4 and Blk 456A Yishun Street
+41.</p>
+<p></p>
+<p>For any enquiry, please approach the staff at the General Office.</p>
+</div>
+</details>
+</div>
+<p></p>
 <p></p>
