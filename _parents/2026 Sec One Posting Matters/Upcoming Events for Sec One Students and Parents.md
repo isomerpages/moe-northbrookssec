@@ -46,16 +46,41 @@ third_nav_title: 2026 Sec One Posting Matters
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CCA Display Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Get to know more about our CCAs through our interactive and engaging CCA
+Display Day.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>7 January 2025
+<br>2 to 6 pm.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents' Seminar (for parents)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Introduction of key processes in the following areas:
+<br>
+<br>1. Full Subject Based Banding (FSBB)
+<br>
+<br>2. Personalised Digital Learning Programme (PDLP)
+<br>
+<br>3. Positive Discipline
+<br>
+<br>4. CCA matters</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 January 2025
+<br>5 to 6 pm.</p>
 </td>
 </tr>
 </tbody>
