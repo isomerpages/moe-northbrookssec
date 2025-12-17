@@ -76,7 +76,7 @@ Display Day.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9 Jan 2026 (Fri), 5pm to 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents' Seminar (for parents)</p>
