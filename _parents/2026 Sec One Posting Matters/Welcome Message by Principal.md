@@ -9,15 +9,7 @@ third_nav_title: 2026 Sec One Posting Matters
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1/2026/Principal_Message_1.jpg">
 </div>
-<h3>Dear 2026 Secondary One Students and Parents/Guardians</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<h4><strong>Dear 2026 Secondary One Students and Parents/Guardians</strong></h4>
 <p>A very warm welcome to our Northbrooks family!</p>
 <p>We are grateful that you are joining us in our journey to strengthen our
 Secondary One students in Brooksian school values: Graciousness, Integrity,
@@ -28,9 +20,6 @@ values.</p>
 <p>Our school vision, “Every Brooksian a Champion, Impacting the Community”,
 is our commitment to unlock the full potential of every student. Champions
 are not merely students who excel in their academic or co-curricular pursuits.</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Champions are role models who demonstrate exemplary values and have a
 positive impact on the people around them. We are proud of our culture
 of care and growth towards nurturing our students to be Champions.</p>
@@ -43,12 +32,5 @@ aspects in our partnership to develop our students holistically.</p>
 fulfilling year in 2026.</p>
 <p>Principal
 <br>Mr Edmund Chen
-<br>Northbrooks Secondary School
-<br>
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<br>Northbrooks Secondary School</p>
 <p></p>
