@@ -65,8 +65,12 @@ third_nav_title: 2026 Sec One Posting Matters
 <p>Different student groups have been allocated specific days to purchase
 books to avoid congestion.</p>
 <p></p>
-<p><strong>Posting Group 3:</strong> 19 Dec 2025 (Fri), 9am - 3pm</p>
-<p></p>
+<p><strong>Posting Group 3:</strong>
+	<br>19 Dec 2025 (Fri), 9am - 3pm</p>
+<p><strong>Posting Groups 1 &amp; 2:</strong>
+	<br>22 Dec 2025 (Mon), 9am - 3pm</p>
+	<p><strong>All Posting Groups:</strong>
+	<br>23 Dec 2025 (Tue) &amp; 26 Dec 2025 (Fri), 9am - 3pm</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
