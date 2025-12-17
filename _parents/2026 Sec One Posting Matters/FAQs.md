@@ -212,7 +212,7 @@ weeks of school.</p>
 <summary><strong>14. How do I appeal to transfer to Northbrooks Secondary School?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>More information on appeal to transfer can be found here.</p>
+<p>More information on appeal to transfer can be found <a href="/parents/2026-sec-one-posting-matters/key-dates/" rel="noopener nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 </div>
