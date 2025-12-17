@@ -165,8 +165,8 @@ more details regarding exemption from MT</p>
 <p>New Financial Assistance Scheme (FAS) application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents/guardians can submit new FAS applications via PG.
-<br>
+<p>Parents/guardians can submit new FAS applications via PG (under Services
+&gt;&gt; Financial Assistance)
 <br>
 </p>
 <p></p>
