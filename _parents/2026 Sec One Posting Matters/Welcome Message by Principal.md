@@ -2,7 +2,7 @@
 title: Welcome Message by Principal
 permalink: /parents/sec-one-2026-posting-matters/welcome-message-by-principal/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: 2026 Sec One Posting Matters
 ---
 <h1></h1>
@@ -17,12 +17,12 @@ third_nav_title: 2026 Sec One Posting Matters
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>A very warm welcome to our Northbrooks family!</p>
 <p>We are grateful that you are joining us in our journey to strengthen our
 Secondary One students in Brooksian school values: Graciousness, Integrity,
-Fortitude, Teamwork, Empathy, Discipline (or in short, **G.I.F.T.E.D**). In
-living by our school motto “Soaring Yet Rooted,” we motivate our students
+Fortitude, Teamwork, Empathy, Discipline (or in short, <strong>G.I.F.T.E.D</strong>).
+In living by our school motto “Soaring Yet Rooted,” we motivate our students
 to achieve greater heights, while remaining deeply grounded in these school
 values.</p>
 <p>Our school vision, “Every Brooksian a Champion, Impacting the Community”,
@@ -30,7 +30,7 @@ is our commitment to unlock the full potential of every student. Champions
 are not merely students who excel in their academic or co-curricular pursuits.</p>
 <p></p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Champions are role models who demonstrate exemplary values and have a
 positive impact on the people around them. We are proud of our culture
 of care and growth towards nurturing our students to be Champions.</p>
