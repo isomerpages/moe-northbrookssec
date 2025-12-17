@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - DSA @ Northbrooks.md
       - 2026 Sec One Posting Matters/.keep
       - 2026 Sec One Posting Matters/Welcome Message.md
       - 2026 Sec One Posting Matters/Key Activities & Dates.md
