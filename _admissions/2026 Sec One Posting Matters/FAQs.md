@@ -58,7 +58,7 @@ child/ward via PG on 30 Dec 2025.</p>
 <summary><strong>3. Where can I find out about the sale of books and uniforms?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Information on the sale of books and uniforms can be found <a href="/parents/2026-sec-one-posting-matters/key-dates/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Information on the sale of books and uniforms can be found <a href="/admissions/2026-sec-one-posting-matters/key-dates/" rel="noopener nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 </div>
@@ -71,7 +71,7 @@ child/ward via PG on 30 Dec 2025.</p>
 on Thursdays.</p>
 <p>Students report to their designated classrooms by 8.20am on Thursdays.</p>
 <p></p>
-<p>For the first week of school, do refer to the <a href="/parents/2026-sec-one-posting-matters/sec-one-orientation-2026/" rel="noopener nofollow" target="_blank">Orientation Programme</a> for
+<p>For the first week of school, do refer to the <a href="/admissions/2026-sec-one-posting-matters/sec-one-orientation-2026/" rel="noopener nofollow" target="_blank">Orientation Programme</a> for
 school hours and reporting attire.&nbsp;</p>
 </div>
 </details>
@@ -87,7 +87,7 @@ On other days, students can report in their PE T-shirts and school pants/skirts.
 <p>Students are to wear all-black canvas shoes with laces and all-black socks
 everyday.</p>
 <p></p>
-<p>For the first week of school, do refer to the <a href="/parents/2026-sec-one-posting-matters/sec-one-orientation-2026/" rel="noopener nofollow" target="_blank">Orientation Programme</a> for
+<p>For the first week of school, do refer to the <a href="/admissions/2026-sec-one-posting-matters/sec-one-orientation-2026/" rel="noopener nofollow" target="_blank">Orientation Programme</a> for
 school hours and reporting attire.&nbsp;</p>
 </div>
 </details>
@@ -212,7 +212,7 @@ weeks of school.</p>
 <summary><strong>14. How do I appeal to transfer to Northbrooks Secondary School?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>More information on appeal to transfer can be found <a href="/parents/2026-sec-one-posting-matters/key-dates/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>More information on appeal to transfer can be found <a href="/admissions/2026-sec-one-posting-matters/key-dates/" rel="noopener nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 </div>
