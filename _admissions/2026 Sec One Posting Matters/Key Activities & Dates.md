@@ -118,11 +118,11 @@ the book list and more details.</p>
 submit your appeal <strong>by 24 Dec 2025 (Wed), 12pm</strong>.</p>
 <p></p>
 <p>For transfer based on <strong>medical reason</strong>, please file your
-appeal with the original secondary school <strong>by 22 Dec 2025 (Mon), 12pm.</strong> 
+appeal at the posted secondary school <strong>by 22 Dec 2025 (Mon), 12pm.</strong> 
 <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener nofollow" target="_blank">Click here</a>for more information.
 <br>
 </p>
-<p>Successful applicants will be informed <strong>after 7 Jan 2026 (Wed)</strong>.</p>
+<p>Successful applicants will be informed <strong>from 7 Jan 2026 (Wed)</strong> onwards.</p>
 <p></p>
 </td>
 </tr>
@@ -172,7 +172,7 @@ more details regarding HMT.</p>
 <p>26 Dec 2025 (Fri), 2pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Exemption from Mother Tongue</p>
+<p>Exemption from Mother Tongue (MT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please email Ms Loh Mew Chew (HOD MTL) at <a href="mailto:Loh_Mew_Chew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Loh_Mew_Chew@schools.gov.sg</a> with
