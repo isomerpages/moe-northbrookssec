@@ -2,8 +2,8 @@
 title: Northbrooks in the News 2020 to 2021
 permalink: /achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/
 description: ""
-third_nav_title: School Achievements
 variant: tiptap
+third_nav_title: Achievement
 ---
 <h1>Northbrooks in the News 2020-2021</h1>
 <h3>2021</h3>

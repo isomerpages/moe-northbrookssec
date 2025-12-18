@@ -3,6 +3,7 @@ title: Student Achievements
 permalink: /achievements/Student-Achievements/
 description: ""
 variant: tiptap
+third_nav_title: Achievement
 ---
 <h1>Student Achievements</h1>
 <p><strong><u>2021 National Create Your Own Newspaper Competition (Chinese)</u></strong>

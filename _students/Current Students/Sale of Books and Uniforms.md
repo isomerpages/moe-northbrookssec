@@ -7,8 +7,9 @@ third_nav_title: Current Students
 ---
 <h1>2025 Year-End Sales of Books and Uniforms (For Year 2026)<br></h1>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Books and Uniform Sales/2026/2026_Sec_1_5_Sales_of_Books___Uniform.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Books and Uniform Sales/2026/2026_Sec_1_5_Sales_of_Books___Uniform.jpg">
 </div>
 <p>
 <br>For more information (such as online purchase etc), please refer to

@@ -1,6 +1,6 @@
 ---
 title: DSA @ Northbrooks
-permalink: /about-us/dsa-at-northbrooks/
+permalink: /admissions/dsa-at-northbrooks/
 description: ""
 variant: tiptap
 ---

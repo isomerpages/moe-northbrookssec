@@ -1,6 +1,6 @@
 ---
 title: NBrSS Open House & School Tours 2025
-permalink: /nbrss-open-house-school-tours/
+permalink: /admissions/nbrss-open-house-school-tours/
 variant: tiptap
 description: ""
 ---
