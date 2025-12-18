@@ -44,6 +44,18 @@ the school.
 <br>To develop self-awareness and personal leadership.
 <br><a href="/files/Sec 1 Posting Matters/2026/Sec_1_Orientation_2026.pdf" rel="noopener nofollow" target="_blank">Click here</a> to
 find out more about the orientation programme.</p>
+<p></p>
+<p>On the first day of the Orientation programme (2 Jan 2026), students will
+be expected to report to school by 7.20 am in their half-uniform (school
+PE T-shirts with school shorts).</p>
+<p></p>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 2 Jan 2026, students will be expected to report to school by 7.20 am
+in their half-uniform (school PE T-shirts with school shorts)</p>
+</div>
+</details>
 </td>
 </tr>
 <tr>
