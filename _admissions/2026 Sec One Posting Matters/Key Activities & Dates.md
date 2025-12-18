@@ -141,7 +141,7 @@ appeal with the original secondary school <strong>by 22 Dec 2025 (Mon), 12pm.</s
 <p></p>
 <p>Parents/guardians are to accept the offer via PG by the deadline.
 <br>
-<br><a href="/files/Sec 1 Posting Matters/2026/FSBB.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
+<br><a href="/files/Sec 1 Posting Matters/2026/2026_Sec_1_Full_SBB.pdf" rel="noopener nofollow" target="_blank">Click here</a> for
 more details on Full Subject Based Banding (FSBB).</p>
 </td>
 </tr>
