@@ -38,11 +38,12 @@ third_nav_title: 2026 Sec One Posting Matters
 <p>Sec One Orientation Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To familiarize students with culture and learning environment of the school.
+<p>To familiarise students with school culture and learning environment of
+the school.
 <br>To foster new meaningful relationships.
 <br>To develop self-awareness and personal leadership.
 <br><a href="/files/Sec 1 Posting Matters/2026/Sec_1_Orientation_2026.pdf" rel="noopener nofollow" target="_blank">Click here</a> to
-find out more about the orientation programme!</p>
+find out more about the orientation programme.</p>
 </td>
 </tr>
 <tr>
@@ -56,8 +57,8 @@ find out more about the orientation programme!</p>
 <p>CCA Display Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Get to know more about our CCAs through our interactive and engaging CCA
-Display Day.</p>
+<p>To know more about school CCAs through interactive and engaging CCA Display
+Day.</p>
 </td>
 </tr>
 <tr>
@@ -68,10 +69,10 @@ Display Day.</p>
 <p>9 Jan 2026 (Fri), 5pm to 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents' Seminar (for parents)</p>
+<p>Parents' Seminar (for Sec One parents)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sharing on the Northbrooks experience in the following areas:
+<p>To share the Northbrooks experience in the following areas:
 <br>
 <br>1. Full Subject Based Banding (FSBB)
 <br>2. Personalised Digital Learning Programme (PDLP)
