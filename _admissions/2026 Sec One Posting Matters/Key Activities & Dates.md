@@ -193,7 +193,10 @@ more details regarding exemption from MT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents/guardians can submit new FAS applications via PG (under Services
-&gt;&gt; Financial Assistance)
+&gt;&gt; Financial Assistance)</p>
+<p></p>
+<p>Or submit via <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">this </a>online
+form.
 <br>
 </p>
 <p></p>
