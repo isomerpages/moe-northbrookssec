@@ -76,13 +76,13 @@ activities:</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18 to 29 Dec 2025</p>
+<p>19 to 26 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sales of books &amp; uniform</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Books and uniforms <strong>can be purchased online between 18 to 25 Dec 2025.</strong>
+<p>Books and uniforms <strong>can be purchased online between 19 to 26 Dec 2025.</strong>
 </p>
 <p>Parents/guardians may also choose to purchase in school. To avoid congestion,
 different student groups have been allocated different days to purchase
@@ -96,7 +96,7 @@ books &amp; uniform.</p>
 <br>23 Dec 2025 (Tue) &amp; 26 Dec 2025 (Fri), 9am - 3pm</p>
 <p></p>
 <p></p>
-<p><strong>Note: There is no sales on weekends and 30 Dec 2025 (Tue)</strong>
+<p><strong>Note: There is no sales on weekends, public holidays, 24, 29-31 Dec 2025</strong>
 </p>
 <p></p>
 <p><a href="https://www.northbrookssec.moe.edu.sg/students/current-students/permalink/" rel="noopener nofollow" target="_blank">Click here</a> for
@@ -119,7 +119,7 @@ submit your appeal <strong>by 24 Dec 2025 (Wed), 12pm</strong>.</p>
 <p></p>
 <p>For transfer based on <strong>medical reason</strong>, please file your
 appeal with the original secondary school <strong>by 22 Dec 2025 (Mon), 12pm.</strong> 
-<a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener nofollow" target="_blank">Click here </a>for more information.
+<a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener nofollow" target="_blank">Click here</a>for more information.
 <br>
 </p>
 <p>Successful applicants will be informed <strong>after 7 Jan 2026 (Wed)</strong>.</p>
