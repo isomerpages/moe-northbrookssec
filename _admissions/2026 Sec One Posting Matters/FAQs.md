@@ -110,7 +110,7 @@ as early as possible.</p>
 <summary><strong>7. How many sets of school uniform/PE attire should we purchase?</strong>&nbsp;&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>It is recommended that each student should have at least 2 set of full
-uniform, 3 sets of PE attire (T shirt and PE shorts) and 3 school pants/
+uniform, 3 sets of PE attire (T shirts and PE shorts) and 3 school pants/
 skirts.&nbsp;</p>
 </div>
 </details>
@@ -144,7 +144,7 @@ well in these subjects at the PSLE.</p>
 <p></p>
 <p>Parents will be informed of their children’s eligibility via Parents Gateway.</p>
 <p></p>
-<p>Humanities subjects is offered at a more demanding level at Secondary
+<p>Humanities subjects are offered at a more demanding level at Secondary
 Two.</p>
 </div>
 </details>
@@ -155,7 +155,7 @@ Two.</p>
 <summary><strong>10. My child is eligible to offer Higher Mother Tongue (HMT) but he/she has not received the letter of offer. What should we do?</strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>If your child/ward meets the criteria for HMT but did not receive the
-letter of offer, please email to HOD MTL Ms Loh Mew Chew (<a href="mailto:loh_Mew_Chew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Loh_Mew_Chew@schools.gov.sg</u></a>)
+letter of offer, please email HOD MTL Ms Loh Mew Chew (<a href="mailto:loh_Mew_Chew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Loh_Mew_Chew@schools.gov.sg</u></a>)
 as soon as possible.</p>
 </div>
 </details>
@@ -172,7 +172,7 @@ MTL Ms Loh Mew Chew at <a href="mailto:Loh_Mew_Chew@schools.gov.sg" rel="noopene
 26 Dec 2025, 12pm with relevant supporting details (e.g. exemption letter
 from CPDD).</p>
 <p></p>
-<p>For more information on Mother Tongue Language Exemption, please <a href="/files/Sec 1 Posting Matters/2026/2026_MTL_FL_AsL_FAQ.pdf" rel="noopener nofollow" target="_blank">click here</a>.</p>
+<p>For more information on Mother Tongue Language exemption, please <a href="/files/Sec 1 Posting Matters/2026/2026_MTL_FL_AsL_FAQ.pdf" rel="noopener nofollow" target="_blank">click here</a>.</p>
 </div>
 </details>
 </div>
@@ -182,8 +182,8 @@ from CPDD).</p>
 <summary><strong>12. What do I need to do if my child/ward is offered a third language?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>A Letter of Offer will be sent to you via PG. Parents/guardians must then
-register online at MOELC (<a href="https://www.moelc.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moelc.moe.edu.sg/</a>)
+<p>A Letter of Offer will be sent to you via Parent Gateway. Parents/guardians
+must then register online at MOELC (<a href="https://www.moelc.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moelc.moe.edu.sg/</a>)
 to accept the offer. There is no need to report to a language centre.</p>
 </div>
 </details>
@@ -223,15 +223,15 @@ weeks of school.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Your child/ward can continue to use his Primary School EZ-Link card till
-the new card is issued, however purchasing concession passes will need
-to purchase the concession passes for secondary school students.&nbsp;</p>
+the new card is issued by Northbrooks Secondary. Students will need to
+purchase the concession passes for secondary school students.&nbsp;</p>
 </div>
 </details>
 </div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>16. Does school provide locker for students?</strong>
+<summary><strong>16. Does school provide lockers for students?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yes, lockers are available for leasing at S$48.00 per locker per academic
@@ -251,14 +251,14 @@ year (January – November). The lock will be provided by the vendor.&nbsp;</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The school values its partnership with all parents and guardians. This
-is key in supporting your child. If you are keen, please complete the 
-<a href="https://form.gov.sg/690d73fcc092e100df83370f" class="Hyperlink SCXW145229756 BCX0" rel="noreferrer noopener" target="_blank"><u>Friends of PSG</u>
-</a>. &nbsp;</p>
+is key in supporting your children. If you are keen, please complete the 
+form <a href="https://form.gov.sg/690d73fcc092e100df83370f" class="Hyperlink SCXW145229756 BCX0" rel="noreferrer noopener" target="_blank"><u>Friends of PSG</u></a>.
+&nbsp;</p>
 <p></p>
 <p>Click <a href="https://drive.google.com/file/d/1pSoNX5MZHf7NJARkFTRaFK_L536acV27/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> to
 watch the video montage of our PSG.</p>
 <p></p>
-<p>Please email to Ms Cynthia Zheng, PSG Chairperson at&nbsp;<a href="mailto:Xxinthia118@gmail.com" rel="noopener nofollow" target="_blank">Xxinthia118@gmail.com</a>&nbsp;if
+<p>Please email Ms Cynthia Zheng, PSG Chairperson at&nbsp;<a href="mailto:Xxinthia118@gmail.com" rel="noopener nofollow" target="_blank">Xxinthia118@gmail.com</a>&nbsp;if
 you have any enquiry about PSG.</p>
 </div>
 </details>
@@ -294,12 +294,12 @@ more details regarding AEP and MEP.&nbsp;</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>No parking is allowed in school as the carpark is for season parking only.</p>
 <p></p>
-<p>Parent with vehicle is allowed to enter the school for drop-off or pick-up
-of passenger only.
+<p>Parents with vehicles are allowed to enter the school for drop-off or
+pick-up of passengers only.
 <br>
 </p>
 <p>Nearest public carparks are available at MSCP (Multi-Storey Car Park)
-of Blk 441 Yishun Ave 11, Blk 674 Yishun Ave 4 and Blk 456A Yishun Street
+in Blk 441 Yishun Ave 11, Blk 674 Yishun Ave 4 and Blk 456A Yishun Street
 41.</p>
 <p></p>
 <p>For any enquiry, please approach the staff at the General Office.</p>
