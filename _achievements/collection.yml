@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - School Achievements/.keep
-      - Student Achievements.md
       - Staff Achievements.md
