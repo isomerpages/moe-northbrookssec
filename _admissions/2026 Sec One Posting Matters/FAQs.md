@@ -109,9 +109,9 @@ as early as possible.</p>
 <details class="isomer-details">
 <summary><strong>7. How many sets of school uniform/PE attire should we purchase?</strong>&nbsp;&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>It is recommended that each student should have at least 1&nbsp;set of
-full uniform, 3 sets of PE attire (T shirt and PE shorts) and 3 school
-pants/ skirts.&nbsp;</p>
+<p>It is recommended that each student should have at least 2 set of full
+uniform, 3 sets of PE attire (T shirt and PE shorts) and 3 school pants/
+skirts.&nbsp;</p>
 </div>
 </details>
 </div>
