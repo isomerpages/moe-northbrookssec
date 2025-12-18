@@ -145,7 +145,11 @@ well in these subjects at the PSLE.</p>
 <p>Parents will be informed of their children’s eligibility via Parents Gateway.</p>
 <p></p>
 <p>Humanities subjects are offered at a more demanding level at Secondary
-Two.</p>
+Two.
+<br>
+<br>Information related to Full Subject-Based Banding (Full SBB) can be found
+here: <a href="/files/Sec 1 Posting Matters/2026/2026_Sec_1_Full_SBB.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Full SBB</a>
+</p>
 </div>
 </details>
 </div>
