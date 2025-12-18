@@ -21,13 +21,13 @@ grounded in these school values.</p>
 is our commitment to unlock the full potential of every student. Champions
 are not merely students who excel in their academic or co-curricular pursuits.</p>
 <p>Champions are role models who demonstrate exemplary values and have a
-positive impact on the people around them. We are proud of our culture
-of care and growth towards nurturing our students to be Champions.</p>
+positive impact on the people around them. We are proud of our school culture
+of care and growth in nurturing our students to be Champions.</p>
 <p>Raising a child takes a village, and we cannot achieve this vision without
-the strong and respectful support from our parents and guardians. Your
-encouragement and affirmation of our Brooksians, active involvement in
-school activities, and open communication with our school, are all important
-aspects in our partnership to develop our students holistically.</p>
+the strong support from our parents and guardians. Your encouragement and
+affirmation of our Brooksians, active involvement in school activities,
+and open communication with our school, are all important aspects in our
+partnership to develop our students holistically.</p>
 <p>On behalf of the Northbrooks family, I wish all of you a wonderful and
 fulfilling year in 2026.</p>
 <p>Principal
