@@ -46,15 +46,15 @@ the school.
 find out more about the orientation programme.</p>
 <p></p>
 <p>On the first day of the Orientation programme (2 Jan 2026), students will
-be expected to report to school by 7.20 am in their half-uniform (school
-PE T-shirts with school shorts). They should bring along writing materials,
+be expected to report to school by 7.20 am in their school PE T-shirts,
+PE shorts and Black school shoes. They should bring along writing materials,
 a water bottle and sufficient money for recess.&nbsp;&nbsp;</p>
 <p></p>
 <details class="isomer-details">
 <summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>On 2 Jan 2026, students will be expected to report to school by 7.20 am
-in their half-uniform (school PE T-shirts with school shorts)</p>
+in school PE T-shirts, PE shorts and Black school shoes.</p>
 </div>
 </details>
 </td>
