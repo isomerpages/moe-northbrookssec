@@ -229,10 +229,10 @@ form.
 <td rowspan="1" colspan="1">
 <p>Student can purchase books from bookshop and uniform from AVA during recess.</p>
 <p>
-<br>Parents can come in to school between 12pm-3pm on these dates. Parents
-are <strong>not allowed</strong> to wait in school after making purchases.
-Parking is <strong>not allowed</strong> in school compound. Please park at
-the nearest public carpark.</p>
+<br>Parents can come in to school<strong> between 12pm-3pm </strong>on these
+dates. Parents are <strong>not allowed</strong> to wait in school after making
+purchases. Parking is <strong>not allowed</strong> in school compound. Please
+park at the nearest public carpark.</p>
 </td>
 </tr>
 </tbody>
