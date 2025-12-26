@@ -221,7 +221,7 @@ form.
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Jan &amp; 5-9Jan 2026</p>
+<p>2 Jan &amp; 5-9 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Continue Sales of books &amp; uniform</p>
