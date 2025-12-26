@@ -6,14 +6,14 @@ description: ""
 third_nav_title: Current Students
 ---
 <h1>2025 Year-End Sales of Books and Uniforms (For Year 2026)<br></h1>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Books and Uniform Sales/2026/2026_Sec_1_5_Sales_of_Books___Uniform.jpg">
-</div>
-<p>
-<br>For more information (such as online purchase etc), please refer to
-<a href="/files/BookList/2026/2025_Year_end_Sales_of_Books_and_Uniforms__Y2026_.pdf" rel="noopener nofollow" target="_blank">2025-Year End Sales of Books and Uniforms (For Year 2026)</a>
+<p>To meet demand, we will be continuing the sale of books and uniforms onsite
+on <strong>2 January and 5–9 January 2026</strong>.&nbsp;</p>
+<p>Students can purchase books from bookshop and uniform from AVA during
+recess.&nbsp;</p>
+<p>Parents can come in to school between <strong>12pm-3pm</strong> on these
+dates. Parents are <strong>not allowed</strong> to wait in school after making
+purchases. Parking is <strong>not allowed</strong> in the school compound.
+Please park at the nearest public carpark.
 <br>
 <br><em>Please note: For successful FAS applicant, are to collect the School Approval Letter from the General Office before collecting the books and uniforms from the canteen.&nbsp;</em>
 </p>
