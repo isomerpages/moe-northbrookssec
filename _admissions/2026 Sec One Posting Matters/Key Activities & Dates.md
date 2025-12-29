@@ -72,7 +72,7 @@ activities:</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,25 +114,11 @@ activities:</p>
 <p></p>
 <p></p>
 <p></p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Sales of books &amp; uniform</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To meet demand, we will be continuing the sale of books and uniforms onsite
-on <strong>2 January and 5–9 January 2026</strong>.&nbsp;</p>
-<p>Students can purchase books from bookshop and uniform from AVA during
-recess.&nbsp;</p>
-<p>Parents can come in to school between <strong>12pm-3pm </strong>on these
-dates. Parents are <strong>not allowed</strong> to wait in school after making
-purchases. Parking is <strong>not allowed</strong> in the school compound.
-Please park at the nearest public carpark.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19 to 26 Dec 2025</p>
+<p>Sales of books &amp; uniform</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Books and uniforms <strong>can be purchased online between 19 to 26 Dec 2025.</strong>
@@ -151,6 +137,15 @@ books &amp; uniform.</p>
 <p></p>
 <p><strong>Note: There is no sales on weekends, public holidays, 24, 29-31 Dec 2025</strong>
 </p>
+<p></p>
+<p>To meet demand, we will be continuing the sale of books and uniforms onsite
+on <strong>2 January and 5–9 January 2026</strong>.&nbsp;</p>
+<p>Students can purchase books from bookshop and uniform from AVA during
+recess.&nbsp;</p>
+<p>Parents can come in to school between <strong>12pm-3pm</strong> on these
+dates. Parents are <strong>not allowed</strong> to wait in school after making
+purchases. Parking is <strong>not allowed</strong> in the school compound.
+Please park at the nearest public carpark.</p>
 <p></p>
 <p><a href="https://www.northbrookssec.moe.edu.sg/students/current-students/permalink/" rel="noopener nofollow" target="_blank"><u>Click here</u></a> for
 the book list and more details.</p>
