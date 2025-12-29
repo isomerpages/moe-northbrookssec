@@ -76,7 +76,7 @@ activities:</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Jan &amp; 5-9 Jan 2026</p>
+<p>19 Dec 2025 -9 Jan 2026</p>
 <p></p>
 <p></p>
 <p></p>
