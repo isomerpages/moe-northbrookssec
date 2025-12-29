@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Current Students
 ---
-<h1>2025 Year-End Sales of Books and Uniforms (For Year 2026)<br></h1>
+<h1>Sales of Books and Uniforms (For Year 2026)<br></h1>
 <p>To meet demand, we will be continuing the sale of books and uniforms onsite
 on <strong>2 January and 5–9 January 2026</strong>.&nbsp;</p>
 <p>Students can purchase books from bookshop and uniform from AVA during
