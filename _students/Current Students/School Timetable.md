@@ -19,9 +19,8 @@ variant: tiptap
 <p><a href="/files/Timetable/2026/2026_Sem_1_TT_Sec_2.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2 Semester 1 Timetable</a>
 </p>
 <p></p>
-<h4>Sec 3</h4>
-<p><a href="/files/Timetable/2026/2026_Sem_1_TT_Sec_3.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 Semester 1 Timetable</a>
-</p>
+<h4>Sec 3 </h4>
+<p>Timetable will be available from Friday , 2 Jan, 3pm onwards.</p>
 <p></p>
 <h4>Sec 4</h4>
 <p><a href="/files/Timetable/2026/2026_Sem_1_TT_Sec_4_LG.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 Semester 1 Timetable</a>
