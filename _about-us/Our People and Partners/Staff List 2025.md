@@ -66,20 +66,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Goh Peishi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -111,20 +97,6 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ahmad Zakir Bin Moktar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department /Humanities</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Anbalahan s/o Muthusamy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -143,20 +115,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department / Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Eugenia Guo-Lim Wee Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department / Craft &amp; Technology</p>
 </td>
 </tr>
 <tr>
@@ -198,7 +156,7 @@ variant: tiptap
 <p>Muhammad Raimi Bin Safari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
+<p>School Staff Developer &amp; Head of Department / Humanities (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -226,7 +184,7 @@ variant: tiptap
 <p>Ramasamy Venugopal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department / Educational Techology</p>
+<p>Head of Department / Craft &amp; Technology and Education Technology (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -279,6 +237,20 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Julia Chia Jing Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department /</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Chee Yuan Leng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -311,6 +283,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head / Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
