@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People and Partners
 variant: tiptap
 ---
-<h1>Staff List 2025</h1>
+<h1>Staff List 2026</h1>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -167,38 +167,10 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Cheong York</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head / Lower Secondary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ramasamy Venugopal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department / Craft &amp; Technology and Education Technology (Covering)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sanjay s/o Radakrishna</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head / Upper Secondary</p>
 </td>
 </tr>
 <tr>
@@ -241,6 +213,76 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department / Character &amp; Citizenship Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quek Sue Wen Carolyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department / English Language &amp; Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sanjay s/o Radakrishna</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head / Secondary 4&amp;5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shivaranjani Subramaniam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head / Secondary 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Cheong York</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head / Secondary 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kenneth Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head / Secondary 1</p>
 </td>
 </tr>
 <tr>
@@ -374,20 +416,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Quek Sue Wen Carolyn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head / English Language &amp; Literature</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -423,34 +451,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head / Student Well-Being (Upper Secondary) &amp; Edu.Support</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shivaranjani Subramaniam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Sec) (Sec 2)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kenneth Yong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Upper Sec) (Sec4/5)</p>
 </td>
 </tr>
 <tr>
@@ -1653,7 +1653,7 @@ variant: tiptap
 <p>Irwani Dewi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NFS Teacher</p>
+<p>FCE Teacher</p>
 </td>
 </tr>
 <tr>
