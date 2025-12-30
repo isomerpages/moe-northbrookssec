@@ -17,12 +17,12 @@ sections:
       background: /images/homepageeee northbrooks.gif
   - infobar:
       id: infobar
-      url: /admissions/2026-sec-one-posting-matters/welcome-message/
-      button: 2026 Sec One Posting Matters
+      button: 2026 Sec 1-5 Sem 1 Timetable
+      url: /students/Current-Students/School-Timetable/
   - infobar:
       id: infobar
-      button: 2025 EOY Books & Uniforms Sales
-      url: /students/current-students/permalink/
+      url: /admissions/2026-sec-one-posting-matters/welcome-message/
+      button: 2026 Sec One Posting Matters
   - infobar:
       id: infobar
       button: Parent Calendar
