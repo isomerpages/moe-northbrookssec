@@ -1,11 +1,11 @@
 ---
-title: Staff List 2025
-permalink: /about-us/our-people-and-partners/staff-list-2025/
+title: Staff List 2026
+permalink: /about-us/our-people-and-partners/staff-list-2026/
 description: ""
 third_nav_title: Our People and Partners
 variant: tiptap
 ---
-<h1>Staff List 2025</h1>
+<h1>Staff List 2026</h1>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -66,20 +66,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Goh Peishi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -111,24 +97,10 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ahmad Zakir Bin Moktar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department /Humanities</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Anbalahan s/o Muthusamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department /Student Management</p>
+<p>Head of Department / Student Management</p>
 </td>
 </tr>
 <tr>
@@ -143,20 +115,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department / Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Eugenia Guo-Lim Wee Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department / Craft &amp; Technology</p>
 </td>
 </tr>
 <tr>
@@ -198,21 +156,7 @@ variant: tiptap
 <p>Muhammad Raimi Bin Safari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ng Cheong York</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head / Lower Secondary</p>
+<p>School Staff Developer &amp; Head of Department / Humanities</p>
 </td>
 </tr>
 <tr>
@@ -226,21 +170,7 @@ variant: tiptap
 <p>Ramasamy Venugopal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department / Educational Techology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sanjay s/o Radakrishna</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head / Upper Secondary</p>
+<p>Head of Department / Craft &amp; Technology &amp; Education Technology</p>
 </td>
 </tr>
 <tr>
@@ -269,6 +199,90 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department / Physical Education &amp; Co-curricular Activities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Julia Chia Jing Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department / Character &amp; Citizenship Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quek Sue Wen Carolyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department / English Language &amp; Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sanjay s/o Radakrishna</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head / Secondary 4&amp;5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shivaranjani Subramaniam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head / Secondary 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Cheong York</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head / Secondary 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kenneth Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head / Secondary 1</p>
 </td>
 </tr>
 <tr>
@@ -311,6 +325,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head / Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maslina Mohamed Jalani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Aesthetics</p>
 </td>
 </tr>
 <tr>
@@ -388,20 +416,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Quek Sue Wen Carolyn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head / English Language &amp; Literature</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -444,27 +458,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shivaranjani Subramaniam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Sec) (Sec 2)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kenneth Yong</p>
+<p>Tang Chun Chieh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Upper Sec) (Sec4/5)</p>
+<p>Master Teacher / Chinese Language</p>
 </td>
 </tr>
 <tr>
@@ -579,10 +579,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ariff Bin Abdul Aziz</p>
+<p>Tan Jee Yue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -593,7 +593,7 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Wei Meng</p>
+<p>Sharifa Shahira Binte Hazrath</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -604,14 +604,14 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Taufiq Bin Sanusi</p>
+<p>Ramasamy Venugopal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>KP Advisor</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>1 Integrity
 <br>
 <br>
@@ -622,7 +622,7 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Huang I Lung</p>
+<p>Muhammad Khairi Bin Md Nor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -630,17 +630,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Li Meiyin</p>
+<p>Soh Chee Keong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ramasamy Venugopal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KP Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>1 Fortitude
 <br>
 <br>
@@ -653,128 +664,7 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Siti Liana</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rinita Nadavan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Timothy Chong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KP Advisor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>1 Teamwork 1
-<br>
-<br>
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Soh Hong Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Norizan Binte Mohamad Nor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KP Advisor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>1 Teamwork 2
-<br>
-<br>
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Joel Tan Yi Liang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lau Shu Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cai Zhiwen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KP Advisor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>1 Empathy
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Muhammad Bin Parjo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shawn Tay</p>
+<p>Chow Cai Yun Celine</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -792,17 +682,160 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>1 Discipline</p>
+<td rowspan="3" colspan="1">
+<p>1 Teamwork 1
+<br>
+<br>
+<br>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Koh Hui Xin Madeline</p>
+<p>Wendy Lee Chien Wuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Seck Chye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dian Farhana Binte Akbar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KP Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>1 Teamwork 2
+<br>
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yang Tianxi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fadhli Rusydi Bin Fadzil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dian Farhana Binte Akbar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KP Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>1 Empathy
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Han Xiuting, Serene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Li Meiyin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diana G. Annuar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KP Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>1 Discipline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Foo Weng Choy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Seh Hiang Jane</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diana G. Annuar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KP Advisor</p>
 </td>
 </tr>
 <tr>
@@ -834,21 +867,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tay Liyan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Seh Hiang Jane</p>
+<p>Ariff Bin Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -859,63 +881,7 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fariza Begum</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KP Advisor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>2 Integrity
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Audrey Chong Jia Wen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Liew Huey Chyi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dian Farhana Bte Akbar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KP Advisor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>2 Fortitude
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Premila Dhanabal</p>
+<p>Sarah Ng Shu Qi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -926,18 +892,7 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong Seck Chye</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sasidharan Indra Devi</p>
+<p>Taufiq B Sanusi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>KP Advisor</p>
@@ -945,6 +900,62 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
+<p>2 Integrity
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Huang I Lung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Taufiq B Sanusi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KP Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>2 Fortitude
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rinita Nadavan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Timothy Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KP Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>2 Teamwork 1
 <br>
 <br>
@@ -954,7 +965,18 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Annamalai @ Kumar</p>
+<p>Soh Hong Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nik Chia Ji Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -965,14 +987,14 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chang Wei Jie, Jerroy</p>
+<p>Timothy Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p>KP Advisor</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2 Teamwork 2
 <br>
 <br>
@@ -981,10 +1003,21 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cecilia Chan Min Er</p>
+<p>Joel Tan Yi Liang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Chun Chow Elliot</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -992,17 +1025,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shivaranjani Subramaniam</p>
+<p>Cai Zhiwen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p>KP Advisor</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2 Empathy
 <br>
 <br>
@@ -1010,52 +1043,49 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zheng Huiru</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jaspal Kaur</p>
+<p>Muhammad Bin Parjo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muraleedharan S/O Sreedhan</p>
+<p>Tay Weiliang, Shawn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cai Zhiwen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>KP Advisor</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2 Discipline
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Timothy Ting Teck Wee</p>
+<p>Siti Liana</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -1066,10 +1096,21 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yang Tianxi</p>
+<p>Koh Hui Xin Madeline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kiew Kai Ling, Sarah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KP Advisor</p>
 </td>
 </tr>
 <tr>
@@ -1101,6 +1142,291 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Liyan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chow Jia Qing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fariza Begum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KP Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>3 Integrity
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Audrey Chong Jia Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liew Huey Chyi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fariza Begum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KP Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>3 Fortitude
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Premila Dhanabal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yeong Yu Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sasidharan Indra Devi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KP Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>3 Teamwork 1
+<br>
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Annamalai @ Kumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chang Wei Jie, Jerroy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sasidharan Indra Devi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KP Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>3 Teamwork 2
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cecilia Chan Min Er</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Julia Chia Jing Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KP Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>3 Empathy
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jaspal Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zheng Huiru</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muraleedharan S/O Sreedran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KP Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>3 Discipline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Timothy Ting Teck Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Hidayah Binte Osman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muraleedharan S/O Sreedran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KP Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p>Sec 4 &amp; 5 Form Teachers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Salutation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Designation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>4 Graciousness
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1123,10 +1449,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chee Yuan Leng</p>
+<p>Raimi Bin Safari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>KP Advisor</p>
@@ -1134,7 +1460,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>3 Integrity
+<p>4 Integrity
 <br>
 <br>
 <br>
@@ -1162,8 +1488,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>3 Fortitude
+<td rowspan="2" colspan="1">
+<p>4 Fortitude
 <br>
 <br>
 <br>
@@ -1181,21 +1507,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>R Trisha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Huang Kee Hong</p>
+<p>Maslina Mohamed Jalani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>KP Advisor</p>
@@ -1203,8 +1518,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>3 Teamwork 1
-<br>
+<p>4 Teamwork 1
 <br>
 <br>
 <br>
@@ -1222,18 +1536,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Jee Yue</p>
+<p>Jamues Nicholas Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p>KP Advisor</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>3 Teamwork 2
+<p>4 Teamwork 2
 <br>
 <br>
 <br>
@@ -1265,31 +1579,20 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jamues Ng</p>
+<p>Jamues Nicholas Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>KP Advisor</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>3 Empathy
+<td rowspan="3" colspan="1">
+<p>4 Empathy
 <br>
 <br>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jay Soh Chee Keong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm</p>
 </td>
@@ -1301,14 +1604,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>3 Discipline</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nik Chia Ji Ying</p>
+<p>Tan Kai Li Kelly</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -1319,222 +1619,7 @@ variant: tiptap
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nurnadia Bte Abdolah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sharmila D/O Sivalingam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KP Advisor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
-<p>Sec 4 &amp; 5 Form Teachers</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Salutation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Name</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Designation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>4 Graciousness
-<br>
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sarah Ng Shu Qi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Raimi Bin Safari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KP Advisor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>4 Integrity
-<br>
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chow Cai Yun Celine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ramasamy Venugopal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KP Advisor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>4 Fortitude
-<br>
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Serene Han Xui Ting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fadhli Rusydi Bin Fadzil</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>4 Teamwork 1
-<br>
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Muhammad Khairi Bin Md Nor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sarah Kiew Kai Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KP Advisor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>4 Teamwork 2
-<br>
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wu Yueshen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Alex Tok</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Quek Sue Wen Carolyn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KP Advisor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>4 Empathy
-<br>
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sharifa Shahira Binte Hazrath</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Diana G. Annuar</p>
+<p>Sharmila d/o Sivalingam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>KP Advisor</p>
@@ -1549,10 +1634,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kenneth Yong</p>
+<p>Nurnadia Bte Abdolah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -1563,7 +1648,7 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wendy Lee Chien Wuan</p>
+<p>Thng ShuYun, Crystal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -1571,10 +1656,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Anbalahan s/o Muthusamy</p>
+<p>Sharmila d/o Sivalingam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>KP Advisor</p>
@@ -1592,7 +1677,7 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Foo Weng Choy</p>
+<p>Wu Yueshen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -1600,10 +1685,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs</p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Eugenia Guo-Lim Wee Ping</p>
+<p>Quek Sue Wen Carolyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>KP Advisor</p>
@@ -1647,13 +1732,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tang Kin Hua</p>
+<p>Irwani Dewi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art Teacher</p>
+<p>FCE Teacher</p>
 </td>
 </tr>
 <tr>
@@ -1776,20 +1861,6 @@ variant: tiptap
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ang Sor Pui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Language Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Nuruljannah Bte Jumaa't</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1829,20 +1900,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Faith Ong Suan Choo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1857,13 +1914,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thng Shu Yun</p>
+<p>Gabriel Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mathematics Teacher</p>
+<p>Science Teacher</p>
 </td>
 </tr>
 <tr>
@@ -1888,10 +1945,10 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Siti Nurazlyn</p>
+<p>Julienne Pek Jun Lang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Humanities</p>
+<p>Physical Education</p>
 </td>
 </tr>
 <tr>
@@ -1902,10 +1959,10 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Julienne Pek Jun Lang</p>
+<p>Lee Sui-Lynn Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Physical Education</p>
+<p>CCA Teacher</p>
 </td>
 </tr>
 <tr>
@@ -1968,20 +2025,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>School Counsellor Education Officer
 <br>(SC EO)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hannah Neo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Student Welfare Officer (SSWO)</p>
 </td>
 </tr>
 <tr>
@@ -2078,6 +2121,20 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eliyah Bte Sukor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2099,20 +2156,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Operation Manager (OM)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Eliyah Bte Sukor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
 </td>
 </tr>
 <tr>
@@ -2274,20 +2317,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Oh Guat Kim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer (OSO)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2323,20 +2352,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Management Officer (SMO)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Poon Soon Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gardener</p>
 </td>
 </tr>
 <tr>
