@@ -156,7 +156,7 @@ variant: tiptap
 <p>Muhammad Raimi Bin Safari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer and Head of Department / Humanities (Covering)</p>
+<p>School Staff Developer &amp; Head of Department / Humanities (Covering)</p>
 </td>
 </tr>
 <tr>
