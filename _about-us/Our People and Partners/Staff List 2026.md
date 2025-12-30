@@ -170,7 +170,8 @@ variant: tiptap
 <p>Ramasamy Venugopal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department / Craft &amp; Technology and Education Technology (Covering)</p>
+<p>Head of Department / Craft &amp; Technology &amp; Education Technology
+(Covering)</p>
 </td>
 </tr>
 <tr>
