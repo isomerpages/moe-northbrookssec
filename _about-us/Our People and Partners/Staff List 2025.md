@@ -1647,13 +1647,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tang Kin Hua</p>
+<p>Irwani Dewi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art Teacher</p>
+<p>NFS Teacher</p>
 </td>
 </tr>
 <tr>
@@ -1776,20 +1776,6 @@ variant: tiptap
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ang Sor Pui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Language Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Nuruljannah Bte Jumaa't</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1829,20 +1815,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Faith Ong Suan Choo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1871,6 +1843,20 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gabriel Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1888,10 +1874,10 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Siti Nurazlyn</p>
+<p>Julienne Pek Jun Lang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Humanities</p>
+<p>Physical Education</p>
 </td>
 </tr>
 <tr>
@@ -1902,10 +1888,10 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Julienne Pek Jun Lang</p>
+<p>Lee Sui-Lynn Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Physical Education</p>
+<p>CCA Teacher</p>
 </td>
 </tr>
 <tr>
@@ -1968,20 +1954,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>School Counsellor Education Officer
 <br>(SC EO)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hannah Neo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Student Welfare Officer (SSWO)</p>
 </td>
 </tr>
 <tr>
@@ -2078,6 +2050,20 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eliyah Bte Sukor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2099,20 +2085,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Operation Manager (OM)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Eliyah Bte Sukor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
 </td>
 </tr>
 <tr>
@@ -2274,20 +2246,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Oh Guat Kim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer (OSO)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2323,20 +2281,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Management Officer (SMO)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Poon Soon Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gardener</p>
 </td>
 </tr>
 <tr>
