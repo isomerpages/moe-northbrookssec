@@ -156,7 +156,7 @@ variant: tiptap
 <p>Muhammad Raimi Bin Safari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer &amp; Head of Department / Humanities (Covering)</p>
+<p>School Staff Developer &amp; Head of Department / Humanities</p>
 </td>
 </tr>
 <tr>
@@ -170,8 +170,7 @@ variant: tiptap
 <p>Ramasamy Venugopal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department / Craft &amp; Technology &amp; Education Technology
-(Covering)</p>
+<p>Head of Department / Craft &amp; Technology &amp; Education Technology</p>
 </td>
 </tr>
 <tr>
