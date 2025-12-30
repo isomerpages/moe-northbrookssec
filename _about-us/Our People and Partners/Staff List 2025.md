@@ -1914,20 +1914,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thng Shu Yun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
