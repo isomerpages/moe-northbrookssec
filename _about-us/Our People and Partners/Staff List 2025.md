@@ -240,7 +240,7 @@ variant: tiptap
 <p>Julia Chia Jing Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department /</p>
+<p>Head of Department / Character &amp; Citizenship Education</p>
 </td>
 </tr>
 <tr>
@@ -290,13 +290,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Maslina Mohamed Jalani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Subject Head / Aesthetics</p>
 </td>
 </tr>
 <tr>
@@ -451,6 +451,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Upper Sec) (Sec4/5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tang Chun Chieh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Master Teacher / Chinese Language</p>
 </td>
 </tr>
 <tr>
