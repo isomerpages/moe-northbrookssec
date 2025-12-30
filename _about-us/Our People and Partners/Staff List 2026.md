@@ -100,7 +100,7 @@ variant: tiptap
 <p>Anbalahan s/o Muthusamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department /Student Management</p>
+<p>Head of Department / Student Management</p>
 </td>
 </tr>
 <tr>
