@@ -42,7 +42,7 @@ third_nav_title: 2026 Sec One Posting Matters
 the school.
 <br>To foster new meaningful relationships.
 <br>To develop self-awareness and personal leadership.
-<br><a href="/files/Sec 1 Posting Matters/2026/Sec_1_Orientation_2026.pdf" rel="noopener nofollow" target="_blank">Click here</a> to
+<br><a href="/files/Sec 1 Posting Matters/2026/Sec_1_Orientation_2026_updated.pdf" rel="noopener nofollow" target="_blank">Click here</a> to
 find out more about the orientation programme.</p>
 <p></p>
 <p>On the first day of the Orientation programme (2 Jan 2026), students will
