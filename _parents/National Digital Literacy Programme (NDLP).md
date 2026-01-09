@@ -4,9 +4,9 @@ permalink: /national-digital-literacy-programme-ndlp/
 variant: tiptap
 description: ""
 ---
-<h4>PDLP - Briefing for Sec 1 Parents/Guardian 2025</h4>
+<h4>PDLP - Briefing for Sec 1 Parents/Guardian 2026</h4>
 <p>Click below to access more information&nbsp;Briefing for Sec 1 Parents/Guardian
-2025</p>
+2026</p>
 <p><a href="/files/PDLP/2026/PLD_Initiative_Parents_Engagement_Deck_2026.pdf" rel="noopener nofollow" target="_blank">PLD Initiative Parents Engagement Deck 2026</a>
 </p>
 <p><a href="/files/PDLP/2026/IP2___Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank">IP2 Parent Handbook I 2026</a>
