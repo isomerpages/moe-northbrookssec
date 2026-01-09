@@ -21,10 +21,10 @@ sections:
       url: /students/Current-Students/School-Timetable/
   - infobar:
       id: infobar
-      url: /admissions/2026-sec-one-posting-matters/welcome-message/
-      button: 2026 Sec One Posting Matters
-  - infobar:
-      id: infobar
       button: Parent Calendar
       url: /school-calendar/
+  - infobar:
+      id: infobar
+      url: /admissions/2026-sec-one-posting-matters/welcome-message/
+      button: 2026 Sec One Posting Matters
 ---
