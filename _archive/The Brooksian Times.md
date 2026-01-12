@@ -3,7 +3,6 @@ title: The Brooksian Times
 permalink: /newletters/
 variant: tiptap
 description: ""
-third_nav_title: Publications
 ---
 <h2><strong>The Brooksian Times</strong></h2>
 <table style="minWidth: 75px">
