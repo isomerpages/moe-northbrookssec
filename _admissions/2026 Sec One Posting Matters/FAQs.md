@@ -67,9 +67,10 @@ child/ward via PG on 30 Dec 2025.</p>
 <details class="isomer-details">
 <summary><strong>4. What are the school hours like?</strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>In a typical school week, reporting time for school is 7.20am daily except
-on Thursdays.</p>
-<p>Students report to their designated classrooms by 8.20am on Thursdays.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1/2026/school_attire_reporting_venue.png">
+</div>
 <p></p>
 <p>For the first week of school, do refer to the <a href="/admissions/2026-sec-one-posting-matters/sec-one-orientation-2026/" rel="noopener nofollow" target="_blank">Orientation Programme</a> for
 school hours and reporting attire.&nbsp;</p>
