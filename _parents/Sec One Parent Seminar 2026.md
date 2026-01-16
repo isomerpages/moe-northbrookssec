@@ -1,7 +1,7 @@
 ---
 title: Sec One Parent Seminar 2026
 permalink: /sec-one-parent-seminar-2026/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h2>Sharing Slides for Parents</h2>
@@ -25,10 +25,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Co-Curricular Activity <br>
-<a href="/files/Sec 1 Parent Seminar/2026/S1PS___CCA.pdf" rel="noopener nofollow" target="_blank">CCA</a>
-<br>
-<a href="/files/Sec 1 Parent Seminar/2026/CCA_Info_Booklet_2026_for_Parent_and_Guardian.pdf" rel="noopener nofollow" target="_blank">CCA Info Booklet 2026 for Parent and Guardian</a>
+<p>Co-Curricular Activity
+<br><a href="/files/Sec 1 Parent Seminar/2026/S1PS___CCA.pdf" rel="noopener nofollow" target="_blank">CCA</a>
+<br><a href="/files/Sec 1 Parent Seminar/2026/CCA_Info_Booklet_2026_for_Parent_and_Guardian.pdf" rel="noopener nofollow" target="_blank">CCA Info Booklet 2026 for Parent and Guardian</a>
 </p>
 </td>
 </tr>
