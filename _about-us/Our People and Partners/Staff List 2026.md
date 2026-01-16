@@ -240,7 +240,7 @@ variant: tiptap
 <p>Sanjay s/o Radakrishna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head / Secondary 4&amp;5</p>
+<p>Year Head / Upper Secondary (Sec 4&amp;5)</p>
 </td>
 </tr>
 <tr>
@@ -254,7 +254,7 @@ variant: tiptap
 <p>Shivaranjani Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head / Secondary 3</p>
+<p>Assistant Year Head / Secondary 3</p>
 </td>
 </tr>
 <tr>
@@ -268,7 +268,7 @@ variant: tiptap
 <p>Ng Cheong York</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head / Secondary 2</p>
+<p>Year Head / Lower Secondary (Sec 2)</p>
 </td>
 </tr>
 <tr>
@@ -282,7 +282,7 @@ variant: tiptap
 <p>Kenneth Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head / Secondary 1</p>
+<p>Assistant Year Head / Secondary 1</p>
 </td>
 </tr>
 <tr>
@@ -1931,10 +1931,38 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Faith Ong Suan Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Yii Chin Meet Karen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Geography &amp; Social Studies Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siti Nurazlyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Humanities</p>
 </td>
 </tr>
 <tr>
