@@ -264,25 +264,6 @@ form.
 <p>Parents/guardians can check the class allocation via PG.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Jan &amp; 5-9 Jan 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Continue Sales of books &amp; uniform</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student can purchase books from bookshop and uniform from AVA during recess.</p>
-<p>
-<br>Parents can come in to school<strong> between 12pm-3pm </strong>on these
-dates. Parents are <strong>not allowed</strong> to wait in school after making
-purchases. Parking is <strong>not allowed</strong> in school compound. Please
-park at the nearest public carpark.</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
