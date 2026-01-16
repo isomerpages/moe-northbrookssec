@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Sec One Parent Seminar 2026.md
       - The Brooksian Times.md
       - Achievement/Staff Achievements.md
       - Achievement/Student Achievements.md
