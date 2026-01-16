@@ -38,5 +38,5 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h2><br>Consolidated Q&amp;A<br></h2>
+<h2><br><br></h2>
 <p></p>
