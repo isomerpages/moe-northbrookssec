@@ -818,7 +818,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Miss</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Seh Hiang Jane</p>
@@ -1605,7 +1605,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Kai Li Kelly</p>
