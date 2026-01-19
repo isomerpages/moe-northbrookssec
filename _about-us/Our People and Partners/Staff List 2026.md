@@ -651,7 +651,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>1 Fortitude
 <br>
 <br>
@@ -665,6 +665,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Chow Cai Yun Celine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Weiliang, Shawn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -1035,7 +1046,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2 Empathy
 <br>
 <br>
@@ -1047,17 +1058,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Muhammad Bin Parjo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tay Weiliang, Shawn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
