@@ -39,6 +39,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+<hr>
 <h2>Consolidated Q&amp;A</h2>
 <p><a href="/files/Sec 1 Parent Seminar/2026/S1PS_QNA.pdf" rel="noopener nofollow" target="_blank">Sec One Parent Seminar Q&amp;A</a>
 <br>
