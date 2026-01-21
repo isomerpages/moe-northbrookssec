@@ -9,9 +9,9 @@ variant: tiptap
 Secondary One classes.</p>
 <p>The Chinese name of Northbrooks Secondary School 思源 is derived from the
 Yuan Dynasty proverb 饮水思源. The name reminds all Brooksians to remember
-their roots and be grateful to their families, teachers, friends and countries
-for the successes they achieve.</p>
-<p>The School is united in doing its best to prepare Brooksians for the future
+their roots and to be grateful to their families, teachers, friends and
+countries for the successes they achieve.</p>
+<p>The school is united in doing its best to prepare Brooksians for the future
 knowledge-based workplace. Besides honing their capacity to learn, the
 school also focuses on building the character of Brooksians, including
 being compassionate to others.</p>
@@ -35,7 +35,7 @@ being compassionate to others.</p>
 <p>Vice Principal:
 <br>
 </p>
-<p>Vice Principal:</p>
+<p></p>
 <p>Vice-Principal:
 <br>
 </p>
@@ -43,7 +43,7 @@ being compassionate to others.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR DANIEL YIP KOK HOONG</p>
-<p>MS GOH PEISHI</p>
+<p></p>
 <p></p>
 <p>MR LIM YANG CHERNG</p>
 <p></p>
