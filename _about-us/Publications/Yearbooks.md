@@ -53,11 +53,11 @@ third_nav_title: Publications
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://online.fliphtml5.com/sejwes/wnev/#p=1"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Publications Thumbnails/2024/Yearbook_2023.png"></a>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <p><a href="https://online.fliphtml5.com/sejwes/wnev/" rel="noopener nofollow" target="_blank">Yearbook 2023</a>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://online.fliphtml5.com/sejwes/fyzq/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Publications Thumbnails/2024/Yearbook_2022.png"></a>
