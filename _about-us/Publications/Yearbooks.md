@@ -16,7 +16,19 @@ third_nav_title: Publications
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Cover_Page__Enhanced___VettedDACQ.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Yearbook/Yearbook_2025.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://online.fliphtml5.com/sejwes/ophm/" rel="noopener nofollow" target="_blank">Yearbook 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Yearbook/Cover_Page__Enhanced___VettedDACQ.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
