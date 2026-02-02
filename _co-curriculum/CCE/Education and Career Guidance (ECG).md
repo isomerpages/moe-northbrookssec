@@ -113,5 +113,5 @@ to develop an appreciation for different career pathways</p>
 </ul>
 <p>ECG Guide for Parents: This parent resource contains tips and advice on
 ECG and supporting children throughout their key education stages. Parents
-can access the soft copy at: <a href="https://www.moe.gov.sg/-/media/files/programmes/ECG/12806_MOE_Parent-Guide-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/parent-guide</a>
+can access the soft copy at: <a href="/files/CCE/2026/ECG_Tips_for_Parents.pdf" rel="noopener nofollow" target="_blank">ECG Tips for Parents</a>
 </p>
