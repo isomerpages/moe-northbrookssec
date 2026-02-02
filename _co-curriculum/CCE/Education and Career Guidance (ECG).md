@@ -64,6 +64,14 @@ to develop an appreciation for different career pathways</p>
 <p>LifeSG Exploring Education and Career Opportunities:&nbsp;<a href="https://go.gov.sg/lifesg-youth" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lifesg-youth</a>
 </p>
 </li>
+<li>
+<p>ECG Padlet: <a href="https://go.gov.sg/ecg-resource" rel="noopener nofollow" target="_blank">https://go.gov.sg/ecg-resource</a>
+</p>
+</li>
+<li>
+<p>ECG Appointment Booking Link: <a href="https://go.gov.sg/ecg-northbrooks" rel="noopener nofollow" target="_blank">https://go.gov.sg/ecg-northbrooks</a>
+</p>
+</li>
 </ul>
 <h4>Admission Exercises:</h4>
 <ul data-tight="true" class="tight">
