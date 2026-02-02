@@ -85,7 +85,7 @@ to develop an appreciation for different career pathways</p>
 </p>
 </li>
 <li>
-<p>DSA (Junior College):&nbsp;<a href="https://www.moe.gov.sg/admissions/direct-admissions/dsa-jc" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/admissions/direct-admissions/dsa-jc</a>
+<p>DSA (Junior College):&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/dsa</a>
 </p>
 </li>
 </ul>
