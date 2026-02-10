@@ -64,6 +64,14 @@ to develop an appreciation for different career pathways</p>
 <p>LifeSG Exploring Education and Career Opportunities:&nbsp;<a href="https://go.gov.sg/lifesg-youth" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lifesg-youth</a>
 </p>
 </li>
+<li>
+<p>ECG Padlet: <a href="https://go.gov.sg/ecg-resource" rel="noopener nofollow" target="_blank">https://go.gov.sg/ecg-resource</a>
+</p>
+</li>
+<li>
+<p>ECG Appointment Booking Link: <a href="https://go.gov.sg/ecg-northbrooks" rel="noopener nofollow" target="_blank">https://go.gov.sg/ecg-northbrooks</a>
+</p>
+</li>
 </ul>
 <h4>Admission Exercises:</h4>
 <ul data-tight="true" class="tight">
@@ -85,7 +93,7 @@ to develop an appreciation for different career pathways</p>
 </p>
 </li>
 <li>
-<p>DSA (Junior College):&nbsp;<a href="https://www.moe.gov.sg/admissions/direct-admissions/dsa-jc" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/admissions/direct-admissions/dsa-jc</a>
+<p>DSA (Junior College):&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/dsa</a>
 </p>
 </li>
 </ul>
@@ -113,5 +121,5 @@ to develop an appreciation for different career pathways</p>
 </ul>
 <p>ECG Guide for Parents: This parent resource contains tips and advice on
 ECG and supporting children throughout their key education stages. Parents
-can access the soft copy at: <a href="https://www.moe.gov.sg/-/media/files/programmes/ECG/12806_MOE_Parent-Guide-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/parent-guide</a>
+can access the soft copy at: <a href="/files/CCE/2026/ECG_Tips_for_Parents.pdf" rel="noopener nofollow" target="_blank">ECG Tips for Parents</a>
 </p>
