@@ -1025,10 +1025,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Chun Chow Elliot</p>
+<p>Tan Kai Li Kelly</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -1586,7 +1586,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4 Empathy
 <br>
 <br>
@@ -1598,17 +1598,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Nuraida Bte Ajmaain</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Kai Li Kelly</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
