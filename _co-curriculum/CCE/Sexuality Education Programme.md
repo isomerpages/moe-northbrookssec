@@ -85,7 +85,7 @@ repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<h4>At Northbrooks Secondary School, the following Sexuality Education lessons will be taught in 2025:</h4>
+<h4><strong>At Northbrooks Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/CCE/2026/Secondary_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
@@ -129,10 +129,6 @@ beyond themselves and involves their family, and the importance of responsible
 decision-making and seeking help. Abstinence and upholding family values
 are the key messages.
 <br>
-</p>
-<p><strong>At Northbrooks Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <p><strong>Information for Parents</strong>
 </p>
