@@ -50,7 +50,7 @@ pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<h3><strong>Overview of Northbrooks Secondary School’s Sexuality Education Programme for 2026</strong></h3>
+<h3><strong>Overview of Northbrooks Secondary School’s Sexuality Education Programme for 2026</strong><br></h3>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
@@ -59,8 +59,8 @@ Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
 on sexuality include:</p>
-<p>a.&nbsp;&nbsp;&nbsp; Science</p>
-<p>b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)</p>
+<p>a.&nbsp;&nbsp;&nbsp; Science
+<br>b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)</p>
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The values and attitudes of our
 youth towards sexuality are increasingly shaped by their peers, exposure
@@ -76,15 +76,14 @@ acceptance can be overwhelmingly strong and hinder one’s ability to act
 responsibly.&nbsp; Given the pressures faced by the middle adolescent from
 within themselves and from peers, it is important to build a strong sense
 of self-worth, personal conviction and an understanding of the possible
-consequences of sexual behaviour.</p>
-<p>&nbsp;</p>
+consequences of sexual behaviour.
+<br>
+</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality Education
 lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <h4><strong>At Northbrooks Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
