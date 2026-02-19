@@ -57,10 +57,6 @@ to develop an appreciation for different career pathways</p>
 </p>
 </li>
 <li>
-<p>National Youth Council’s On My Way website:&nbsp;<a href="https://go.gov.sg/omw2022" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/omw2022</a>
-</p>
-</li>
-<li>
 <p>LifeSG Exploring Education and Career Opportunities:&nbsp;<a href="https://go.gov.sg/lifesg-youth" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lifesg-youth</a>
 </p>
 </li>
@@ -76,8 +72,7 @@ to develop an appreciation for different career pathways</p>
 <h4>Admission Exercises:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>ITE EAE:&nbsp;<a href="https://go.gov.sg/iteeae" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/iteeae</a>&nbsp;or&nbsp;
-<a href="https://go.gov.sg/itehigherniteceae" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/itehigherniteceae</a>
+<p>ITE EAE:&nbsp;<a href="https://go.gov.sg/iteeae" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/iteeae</a>
 </p>
 </li>
 <li>
