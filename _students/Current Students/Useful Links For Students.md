@@ -44,7 +44,7 @@ information for students, including access to the SkillsFuture portal.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.northbrookssec.moe.edu.sg/students/studentsusefullinks/" rel="noopener nofollow" target="_blank">https://www.northbrookssec.moe.edu.sg/students/studentsusefullinks/</a>
+<p><a href="https://go.gov.sg/ecg-northbrooks" rel="noopener nofollow" target="_blank">https://go.gov.sg/ecg-northbrooks</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
