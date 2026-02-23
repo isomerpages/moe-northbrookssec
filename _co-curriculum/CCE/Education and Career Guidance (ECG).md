@@ -66,7 +66,8 @@ stories: <a href="https://go.gov.sg/ecg-resource" rel="noopener nofollow" target
 </p>
 </li>
 <li>
-<p>School Finder to explore Junior Colleges and Millennia Institute</p>
+<p>School Finder to explore Junior Colleges and Millennia Institute <a href="https://www.moe.gov.sg/schoolfinder/Post%20secondary-JC%20school" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder/Post%20secondary-JC%20school</a>
+</p>
 </li>
 </ul>
 <h4>Explore Admission Exercises:</h4>
