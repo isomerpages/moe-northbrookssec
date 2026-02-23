@@ -42,6 +42,15 @@ variant: tiptap
 information for students, including access to the SkillsFuture portal.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.northbrookssec.moe.edu.sg/students/studentsusefullinks/" rel="noopener nofollow" target="_blank">https://www.northbrookssec.moe.edu.sg/students/studentsusefullinks/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ECG Appointment Link</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
