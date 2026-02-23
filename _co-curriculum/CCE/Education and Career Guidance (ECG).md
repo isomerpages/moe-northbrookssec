@@ -40,7 +40,7 @@ to develop an appreciation for different career pathways</p>
 <hr>
 <h3>Contact Details of ECG Counsellor</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG%20Contact%202022.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG/update_nbrss_ecgc.jpg">
 </div>
 <h4>Explore self, education and career opportunities</h4>
 <ul data-tight="true" class="tight">
