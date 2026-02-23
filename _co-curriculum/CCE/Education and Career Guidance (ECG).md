@@ -40,81 +40,55 @@ to develop an appreciation for different career pathways</p>
 <hr>
 <h3>Contact Details of ECG Counsellor</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG%20Contact%202022.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG/update_nbrss_ecgc.jpg">
 </div>
-<h4>Useful Links</h4>
+<h4>Explore self, education and career opportunities</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>MySkillsFuture student portal:&nbsp;<a href="https://go.gov.sg/MYSFSec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MYSFSec</a>
+<p>MySkillsFuture to take profiling tools, explore pathway navigator and
+explore education and industries <a href="https://www.myskillsfuture.gov.sg/secondary" rel="noopener nofollow" target="_blank">https://www.myskillsfuture.gov.sg/secondary</a>
 </p>
 </li>
 <li>
-<p>Post-Secondary Education booklet:&nbsp;<a href="https://moe.gov.sg/post-secondary/overview" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/post-secondary/overview</a>
+<p>Discover On My Way to explore industries and careers <a href="https://discover.nyc.gov.sg/omw" rel="noopener nofollow" target="_blank">https://discover.nyc.gov.sg/omw</a>
 </p>
 </li>
 <li>
-<p>Post-Secondary Admissions Exercises booklet:&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions</a>
-</p>
-</li>
-<li>
-<p>LifeSG Exploring Education and Career Opportunities:&nbsp;<a href="https://go.gov.sg/lifesg-youth" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lifesg-youth</a>
-</p>
-</li>
-<li>
-<p>ECG Padlet: <a href="https://go.gov.sg/ecg-resource" rel="noopener nofollow" target="_blank">https://go.gov.sg/ecg-resource</a>
-</p>
-</li>
-<li>
-<p>ECG Appointment Booking Link: <a href="https://go.gov.sg/ecg-northbrooks" rel="noopener nofollow" target="_blank">https://go.gov.sg/ecg-northbrooks</a>
+<p>ECG Padlet for resources on admission exercises, careers and education
+stories: <a href="https://go.gov.sg/ecg-resource" rel="noopener nofollow" target="_blank">https://go.gov.sg/ecg-resource</a>
 </p>
 </li>
 </ul>
-<h4>Admission Exercises:</h4>
+<h4>Explore post-secondary courses and institutions</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>ITE EAE:&nbsp;<a href="https://go.gov.sg/iteeae" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/iteeae</a>
+<p>Course Finder to explore courses in Poly, ITE and Universities <a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>
 </p>
 </li>
 <li>
-<p>Polytechnic EAE:&nbsp;<a href="https://go.gov.sg/polyeae" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/polyeae</a>
-</p>
-</li>
-<li>
-<p>JIE ‘O’:&nbsp;<a href="https://go.gov.sg/applyjie" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/applyjie</a>
-</p>
-</li>
-<li>
-<p>JAE:&nbsp;<a href="https://go.gov.sg/applyjae" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/applyjae</a>
-</p>
-</li>
-<li>
-<p>DSA (Junior College):&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/dsa</a>
+<p>School Finder to explore Junior Colleges and Millennia Institute <a href="https://www.moe.gov.sg/schoolfinder/Post%20secondary-JC%20school" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder/Post%20secondary-JC%20school</a>
 </p>
 </li>
 </ul>
-<h4>Post-Secondary Education Institutions:</h4>
+<h4>Explore Admission Exercises:</h4>
+<p>A guide to post-secondary admission exercises for 2026 graduating cohort
+<br><a href="https://www.moe.gov.sg/api/media/343f646d-986a-4496-b981-063d6d9346cc/A-Guide-to-Post-Secondary-Admissions-Exercises.pdf" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/api/media/343f646d-986a-4496-b981-063d6d9346cc/A-Guide-to-Post-Secondary-Admissions-Exercises.pdf</a>
+</p>
+<h4>ECG Resource for Parents:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Joint Portal of Polytechnics in Singapore:&nbsp;<a href="https://jpae.polytechnic.edu.sg/app" rel="noopener noreferrer nofollow" target="_blank">https://www.polytechnic.edu.sg/</a>
-</p>
+<p>Journey with our children contains tips and suggested conversation starter
+with your child to help them gain a better understanding of themselves
+so that they can make informed choices and develop their education and
+career goals <a href="/files/CCE/2026/ECG_Tips_for_Parents.pdf" rel="noopener nofollow" target="_blank">ECG Tips for Parents</a>.</p>
 </li>
 <li>
-<p>Institute of Technical Education:&nbsp;<a href="https://www.ite.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/</a>
-</p>
-</li>
-<li>
-<p>Nanyang Academy of Fine Arts:&nbsp;<a href="https://www.nafa.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.nafa.edu.sg/</a>
-</p>
-</li>
-<li>
-<p>Lasalle College of the Arts:&nbsp;<a href="https://www.lasalle.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.lasalle.edu.sg/</a>
-</p>
-</li>
-<li>
-<p>For Junior Colleges, please visit the respective colleges’ websites</p>
+<p>Follow ECG IG <a href="https://www.instagram.com/explore.ecg/" rel="noopener nofollow" target="_blank">@explore.ecg!</a> for
+weekly parenting tips</p>
 </li>
 </ul>
-<p>ECG Guide for Parents: This parent resource contains tips and advice on
-ECG and supporting children throughout their key education stages. Parents
-can access the soft copy at: <a href="/files/CCE/2026/ECG_Tips_for_Parents.pdf" rel="noopener nofollow" target="_blank">ECG Tips for Parents</a>
-</p>
+<h4>Chat with your ECG Counsellor:</h4>
+<p>Make an appointment to discuss your interest, strength, careers interest
+and post-secondary possibilities <a href="https://go.gov.sg/ecg-northbrooks" rel="noopener nofollow" target="_blank">https://go.gov.sg/ecg-northbrooks</a>.</p>
+<p></p>
+<p></p>

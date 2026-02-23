@@ -42,6 +42,15 @@ variant: tiptap
 information for students, including access to the SkillsFuture portal.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/ecg-northbrooks" rel="noopener nofollow" target="_blank">https://go.gov.sg/ecg-northbrooks</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ECG Appointment Link</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
