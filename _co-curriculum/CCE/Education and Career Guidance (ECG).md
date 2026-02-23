@@ -58,10 +58,6 @@ explore education and industries <a href="https://www.myskillsfuture.gov.sg/seco
 stories: <a href="https://go.gov.sg/ecg-resource" rel="noopener nofollow" target="_blank">https://go.gov.sg/ecg-resource</a>
 </p>
 </li>
-<li>
-<p>ECG Appointment Booking Link: <a href="https://go.gov.sg/ecg-northbrooks" rel="noopener nofollow" target="_blank">https://go.gov.sg/ecg-northbrooks</a>
-</p>
-</li>
 </ul>
 <h4>Explore post-secondary courses and institutions</h4>
 <ul data-tight="true" class="tight">
@@ -74,8 +70,8 @@ stories: <a href="https://go.gov.sg/ecg-resource" rel="noopener nofollow" target
 </li>
 </ul>
 <h4>Explore Admission Exercises:</h4>
-<p>A guide to post-secondary admission exercises for 2026 graduating cohort</p>
-<p><a href="https://www.moe.gov.sg/api/media/343f646d-986a-4496-b981-063d6d9346cc/A-Guide-to-Post-Secondary-Admissions-Exercises.pdf" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/api/media/343f646d-986a-4496-b981-063d6d9346cc/A-Guide-to-Post-Secondary-Admissions-Exercises.pdf</a>
+<p>A guide to post-secondary admission exercises for 2026 graduating cohort
+<br><a href="https://www.moe.gov.sg/api/media/343f646d-986a-4496-b981-063d6d9346cc/A-Guide-to-Post-Secondary-Admissions-Exercises.pdf" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/api/media/343f646d-986a-4496-b981-063d6d9346cc/A-Guide-to-Post-Secondary-Admissions-Exercises.pdf</a>
 </p>
 <h4>ECG Resource for Parents:</h4>
 <ul data-tight="true" class="tight">
