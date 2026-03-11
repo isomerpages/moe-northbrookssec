@@ -14,7 +14,7 @@ sections:
         - title: Achievements
           description: ""
           url: /achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/
-      background: /images/Home Page Banner/Website_Banner_4_.gif
+      background: /images/Home Page Banner/Website_Banner.gif
   - infobar:
       id: infobar
       button: 2026 Sec 1-5 Sem 1 Timetable
