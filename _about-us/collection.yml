@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Principal's Message.md
       - About us.md
+      - Principal's Message.md
       - School Information/.keep
       - School Information/Strategic Thrusts & Outcomes.md
       - School Information/Vision, Mission & Values.md
@@ -17,6 +17,6 @@ collections:
       - School Facilities/Champion's Lodge.md
       - School Facilities/Arts Space.md
       - School Facilities/Indoor Sports Hall.md
-      - Publications/The Showcase.md
       - Publications/.keep
+      - Publications/The Showcase.md
       - Publications/Yearbooks.md
