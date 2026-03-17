@@ -14,8 +14,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; margin-right: 200px;" height="auto" width="100%" alt="" src="/images/Principal's Message/2026/Screenshot_2026_03_17_161944.png">
+<div class="isomer-image-wrapperstyle=">
+<img style="width:100%; float: left; margin-right: 200px;" height="auto" width="100%" alt="" src="/images/Principal's Message/2026/Screenshot_2026_03_17_161944.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
