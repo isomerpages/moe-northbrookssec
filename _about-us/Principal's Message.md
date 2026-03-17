@@ -25,6 +25,9 @@ talents to develop, and a meaningful contribution to make. Our school is
 more than a place of academic learning; it is a caring community where
 students are given many opportunities to grow in confidence, character,
 and purpose.</p>
+</td></tr>
+</tbody>
+</table>
 <p>We are committed to nurturing confident young people who are resilient
 in learning, grateful for the opportunities they have, grounded in strong
 values, and ready to actively contribute to society. As we prepare our
@@ -32,12 +35,6 @@ students for an unpredictable future, we hope they will remain anchored
 in their values, care deeply for the people around them, and make a positive
 difference wherever they go. This commitment is reflected in our vision
 for every Brooksian to be a champion, impacting the community.</p>
-
-</td></tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
 <p>Education at Northbrooks is viewed holistically and goes beyond the acquisition
 of subject knowledge. The learning experiences we curate for our students,
 both within and beyond the classroom, provide them with important platforms
