@@ -27,3 +27,34 @@ learning experiences, co-curricular activities, and opportunities for leadership
 and service, our students learn resilience, responsibility, and respect.
 They are encouraged to try, to learn from their mistakes, and to grow into
 confident individuals who believe in their ability to improve.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal's Message/2026/DSC03669.jpg">
+</div>
+<p>Our teachers play a central role in this journey, and I am privileged
+to work with a team of dedicated professionals who care deeply about our
+students and work tirelessly to create a supportive and engaging learning
+environment. We are committed to creating the right conditions for our
+staff to collaborate and deepen their professional learning. In doing so,
+they model the importance of life-long learning for our Brooksians and
+ensure that every student benefits from quality teaching and strong pastoral
+care.</p>
+<p>We also deeply value our strong partnership with our parents and the wider
+community. The partnership between home and school is crucial in creating
+a strong network of support that enables our students to thrive. Open communication,
+mutual respect, and a shared commitment to our children’s well-being form
+the foundation of this partnership.&nbsp;</p>
+<p>I am honoured to serve alongside our dedicated staff and supportive parents
+in guiding our students through these important years. Together, we will
+continue to build a school where every student is known, valued, and inspired
+to grow.</p>
+<p></p>
+<p>Mr Edmund Chen</p>
+<p>Principal, Northbrooks Secondary School
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal's Message/2026/DSC03744.jpg">
+</div>
+<p></p>
