@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <p></p>
-<table style="minWidth: px">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
