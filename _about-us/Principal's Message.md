@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 ---
 <h4><strong>PRINCIPAL'S MESSAGE</strong></h4>
-<p></p>
 <p>Welcome to Northbrooks Secondary School.</p>
 <p>At Northbrooks, we believe that every child has strengths to discover,
 talents to develop, and a meaningful contribution to make. Our school is
@@ -48,10 +47,8 @@ the foundation of this partnership.&nbsp;</p>
 in guiding our students through these important years. Together, we will
 continue to build a school where every student is known, valued, and inspired
 to grow.</p>
-<p></p>
-<p>Mr Edmund Chen</p>
-<p>Principal, Northbrooks Secondary School
-<br>
+<p>Mr Edmund Chen
+<br>Principal, Northbrooks Secondary School0
 <br>
 </p>
 <div class="isomer-image-wrapper">
