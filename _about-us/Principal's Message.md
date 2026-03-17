@@ -12,13 +12,13 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal's Message/2026/Screenshot_2026_03_17_161944.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Welcome to Northbrooks Secondary School.</p>
 <p>At Northbrooks, we believe that every child has strengths to discover,
 talents to develop, and a meaningful contribution to make. Our school is
@@ -32,8 +32,8 @@ students for an unpredictable future, we hope they will remain anchored
 in their values, care deeply for the people around them, and make a positive
 difference wherever they go. This commitment is reflected in our vision
 for every Brooksian to be a champion, impacting the community.</p>
-</th>
-</tr>
+
+</td></tr>
 </tbody>
 </table>
 <p></p>
