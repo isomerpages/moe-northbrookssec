@@ -1,10 +1,9 @@
 ---
 title: Principal's Message
 permalink: /principal-s-message/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<h4><strong>PRINCIPAL'S MESSAGE</strong></h4>
 <p>Welcome to Northbrooks Secondary School.</p>
 <p>At Northbrooks, we believe that every child has strengths to discover,
 talents to develop, and a meaningful contribution to make. Our school is
@@ -26,7 +25,7 @@ learning experiences, co-curricular activities, and opportunities for leadership
 and service, our students learn resilience, responsibility, and respect.
 They are encouraged to try, to learn from their mistakes, and to grow into
 confident individuals who believe in their ability to improve.</p>
-<p></p> 
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal's Message/2026/DSC03669.jpg">
 </div>
