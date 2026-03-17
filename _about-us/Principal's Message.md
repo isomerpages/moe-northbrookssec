@@ -43,10 +43,6 @@ learning experiences, co-curricular activities, and opportunities for leadership
 and service, our students learn resilience, responsibility, and respect.
 They are encouraged to try, to learn from their mistakes, and to grow into
 confident individuals who believe in their ability to improve.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Principal's Message/2026/DSC03669.jpg">
-</div>
 <p>Our teachers play a central role in this journey, and I am privileged
 to work with a team of dedicated professionals who care deeply about our
 students and work tirelessly to create a supportive and engaging learning
