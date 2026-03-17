@@ -27,7 +27,7 @@ They are encouraged to try, to learn from their mistakes, and to grow into
 confident individuals who believe in their ability to improve.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Principal's Message/2026/DSC03669.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Principal's Message/2026/DSC03669.jpg">
 </div>
 <p>Our teachers play a central role in this journey, and I am privileged
 to work with a team of dedicated professionals who care deeply about our
@@ -51,6 +51,6 @@ to grow.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Principal's Message/2026/DSC03744.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Principal's Message/2026/DSC03744.jpg">
 </div>
 <p></p>
