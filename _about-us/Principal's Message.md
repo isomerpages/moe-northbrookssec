@@ -48,7 +48,7 @@ in guiding our students through these important years. Together, we will
 continue to build a school where every student is known, valued, and inspired
 to grow.</p>
 <p>Mr Edmund Chen
-<br>Principal, Northbrooks Secondary School0
+<br>Principal, Northbrooks Secondary School
 <br>
 </p>
 <div class="isomer-image-wrapper">
