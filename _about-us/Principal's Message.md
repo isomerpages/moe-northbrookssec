@@ -1,7 +1,7 @@
 ---
 title: Principal's Message
 permalink: /principal-s-message/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
@@ -12,8 +12,10 @@ description: ""
 talents to develop, and a meaningful contribution to make. Our school is
 more than a place of academic learning; it is a caring community where
 students are given many opportunities to grow in confidence, character,
-and purpose.<br>
-</p><p style="margin: 15px 0 0 0;">We are committed to nurturing confident young people who are resilient
+and purpose.
+<br>
+</p>
+<p>We are committed to nurturing confident young people who are resilient
 in learning, grateful for the opportunities they have, grounded in strong
 values, and ready to actively contribute to society. As we prepare our
 students for an unpredictable future, we hope they will remain anchored
@@ -45,6 +47,13 @@ the foundation of this partnership.</p>
 in guiding our students through these important years. Together, we will
 continue to build a school where every student is known, valued, and inspired
 to grow.</p>
-<p>Mr Edmund Chen<br>
-Principal, Northbrooks Secondary School
+<p>Mr Edmund Chen
+<br>Principal, Northbrooks Secondary School</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal's Message/2026/DSC03744.jpg">
+</div>
+<p>
+<br>
+<br>
 </p>
