@@ -74,7 +74,7 @@ to grow.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Daniel Yip (Vice-Principal),
-<br>Mr Tan Boon Cheng (Vice-Principal, Administration</p>
+<br>Mr Tan Boon Cheng (Vice-Principal, Administration)</p>
 </td>
 </tr>
 <tr>
