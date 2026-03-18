@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Principal's Message 2.md
+      - Principal's Message.md
       - About us.md
       - School Information/.keep
       - School Information/Strategic Thrusts & Outcomes.md
