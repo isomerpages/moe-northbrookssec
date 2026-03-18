@@ -5,25 +5,25 @@ variant: markdown
 description: ""
 ---
 <p></p>
-<table style="Width: 100%">
+<table style="Width: auto">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <img style="width: 100%; margin-right: 200px;" height="auto" width="100%" alt="" src="/images/Principal's Message/2026/Screenshot_2026_03_17_161944.png">
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Welcome to Northbrooks Secondary School.</p>
 <p>At Northbrooks, we believe that every child has strengths to discover,
 talents to develop, and a meaningful contribution to make. Our school is
 more than a place of academic learning; it is a caring community where
 students are given many opportunities to grow in confidence, character,
 and purpose.</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
