@@ -12,8 +12,8 @@ description: ""
 talents to develop, and a meaningful contribution to make. Our school is
 more than a place of academic learning; it is a caring community where
 students are given many opportunities to grow in confidence, character,
-and purpose.</p>
-<p>We are committed to nurturing confident young people who are resilient
+and purpose.<br>
+</p><p style="margin: 15px 0 0 0;">We are committed to nurturing confident young people who are resilient
 in learning, grateful for the opportunities they have, grounded in strong
 values, and ready to actively contribute to society. As we prepare our
 students for an unpredictable future, we hope they will remain anchored
