@@ -1945,7 +1945,7 @@ variant: tiptap
 <p>Faith Ong Suan Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>Science Teacher</p>
 </td>
 </tr>
 <tr>
@@ -1973,7 +1973,7 @@ variant: tiptap
 <p>Siti Nurazlyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Humanities</p>
+<p>Humanities Teacher</p>
 </td>
 </tr>
 <tr>
