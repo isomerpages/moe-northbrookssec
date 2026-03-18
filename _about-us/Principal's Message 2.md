@@ -4,8 +4,6 @@ permalink: /principal-s-message-2/
 variant: markdown
 description: ""
 ---
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 200px; float: left; margin: 0 15px 15px 0;" height="auto" width="100%" alt="" src="/images/Principal's Message/2026/Screenshot_2026_03_17_161944.png">
 </div>
