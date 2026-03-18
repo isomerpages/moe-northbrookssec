@@ -1,7 +1,7 @@
 ---
 title: Principal's Message
 permalink: /principal-s-message/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
@@ -51,7 +51,7 @@ to grow.</p>
 <br>Principal, Northbrooks Secondary School</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal's Message/2026/DSC03744.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Principal's Message/2026/DSC03744.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
