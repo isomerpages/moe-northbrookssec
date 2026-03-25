@@ -3,7 +3,7 @@ title: Sexuality Education Programme
 permalink: /co-curriculum/cce/sexuality-education-programme/
 description: ""
 third_nav_title: CCE
-variant: markdown
+variant: tiptap
 ---
 <h1>Sexuality Education Programme</h1>
 <h3><strong>MOE Sexuality Education in Schools</strong></h3>
@@ -193,9 +193,7 @@ of assertiveness and responsible decision-making</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Information for Parents</strong>
 </p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
