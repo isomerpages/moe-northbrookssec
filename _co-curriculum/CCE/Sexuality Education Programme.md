@@ -140,13 +140,13 @@ are the key messages.
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Topics/Lessons</p>
+<p style="text-align: center;">Topics/Lessons</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Programme Learning Objectives</p>
+<p style="text-align: center;">Programme Learning Objectives</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Time Period
+<p style="text-align: center;">Time Period
 <br>(e.g. Term 3 Week 9)</p>
 </th>
 </tr>
