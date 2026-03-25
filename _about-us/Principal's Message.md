@@ -1,7 +1,7 @@
 ---
 title: Principal's Message
 permalink: /principal-s-message/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>Welcome to Northbrooks Secondary School.</p>
@@ -57,7 +57,7 @@ to grow.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2" style="text-align: center;">
+<th rowspan="1" colspan="2">
 <p>Our School Leadership Team</p>
 </th>
 </tr>
