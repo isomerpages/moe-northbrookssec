@@ -128,6 +128,73 @@ beyond themselves and involves their family, and the importance of responsible
 decision-making and seeking help. Abstinence and upholding family values
 are the key messages.
 <br>
+<br><strong>At Northbrooks Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
+<br>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Topics/Lessons</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme Learning Objectives</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time Period
+<br>(e.g. Term 3 Week 9)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mass Talk delivered through a pre-recorded video</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Raise awareness and provide knowledge on:</p>
+<p></p>
+<p>a) Sexually transmitted infectious diseases (STIs and HIV): what it is,
+how it spreads, how to prevent infection mainly through ABC (abstinence,
+being faithful, correct, and consistent condom use), consequences and impact</p>
+<p></p>
+<p>b) Skills for respecting boundaries (e.g. decision-making, assertiveness,
+negotiation to say ‘no’ to peer pressure)</p>
+<p></p>
+<p>c) Managing relationships and risky situations in a healthy way, including
+avenues for help-seeking.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Classroom-based Lesson</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn to negotiate their way out of a risky situation by applying skills
+of assertiveness and responsible decision-making</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
 </p>
 <p><strong>Information for Parents</strong>
 </p>
