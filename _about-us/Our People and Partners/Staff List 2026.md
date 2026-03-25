@@ -1046,7 +1046,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2 Empathy
 <br>
 <br>
@@ -1058,6 +1058,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Muhammad Bin Parjo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Yang Kai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -1295,7 +1306,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3 Teamwork 2
 <br>
 <br>
@@ -1307,6 +1318,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Cecilia Chan Min Er</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Julienne Pek Jun Lang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -1707,20 +1729,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Md Finosh K B I Philips</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1770,6 +1778,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>D&amp;T Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Md Finosh K B I Philips</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Teacher</p>
 </td>
 </tr>
 <tr>
@@ -1923,7 +1945,7 @@ variant: tiptap
 <p>Faith Ong Suan Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>Science Teacher</p>
 </td>
 </tr>
 <tr>
@@ -1951,21 +1973,7 @@ variant: tiptap
 <p>Siti Nurazlyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Humanities</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Julienne Pek Jun Lang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physical Education</p>
+<p>Humanities Teacher</p>
 </td>
 </tr>
 <tr>
