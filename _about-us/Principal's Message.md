@@ -4,9 +4,6 @@ permalink: /principal-s-message/
 variant: markdown
 description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 200px; float: left; margin: 0 15px 15px 0;" height="auto" width="100%" alt="" src="/images/Principal's Message/2026/Screenshot_2026_03_17_161944.png">
-</div>
 <p>Welcome to Northbrooks Secondary School.</p>
 <p>At Northbrooks, we believe that every child has strengths to discover,
 talents to develop, and a meaningful contribution to make. Our school is
@@ -60,10 +57,10 @@ to grow.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
-<p><strong>Our School Leadership Team</strong>
+<th rowspan="1" colspan="2">
+<p style="text-align: center;">Our School Leadership Team
 </p>
-</td>
+</th>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
