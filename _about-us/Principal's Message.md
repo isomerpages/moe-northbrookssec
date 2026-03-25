@@ -60,6 +60,12 @@ to grow.</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="2">
+<p><strong>Our School Leadership Team</strong>
+</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>From left to right</p>
 </th>
