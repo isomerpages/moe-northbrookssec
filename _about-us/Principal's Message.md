@@ -57,8 +57,8 @@ to grow.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p style="text-align: center;">Our School Leadership Team</p>
+<th rowspan="1" colspan="2" style="text-align: center;">
+<p>Our School Leadership Team</p>
 </th>
 </tr>
 <tr>
