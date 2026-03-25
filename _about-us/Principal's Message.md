@@ -58,7 +58,7 @@ to grow.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Our School Leadership Team</p>
+<p style="text-align: center;">Our School Leadership Team</p>
 </th>
 </tr>
 <tr>
