@@ -1510,7 +1510,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>4 Fortitude
 <br>
 <br>
@@ -1522,6 +1522,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Lee Wen Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Trisha R</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
