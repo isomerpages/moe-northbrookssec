@@ -10,21 +10,47 @@ variant: tiptap
 <p>The Direct School Admission (DSA) is an opportunity for Primary 6 students
 to directly apply for admission into participating secondary schools based
 on their talents and achievements which might not have been demonstrated
-at the Primary School Leaving Examination (PSLE). &nbsp;</p>
+at the Primary School Leaving Examination (PSLE). &nbsp;
+<br>
+</p>
+<p>Primary 6 students who do not have prior experience may also apply. The
+school will assess students based on the selection criteria, which may
+include assessing the potential of the students.</p>
+<p></p>
+<p>Students who are successfully admitted to the school via DSA are required
+to honour their commitment to the school and participate in activities
+related to the talent they are selected from year 1-4.</p>
 <p></p>
 <p><strong>Northbrooks Secondary School</strong>&nbsp;offers DSA in the following
-areas in 2025:
+areas in 2026:
 <br>
 </p>
 <p>1. Aerospace (Clubs &amp; Societies) &nbsp;
-<br>2. Outdoor Adventure (Sports)&nbsp;
-<br>3. Floorball Boys (Sports)&nbsp;
-<br>4. Badminton (Sports)&nbsp;
-<br>5. Guzheng Ensemble (Visual and Performing Arts)&nbsp;
-<br>6. Modern Dance (Visual and Performing Arts)&nbsp;
-<br>7. Concert Band (Visual and Performing Arts)
-<br>8. Leadership&nbsp;</p>
-<p>Our <strong>Learning for Life Programme (LLP) in Outdoor Education </strong>is
+<br>2. Outdoor Adventure (Sports)
+<br>3. Basketball (Sports)&nbsp;
+<br>4. Floorball <em>*Boys Only</em> (Sports)&nbsp;
+<br>5. Badminton (Sports)&nbsp;
+<br>6. Guzheng Ensemble (Visual and Performing Arts)&nbsp;
+<br>7. Modern Dance (Visual and Performing Arts)&nbsp;
+<br>8. Concert Band (Visual and Performing Arts)
+<br>9. Leadership&nbsp;</p>
+<p><u>About Northbrooks</u>
+</p>
+<p>The school offers a variety of enrichment programmes to widen the students'
+learning experiences for greater development in cognitive, physical and
+aesthetics domains.&nbsp;</p>
+<p>The school offers a variety of enrichment programmes to widen the students'
+learning experiences for greater development in cognitive, physical and
+aesthetics domains.&nbsp;</p>
+<p>The school's distinctive&nbsp;<strong>Applied Learning Programme (ALP) in Aerospace</strong>&nbsp;provides
+our students an edge when applying for Aerospace-related courses in ITE
+and the Polytechnics, which in turn opens a career pathway for them in
+the rapidly growing Aerospace industry. All Lower Secondary students are
+equipped with basic knowledge in general Aerospace topics and essential
+Science Technology Engineering Mathematics (STEM) skills. Students who
+demonstrate passion in this field of study would be further engaged/stretched
+in related external competitions and programmes.&nbsp;</p>
+<p>Our&nbsp;<strong>Learning for Life Programme (LLP) in Outdoor Education&nbsp;</strong>is
 known as A.C.E. and stands for Adventure, Character, Environment. The programme
 aims to develop character, inculcate values of grit and resilience and
 build leadership traits in all students as they learn adventure skills
@@ -32,29 +58,27 @@ such as orienteering, rock climbing and abseiling as well as cultivate
 an appreciation for the outdoors and the environment during PE lessons
 and Level Camps. Students who excel at the various adventure skills may
 have the opportunity to participate at a higher challenge level in various
-outdoor competitions.&nbsp;</p>
-<p></p>
+outdoor competitions.</p>
 <p>Please refer to this document for more details about our school's DSA
-2025 selection criteria and processes: <a href="/files/DSA/2025_NBrSS_DSA_Selection_Criteria_and_Processes_.pdf" rel="noopener nofollow" target="_blank">NBrSS DSA 2025 Selection Criteria and Processes</a>
+2026 selection criteria and processes: <a href="/files/DSA/2026/2026_NBrSS_DSA_Selection_Criteria_and_Processes_for_website.pdf" rel="noopener nofollow" target="_blank">NBrSS DSA 2026 Selection Criteria and Processes</a>
 </p>
 <p><strong>Application Process</strong>&nbsp;</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2025, 11am
-to 3 June 2025, 3pm. For more details, please refer to MOE DSA-Sec website
-– <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+The application is free-of-charge and will be open from 6 May 2026 (11.00am)
+to 2 June 2026 (4.30pm). For more details, please refer to MOE DSA-Sec
+website – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.&nbsp;</p>
-<p> Students who are successfully admitted to the school via DSA are expected
+<p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1-4.&nbsp;</p>
 <p><strong>Outcome</strong>&nbsp;</p>
-<p>Applicants will be notified of the outcome of the application via an email
-or letter by Thursday 4 September 2025. The email or letter will indicate
-whether the applicant has been given a Confirmed Offer, put on the Waiting
-List or Unsuccessful.&nbsp;</p>
+<p>Applicants will be notified of the outcome of the application via email
+latest by Friday, 28 August 2026. The email will indicate whether the applicant
+has been given a Confirmed Offer, put on the Waiting List or Unsuccessful.&nbsp;</p>
 <p><strong> Key Dates</strong>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -72,42 +96,46 @@ List or Unsuccessful.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May 2025 – 3 June 2025&nbsp;</p>
+<p>6 May 2026 (11.00am) - 2 June 2026 (4.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DSA Application period.&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>30 June 2025 – 22 August 2025&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Selection and Interview period.&nbsp;</p>
+<p>DSA Application period.&nbsp;
+<br>
+<br><em>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 6 May 2026, 11am to 2 Jun 2026, 4.30pm. For more details, please refer to MOE website – <a href="" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 4 September 2025&nbsp;</p>
+<p>30 June 2026 - 21 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Release of Outcome of DSA Application (stating Confirmed Offer, Wait List
-or Unsuccessful).&nbsp;</p>
+<p>Selection and Interview period.&nbsp; Details will be shared to parents
+via email.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 October 2025 (9am) – 31 October 2025 (3pm)&nbsp;</p>
+<p>Between 17 August - 28 August 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Release of Outcome of DSA Application via email (stating Confirmed Offer,
+Wait List or Unsuccessful).&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 October 2026 - 23 October 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Preference Submission by Applicants who have received at least
 one DSA-Sec offer will receive <strong>email and SMS notification</strong>  <strong>via <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">Postman.gov.sg</a> </strong>on
-the School Preference Submission in mid to end of October 2025. <strong>Both parents are required to login to the DSA-Sec Portal using their Singpass for submission.</strong>&nbsp;</p>
+the School Preference Submission in mid of October 2026. <strong>Both parents are required to login to the DSA-Sec Portal using their Singpass for submission.</strong>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Late November 2025&nbsp;</p>
+<p>Late November 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>DSA-Sec Allocation Results Release.&nbsp;</p>
