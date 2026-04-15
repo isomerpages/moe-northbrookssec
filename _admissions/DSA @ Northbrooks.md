@@ -60,7 +60,8 @@ and Level Camps. Students who excel at the various adventure skills may
 have the opportunity to participate at a higher challenge level in various
 outdoor competitions.</p>
 <p>Please refer to this document for more details about our school's DSA
-2026 selection criteria and processes</p>
+2026 selection criteria and processes: <a href="/files/DSA/2026/2026_NBrSS_DSA_Selection_Criteria_and_Processes_for_website.pdf" rel="noopener nofollow" target="_blank">NBrSS DSA 2026 Selection Criteria and Processes</a>
+</p>
 <p><strong>Application Process</strong>&nbsp;</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2025, 11am
