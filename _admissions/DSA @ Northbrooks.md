@@ -10,20 +10,30 @@ variant: tiptap
 <p>The Direct School Admission (DSA) is an opportunity for Primary 6 students
 to directly apply for admission into participating secondary schools based
 on their talents and achievements which might not have been demonstrated
-at the Primary School Leaving Examination (PSLE). &nbsp;</p>
+at the Primary School Leaving Examination (PSLE). &nbsp;
+<br>
+</p>
+<p>Primary 6 students who do not have prior experience may also apply. The
+school will assess students based on the selection criteria, which may
+include assessing the potential of the students.</p>
+<p></p>
+<p>Students who are successfully admitted to the school via DSA are required
+to honour their commitment to the school and participate in activities
+related to the talent they are selected from year 1-4.</p>
 <p></p>
 <p><strong>Northbrooks Secondary School</strong>&nbsp;offers DSA in the following
-areas in 2025:
+areas in 2026:
 <br>
 </p>
 <p>1. Aerospace (Clubs &amp; Societies) &nbsp;
-<br>2. Outdoor Adventure (Sports)&nbsp;
-<br>3. Floorball Boys (Sports)&nbsp;
-<br>4. Badminton (Sports)&nbsp;
-<br>5. Guzheng Ensemble (Visual and Performing Arts)&nbsp;
-<br>6. Modern Dance (Visual and Performing Arts)&nbsp;
-<br>7. Concert Band (Visual and Performing Arts)
-<br>8. Leadership&nbsp;</p>
+<br>2. Outdoor Adventure (Sports)
+<br>3. Basketball (Sports)&nbsp;
+<br>4. Floorball <em>*Boys Only</em> (Sports)&nbsp;
+<br>5. Badminton (Sports)&nbsp;
+<br>6. Guzheng Ensemble (Visual and Performing Arts)&nbsp;
+<br>7. Modern Dance (Visual and Performing Arts)&nbsp;
+<br>8. Concert Band (Visual and Performing Arts)
+<br>9. Leadership&nbsp;</p>
 <p>Our <strong>Learning for Life Programme (LLP) in Outdoor Education </strong>is
 known as A.C.E. and stands for Adventure, Character, Environment. The programme
 aims to develop character, inculcate values of grit and resilience and
