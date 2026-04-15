@@ -34,19 +34,10 @@ areas in 2026:
 <br>7. Modern Dance (Visual and Performing Arts)&nbsp;
 <br>8. Concert Band (Visual and Performing Arts)
 <br>9. Leadership&nbsp;</p>
-<p>Our <strong>Learning for Life Programme (LLP) in Outdoor Education </strong>is
-known as A.C.E. and stands for Adventure, Character, Environment. The programme
-aims to develop character, inculcate values of grit and resilience and
-build leadership traits in all students as they learn adventure skills
-such as orienteering, rock climbing and abseiling as well as cultivate
-an appreciation for the outdoors and the environment during PE lessons
-and Level Camps. Students who excel at the various adventure skills may
-have the opportunity to participate at a higher challenge level in various
-outdoor competitions.&nbsp;</p>
-<p></p>
-<p>Please refer to this document for more details about our school's DSA
-2025 selection criteria and processes: <a href="/files/DSA/2025_NBrSS_DSA_Selection_Criteria_and_Processes_.pdf" rel="noopener nofollow" target="_blank">NBrSS DSA 2025 Selection Criteria and Processes</a>
+<p><u>About Northbrooks</u>
 </p>
+<p></p>
+<p></p>
 <p><strong>Application Process</strong>&nbsp;</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2025, 11am
