@@ -36,8 +36,31 @@ areas in 2026:
 <br>9. Leadership&nbsp;</p>
 <p><u>About Northbrooks</u>
 </p>
-<p></p>
-<p></p>
+<p>The school offers a variety of enrichment programmes to widen the students'
+learning experiences for greater development in cognitive, physical and
+aesthetics domains.&nbsp;</p>
+<p>The school offers a variety of enrichment programmes to widen the students'
+learning experiences for greater development in cognitive, physical and
+aesthetics domains.&nbsp;</p>
+<p>The school's distinctive&nbsp;<strong>Applied Learning Programme (ALP) in Aerospace</strong>&nbsp;provides
+our students an edge when applying for Aerospace-related courses in ITE
+and the Polytechnics, which in turn opens a career pathway for them in
+the rapidly growing Aerospace industry. All Lower Secondary students are
+equipped with basic knowledge in general Aerospace topics and essential
+Science Technology Engineering Mathematics (STEM) skills. Students who
+demonstrate passion in this field of study would be further engaged/stretched
+in related external competitions and programmes.&nbsp;</p>
+<p>Our&nbsp;<strong>Learning for Life Programme (LLP) in Outdoor Education&nbsp;</strong>is
+known as A.C.E. and stands for Adventure, Character, Environment. The programme
+aims to develop character, inculcate values of grit and resilience and
+build leadership traits in all students as they learn adventure skills
+such as orienteering, rock climbing and abseiling as well as cultivate
+an appreciation for the outdoors and the environment during PE lessons
+and Level Camps. Students who excel at the various adventure skills may
+have the opportunity to participate at a higher challenge level in various
+outdoor competitions.</p>
+<p>Please refer to this document for more details about our school's DSA
+2026 selection criteria and processes</p>
 <p><strong>Application Process</strong>&nbsp;</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2025, 11am
