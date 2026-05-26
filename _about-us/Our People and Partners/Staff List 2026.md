@@ -1510,7 +1510,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4 Fortitude
 <br>
 <br>
@@ -1522,17 +1522,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Lee Wen Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Trisha R</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -2002,20 +1991,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Neo Yi Jie Jovan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Arts Educator (Music)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="4">
 <p>Care &amp; Learning Behavioural Support Team</p>
 </td>
@@ -2188,7 +2163,7 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Terence Ten Teck Hong</p>
+<p>Vincent Lee Khai Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operation Manager (OM)</p>
