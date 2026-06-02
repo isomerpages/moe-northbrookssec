@@ -4,10 +4,10 @@ permalink: /parents/secondary-3-subject-offering/
 description: ""
 variant: tiptap
 ---
-<h1>Sec 3 Subject Combination Information</h1>
+<h1>Secondary 3 Subject Offering</h1>
 <p>Dear Parents,&nbsp;
 <br>Please refer to the following set of slides that was shared during the
-Subject offering briefing on 1 August 2025.</p>
+Subject offering briefing on 29 May 2026.</p>
 <p><a href="/files/Sec 3 Subjects Combination/2025/2026_Subject_Offering_Main_Deck_ParentsCopy.pdf" rel="noopener nofollow" target="_blank">2026 Subject Offering Main Deck</a>
 <br><a href="/files/Sec 3 Subjects Combination/2025/2026_Subject_Offerings_at_G1_Level_ParentsCopy.pdf" rel="noopener nofollow" target="_blank">2026 Subject Offerings at G1 Level</a>
 <br><a href="/files/Sec 3 Subjects Combination/2025/2026_Subject_Offerings_at_G2_G3_Level_ParentsCopy.pdf" rel="noopener nofollow" target="_blank">2026 Subject Offerings at G2_G3 Level</a>
