@@ -11,9 +11,6 @@ sections:
         - title: News & Announcements
           description: ""
           url: /News-and-Announcements/
-        - title: Achievements
-          description: ""
-          url: /achievements/School-Achievements/Northbrooks-in-the-News-2020-2021/
       background: /images/NBSS home page.gif
   - infobar:
       id: infobar
