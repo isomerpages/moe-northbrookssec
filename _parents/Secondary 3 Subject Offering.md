@@ -8,11 +8,9 @@ variant: tiptap
 <p>Dear Parents,&nbsp;
 <br>Please refer to the following set of slides that was shared during the
 Subject offering briefing on 29 May 2026.</p>
-<p><a href="/files/Sec 3 Subjects Combination/2025/2026_Subject_Offering_Main_Deck_ParentsCopy.pdf" rel="noopener nofollow" target="_blank">2026 Subject Offering Main Deck</a>
-<br><a href="/files/Sec 3 Subjects Combination/2025/2026_Subject_Offerings_at_G1_Level_ParentsCopy.pdf" rel="noopener nofollow" target="_blank">2026 Subject Offerings at G1 Level</a>
-<br><a href="/files/Sec 3 Subjects Combination/2025/2026_Subject_Offerings_at_G2_G3_Level_ParentsCopy.pdf" rel="noopener nofollow" target="_blank">2026 Subject Offerings at G2_G3 Level</a>
+<p><a href="/files/Sec 3 Subjects Combination/2026/2027_Subject_Offering_Main_Deck_FINAL_For_Parents_1_Jun_2026.pdf" rel="noopener nofollow" target="_blank">2027 Subject Offering Main Deck</a>
+<br><a href="/files/Sec 3 Subjects Combination/2026/Computing_briefing_for_parents_Final_1_Jun_2026.pdf" rel="noopener nofollow" target="_blank">Computing Briefing For Parents</a>
 </p>
-<p></p>
 <h3>Some Subject Information at G3 Level 2026</h3>
 <ul>
 <li>
