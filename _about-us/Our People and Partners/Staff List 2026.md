@@ -832,7 +832,7 @@ variant: tiptap
 <p>Miss</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Seh Hiang Jane</p>
+<p>Cassia Lam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
