@@ -14,7 +14,7 @@ sections:
       background: /images/NBSS home page.gif
   - infobar:
       id: infobar
-      button: 2026 Sec 1-5 Sem 1 Timetable
+      button: 2026 Sec 1-5 Sem 2 Timetable
       url: /students/Current-Students/School-Timetable/
   - infobar:
       id: infobar
