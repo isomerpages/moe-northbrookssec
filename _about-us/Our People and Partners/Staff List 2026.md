@@ -814,7 +814,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1 Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -822,17 +822,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Foo Weng Choy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Seh Hiang Jane</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -938,7 +927,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2 Fortitude
 <br>
 <br>
@@ -949,6 +938,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Rinita Nadavan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong Jun Yan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -1869,6 +1869,34 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asuthosh Upendran Nair</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurin Jazlina Binte Zulkefli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1925,6 +1953,20 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Sing Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1939,13 +1981,27 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Miss</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Faith Ong Suan Choo</p>
+<p>Amanda Choy Pei Shan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Science Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cassia Lam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science, Biology Teacher</p>
 </td>
 </tr>
 <tr>
@@ -2360,6 +2416,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Kunjuraman Madavy Nair</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Management Officer (SMO)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhamad Isham Bin Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Management Officer (SMO)</p>
