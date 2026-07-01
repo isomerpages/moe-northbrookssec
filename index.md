@@ -11,7 +11,7 @@ sections:
         - title: News & Announcements
           description: ""
           url: /News-and-Announcements/
-      background: /images/NBSS home page.gif
+      background: /images/schhomepage.gif
   - infobar:
       id: infobar
       button: 2026 Sec 1-5 Sem 2 Timetable
