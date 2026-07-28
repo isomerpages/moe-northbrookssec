@@ -5,7 +5,6 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<h2>Brooksian Core Value (BCV) Award</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_07_27_165102.png">
 </div>
@@ -20,14 +19,7 @@ broaden the definition of success and excellence to affirm and recognise
 students who demonstrate <strong>values</strong>, <strong>civic responsibility</strong>,
 and <strong>resilience</strong>.
 <br>
-<br>We would like seek the help of FTs to nominate 2 deserving students from
-each class for the Brooksian Core Values (BCV) Award and the Edusave Character
-Award (ECHA)<a href="https://go.gov.sg/nbrssechabcv2026" rel="noopener noreferrer nofollow" target="_blank"> </a>
-<a href="https://go.gov.sg/nbrssechabcv2026" rel="noopener nofollow" target="_blank">via this link</a>
 </p>
-<p></p>
-<p>Students are also encouraged to nominate their peers, and these slides
-will be shared with them during the next CCE lesson on 29 July 2026.</p>
 <h3>Eligibility Criteria for Brooksian Core Value Award</h3>
 <p>(a) Students must, on a consistent basis, demonstrate good character and
 values, and</p>
@@ -56,9 +48,9 @@ of Singaporean students. This is approximately 20 awardees for the ECHA
 for Northbrooks Secondary School.</p>
 <p>Award Quantum: $500 per Awardee</p>
 <h5>Nomination</h5>
-<p>The nomination period starts from&nbsp;<strong>18 July 2025 to 8 August 2025</strong>.
+<p>The nomination period starts from&nbsp;<strong>27 July 2026 to 7 August 2026</strong>.
 Students can be nominated by staff, parents, and alumni using the prescribed
-nomination form which can be found <a href="https://go.gov.sg/2025echabcv" rel="noopener nofollow" target="_blank">here</a>
+nomination form which can be found <a href="https://go.gov.sg/nbrssechabcv2026" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p><strong>Shortlisting and Selection</strong>
 <br>Nominations will be shortlisted by a panel comprising school staff representatives,
